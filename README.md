@@ -2,7 +2,11 @@
 
 An aggregation of human motion understanding research. 
 
-[Motion Generation](#motion-generation)  [Motion Editing](#motion-editing)  [Motion Stylization](#motion-stylization) [Human-Object Interaction](#hoi) [Human-Scene Interaction](#hsi)  [Human-Human Interaction](#hhi) [Datasets](#datasets) [Humanoid](#humanoid) [Bio-stuff](#bio)
+[Motion Generation](#motion-generation)  [Motion Editing](#motion-editing)  [Motion Stylization](#motion-stylization) 
+
+[Human-Object Interaction](#hoi) [Human-Scene Interaction](#hsi)  [Human-Human Interaction](#hhi) 
+
+[Datasets](#datasets) [Humanoid](#humanoid) [Bio-stuff](#bio)
 
 <span id="motion-generation"></span>
 ## Motion Generation
