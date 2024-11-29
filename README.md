@@ -82,6 +82,7 @@ An aggregation of human motion understanding research.
 - [MAA](https://azadis.github.io/make-an-animation). Make-An-Animation: Large-Scale Text-conditional 3D Human Motion Generation, Azadi et al. ICCV 2023.
 - [PhysDiff](https://nvlabs.github.io/PhysDiff). PhysDiff: Physics-Guided Human Motion Diffusion Model, Yuan et al. ICCV 2023.
 - [ReMoDiffusion](https://mingyuan-zhang.github.io/projects/ReMoDiffuse.html). ReMoDiffuse: Retrieval-Augmented Motion Diffusion Model, Zhang et al. ICCV 2023.
+- [BelFusion](https://barquerogerman.github.io/BeLFusion/). BeLFusion: Latent Diffusion for Behavior-Driven Human Motion Prediction, Barquero et al. ICCV 2023.
 - [GMD](https://korrawe.github.io/gmd-project/). GMD: Guided Motion Diffusion for Controllable Human Motion Synthesis, Karunratanakul et al. ICCV 2023.
 - [HMD-NeMo](https://openaccess.thecvf.com/content/ICCV2023/html/Aliakbarian_HMD-NeMo_Online_3D_Avatar_Motion_Generation_From_Sparse_Observations_ICCV_2023_paper.html). HMD-NeMo: Online 3D Avatar Motion Generation From Sparse Observations, Aliakbarian et al. ICCV 2023.
 - [SINC](https://sinc.is.tue.mpg.de/). SINC: Spatial Composition of 3D Human Motions for Simultaneous Action Generation, Athanasiou et al. ICCV 2023.
@@ -222,6 +223,7 @@ An aggregation of human motion understanding research.
 - [Inter-X](https://liangxuy.github.io/inter-x/). Inter-X: Towards Versatile Human-Human Interaction Analysis, Xu et al. CVPR 2024.
 - [ReGenNet](https://github.com/liangxuy/ReGenNet). ReGenNet: Towards Human Action-Reaction Synthesis, Xu et al. CVPR 2024.
 - [Fang et al.](https://openaccess.thecvf.com/content/CVPR2024/papers/Fang_Capturing_Closely_Interacted_Two-Person_Motions_with_Reaction_Priors_CVPR_2024_paper.pdf). Capturing Closely Interacted Two-Person Motions with Reaction Priors, Fan et al. CVPR 2024.
+- [InterGen](https://tr3e.github.io/intergen-page/). InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions, Liang et al. IJCV 2024.
 - [ActFormer](https://liangxuy.github.io/actformer/). ActFormer: A GAN-based Transformer towards General Action-Conditioned 3D Human Motion Generation, Xu et al. ICCV 2023.
 - [Tanaka et al.](https://github.com/line/Human-Interaction-Generation). Role-aware Interaction Generation from Textual Description, Tanaka et al. ICCV 2023.
 - [Hi4D](https://yifeiyin04.github.io/Hi4D/). Hi4D: 4D Instance Segmentation of Close Human Interaction, Yin et al. CVPR 2023.
