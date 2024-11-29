@@ -247,6 +247,7 @@ An aggregation of human motion understanding research.
 - [Humans in Kitchens](https://github.com/jutanke/hik). Motion-X: A Large-scale 3D Expressive Whole-body Human Motion Dataset, Tanke et al. NeurIPS D&B 2023.
 - [CHAIRS](https://jnnan.github.io/project/chairs/). Full-Body Articulated Human-Object Interaction, Jiang et al. ICCV 2023.
 - [CIMI4D](http://www.lidarhumanmotion.net/cimi4d). CIMI4D: A Large Multimodal Climbing Motion Dataset under Human-scene Interactions, Yan et al. CVPR 2023.
+- [FLAG3D](https://andytang15.github.io/FLAG3D/). FLAG3D: A 3D Fitness Activity Dataset with Language Instruction, Tang et al. CVPR 2023.
 - [Hi4D](https://yifeiyin04.github.io/Hi4D/). Hi4D: 4D Instance Segmentation of Close Human Interaction, Yin et al. CVPR 2023.
 - [CIRCLE](https://stanford-tml.github.io/circle_dataset/). CIRCLE: Capture in Rich Contextual Environments, Araujo et al. CVPR 2023.
 - [MoCapAct](https://github.com/microsoft/MoCapAct). MoCapAct: A Multi-Task Dataset for Simulated Humanoid Control, Wagener et al. NeurIPS 2022.
