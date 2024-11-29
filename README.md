@@ -1,7 +1,10 @@
 # Awesome-motion
 
-An aggregation of human motion understanding researches, trying my best to be comprehensive and up-to-date.
+An aggregation of human motion understanding research. 
 
+[Motion Generation](#motion-generation)  [Motion Editing](#motion-editing)  [Motion Stylization](#motion-stylization) [Human-Object Interaction](#hoi) [Human-Scene Interaction](#hsi)  [Human-Human Interaction](#hhi) [Datasets](#datasets) [Humanoid](#humanoid) [Bio-stuff](#bio)
+
+<span id="motion-generation"></span>
 ## Motion Generation
 
 - [DART](https://zkf1997.github.io/DART/). DART: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control, Zhao et al. ArXiv 2024.
@@ -120,6 +123,8 @@ An aggregation of human motion understanding researches, trying my best to be co
 - [DLow](https://www.ye-yuan.com/dlow). DLow: Diversifying Latent Flows for Diverse Human Motion Prediction, Yuan et al. ECCV 2020.
 - [Starke et al.](https://www.ipab.inf.ed.ac.uk/cgvu/basketball.pdf). Local motion phases for learning multi-contact character movements, Starke et al. SIGGRAPH 2020.
 
+
+<span id="motion-editing"></span>
 ## Motion Editing
 
 - [MotionFix](https://motionfix.is.tue.mpg.de/). MotionFix: Text-Driven 3D Human Motion Editing, Athanasiou et al. SIGGRAPH Asia 2024.
@@ -127,6 +132,7 @@ An aggregation of human motion understanding researches, trying my best to be co
 - [Iterative Motion Editing](https://purvigoel.github.io/iterative-motion-editing/). Iterative Motion Editing with Natural Language, Goel et al. SIGGRAPH 2024.
 - [DNO](https://korrawe.github.io/dno-project/). DNO: Optimizing Diffusion Noise Can Serve As Universal Motion Priors, Karunratanakul et al. CVPR 2024.
 
+<span id="motion-stylization"></span>
 ## Motion Stylization
 
 - [HUMOS](https://otaheri.github.io/publication/2024_humos/). HUMOS: Human Motion Model Conditioned on Body Shape, Tripathi et al. ECCV 2024.
@@ -135,6 +141,8 @@ An aggregation of human motion understanding researches, trying my best to be co
 - [MoST](https://boeun-kim.github.io/page-MoST/). MoST: Motion Style Transformer between Diverse Action Contents, Kim et al. CVPR 2024.
 - [GenMoStyle](https://yxmu.foo/GenMoStyle/). Generative Human Motion Stylization in Latent Space, Guo et al. ICLR 2024.
 
+
+<span id="hoi"></span>
 ## Human-Object Interaction
 
 - [SkillMimic](https://ingrid789.github.io/SkillMimic/). SkillMimic: Learning Reusable Basketball Skills from Demonstrations, Wang et al. ArXiv 2024.
@@ -166,6 +174,8 @@ An aggregation of human motion understanding researches, trying my best to be co
 - [GOAL](https://goal.is.tue.mpg.de/). GOAL: Generating 4D Whole-Body Motion for Hand-Object Grasping, Taheri et al. CVPR 2022.
 - [GRAB](https://grab.is.tue.mpg.de/). GRAB: A Dataset of Whole-Body Human Grasping of Objects, Taheri et al. ECCV 2020.
 
+
+<span id="hsi"></span>
 ## Human-Scene Interaction
 
 - [DiMoP3D](https://sites.google.com/view/dimop3d). Harmonizing Stochasticity and Determinism: Scene-responsive Diverse Human Motion Prediction, Lou et al. NeurIPS 2024.
@@ -199,6 +209,7 @@ An aggregation of human motion understanding researches, trying my best to be co
 - [NSM](https://www.ipab.inf.ed.ac.uk/cgvu/nsm.pdf). Neural State Machine for Character-Scene Interactions, Starke et al. SIGGRAPH Asia 2019.
 - [PROX](https://prox.is.tue.mpg.de/). Resolving 3D Human Pose Ambiguities with 3D Scene Constraints, Hassan et al. ICCV 2019
 
+<span id="hhi"></span>
 ## Human-Human Interaction
 
 - [InterControl](https://github.com/zhenzhiwang/intercontrol). InterControl : Generate Human Motion Interactions by Controlling Every Joint, Wang et al. NeurIPS 2024.
@@ -211,6 +222,7 @@ An aggregation of human motion understanding researches, trying my best to be co
 - [Tanaka et al.](https://github.com/line/Human-Interaction-Generation). Role-aware Interaction Generation from Textual Description, Tanaka et al. ICCV 2023.
 - [Hi4D](https://yifeiyin04.github.io/Hi4D/). Hi4D: 4D Instance Segmentation of Close Human Interaction, Yin et al. CVPR 2023.
 
+<span id="datasets"></span>
 ## Datasets
 
 - [EgoSim](https://siplab.org/projects/EgoSim). EgoSim: An Egocentric Multi-view Simulator for Body-worn Cameras during Human Motion, Hollidt et al. NeurIPS D&B 2024.
@@ -243,6 +255,7 @@ An aggregation of human motion understanding researches, trying my best to be co
 - [PROX](https://prox.is.tue.mpg.de/). Resolving 3D Human Pose Ambiguities with 3D Scene Constraints, Hassan et al. ICCV 2019
 - [AMASS](https://amass.is.tue.mpg.de/). AMASS: Archive of Motion Capture As Surface Shapes, Mahmood et al. ICCV 2019
 
+<span id="humanoid"></span>
 ## Humanoid, Simulated or Real
 
 - [PDP](https://arxiv.org/abs/2406.00960). PDP: Physics-Based Character Animation via Diffusion Policy, Truong et al. ArXiv 2024.
@@ -302,6 +315,7 @@ An aggregation of human motion understanding researches, trying my best to be co
 - [DeepMimic](https://xbpeng.github.io/projects/DeepMimic/index.html). DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills, SIGGRAPH 2018.
 
 
+<span id="bio"></span>
 ## Bio-stuff: Human Anatomy, Biomechanics, Physiology
 
 - [Muscles in Time](https://simplexsigil.github.io/mint). Muscles in Time: Learning to Understand Human Motion by Simulating Muscle Activations, Schneider et al. NeurIPS D&B 2024.
