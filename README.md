@@ -1,4 +1,4 @@
-# Awesome-motion
+# Awesome Human Motion
 
 An aggregation of human motion understanding research. 
 
