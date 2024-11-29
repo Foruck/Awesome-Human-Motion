@@ -1,5 +1,7 @@
 # Awesome-motion
 
+An aggregation of human motion understanding researches, trying my best to be comprehensive and up-to-date.
+
 ## Motion Generation
 
 - [Text to blind motion](https://nips.cc/virtual/2024/poster/97700) NeurIPS D&B 2024.
