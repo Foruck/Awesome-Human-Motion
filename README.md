@@ -39,7 +39,7 @@ An aggregation of human motion understanding researches, trying my best to be co
 - [TEDi](https://threedle.github.io/TEDi/) SIGGRAPH 2024.
 - [A-MDM](https://github.com/Yi-Shi94/AMDM) SIGGRAPH 2024.
 - [SuperPADL](https://arxiv.org/abs/2407.10481) SIGGRAPH 2024.
-- [Liu et al.](https://github.com/HanchaoLiu/ProgMoGen) CVPR 2024.
+- [ProgMoGen](https://github.com/HanchaoLiu/ProgMoGen) CVPR 2024.
 - [PACER+](https://github.com/IDC-Flash/PacerPlus) CVPR 2024.
 - [AMUSE](https://amuse.is.tue.mpg.de/) CVPR 2024.
 - [Liu et al.](https://github.com/feifeifeiliu/probtalk) CVPR 2024.
@@ -90,7 +90,7 @@ An aggregation of human motion understanding researches, trying my best to be co
 - [MoFusion](https://vcai.mpi-inf.mpg.de/projects/MoFusion/) CVPR 2023.
 - [Mo et al.](https://arxiv.org/abs/2303.14926) CVPR 2023.
 - [HMDM](https://guytevet.github.io/mdm-page/) ICLR 2023.
-- [A Unified Framework for Multimodal, Multi-Part Human Motion Synthesis](https://zixiangzhou916.github.io/UDE-2/) ArXiv 2023.
+- [UDE-2](https://zixiangzhou916.github.io/UDE-2/) ArXiv 2023.
 - [Motion Script](https://pjyazdian.github.io/MotionScript/) ArXiv 2023.
 - [NeMF](https://github.com/c-he/NeMF) NeurIPS 2022.
 - [PADL](https://github.com/nv-tlabs/PADL) SIGGRAPH Asia 2022.
