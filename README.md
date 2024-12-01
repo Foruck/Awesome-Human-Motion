@@ -11,12 +11,47 @@ An aggregation of human motion understanding research.
 <span id="motion-generation"></span>
 ## Motion Generation
 
+- [ReinDiffuse](https://reindiffuse.github.io/). ReinDiffuse: Crafting Physically Plausible Motions with Reinforced Diffusion Model, Han et al. WACV 2025.
+- [InfiniDreamer](https://arxiv.org/abs/2411.18303). InfiniDreamer: Arbitrarily Long Human Motion Generation via Segment Score Distillation, Zhuo et al. ArXiv 2024.
+- [FTMoMamba](https://arxiv.org/abs/2411.17532). FTMoMamba: Motion Generation with Frequency and Text State Space Models, Li et al. ArXiv 2024.
+- [Meng et al](https://arxiv.org/abs/2411.16575). Rethinking Diffusion for Text-Driven Human Motion Generation, Meng et al. ArXiv 2024.
+- [KinMo](https://andypinxinliu.github.io/KinMo/). KinMo: Kinematic-aware Human Motion Understanding and Generation, Zhang et al. ArXiv 2024.
+- [LLaMo](https://arxiv.org/abs/2411.16805). Human Motion Instruction Tuning, Li et al. ArXiv 2024.
+- [Morph](https://arxiv.org/abs/2411.14951). Morph: A Motion-free Physics Optimization Framework for Human Motion Generation, Li et al. ArXiv 2024.
+- [KMM](https://steve-zeyu-zhang.github.io/KMM). KMM: Key Frame Mask Mamba for Extended Motion Generation, Zhang et al. ArXiv 2024.
+- [MotionGPT-2](https://arxiv.org/abs/2410.21747). MotionGPT-2: A General-Purpose Motion-Language Model for Motion Generation and Understanding, Wang et al. ArXiv 2024.
+- [Lodge++](https://li-ronghui.github.io/lodgepp). Lodge++: High-quality and Long Dance Generation with Vivid Choreography Patterns, Li et al. ArXiv 2024.
+- [MotionCLR](https://arxiv.org/abs/2410.18977). MotionCLR: Motion Generation and Training-free Editing via Understanding Attention Mechanisms, Chen et al. ArXiv 2024.
+- [MotionGlot](https://arxiv.org/abs/2410.16623). MotionGlot: A Multi-Embodied Motion Generation Model, Harithas et al. ArXiv 2024.
+- [LEAD](https://arxiv.org/abs/2410.14508). LEAD: Latent Realignment for Human Motion Diffusion, Andreou et al.
+- [Leite et al.](https://arxiv.org/abs/2410.08931) Enhancing Motion Variation in Text-to-Motion Models via Pose and Video Conditioned Editing, Leite et al. ArXiv 2024.
+- [MotionRL](https://arxiv.org/abs/2410.06513). MotionRL: Align Text-to-Motion Generation to Human Preferences with Multi-Reward Reinforcement Learning, Liu et al. ArXiv 2024.
+- [UniMuMo](https://hanyangclarence.github.io/unimumo_demo/). UniMuMo: Unified Text, Music and Motion Generation, Yang et al. ArXiv 2024.
+- [MotionCraft](https://cure-lab.github.io/MotionCraft/). MotionCraft: Crafting Whole-Body Motion with Plug-and-Play Multimodal Controls, Bian et al. ArXiv 2024.
+- [MotionLLM](https://lhchen.top/MotionLLM/). MotionLLM: Understanding Human Behaviors from Human Motions and Videos, Chen et al. ArXiv 2024.
 - [DART](https://zkf1997.github.io/DART/). DART: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control, Zhao et al. ArXiv 2024.
 - [CLoSD](https://guytevet.github.io/CLoSD-page/). CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al. ArXiv 2024.
+- [Wang et al](https://arxiv.org/abs/2410.03311). Quo Vadis, Motion Generation? From Large Language Models to Large Motion Models, Wang et al. ArXiv 2024.
+- [Unimotion](https://coral79.github.io/uni-motion/). Unimotion: Unifying 3D Human Motion Synthesis and Understanding, Li et al. ArXiv 2024.
+- [T2M-X](https://arxiv.org/abs/2409.13251). T2M-X: Learning Expressive Text-to-Motion Generation from Partially Annotated Data, Liu et al. ArXiv 2024.
+- [MoRAG](https://motion-rag.github.io/). MoRAG -- Multi-Fusion Retrieval Augmented Generation for Human Motion, Shashank et al. ArXiv 2024.
+- [Mandelli et al](https://arxiv.org/abs/2409.11920). Generation of Complex 3D Human Motion by Temporal and Spatial Composition of Diffusion Models, Mandelli et al. ArXiv 2024.
+- [BAD](https://github.com/RohollahHS/BAD). BAD: Bidirectional Auto-regressive Diffusion for Text-to-Motion Generation, Hosseyni et al. ArXiv 2024.
+- [synNsync](https://von31.github.io/synNsync/). Synergy and Synchrony in Couple Dances, Manukele et al. ArXiv 2024.
+- [Dong et al](https://aclanthology.org/2024.findings-emnlp.584/). Word-Conditioned 3D American Sign Language Motion Generation, Dong et al. EMNLP 2024.
 - [Text to blind motion](https://nips.cc/virtual/2024/poster/97700). Text to Blind Motion, Kim et al. NeurIPS D&B 2024.
+- [UniMTS](https://github.com/xiyuanzh/UniMTS). UniMTS: Unified Pre-training for Motion Time Series, Zhang et al. NeurIPS 2024.
+- [Christopher et al.](https://openreview.net/forum?id=FsdB3I9Y24). Constrained Synthesis with Projected Diffusion Models, Christopher et al. NeurIPS 2024.
 - [MoMu-Diffusion](https://momu-diffusion.github.io/). MoMu-Diffusion: On Learning Long-Term Motion-Music Synchronization and Correspondence, You et al. NeurIPS 2024.
 - [MoGenTS](https://aigc3d.github.io/mogents/). MoGenTS: Motion Generation based on Spatial-Temporal Joint Modeling, Yuan et al. NeurIPS 2024.
 - [M3GPT](https://arxiv.org/abs/2405.16273). M3GPT: An Advanced Multimodal, Multitask Framework for Motion Comprehension and Generation, Luo et al. NeurIPS 2024.
+- [Bikov et al](https://openreview.net/forum?id=BTSnh5YdeI). Fitness Aware Human Motion Generation with Fine-Tuning, Bikov et al. NeurIPS Workshop 2024.
+- [SynTalker](https://bohongchen.github.io/SynTalker-Page/). Enabling Synergistic Full-Body Control in Prompt-Based Co-Speech Motion Generation, Chen et al. ACM MM 2024.
+- [L3EM](https://dl.acm.org/doi/abs/10.1145/3664647.3681487). Towards Emotion-enriched Text-to-Motion Generation via LLM-guided Limb-level Emotion Manipulating. Yu et al. ACM MM 2024.
+- [StableMoFusion](https://dl.acm.org/doi/abs/10.1145/3664647.3681657). StableMoFusion: Towards Robust and Efficient Diffusion-based Motion Generation Framework, Huang et al. ACM MM 2024.
+- [SATO](https://dl.acm.org/doi/abs/10.1145/3664647.3681034). SATO: Stable Text-to-Motion Framework, Chen et al. ACM MM 2024.
+- [PIDM](https://link.springer.com/chapter/10.1007/978-3-031-72356-8_2). PIDM: Personality-Aware Interaction Diffusion Model for Gesture Generation, Shibasaki et al. ICANN 2024.
+- [Macwan et al](https://journals.sagepub.com/doi/full/10.1177/10711813241262026). High-Fidelity Worker Motion Simulation With Generative AI, Macwan et al. HFES 2024.
 - [Jin et al.](https://jpthu17.github.io/GuidedMotion-project/). Local Action-Guided Motion Diffusion Model for Text-to-Motion Generation, Jin et al. ECCV 2024.
 - [Motion Mamba](https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/100_ECCV_2024_paper.php). Motion Mamba: Efficient and Long Sequence Motion Generation, Zhong et al. ECCV 2024.
 - [EMDM](https://frank-zy-dou.github.io/projects/EMDM/index.html). EMDM: Efficient Motion Diffusion Model for Fast, High-Quality Human Motion Generation, Zhou et al. ECCV 2024.
@@ -41,6 +76,8 @@ An aggregation of human motion understanding research.
 - [Large Motion Model](https://mingyuan-zhang.github.io/projects/LMM.html). Large Motion Model for Unified Multi-Modal Motion Generation, Zhang et al. ECCV 2024.
 - [TesMo](https://research.nvidia.com/labs/toronto-ai/tesmo/). Generating Human Interaction Motions in Scenes with Text Control, Yi et al. ECCV 2024.
 - [TLcontrol](https://tlcontrol.weilinwl.com/). TLcontrol: Trajectory and Language Control for Human Motion Synthesis, Wan et al. ECCV 2024.
+- [ExpGest](https://ieeexplore.ieee.org/abstract/document/10687922). ExpGest: Expressive Speaker Generation Using Diffusion Model and Hybrid Audio-Text Guidance, Cheng et al. ICME 2024.
+- [Chen et al](https://ieeexplore.ieee.org/abstract/document/10645445). Anatomically-Informed Vector Quantization Variational Auto-Encoder for Text-to-Motion Generation, Chen et al. ICME Workshop 2024.
 - [HumanTOMATO](https://github.com/LinghaoChan/HumanTOMATO). HumanTOMATO: Text-aligned Whole-body Motion Generation, Lu et al. ICML 2024.
 - [GPHLVM](https://sites.google.com/view/gphlvm/). Bringing Motion Taxonomies to Continuous Domains via GPLVM on Hyperbolic Manifolds, Jaquier et al. ICML 2024.
 - [CondMDI](https://setarehc.github.io/CondMDI/). Flexible Motion In-betweening with Diffusion Models, Cohan et al. SIGGRAPH 2024.
@@ -59,11 +96,12 @@ An aggregation of human motion understanding research.
 - [ChapPose](https://yfeng95.github.io/ChatPose/). ChatPose: Chatting about 3D Human Pose, Feng et al. CVPR 2024.
 - [AvatarGPT](https://zixiangzhou916.github.io/AvatarGPT/). AvatarGPT: All-in-One Framework for Motion Understanding, Planning, Generation and Beyond, Zhou et al. CVPR 2024.
 - [MMM](https://exitudio.github.io/MMM-page/). MMM: Generative Masked Motion Model, Pinyoanuntapong et al. CVPR 2024.
-- [AAMDM](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_AAMDM_Accelerated_Auto-regressive_Motion_Diffusion_Model_CVPR_2024_paper.pdf). AAMDM:Accelerated Auto-regressive Motion Diffusion Model, Li et al. CVPR 2024.
+- [AAMDM](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_AAMDM_Accelerated_Auto-regressive_Motion_Diffusion_Model_CVPR_2024_paper.pdf). AAMDM: Accelerated Auto-regressive Motion Diffusion Model, Li et al. CVPR 2024.
 - [OMG](https://tr3e.github.io/omg-page/). OMG: Towards Open-vocabulary Motion Generation via Mixture of Controllers, Liang et al. CVPR 2024.
 - [FlowMDM](https://barquerogerman.github.io/FlowMDM/). FlowMDM: Seamless Human Motion Composition with Blended Positional Encodings, Barquero et al. CVPR 2024.
 - [Digital Life Project](https://digital-life-project.com/). Digital Life Project: Autonomous 3D Characters with Social Intelligence, Cai et al. CVPR 2024.
-- [STMC](https://xbpeng.github.io/projects/STMC/index.html). Multi-Track Timeline Control for Text-Driven 3D Human Motion Generation, Petrovich et al. CVPR Workshop 2024
+- [STMC](https://xbpeng.github.io/projects/STMC/index.html). Multi-Track Timeline Control for Text-Driven 3D Human Motion Generation, Petrovich et al. CVPR Workshop 2024.
+- [InstructMotion](https://github.com/THU-LYJ-Lab/InstructMotion). Exploring Text-to-Motion Generation with Human Preference, Sheng et al. CVPR Workshop 2024.
 - [Single Motion Diffusion](https://sinmdm.github.io/SinMDM-page/). Raab et al. ICLR 2024.
 - [NeRM](https://openreview.net/forum?id=sOJriBlOFd&noteId=KaJUBoveeo). NeRM: Learning Neural Representations for High-Framerate Human Motion Synthesis, Wei et al. ICLR 2024.
 - [PriorMDM](https://priormdm.github.io/priorMDM-page/). PriorMDM: Human Motion Diffusion as a Generative Prior, Shafir et al. ICLR 2024.
@@ -71,8 +109,11 @@ An aggregation of human motion understanding research.
 - [Adiya et al.](https://openreview.net/forum?id=yQDFsuG9HP). Bidirectional Temporal Diffusion Model for Temporally Consistent Human Animation, Adiya et al. ICLR 2024.
 - [Duolando](https://lisiyao21.github.io/projects/Duolando/). Duolando: Follower GPT with Off-Policy Reinforcement Learning for Dance Accompaniment, Li et al. ICLR 2024.
 - [HuTuDiffusion](https://arxiv.org/abs/2312.12227). HuTuMotion: Human-Tuned Navigation of Latent Motion Diffusion Models with Minimal Feedback, Han et al. AAAI 2024.
-- [AMD](https://arxiv.org/abs/2312.12763). AMD:Anatomical Motion Diffusion with Interpretable Motion Decomposition and Fusion, Jing et al. AAAI 2024.
-- [Xie et al.](https://arxiv.org/pdf/2312.12917). Sign Language Production with Latent Motion Transformer, Xie et al. WACV 2023.
+- [AMD](https://arxiv.org/abs/2312.12763). AMD: Anatomical Motion Diffusion with Interpretable Motion Decomposition and Fusion, Jing et al. AAAI 2024.
+- [MotionMix](https://nhathoang2002.github.io/MotionMix-page/). MotionMix: Weakly-Supervised Diffusion for Controllable Motion Generation, Hoang et al. AAAI 2024.
+- [B2A-HDM](https://github.com/xiezhy6/B2A-HDM). Towards Detailed Text-to-Motion Synthesis via Basic-to-Advanced Hierarchical Diffusion Model, Xie et al. AAAI 2024.
+- [GUESS](https://ieeexplore.ieee.org/abstract/document/10399852). GUESS: GradUally Enriching SyntheSis for Text-Driven Human Motion Generation, Gao et al. TPAMI 2024.
+- [Xie et al.](https://arxiv.org/pdf/2312.12917). Sign Language Production with Latent Motion Transformer, Xie et al. WACV 2024.
 - [GraphMotion](https://github.com/jpthu17/GraphMotion). Act As You Wish: Fine-grained Control of Motion Diffusion Model with Hierarchical Semantic Graphs, Jin et al. NeurIPS 2023.
 - [MotionGPT](https://motion-gpt.github.io/). MotionGPT: Human Motion as Foreign Language, Jiang et al. NeurIPS 2023.
 - [FineMoGen](https://mingyuan-zhang.github.io/projects/FineMoGen.html). FineMoGen: Fine-Grained Spatio-Temporal Motion Generation and Editing, Zhang et al. NeurIPS 2023.
@@ -150,7 +191,11 @@ An aggregation of human motion understanding research.
 <span id="hoi"></span>
 ## Human-Object Interaction
 
+- [COLLAGE](https://arxiv.org/abs/2409.20502). COLLAGE: Collaborative Human-Agent Interaction Generation using Hierarchical Latent Diffusion and Language Models, Daiya et al. ArXiv 2024.
+- [SMGDiff](https://arxiv.org/abs/2411.16216). SMGDiff: Soccer Motion Generation using diffusion probabilistic models, Yang et al. ArXiv 2024.
 - [SkillMimic](https://ingrid789.github.io/SkillMimic/). SkillMimic: Learning Reusable Basketball Skills from Demonstrations, Wang et al. ArXiv 2024.
+- [CORE4D](https://core4d.github.io/). CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement, Zhang et al. ArXiv 2024.
+- [Wu et al](https://hoifhli.github.io/). Human-Object Interaction from Human-Level Instructions, Wu et al. ArXiv 2024.
 - [GRIP](https://grip.is.tue.mpg.de). GRIP: Generating Interaction Poses Using Spatial Cues and Latent Consistency, Taheri et al. 3DV 2024.
 - [HumanVLA](https://arxiv.org/abs/2406.19972). HumanVLA: Towards Vision-Language Directed Object Rearrangement by Physical Humanoid, Xu et al. NeurIPS 2024.
 - [OmniGrasp](https://www.zhengyiluo.com/Omnigrasp-Site/). Grasping Diverse Objects with Simulated Humanoids, Luo et al. NeurIPS 2024.
@@ -183,6 +228,7 @@ An aggregation of human motion understanding research.
 <span id="hsi"></span>
 ## Human-Scene Interaction
 
+- [SAST](https://github.com/felixbmuller/SAST). Massively Multi-Person 3D Human Motion Forecasting with Scene Context, Mueller et al. ArXiv 2024.
 - [DiMoP3D](https://sites.google.com/view/dimop3d). Harmonizing Stochasticity and Determinism: Scene-responsive Diverse Human Motion Prediction, Lou et al. NeurIPS 2024.
 - [Liu et al.](https://arxiv.org/html/2312.02700v2). Revisit Human-Scene Interaction via Space Occupancy, Liu et al. ECCV 2024.
 - [TesMo](https://research.nvidia.com/labs/toronto-ai/tesmo/). Generating Human Interaction Motions in Scenes with Text Control, Yi et al. ECCV 2024.
@@ -217,24 +263,32 @@ An aggregation of human motion understanding research.
 <span id="hhi"></span>
 ## Human-Human Interaction
 
-- [InterControl](https://github.com/zhenzhiwang/intercontrol). InterControl : Generate Human Motion Interactions by Controlling Every Joint, Wang et al. NeurIPS 2024.
+- [InterMask](https://gohar-malik.github.io/intermask). InterMask: 3D Human Interaction Generation via Collaborative Masked Modelling, Javed et al. ArXiv 2024.
+- [COLLAGE](https://arxiv.org/abs/2409.20502). COLLAGE: Collaborative Human-Agent Interaction Generation using Hierarchical Latent Diffusion and Language Models, Daiya et al.
+- [InterControl](https://github.com/zhenzhiwang/intercontrol). InterControl: Generate Human Motion Interactions by Controlling Every Joint, Wang et al. NeurIPS 2024.
 - [Shan et al.](https://arxiv.org/abs/2405.18483). Towards Open Domain Text-Driven Synthesis of Multi-Person Motions, Shan et al. ECCV 2024.
 - [ReMoS](https://vcai.mpi-inf.mpg.de/projects/remos/). ReMoS: 3D Motion-Conditioned Reaction Synthesis for Two-Person Interactions, Ghosh et al. ECCV 2024.
 - [Inter-X](https://liangxuy.github.io/inter-x/). Inter-X: Towards Versatile Human-Human Interaction Analysis, Xu et al. CVPR 2024.
 - [ReGenNet](https://github.com/liangxuy/ReGenNet). ReGenNet: Towards Human Action-Reaction Synthesis, Xu et al. CVPR 2024.
 - [Fang et al.](https://openaccess.thecvf.com/content/CVPR2024/papers/Fang_Capturing_Closely_Interacted_Two-Person_Motions_with_Reaction_Priors_CVPR_2024_paper.pdf). Capturing Closely Interacted Two-Person Motions with Reaction Priors, Fan et al. CVPR 2024.
+- [in2IN](https://openaccess.thecvf.com/content/CVPR2024W/HuMoGen/html/Ruiz-Ponce_in2IN_Leveraging_Individual_Information_to_Generate_Human_INteractions_CVPRW_2024_paper.html). in2IN: Leveraging Individual Information to Generate Human INteractions, Ruiz-Ponce et al. CVPR Workshop 2024.
 - [InterGen](https://tr3e.github.io/intergen-page/). InterGen: Diffusion-based Multi-human Motion Generation under Complex Interactions, Liang et al. IJCV 2024.
 - [ActFormer](https://liangxuy.github.io/actformer/). ActFormer: A GAN-based Transformer towards General Action-Conditioned 3D Human Motion Generation, Xu et al. ICCV 2023.
 - [Tanaka et al.](https://github.com/line/Human-Interaction-Generation). Role-aware Interaction Generation from Textual Description, Tanaka et al. ICCV 2023.
 - [Hi4D](https://yifeiyin04.github.io/Hi4D/). Hi4D: 4D Instance Segmentation of Close Human Interaction, Yin et al. CVPR 2023.
 
 <span id="datasets"></span>
-## Datasets
+## Datasets & Benchmarks
 
+- [Evans et al](https://www.nature.com/articles/s41597-024-04077-3?fromPaywallRec=false). Synchronized Video, Motion Capture and Force Plate Dataset for Validating Markerless Human Movement Analysis, Evans et al. Scientific Data 2024.
+- [MotionCritic](https://motioncritic.github.io/). Aligning Human Motion Generation with Human Perceptions, Wang et al. ArXiv 2024.
 - [EgoSim](https://siplab.org/projects/EgoSim). EgoSim: An Egocentric Multi-view Simulator for Body-worn Cameras during Human Motion, Hollidt et al. NeurIPS D&B 2024.
+- [synNsync](https://von31.github.io/synNsync/). Synergy and Synchrony in Couple Dances, Manukele et al. ArXiv 2024.
 - [Muscles in Time](https://simplexsigil.github.io/mint). Muscles in Time: Learning to Understand Human Motion by Simulating Muscle Activations, Schneider et al. NeurIPS D&B 2024.
 - [Text to blind motion](https://blindways.github.io/). Text to blind motion, Kim et al. NeurIPS D&B 2024.
 - [MotionBank](https://github.com/liangxuy/MotionBank). MotionBank: A Large-scale Video Motion Benchmark with Disentangled Rule-based Annotations, Xu et al. ArXiv 2024.
+- [CORE4D](https://core4d.github.io/). CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement, Zhang et al. ArXiv 2024.
+- [CLaM](https://dl.acm.org/doi/abs/10.1145/3664647.3685523). CLaM: An Open-Source Library for Performance Evaluation of Text-driven Human Motion Generation, Chen et al. ACM MM 2024.
 - [AddBiomechanics](https://addbiomechanics.org/). AddBiomechanics Dataset: Capturing the Physics of Human Motion at Scale, Werling et al. ECCV 2024.
 - [LiveHPS++](https://4dvlab.github.io/project_page/LiveHPS2.html). LiveHPS++: Robust and Coherent Motion Capture in Dynamic Free Environment, Ren et al. ECCV 2024.
 - [SignAvatars](https://signavatars.github.io/). SignAvatars: A Large-scale 3D Sign Language Holistic Motion Dataset and Benchmark, Yu et al. ECCV 2024.
@@ -244,7 +298,7 @@ An aggregation of human motion understanding research.
 - [RELI11D](http://www.lidarhumanmotion.net/reli11d/). RELI11D: A Comprehensive Multimodal Human Motion Dataset and Method, Yan et al. CVPR 2024.
 - [HOH](https://hohdataset.github.io/). HOH: Markerless Multimodal Human-Object-Human Handover Dataset with Large Object Count, Wiederhold et al. NeurIPS D&B 2023.
 - [Motion-X](https://motion-x-dataset.github.io/). Motion-X: A Large-scale 3D Expressive Whole-body Human Motion Dataset, Lin et al. NeurIPS D&B 2023.
-- [Humans in Kitchens](https://github.com/jutanke/hik). Motion-X: A Large-scale 3D Expressive Whole-body Human Motion Dataset, Tanke et al. NeurIPS D&B 2023.
+- [Humans in Kitchens](https://github.com/jutanke/hik). Humans in Kitchens: A Dataset for Multi-Person Human Motion Forecasting with Scene Context, Tanke et al. NeurIPS D&B 2023.
 - [CHAIRS](https://jnnan.github.io/project/chairs/). Full-Body Articulated Human-Object Interaction, Jiang et al. ICCV 2023.
 - [CIMI4D](http://www.lidarhumanmotion.net/cimi4d). CIMI4D: A Large Multimodal Climbing Motion Dataset under Human-scene Interactions, Yan et al. CVPR 2023.
 - [FLAG3D](https://andytang15.github.io/FLAG3D/). FLAG3D: A 3D Fitness Activity Dataset with Language Instruction, Tang et al. CVPR 2023.
@@ -276,6 +330,7 @@ An aggregation of human motion understanding research.
 - [InterControl](https://github.com/zhenzhiwang/intercontrol). InterControl: Generate Human Motion Interactions by Controlling Every Joint, Wang et al. NeurIPS 2024.
 - [CooHOI](https://gao-jiawei.com/Research/CooHOI/). CooHOI: Learning Cooperative Human-Object Interaction with Manipulated Object Dynamics, Gao et al. NeurIPS 2024.
 - [Radosavovic et al.](https://humanoid-next-token-prediction.github.io/). Humanoid Locomotion as Next Token Prediction, Radosavovic et al. NeurIPS 2024.
+- [HARMON](https://ut-austin-rpl.github.io/Harmon/). Harmon: Whole-Body Motion Generation of Humanoid Robots from Language Descriptions, Jiang et al. CoRL 2024.
 - [HumanPlus](https://humanoid-ai.github.io/). HumanPlus: Humanoid Shadowing and Imitation from Humans, Fu et al. CoRL 2024.
 - [OmniH2O](https://omni.human2humanoid.com/). OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning, He et al. CoRL 2024.
 - [H2O](https://human2humanoid.com/). Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation, He et al. IROS 2024.
@@ -285,6 +340,7 @@ An aggregation of human motion understanding research.
 - [PhysicsPingPong](https://jiashunwang.github.io/PhysicsPingPong/). Strategy and Skill Learning for Physics-based Table Tennis Animation, Wang et al. SIGGRAPH 2024.
 - [SuperPADL](https://arxiv.org/abs/2407.10481). SuperPADL: Scaling Language-Directed Physics-Based Control with Progressive Supervised Distillation, Juravsky et al. SIGGRAPH 2024.
 - [SimXR](https://www.zhengyiluo.com/SimXR). Real-Time Simulated Avatar from Head-Mounted Sensors, Luo et al. CVPR 2024.
+- [AnySkill](https://openaccess.thecvf.com/content/CVPR2024/html/Cui_AnySkill_Learning_Open-Vocabulary_Physical_Skill_for_Interactive_Agents_CVPR_2024_paper.html). AnySkill: Learning Open-Vocabulary Physical Skill for Interactive Agents, Cui et al. CVPR 2024.
 - [PULSE](https://github.com/ZhengyiLuo/PULSE). Universal Humanoid Motion Representations for Physics-Based Control, Luo et al. ICLR 2024.
 - [H-GAP](https://github.com/facebookresearch/hgap). H-GAP: Humanoid Control with a Generalist Planner, Jiang et al. ICLR 2024.
 - [UniHSI](https://xizaoqu.github.io/unihsi/). UniHSI: Unified Human-Scene Interaction via Prompted Chain-of-Contacts, Xiao et al. ICLR 2024.
@@ -325,12 +381,15 @@ An aggregation of human motion understanding research.
 <span id="bio"></span>
 ## Bio-stuff: Human Anatomy, Biomechanics, Physiology
 
+- [Evans et al](https://www.nature.com/articles/s41597-024-04077-3?fromPaywallRec=false). Synchronized Video, Motion Capture and Force Plate Dataset for Validating Markerless Human Movement Analysis, Evans et al. Scientific Data 2024.
 - [Muscles in Time](https://simplexsigil.github.io/mint). Muscles in Time: Learning to Understand Human Motion by Simulating Muscle Activations, Schneider et al. NeurIPS D&B 2024.
 - [Wei et al](https://lnsgroup.cc/research/hdsafebo). Safe Bayesian Optimization for the Control of High-Dimensional Embodied Systems, Wei et al. CoRL 2024.
 - [ImDy](https://foruck.github.io/ImDy). ImDy: Human Inverse Dynamics from Imitated Observations, Liu et al. ArXiv 2024.
+- [Macwan et al](https://journals.sagepub.com/doi/full/10.1177/10711813241262026). High-Fidelity Worker Motion Simulation With Generative AI, Macwan et al. HFES 2024.
 - [AddBiomechanics](https://addbiomechanics.org/). AddBiomechanics Dataset: Capturing the Physics of Human Motion at Scale, Werling et al. ECCV 2024.
 - [MANIKIN](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00194.pdf). MANIKIN: Biomechanically Accurate Neural Inverse Kinematics for Human Motion Estimation, Jiang et al. ECCV 2024.
 - [HIT](https://hit.is.tue.mpg.de/). HIT: Estimating Internal Human Implicit Tissues from the Body Surface, Keller et al. CVPR 2024.
+- [Dai et al](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2024.1388742/full). Full-body pose reconstruction and correction in virtual reality for rehabilitation training, Dai et al. Frontiers in Neuroscience 2024.
 - [DynSyn](https://www.beanpow.top/assets/pdf/dynsyn_poster.pdf). DynSyn: Dynamical Synergistic Representation for Efficient Learning and Control in Overactuated Embodied Systems, He et al. ICML 2024.
 - [He et al.](https://arxiv.org/pdf/2312.05473.pdf). Self Model for Embodied Intelligence: Modeling Full-Body Human Musculoskeletal System and Locomotion Control with Hierarchical Low-Dimensional Representation, He et al. ICRA 2024.
 - [OpenCapBench](https://arxiv.org/abs/2406.09788). A Benchmark to Bridge Pose Estimation and Biomechanics, Gozlan et al. ArXiv 2024.
