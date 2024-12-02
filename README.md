@@ -11,6 +11,9 @@ An aggregation of human motion understanding research.
 <span id="motion-generation"></span>
 ## Motion Generation
 
+- [AtoM](https://atom-motion.github.io/). AToM: Aligning Text-to-Motion Model at Event-Level with GPT-4Vision Reward, Han et al. ArXiv 2024.
+- [MVLift](https://lijiaman.github.io/projects/mvlift/). Lifting Motion to the 3D World via 2D Diffusion, Li et al. ArXiv 2024.
+- [DisCoRD](https://whwjdqls.github.io/discord.github.io/). DisCoRD: Discrete Tokens to Continuous Motion via Rectified Flow Decoding, Cho et al. ArXiv 2024.
 - [MoTe](https://arxiv.org/abs/2411.19786). MoTe: Learning Motion-Text Diffusion Model for Multiple Generation Tasks, Wue et al. ArXiv 2024.
 - [ReinDiffuse](https://reindiffuse.github.io/). ReinDiffuse: Crafting Physically Plausible Motions with Reinforced Diffusion Model, Han et al. WACV 2025.
 - [InfiniDreamer](https://arxiv.org/abs/2411.18303). InfiniDreamer: Arbitrarily Long Human Motion Generation via Segment Score Distillation, Zhuo et al. ArXiv 2024.
@@ -192,6 +195,7 @@ An aggregation of human motion understanding research.
 <span id="hoi"></span>
 ## Human-Object Interaction
 
+- [OOD-HOI](https://nickk0212.github.io/ood-hoi/). OOD-HOI: Text-Driven 3D Whole-Body Human-Object Interactions Generation Beyond Training Domains, Zhang et al. ArXiv 2024.
 - [COLLAGE](https://arxiv.org/abs/2409.20502). COLLAGE: Collaborative Human-Agent Interaction Generation using Hierarchical Latent Diffusion and Language Models, Daiya et al. ArXiv 2024.
 - [SMGDiff](https://arxiv.org/abs/2411.16216). SMGDiff: Soccer Motion Generation using diffusion probabilistic models, Yang et al. ArXiv 2024.
 - [SkillMimic](https://ingrid789.github.io/SkillMimic/). SkillMimic: Learning Reusable Basketball Skills from Demonstrations, Wang et al. ArXiv 2024.
@@ -282,6 +286,7 @@ An aggregation of human motion understanding research.
 <span id="datasets"></span>
 ## Datasets & Benchmarks
 
+- [AtoM](https://atom-motion.github.io/). AToM: Aligning Text-to-Motion Model at Event-Level with GPT-4Vision Reward, Han et al. ArXiv 2024.
 - [Evans et al](https://www.nature.com/articles/s41597-024-04077-3?fromPaywallRec=false). Synchronized Video, Motion Capture and Force Plate Dataset for Validating Markerless Human Movement Analysis, Evans et al. Scientific Data 2024.
 - [MotionCritic](https://motioncritic.github.io/). Aligning Human Motion Generation with Human Perceptions, Wang et al. ArXiv 2024.
 - [EgoSim](https://siplab.org/projects/EgoSim). EgoSim: An Egocentric Multi-view Simulator for Body-worn Cameras during Human Motion, Hollidt et al. NeurIPS D&B 2024.
