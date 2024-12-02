@@ -409,4 +409,6 @@ An aggregation of human motion understanding research.
 - [Lee et al.](https://arxiv.org/abs/2305.04995). Anatomically Detailed Simulation of Human Torso, Lee et al. SIGGRAPH 2023.
 - [MiA](https://musclesinaction.cs.columbia.edu/). Muscles in Action, Chiquer et al. ICCV 2023.
 - [OSSO](https://osso.is.tue.mpg.de/). OSSO: Obtaining Skeletal Shape from Outside, Keller et al. CVPR 2022.
+- [Xing et al](https://www.nature.com/articles/s41597-022-01188-7). Functional movement screen dataset collected with two Azure Kinect depth sensors, Xing et al. Scientific Data 2022.
 - [LRLE](https://github.com/jyf588/lrle). Synthesis of biologically realistic human motion using joint torque actuation, Jiang et al. SIGGRAPH 2019.
+- [HuGaDb](https://link.springer.com/chapter/10.1007/978-3-319-73013-4_12). HuGaDB: Human Gait Database for Activity Recognition from Wearable Inertial Sensor Networks, Chereshnev et al. AIST 2017.
