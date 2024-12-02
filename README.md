@@ -250,6 +250,7 @@ An aggregation of human motion understanding research.
 - [Scene-Ego](https://people.mpi-inf.mpg.de/~jianwang/projects/sceneego/). Scene-aware Egocentric 3D Human Pose Estimation, Wang et al. CVPR 2023.
 - [SLOPER4D](http://www.lidarhumanmotion.net/sloper4d). SLOPER4D: A Scene-Aware Dataset for Global 4D Human Pose Estimation in Urban Environments, Dai et al. CVPR 2023.
 - [CIRCLE](https://stanford-tml.github.io/circle_dataset/). CIRCLE: Capture in Rich Contextual Environments, Araujo et al. CVPR 2023.
+- [SceneDiffuser](https://scenediffuser.github.io/). Diffusion-based Generation, Optimization, and Planning in 3D Scenes, Huang et al. CVPR 2023.
 - [PMP](https://github.com/jinseokbae/pmp). PMP: Learning to Physically Interact with Environments using Part-wise Motion Priors, Bae et al. SIGGRAPH 2023.
 - [QuestEnvSim](https://dl.acm.org/doi/10.1145/3588432.3591504). QuestEnvSim: Environment-Aware Simulated Motion Tracking from Sparse Sensors, Lee et al. SIGGRAPH 2023.
 - [Hassan et al.](https://research.nvidia.com/publication/2023-08_synthesizing-physical-character-scene-interactions) Synthesizing Physical Character-Scene Interactions, Hassan et al. SIGGRAPH 2023.
