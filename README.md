@@ -290,6 +290,7 @@ An aggregation of human motion understanding research.
 - [AtoM](https://atom-motion.github.io/). AToM: Aligning Text-to-Motion Model at Event-Level with GPT-4Vision Reward, Han et al. ArXiv 2024.
 - [Evans et al](https://www.nature.com/articles/s41597-024-04077-3?fromPaywallRec=false). Synchronized Video, Motion Capture and Force Plate Dataset for Validating Markerless Human Movement Analysis, Evans et al. Scientific Data 2024.
 - [MotionCritic](https://motioncritic.github.io/). Aligning Human Motion Generation with Human Perceptions, Wang et al. ArXiv 2024.
+- [EMHI](https://arxiv.org/abs/2408.17168). EMHI: A Multimodal Egocentric Human Motion Dataset with HMD and Body-Worn IMUs, Fan et al. ArXiv 2024.
 - [EgoSim](https://siplab.org/projects/EgoSim). EgoSim: An Egocentric Multi-view Simulator for Body-worn Cameras during Human Motion, Hollidt et al. NeurIPS D&B 2024.
 - [synNsync](https://von31.github.io/synNsync/). Synergy and Synchrony in Couple Dances, Manukele et al. ArXiv 2024.
 - [Muscles in Time](https://simplexsigil.github.io/mint). Muscles in Time: Learning to Understand Human Motion by Simulating Muscle Activations, Schneider et al. NeurIPS D&B 2024.
