@@ -11,6 +11,7 @@ An aggregation of human motion understanding research.
 <span id="motion-generation"></span>
 ## Motion Generation
 
+- [MoTe](https://arxiv.org/abs/2411.19786). MoTe: Learning Motion-Text Diffusion Model for Multiple Generation Tasks, Wue et al. ArXiv 2024.
 - [ReinDiffuse](https://reindiffuse.github.io/). ReinDiffuse: Crafting Physically Plausible Motions with Reinforced Diffusion Model, Han et al. WACV 2025.
 - [InfiniDreamer](https://arxiv.org/abs/2411.18303). InfiniDreamer: Arbitrarily Long Human Motion Generation via Segment Score Distillation, Zhuo et al. ArXiv 2024.
 - [FTMoMamba](https://arxiv.org/abs/2411.17532). FTMoMamba: Motion Generation with Frequency and Text State Space Models, Li et al. ArXiv 2024.
@@ -320,6 +321,7 @@ An aggregation of human motion understanding research.
 <span id="humanoid"></span>
 ## Humanoid, Simulated or Real
 
+- [SIMS](https://arxiv.org/abs/2411.19921). SIMS: Simulating Human-Scene Interactions with Real World Script Planning, Wang et al. ArXiv 2024.
 - [PDP](https://arxiv.org/abs/2406.00960). PDP: Physics-Based Character Animation via Diffusion Policy, Truong et al. ArXiv 2024.
 - [HOVER](https://arxiv.org/abs/2410.21229). HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots, He et al. ArXiv 2024.
 - [CLoSD](https://guytevet.github.io/CLoSD-page/). CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al. ArXiv 2024.
