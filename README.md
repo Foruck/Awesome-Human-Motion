@@ -305,6 +305,7 @@ An aggregation of human motion understanding research.
 - [Inter-X](https://liangxuy.github.io/inter-x/). Inter-X: Towards Versatile Human-Human Interaction Analysis, Xu et al. CVPR 2024.
 - [HardMo](https://openaccess.thecvf.com/content/CVPR2024/papers/Liao_HardMo_A_Large-Scale_Hardcase_Dataset_for_Motion_Capture_CVPR_2024_paper.pdf). HardMo: ALarge-Scale Hardcase Dataset for Motion Capture, Liao et al. CVPR 2024.
 - [RELI11D](http://www.lidarhumanmotion.net/reli11d/). RELI11D: A Comprehensive Multimodal Human Motion Dataset and Method, Yan et al. CVPR 2024.
+- [GroundLink](https://cs-people.bu.edu/xjhan/groundlink.html). GroundLink: A Dataset Unifying Human Body Movement and Ground Reaction Dynamics, Han et al. SIGGRAPH Asia 2023.
 - [HOH](https://hohdataset.github.io/). HOH: Markerless Multimodal Human-Object-Human Handover Dataset with Large Object Count, Wiederhold et al. NeurIPS D&B 2023.
 - [Motion-X](https://motion-x-dataset.github.io/). Motion-X: A Large-scale 3D Expressive Whole-body Human Motion Dataset, Lin et al. NeurIPS D&B 2023.
 - [Humans in Kitchens](https://github.com/jutanke/hik). Humans in Kitchens: A Dataset for Multi-Person Human Motion Forecasting with Scene Context, Tanke et al. NeurIPS D&B 2023.
@@ -314,6 +315,7 @@ An aggregation of human motion understanding research.
 - [Hi4D](https://yifeiyin04.github.io/Hi4D/). Hi4D: 4D Instance Segmentation of Close Human Interaction, Yin et al. CVPR 2023.
 - [CIRCLE](https://stanford-tml.github.io/circle_dataset/). CIRCLE: Capture in Rich Contextual Environments, Araujo et al. CVPR 2023.
 - [MoCapAct](https://github.com/microsoft/MoCapAct). MoCapAct: A Multi-Task Dataset for Simulated Humanoid Control, Wagener et al. NeurIPS 2022.
+- [ForcePose](https://github.com/MichiganCOG/ForcePose?tab=readme-ov-file). Learning to Estimate External Forces of Human Motion in Video, Louis et al. ACM MM 2022.
 - [BEAT](https://pantomatrix.github.io/BEAT/). BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis, Liu et al. ECCV 2022.
 - [BRACE](https://github.com/dmoltisanti/brace). BRACE: The Breakdancing Competition Dataset for Dance Motion Synthesis, Moltisanti et al. ECCV 2022.
 - [EgoBody](https://sanweiliti.github.io/egobody/egobody.html). Egobody: Human body shape and motion of interacting people from head-mounted devices, Zhang et al. ECCV 2022.
@@ -391,6 +393,7 @@ An aggregation of human motion understanding research.
 <span id="bio"></span>
 ## Bio-stuff: Human Anatomy, Biomechanics, Physiology
 
+- [BioDesign](https://cs-people.bu.edu/xjhan/bioDesign.html). Motion-Driven Neural Optimizer for Prophylactic Braces Made by Distributed Microstructures, Han et al. SIGGRAPH Asia 2024.
 - [Evans et al](https://www.nature.com/articles/s41597-024-04077-3?fromPaywallRec=false). Synchronized Video, Motion Capture and Force Plate Dataset for Validating Markerless Human Movement Analysis, Evans et al. Scientific Data 2024.
 - [Muscles in Time](https://simplexsigil.github.io/mint). Muscles in Time: Learning to Understand Human Motion by Simulating Muscle Activations, Schneider et al. NeurIPS D&B 2024.
 - [Wei et al](https://lnsgroup.cc/research/hdsafebo). Safe Bayesian Optimization for the Control of High-Dimensional Embodied Systems, Wei et al. CoRL 2024.
