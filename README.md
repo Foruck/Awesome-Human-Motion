@@ -228,6 +228,7 @@ An aggregation of human motion understanding research.
 <span id="hsi"></span>
 ## Human-Scene Interaction
 
+- [SIMS](https://arxiv.org/abs/2411.19921). SIMS: Simulating Human-Scene Interactions with Real World Script Planning, Wang et al. ArXiv 2024.
 - [SAST](https://github.com/felixbmuller/SAST). Massively Multi-Person 3D Human Motion Forecasting with Scene Context, Mueller et al. ArXiv 2024.
 - [DiMoP3D](https://sites.google.com/view/dimop3d). Harmonizing Stochasticity and Determinism: Scene-responsive Diverse Human Motion Prediction, Lou et al. NeurIPS 2024.
 - [Liu et al.](https://arxiv.org/html/2312.02700v2). Revisit Human-Scene Interaction via Space Occupancy, Liu et al. ECCV 2024.
