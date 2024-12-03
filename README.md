@@ -237,7 +237,9 @@ An aggregation of human motion understanding research.
 
 - [SIMS](https://arxiv.org/abs/2411.19921). SIMS: Simulating Human-Scene Interactions with Real World Script Planning, Wang et al. ArXiv 2024.
 - [SAST](https://github.com/felixbmuller/SAST). Massively Multi-Person 3D Human Motion Forecasting with Scene Context, Mueller et al. ArXiv 2024.
+- [LaserHuman](). LaserHuman: Language-guided Scene-aware Human Motion Generation in Free Environment, Cong et al. ArXiv 2024.
 - [DiMoP3D](https://sites.google.com/view/dimop3d). Harmonizing Stochasticity and Determinism: Scene-responsive Diverse Human Motion Prediction, Lou et al. NeurIPS 2024.
+- [InterScene](https://ieeexplore.ieee.org/abstract/document/10550906). Synthesizing Physically Plausible Human Motions in 3D Scenes, Pan et al. 3DV 2024.
 - [Liu et al.](https://arxiv.org/html/2312.02700v2). Revisit Human-Scene Interaction via Space Occupancy, Liu et al. ECCV 2024.
 - [TesMo](https://research.nvidia.com/labs/toronto-ai/tesmo/). Generating Human Interaction Motions in Scenes with Text Control, Yi et al. ECCV 2024.
 - [Afford-Motion](https://afford-motion.github.io/). Move as You Say, Interact as You Can: Language-guided Human Motion Generation with Scene Affordance, Wang et al. CVPR 2024.
@@ -345,10 +347,14 @@ An aggregation of human motion understanding research.
 - [CooHOI](https://gao-jiawei.com/Research/CooHOI/). CooHOI: Learning Cooperative Human-Object Interaction with Manipulated Object Dynamics, Gao et al. NeurIPS 2024.
 - [Radosavovic et al.](https://humanoid-next-token-prediction.github.io/). Humanoid Locomotion as Next Token Prediction, Radosavovic et al. NeurIPS 2024.
 - [HARMON](https://ut-austin-rpl.github.io/Harmon/). Harmon: Whole-Body Motion Generation of Humanoid Robots from Language Descriptions, Jiang et al. CoRL 2024.
+- [OKAMI](https://ut-austin-rpl.github.io/OKAMI/). OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation, Li et al. CoRL 2024.
 - [HumanPlus](https://humanoid-ai.github.io/). HumanPlus: Humanoid Shadowing and Imitation from Humans, Fu et al. CoRL 2024.
 - [OmniH2O](https://omni.human2humanoid.com/). OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning, He et al. CoRL 2024.
+- [Self-Aware](https://evm7.github.io/Self-AWare/). Know your limits! Optimize the behavior of bipedal robots through self-awareness, Mascaro et al. Humanoids 2024.
+- [PhysReaction](https://yunzeliu.github.io/PhysReaction/). PhysReaction: Physically Plausible Real-Time Humanoid Reaction Synthesis via Forward Dynamics Guided 4D Imitation, Liu et al. ACM MM 2024.
 - [H2O](https://human2humanoid.com/). Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation, He et al. IROS 2024.
-- [MHC](https://idigitopia.github.io/projects/mhc/). Generating Physically Realistic and Directable Human Motions from Multi-Modal Inputs, Liu et al. ECCV 2024.
+- [MHC](https://idigitopia.github.io/projects/mhc/). Generating Physically Realistic and Directable Human Motions from Multi-Modal Inputs, Shrestha et al. ECCV 2024.
+- [DIDI](https://arxiv.org/pdf/2405.14790). DIDI: Diffusion-Guided Diversity for Offline Behavioral Generation, Liu et al. ICML 2024.
 - [MoConVQ](https://moconvq.github.io/). MoConVQ: Unified Physics-Based Motion Control via Scalable Discrete Representations, Yao et al. SIGGRAPH 2024.
 - [PhysicsPingPong](https://jiashunwang.github.io/PhysicsPingPong/). Strategy and Skill Learning for Physics-based Table Tennis Animation, Wang et al. SIGGRAPH 2024.
 - [SuperPADL](https://arxiv.org/abs/2407.10481). SuperPADL: Scaling Language-Directed Physics-Based Control with Progressive Supervised Distillation, Juravsky et al. SIGGRAPH 2024.
@@ -357,9 +363,9 @@ An aggregation of human motion understanding research.
 - [PULSE](https://github.com/ZhengyiLuo/PULSE). Universal Humanoid Motion Representations for Physics-Based Control, Luo et al. ICLR 2024.
 - [H-GAP](https://github.com/facebookresearch/hgap). H-GAP: Humanoid Control with a Generalist Planner, Jiang et al. ICLR 2024.
 - [UniHSI](https://xizaoqu.github.io/unihsi/). UniHSI: Unified Human-Scene Interaction via Prompted Chain-of-Contacts, Xiao et al. ICLR 2024.
+- [Expressive Humanoid](https://expressive-humanoid.github.io/). Expressive Whole-Body Control for Humanoid Robots, Cheng et al. RSS 2024.
 - [PhySHOI](https://wyhuai.github.io/physhoi-page/). PhysHOI: Physics-Based Imitation of Dynamic Human-Object Interaction, Wang et al. ArXiv 2024. 
-- [CASE](https://frank-zy-dou.github.io/projects/CASE/index.html). C·ASE: Learning Conditional Adversarial Skill Embeddings for Physics-based Characters
-, Dou et al. SIGGRAPH Asia 2023.
+- [CASE](https://frank-zy-dou.github.io/projects/CASE/index.html). C·ASE: Learning Conditional Adversarial Skill Embeddings for Physics-based Characters, Dou et al. SIGGRAPH Asia 2023.
 - [AdaptNet](https://github.com/xupei0610/AdaptNet). AdaptNet: Policy Adaptation for Physics-Based Character Control, Xu et al. SIGGRAPH Asia 2023.
 - [NCP](https://tencent-roboticsx.github.io/NCP/). Neural Categorical Priors for Physics-Based Character Control, Zhu et al. SIGGRAPH Asia 2023.
 - [DROP](https://stanford-tml.github.io/drop/). DROP: Dynamics Responses from Human Motion Prior and Projective Dynamics, Jiang et al. SIGGRAPH Asia 2023.
