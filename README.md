@@ -86,6 +86,7 @@ An aggregation of human motion understanding research.
 - [HumanTOMATO](https://github.com/LinghaoChan/HumanTOMATO). HumanTOMATO: Text-aligned Whole-body Motion Generation, Lu et al. ICML 2024.
 - [GPHLVM](https://sites.google.com/view/gphlvm/). Bringing Motion Taxonomies to Continuous Domains via GPLVM on Hyperbolic Manifolds, Jaquier et al. ICML 2024.
 - [CondMDI](https://setarehc.github.io/CondMDI/). Flexible Motion In-betweening with Diffusion Models, Cohan et al. SIGGRAPH 2024.
+- [CAMDM](https://aiganimation.github.io/CAMDM/). Taming Diffusion Probabilistic Models for Character Control, Chen et al. SIGGRAPH 2024.
 - [LGTM](https://vcc.tech/research/2024/LGTM). LGTM: Local-to-Global Text-Driven Human Motion Diffusion Models, Sun et al. SIGGRAPH 2024.
 - [TEDi](https://threedle.github.io/TEDi/). TEDi: Temporally-Entangled Diffusion for Long-Term Motion Synthesis, Zhang et al. SIGGRAPH 2024.
 - [A-MDM](https://github.com/Yi-Shi94/AMDM). Interactive Character Control with Auto-Regressive Motion Diffusion Models, Shi et al. SIGGRAPH 2024.
@@ -349,7 +350,6 @@ An aggregation of human motion understanding research.
 - [H2O](https://human2humanoid.com/). Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation, He et al. IROS 2024.
 - [MHC](https://idigitopia.github.io/projects/mhc/). Generating Physically Realistic and Directable Human Motions from Multi-Modal Inputs, Liu et al. ECCV 2024.
 - [MoConVQ](https://moconvq.github.io/). MoConVQ: Unified Physics-Based Motion Control via Scalable Discrete Representations, Yao et al. SIGGRAPH 2024.
-- [CAMDM](https://aiganimation.github.io/CAMDM/). Taming Diffusion Probabilistic Models for Character Control, Chen et al. SIGGRAPH 2024.
 - [PhysicsPingPong](https://jiashunwang.github.io/PhysicsPingPong/). Strategy and Skill Learning for Physics-based Table Tennis Animation, Wang et al. SIGGRAPH 2024.
 - [SuperPADL](https://arxiv.org/abs/2407.10481). SuperPADL: Scaling Language-Directed Physics-Based Control with Progressive Supervised Distillation, Juravsky et al. SIGGRAPH 2024.
 - [SimXR](https://www.zhengyiluo.com/SimXR). Real-Time Simulated Avatar from Head-Mounted Sensors, Luo et al. CVPR 2024.
