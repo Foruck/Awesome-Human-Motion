@@ -335,11 +335,11 @@ An aggregation of human motion understanding research.
 ## Humanoid, Simulated or Real
 
 - [SIMS](https://arxiv.org/abs/2411.19921). SIMS: Simulating Human-Scene Interactions with Real World Script Planning, Wang et al. ArXiv 2024.
-- [PDP](https://arxiv.org/abs/2406.00960). PDP: Physics-Based Character Animation via Diffusion Policy, Truong et al. ArXiv 2024.
 - [HOVER](https://arxiv.org/abs/2410.21229). HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots, He et al. ArXiv 2024.
 - [CLoSD](https://guytevet.github.io/CLoSD-page/). CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al. ArXiv 2024.
 - [Humanoidlympics](https://smplolympics.github.io/SMPLOlympics). Humanoidlympics: Sports Environments for Physically Simulated Humanoids, Luo et al. ArXiv 2024.
 - [SkillMimic](https://ingrid789.github.io/SkillMimic/). SkillMimic: Learning Reusable Basketball Skills from Demonstrations, Wang et al. ArXiv 2024.
+- [PDP](https://stanford-tml.github.io/PDP.github.io/). PDP: Physics-Based Character Animation via Diffusion Policy, Truong et al. SIGGRAPH Asia 2024.
 - [MaskedMimic](https://xbpeng.github.io/projects/MaskedMimic/index.html). MaskedMimic: Unified Physics-Based Character Control Through Masked Motion Inpainting, Tessler et al, SIGGRAPH Asia 2024. 
 - [HumanVLA](https://arxiv.org/abs/2406.19972). HumanVLA: Towards Vision-Language Directed Object Rearrangement by Physical Humanoid, Xu et al. NeurIPS 2024.
 - [OmniGrasp](https://www.zhengyiluo.com/Omnigrasp-Site/). Grasping Diverse Objects with Simulated Humanoids, Luo et al. NeurIPS 2024.
