@@ -11,6 +11,7 @@ An aggregation of human motion understanding research.
 <span id="motion-generation"></span>
 ## Motion Generation
 
+- [BiPO](https://arxiv.org/pdf/2412.00112). BiPO: Bidirectional Partial Occlusion Network for Text-to-Motion Synthesis, Hong et al. ArXiv 2024.
 - [AtoM](https://atom-motion.github.io/). AToM: Aligning Text-to-Motion Model at Event-Level with GPT-4Vision Reward, Han et al. ArXiv 2024.
 - [MVLift](https://lijiaman.github.io/projects/mvlift/). Lifting Motion to the 3D World via 2D Diffusion, Li et al. ArXiv 2024.
 - [DisCoRD](https://whwjdqls.github.io/discord.github.io/). DisCoRD: Discrete Tokens to Continuous Motion via Rectified Flow Decoding, Cho et al. ArXiv 2024.
