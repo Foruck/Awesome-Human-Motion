@@ -235,6 +235,7 @@ An aggregation of human motion understanding research.
 <span id="hsi"></span>
 ## Human-Scene Interaction
 
+- [Diffusion Implicit Policy](https://jingyugong.github.io/DiffusionImplicitPolicy/), Diffusion Implicit Policy for Unpaired Scene-aware Motion synthesis, Gong et al. ArXiv 2024.
 - [SIMS](https://arxiv.org/abs/2411.19921). SIMS: Simulating Human-Scene Interactions with Real World Script Planning, Wang et al. ArXiv 2024.
 - [SAST](https://github.com/felixbmuller/SAST). Massively Multi-Person 3D Human Motion Forecasting with Scene Context, Mueller et al. ArXiv 2024.
 - [LaserHuman](). LaserHuman: Language-guided Scene-aware Human Motion Generation in Free Environment, Cong et al. ArXiv 2024.
