@@ -275,6 +275,7 @@ An aggregation of human motion understanding research.
 <span id="hhi"></span>
 ## Human-Human Interaction
 
+- [It Takes Two](https://arxiv.org/pdf/2412.02419). It Takes Two: Real-time Co-Speech Two-person’s Interaction Generation via Reactive Auto-regressive Diffusion Model, Shi et al. ArXiv 2024.
 - [InterMask](https://gohar-malik.github.io/intermask). InterMask: 3D Human Interaction Generation via Collaborative Masked Modelling, Javed et al. ArXiv 2024.
 - [COLLAGE](https://arxiv.org/abs/2409.20502). COLLAGE: Collaborative Human-Agent Interaction Generation using Hierarchical Latent Diffusion and Language Models, Daiya et al.
 - [InterControl](https://github.com/zhenzhiwang/intercontrol). InterControl: Generate Human Motion Interactions by Controlling Every Joint, Wang et al. NeurIPS 2024.
