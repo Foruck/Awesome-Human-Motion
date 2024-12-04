@@ -294,6 +294,8 @@ An aggregation of human motion understanding research.
 <span id="datasets"></span>
 ## Datasets & Benchmarks
 
+- [LINGO](https://lingomotions.com/). Autonomous Character-Scene Interaction Synthesis from Text Instruction, Jiang et al. SIGGRAPH Asia 2024.
+- [LaserHuman](https://github.com/4DVLab/LaserHuman). LaserHuman: Language-guided Scene-aware Human Motion Generation in Free Environment, Cong et al. ArXiv 2024.
 - [AtoM](https://atom-motion.github.io/). AToM: Aligning Text-to-Motion Model at Event-Level with GPT-4Vision Reward, Han et al. ArXiv 2024.
 - [Evans et al](https://www.nature.com/articles/s41597-024-04077-3?fromPaywallRec=false). Synchronized Video, Motion Capture and Force Plate Dataset for Validating Markerless Human Movement Analysis, Evans et al. Scientific Data 2024.
 - [MotionCritic](https://motioncritic.github.io/). Aligning Human Motion Generation with Human Perceptions, Wang et al. ArXiv 2024.
