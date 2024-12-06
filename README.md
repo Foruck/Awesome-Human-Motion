@@ -11,6 +11,7 @@ An aggregation of human motion understanding research.
 <span id="motion-generation"></span>
 ## Motion Generation
 
+- [RMD](https://arxiv.org/pdf/2412.04343). RMD: A Simple Baseline for More General Human Motion Generation via Training-free Retrieval-Augmented Motion Diffuse, Liao et al. ArXiv 2024.
 - [BiPO](https://arxiv.org/pdf/2412.00112). BiPO: Bidirectional Partial Occlusion Network for Text-to-Motion Synthesis, Hong et al. ArXiv 2024.
 - [AtoM](https://atom-motion.github.io/). AToM: Aligning Text-to-Motion Model at Event-Level with GPT-4Vision Reward, Han et al. ArXiv 2024.
 - [MVLift](https://lijiaman.github.io/projects/mvlift/). Lifting Motion to the 3D World via 2D Diffusion, Li et al. ArXiv 2024.
@@ -187,6 +188,7 @@ An aggregation of human motion understanding research.
 <span id="motion-stylization"></span>
 ## Motion Stylization
 
+- [D-LORD](https://arxiv.org/pdf/2412.04097). D-LORD for Motion Stylization, Gupta et al. TSMC 2024.
 - [HUMOS](https://otaheri.github.io/publication/2024_humos/). HUMOS: Human Motion Model Conditioned on Body Shape, Tripathi et al. ECCV 2024.
 - [SMEAR](https://dl.acm.org/doi/10.1145/3641519.3657457). SMEAR: Stylized Motion Exaggeration with ARt-direction, Basset et al. SIGGRAPH 2024.
 - [MCM-LDM](https://xingliangjin.github.io/MCM-LDM-Web/). Arbitrary Motion Style Transfer with Multi-condition Motion Latent Diffusion Model, Song et al. CVPR 2024.
