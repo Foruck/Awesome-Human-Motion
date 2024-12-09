@@ -11,6 +11,7 @@ An aggregation of human motion understanding research.
 <span id="motion-generation"></span>
 ## Motion Generation
 
+- [SoPo](https://sopo-motion.github.io/). SoPo: Text-to-Motion Generation Using Semi-Online Preference Optimization, Tan et al. ArXiv 2024.
 - [RMD](https://arxiv.org/pdf/2412.04343). RMD: A Simple Baseline for More General Human Motion Generation via Training-free Retrieval-Augmented Motion Diffuse, Liao et al. ArXiv 2024.
 - [BiPO](https://arxiv.org/pdf/2412.00112). BiPO: Bidirectional Partial Occlusion Network for Text-to-Motion Synthesis, Hong et al. ArXiv 2024.
 - [AtoM](https://atom-motion.github.io/). AToM: Aligning Text-to-Motion Model at Event-Level with GPT-4Vision Reward, Han et al. ArXiv 2024.
