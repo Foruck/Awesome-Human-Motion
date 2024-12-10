@@ -200,6 +200,8 @@ An aggregation of human motion understanding research.
 <span id="hoi"></span>
 ## Human-Object Interaction
 
+- [CHOICE](https://arxiv.org/pdf/2412.06702). CHOICE: Coordinated Human-Object Interaction in Cluttered Environments for Pick-and-Place Actions, Lu et al. ArXiv 2024.
+- [TriDi](https://virtualhumans.mpi-inf.mpg.de/tridi/). TriDi: Trilateral Diffusion of 3D Humans, Objects and Interactions, Petrov et al. ArXiv 2024.
 - [OOD-HOI](https://nickk0212.github.io/ood-hoi/). OOD-HOI: Text-Driven 3D Whole-Body Human-Object Interactions Generation Beyond Training Domains, Zhang et al. ArXiv 2024.
 - [COLLAGE](https://arxiv.org/abs/2409.20502). COLLAGE: Collaborative Human-Agent Interaction Generation using Hierarchical Latent Diffusion and Language Models, Daiya et al. ArXiv 2024.
 - [SMGDiff](https://arxiv.org/abs/2411.16216). SMGDiff: Soccer Motion Generation using diffusion probabilistic models, Yang et al. ArXiv 2024.
@@ -408,6 +410,7 @@ An aggregation of human motion understanding research.
 <span id="bio"></span>
 ## Bio-stuff: Human Anatomy, Biomechanics, Physiology
 
+- [HDyS](https://foruck.github.io/HDyS). Homogeneous Dynamics Space for Heterogeneous Humans, Liu et al. ArXiv 2024.
 - [BioDesign](https://cs-people.bu.edu/xjhan/bioDesign.html). Motion-Driven Neural Optimizer for Prophylactic Braces Made by Distributed Microstructures, Han et al. SIGGRAPH Asia 2024.
 - [Evans et al](https://www.nature.com/articles/s41597-024-04077-3?fromPaywallRec=false). Synchronized Video, Motion Capture and Force Plate Dataset for Validating Markerless Human Movement Analysis, Evans et al. Scientific Data 2024.
 - [Muscles in Time](https://simplexsigil.github.io/mint). Muscles in Time: Learning to Understand Human Motion by Simulating Muscle Activations, Schneider et al. NeurIPS D&B 2024.
