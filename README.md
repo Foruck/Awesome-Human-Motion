@@ -214,6 +214,7 @@ An aggregation of human motion understanding research.
 - [EgoChoir](https://yyvhang.github.io/EgoChoir/). EgoChoir: Capturing 3D Human-Object Interaction Regions from Egocentric Views, Yang et al. NeurIPS 2024.
 - [CooHOI](https://gao-jiawei.com/Research/CooHOI/). CooHOI: Learning Cooperative Human-Object Interaction with Manipulated Object Dynamics, Gao et al. NeurIPS 2024.
 - [InterDreamer](https://arxiv.org/abs/2403.19652). InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction, Xu et al. NeurIPS 2024.
+- [PiMForce](https://pimforce.hcitech.org/). Posture-Informed Muscular Force Learning for Robust Hand Pressure Estimation, Seo et al. NeurIPS 2024.
 - [InterFusion](https://sisidai.github.io/InterFusion/). InterFusion: Text-Driven Generation of 3D Human-Object Interaction, Dai et al. ECCV 2024.
 - [CHOIS](https://lijiaman.github.io/projects/chois/). Controllable Human-Object Interaction Synthesis, Li et al. ECCV 2024.
 - [F-HOI](https://f-hoi.github.io/). F-HOI: Toward Fine-grained Semantic-Aligned 3D Human-Object Interactions, Yang et al. ECCV 2024.
