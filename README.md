@@ -11,6 +11,8 @@ An aggregation of human motion understanding research.
 <span id="motion-generation"></span>
 ## Motion Generation
 
+- [Mogo](https://arxiv.org/abs/2412.07797). Mogo: RQ Hierarchical Causal Transformer for High-Quality 3D Human Motion Generation, Fu et al. ArXiv 2024.
+- [CoMA](https://gabrie-l.github.io/coma-page/). CoMA: Compositional Human Motion Generation with Multi-modal Agents, Sun et al. ArXiv 2024.
 - [SoPo](https://sopo-motion.github.io/). SoPo: Text-to-Motion Generation Using Semi-Online Preference Optimization, Tan et al. ArXiv 2024.
 - [RMD](https://arxiv.org/pdf/2412.04343). RMD: A Simple Baseline for More General Human Motion Generation via Training-free Retrieval-Augmented Motion Diffuse, Liao et al. ArXiv 2024.
 - [BiPO](https://arxiv.org/pdf/2412.00112). BiPO: Bidirectional Partial Occlusion Network for Text-to-Motion Synthesis, Hong et al. ArXiv 2024.
