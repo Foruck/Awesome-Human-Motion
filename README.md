@@ -191,6 +191,7 @@ An aggregation of human motion understanding research.
 <span id="motion-stylization"></span>
 ## Motion Stylization
 
+- [MulSMo](https://arxiv.org/pdf/2412.09901). MulSMo: Multimodal Stylized Motion Generation by Bidirectional Control Flow, Li et al. ArXiv 2024.
 - [D-LORD](https://arxiv.org/pdf/2412.04097). D-LORD for Motion Stylization, Gupta et al. TSMC 2024.
 - [HUMOS](https://otaheri.github.io/publication/2024_humos/). HUMOS: Human Motion Model Conditioned on Body Shape, Tripathi et al. ECCV 2024.
 - [SMEAR](https://dl.acm.org/doi/10.1145/3641519.3657457). SMEAR: Stylized Motion Exaggeration with ARt-direction, Basset et al. SIGGRAPH 2024.
@@ -243,6 +244,7 @@ An aggregation of human motion understanding research.
 <span id="hsi"></span>
 ## Human-Scene Interaction
 
+- [EnvPoser](https://arxiv.org/pdf/2412.10235). EnvPoser: Environment-aware Realistic Human Motion Estimation from Sparse Observations with Uncertainty Modeling. Xia et al. ArXiv 2024.
 - [Diffusion Implicit Policy](https://jingyugong.github.io/DiffusionImplicitPolicy/), Diffusion Implicit Policy for Unpaired Scene-aware Motion synthesis, Gong et al. ArXiv 2024.
 - [SIMS](https://arxiv.org/abs/2411.19921). SIMS: Simulating Human-Scene Interactions with Real World Script Planning, Wang et al. ArXiv 2024.
 - [SAST](https://github.com/felixbmuller/SAST). Massively Multi-Person 3D Human Motion Forecasting with Scene Context, Mueller et al. ArXiv 2024.
