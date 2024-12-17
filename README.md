@@ -296,7 +296,8 @@ An aggregation of human motion understanding research.
 
 - [It Takes Two](https://arxiv.org/pdf/2412.02419). It Takes Two: Real-time Co-Speech Two-person’s Interaction Generation via Reactive Auto-regressive Diffusion Model, Shi et al. ArXiv 2024.
 - [InterMask](https://gohar-malik.github.io/intermask). InterMask: 3D Human Interaction Generation via Collaborative Masked Modelling, Javed et al. ArXiv 2024.
-- [COLLAGE](https://arxiv.org/abs/2409.20502). COLLAGE: Collaborative Human-Agent Interaction Generation using Hierarchical Latent Diffusion and Language Models, Daiya et al.
+- [COLLAGE](https://arxiv.org/abs/2409.20502). COLLAGE: Collaborative Human-Agent Interaction Generation using Hierarchical Latent Diffusion and Language Models, Daiya et al. ArXiv 2024.
+- [Harmony4D](https://jyuntins.github.io/harmony4d/). Harmony4D: A Video Dataset for In-The-Wild Close Human Interactions, Khirodkar et al. NeurIPS 2024.
 - [InterControl](https://github.com/zhenzhiwang/intercontrol). InterControl: Generate Human Motion Interactions by Controlling Every Joint, Wang et al. NeurIPS 2024.
 - [Shan et al.](https://arxiv.org/abs/2405.18483). Towards Open Domain Text-Driven Synthesis of Multi-Person Motions, Shan et al. ECCV 2024.
 - [ReMoS](https://vcai.mpi-inf.mpg.de/projects/remos/). ReMoS: 3D Motion-Conditioned Reaction Synthesis for Two-Person Interactions, Ghosh et al. ECCV 2024.
@@ -308,6 +309,8 @@ An aggregation of human motion understanding research.
 - [ActFormer](https://liangxuy.github.io/actformer/). ActFormer: A GAN-based Transformer towards General Action-Conditioned 3D Human Motion Generation, Xu et al. ICCV 2023.
 - [Tanaka et al.](https://github.com/line/Human-Interaction-Generation). Role-aware Interaction Generation from Textual Description, Tanaka et al. ICCV 2023.
 - [Hi4D](https://yifeiyin04.github.io/Hi4D/). Hi4D: 4D Instance Segmentation of Close Human Interaction, Yin et al. CVPR 2023.
+- [ExPI](https://github.com/GUO-W/MultiMotion). Multi-Person Extreme Motion Prediction, Guo et al. CVPR 2022.
+- [CHI3D](https://ci3d.imar.ro/home). Three-Dimensional Reconstruction of Human Interactions, Fieraru et al. CVPR 2020.
 
 <span id="datasets"></span>
 ## Datasets & Benchmarks
@@ -318,6 +321,7 @@ An aggregation of human motion understanding research.
 - [Evans et al](https://www.nature.com/articles/s41597-024-04077-3?fromPaywallRec=false). Synchronized Video, Motion Capture and Force Plate Dataset for Validating Markerless Human Movement Analysis, Evans et al. Scientific Data 2024.
 - [MotionCritic](https://motioncritic.github.io/). Aligning Human Motion Generation with Human Perceptions, Wang et al. ArXiv 2024.
 - [EMHI](https://arxiv.org/abs/2408.17168). EMHI: A Multimodal Egocentric Human Motion Dataset with HMD and Body-Worn IMUs, Fan et al. ArXiv 2024.
+- [Harmony4D](https://jyuntins.github.io/harmony4d/). Harmony4D: A Video Dataset for In-The-Wild Close Human Interactions, Khirodkar et al. NeurIPS 2024.
 - [EgoSim](https://siplab.org/projects/EgoSim). EgoSim: An Egocentric Multi-view Simulator for Body-worn Cameras during Human Motion, Hollidt et al. NeurIPS D&B 2024.
 - [synNsync](https://von31.github.io/synNsync/). Synergy and Synchrony in Couple Dances, Manukele et al. ArXiv 2024.
 - [Muscles in Time](https://simplexsigil.github.io/mint). Muscles in Time: Learning to Understand Human Motion by Simulating Muscle Activations, Schneider et al. NeurIPS D&B 2024.
@@ -349,9 +353,13 @@ An aggregation of human motion understanding research.
 - [EgoBody](https://sanweiliti.github.io/egobody/egobody.html). Egobody: Human body shape and motion of interacting people from head-mounted devices, Zhang et al. ECCV 2022.
 - [GIMO](https://github.com/y-zheng18/GIMO). GIMO: Gaze-Informed Human Motion Prediction in Context, Zheng et al. ECCV 2022.
 - [HuMMan](https://caizhongang.github.io/projects/HuMMan/). HuMMan: Multi-Modal 4D Human Dataset for Versatile Sensing and Modeling, Cai et al. ECCV 2022.
+- [ExPI](https://github.com/GUO-W/MultiMotion). Multi-Person Extreme Motion Prediction, Guo et al. CVPR 2022.
 - [HumanML3D](https://ericguo5513.github.io/text-to-motion). Generating Diverse and Natural 3D Human Motions from Text, Guo et al. CVPR 2022
 - [AIST++](https://google.github.io/aichoreographer/). AI Choreographer: Music Conditioned 3D Dance Generation with AIST++, Li et al. ICCV 2021.
+- [Fit3D](https://fit3d.imar.ro/home). AIFit: Automatic 3D Human-Interpretable Feedback Models for Fitness Training, Fieraru et al. CVPR 2021.
 - [BABEL](https://babel.is.tue.mpg.de/). BABEL: Bodies, Action and Behavior with English Labels, Punnakkal et al. CVPR 2021
+- [HumanSC3D](https://sc3d.imar.ro/home). Learning complex 3d human self-contact, Fieraru et al. AAAI 2021.
+- [CHI3D](https://ci3d.imar.ro/home). Three-Dimensional Reconstruction of Human Interactions, Fieraru et al. CVPR 2020.
 - [PROX](https://prox.is.tue.mpg.de/). Resolving 3D Human Pose Ambiguities with 3D Scene Constraints, Hassan et al. ICCV 2019
 - [AMASS](https://amass.is.tue.mpg.de/). AMASS: Archive of Motion Capture As Surface Shapes, Mahmood et al. ICCV 2019
 
