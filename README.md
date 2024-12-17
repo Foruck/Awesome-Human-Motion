@@ -2,15 +2,23 @@
 
 An aggregation of human motion understanding research. 
 
-[Motion Generation](#motion-generation)  [Motion Editing](#motion-editing)  [Motion Stylization](#motion-stylization) 
+[Reviews&Surveys](#review) [Motion Generation](#motion-generation)  [Motion Editing](#motion-editing)  [Motion Stylization](#motion-stylization) 
 
 [Human-Object Interaction](#hoi) [Human-Scene Interaction](#hsi)  [Human-Human Interaction](#hhi) 
 
 [Datasets](#datasets) [Humanoid](#humanoid) [Bio-stuff](#bio)
 
+
+<span id="review"></span>
+## Reviews & Surveys
+- [Zhao et al](https://arxiv.org/pdf/2412.10458). Motion Generation Review: Exploring Deep Learning for Lifelike Animation with Manifold, Zhao et al. ArXiv 2024.
+- [Zhu et al](https://arxiv.org/abs/2307.10894). Human Motion Generation: A Survey, Zhu et al. T-PAMI 2023.
+
 <span id="motion-generation"></span>
 ## Motion Generation
 
+- [Light-T2M](https://arxiv.org/pdf/2412.11193). Light-T2M: A Lightweight and Fast Model for Text-to-motion Generation, Zeng et al. AAAI 2025.
+- [Languate of Motion](https://languageofmotion.github.io/). The Language of Motion: Unifying Verbal and Non-verbal Language of 3D Human Motion, Chen et al. ArXiv 2024.
 - [Mogo](https://arxiv.org/abs/2412.07797). Mogo: RQ Hierarchical Causal Transformer for High-Quality 3D Human Motion Generation, Fu et al. ArXiv 2024.
 - [CoMA](https://gabrie-l.github.io/coma-page/). CoMA: Compositional Human Motion Generation with Multi-modal Agents, Sun et al. ArXiv 2024.
 - [SoPo](https://sopo-motion.github.io/). SoPo: Text-to-Motion Generation Using Semi-Online Preference Optimization, Tan et al. ArXiv 2024.
