@@ -329,6 +329,7 @@ An aggregation of human motion understanding research.
 - [LiveHPS++](https://4dvlab.github.io/project_page/LiveHPS2.html). LiveHPS++: Robust and Coherent Motion Capture in Dynamic Free Environment, Ren et al. ECCV 2024.
 - [SignAvatars](https://signavatars.github.io/). SignAvatars: A Large-scale 3D Sign Language Holistic Motion Dataset and Benchmark, Yu et al. ECCV 2024.
 - [Nymeria](https://www.projectaria.com/datasets/nymeria). Nymeria: A massive collection of multimodal egocentric daily motion in the wild, Ma et al. ECCV 2024.
+- [Human3.6M+](https://github.com/ainlamyae/Human3.6Mplus). Using musculoskeletal models to generate physically-consistent data for 3D human pose, kinematic, dynamic, and muscle estimation, Nasr et al. Multibody System Dynamics 2024.
 - [Inter-X](https://liangxuy.github.io/inter-x/). Inter-X: Towards Versatile Human-Human Interaction Analysis, Xu et al. CVPR 2024.
 - [HardMo](https://openaccess.thecvf.com/content/CVPR2024/papers/Liao_HardMo_A_Large-Scale_Hardcase_Dataset_for_Motion_Capture_CVPR_2024_paper.pdf). HardMo: ALarge-Scale Hardcase Dataset for Motion Capture, Liao et al. CVPR 2024.
 - [RELI11D](http://www.lidarhumanmotion.net/reli11d/). RELI11D: A Comprehensive Multimodal Human Motion Dataset and Method, Yan et al. CVPR 2024.
@@ -432,7 +433,7 @@ An aggregation of human motion understanding research.
 - [Macwan et al](https://journals.sagepub.com/doi/full/10.1177/10711813241262026). High-Fidelity Worker Motion Simulation With Generative AI, Macwan et al. HFES 2024.
 - [AddBiomechanics](https://addbiomechanics.org/). AddBiomechanics Dataset: Capturing the Physics of Human Motion at Scale, Werling et al. ECCV 2024.
 - [MANIKIN](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00194.pdf). MANIKIN: Biomechanically Accurate Neural Inverse Kinematics for Human Motion Estimation, Jiang et al. ECCV 2024.
-- [Nasr et al](https://link.springer.com/article/10.1007/s11044-024-10021-5). Using musculoskeletal models to generate physically-consistent data for 3D human pose, kinematic, dynamic, and muscle estimation, Nasr et al. Multibody System Dynamics 2024.
+- [Human3.6M+](https://github.com/ainlamyae/Human3.6Mplus). Using musculoskeletal models to generate physically-consistent data for 3D human pose, kinematic, dynamic, and muscle estimation, Nasr et al. Multibody System Dynamics 2024.
 - [HIT](https://hit.is.tue.mpg.de/). HIT: Estimating Internal Human Implicit Tissues from the Body Surface, Keller et al. CVPR 2024.
 - [Dai et al](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2024.1388742/full). Full-body pose reconstruction and correction in virtual reality for rehabilitation training, Dai et al. Frontiers in Neuroscience 2024.
 - [DynSyn](https://www.beanpow.top/assets/pdf/dynsyn_poster.pdf). DynSyn: Dynamical Synergistic Representation for Efficient Learning and Control in Overactuated Embodied Systems, He et al. ICML 2024.
