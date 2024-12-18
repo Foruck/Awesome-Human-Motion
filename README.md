@@ -215,6 +215,7 @@ An aggregation of human motion understanding research.
 <span id="hoi"></span>
 ## Human-Object Interaction
 
+- [FORCE](https://arxiv.org/abs/2403.11237). FORCE: Dataset and Method for Intuitive Physics Guided Human-object Interaction, Zhang et al. 3DV 2025.
 - [CHOICE](https://arxiv.org/pdf/2412.06702). CHOICE: Coordinated Human-Object Interaction in Cluttered Environments for Pick-and-Place Actions, Lu et al. ArXiv 2024.
 - [TriDi](https://virtualhumans.mpi-inf.mpg.de/tridi/). TriDi: Trilateral Diffusion of 3D Humans, Objects and Interactions, Petrov et al. ArXiv 2024.
 - [OOD-HOI](https://nickk0212.github.io/ood-hoi/). OOD-HOI: Text-Driven 3D Whole-Body Human-Object Interactions Generation Beyond Training Domains, Zhang et al. ArXiv 2024.
@@ -238,7 +239,6 @@ An aggregation of human motion understanding research.
 - [HOI Animator](https://zxylinkstart.github.io/HOIAnimator-Web/). HOIAnimator: Generating Text-prompt Human-object Animations using Novel Perceptive Diffusion Models, Son et al. CVPR 2024.
 - [CG-HOI](https://cg-hoi.christian-diller.de/#main). CG-HOI: Contact-Guided 3D Human-Object Interaction Generation, Diller et al. CVPR 2024.
 - [InterCap](https://intercap.is.tue.mpg.de/). InterCap: Joint Markerless 3D Tracking of Humans and Objects in Interaction, Huang et al. IJCV 2024.
-- [FORCE](https://arxiv.org/abs/2403.11237). FORCE: Dataset and Method for Intuitive Physics Guided Human-object Interaction, Zhang et al. ArXiv 2024.
 - [Phys-Fullbody-Grasp](https://eth-ait.github.io/phys-fullbody-grasp/). Physically Plausible Full-Body Hand-Object Interaction Synthesis, Braun et al. 3DV 2024.
 - [GRIP](https://grip.is.tue.mpg.de). GRIP: Generating Interaction Poses Using Spatial Cues and Latent Consistency, Taheri et al. 3DV 2024.
 - [OMOMO](https://github.com/lijiaman/omomo_release). Object Motion Guided Human Motion Synthesis, Li et al. SIGGRAPH Asia 2023.
