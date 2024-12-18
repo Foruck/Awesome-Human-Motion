@@ -19,6 +19,7 @@ An aggregation of human motion understanding research.
 <span id="motion-generation"></span>
 ## Motion Generation, Text/Speech/Music-Driven
 
+- [Unimotion](https://coral79.github.io/uni-motion/). Unimotion: Unifying 3D Human Motion Synthesis and Understanding, Li et al. 3DV 2025.
 - [Move in 2D](https://hhsinping.github.io/Move-in-2D/). Move-in-2D: 2D-Conditioned Human Motion Generation, Huang et al. ArXiv 2024.
 - [Motion-2-to-3](https://zju3dv.github.io/Motion-2-to-3/). Motion-2-to-3: Leveraging 2D Motion Data to Boost 3D Motion Generation, Pi et al. ArXiv 2024.
 - [Light-T2M](https://arxiv.org/pdf/2412.11193). Light-T2M: A Lightweight and Fast Model for Text-to-motion Generation, Zeng et al. AAAI 2025.
@@ -53,7 +54,6 @@ An aggregation of human motion understanding research.
 - [DART](https://zkf1997.github.io/DART/). DART: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control, Zhao et al. ArXiv 2024.
 - [CLoSD](https://guytevet.github.io/CLoSD-page/). CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al. ArXiv 2024.
 - [Wang et al](https://arxiv.org/abs/2410.03311). Quo Vadis, Motion Generation? From Large Language Models to Large Motion Models, Wang et al. ArXiv 2024.
-- [Unimotion](https://coral79.github.io/uni-motion/). Unimotion: Unifying 3D Human Motion Synthesis and Understanding, Li et al. ArXiv 2024.
 - [T2M-X](https://arxiv.org/abs/2409.13251). T2M-X: Learning Expressive Text-to-Motion Generation from Partially Annotated Data, Liu et al. ArXiv 2024.
 - [MoRAG](https://motion-rag.github.io/). MoRAG -- Multi-Fusion Retrieval Augmented Generation for Human Motion, Shashank et al. ArXiv 2024.
 - [Mandelli et al](https://arxiv.org/abs/2409.11920). Generation of Complex 3D Human Motion by Temporal and Spatial Composition of Diffusion Models, Mandelli et al. ArXiv 2024.
