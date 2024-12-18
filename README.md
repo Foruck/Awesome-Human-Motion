@@ -2,7 +2,9 @@
 
 An aggregation of human motion understanding research. 
 
-[Reviews & Surveys](#review) [Motion Generation](#motion-generation)  [Motion Editing](#motion-editing)  [Motion Stylization](#motion-stylization) 
+[Reviews & Surveys](#review) 
+
+[Motion Generation](#motion-generation)  [Motion Editing](#motion-editing)  [Motion Stylization](#motion-stylization) 
 
 [Human-Object Interaction](#hoi) [Human-Scene Interaction](#hsi)  [Human-Human Interaction](#hhi) 
 
@@ -15,8 +17,9 @@ An aggregation of human motion understanding research.
 - [Zhu et al](https://arxiv.org/abs/2307.10894). Human Motion Generation: A Survey, Zhu et al. T-PAMI 2023.
 
 <span id="motion-generation"></span>
-## Motion Generation
+## Motion Generation, Text/Speech/Music-Driven
 
+- [Move in 2D](https://hhsinping.github.io/Move-in-2D/). Move-in-2D: 2D-Conditioned Human Motion Generation, Huang et al. ArXiv 2024.
 - [Motion-2-to-3](https://zju3dv.github.io/Motion-2-to-3/). Motion-2-to-3: Leveraging 2D Motion Data to Boost 3D Motion Generation, Pi et al. ArXiv 2024.
 - [Light-T2M](https://arxiv.org/pdf/2412.11193). Light-T2M: A Lightweight and Fast Model for Text-to-motion Generation, Zeng et al. AAAI 2025.
 - [Languate of Motion](https://languageofmotion.github.io/). The Language of Motion: Unifying Verbal and Non-verbal Language of 3D Human Motion, Chen et al. ArXiv 2024.
@@ -367,6 +370,7 @@ An aggregation of human motion understanding research.
 <span id="humanoid"></span>
 ## Humanoid, Simulated or Real
 
+- [Exbody2](https://exbody2.github.io/). Exbody2: Advanced Expressive Humanoid Whole-Body Control, Ji et al. ArXiv 2024.
 - [SIMS](https://arxiv.org/abs/2411.19921). SIMS: Simulating Human-Scene Interactions with Real World Script Planning, Wang et al. ArXiv 2024.
 - [HOVER](https://arxiv.org/abs/2410.21229). HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots, He et al. ArXiv 2024.
 - [CLoSD](https://guytevet.github.io/CLoSD-page/). CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al. ArXiv 2024.
