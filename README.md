@@ -343,6 +343,7 @@ An aggregation of human motion understanding research.
 - [Human3.6M+](https://github.com/ainlamyae/Human3.6Mplus). Using musculoskeletal models to generate physically-consistent data for 3D human pose, kinematic, dynamic, and muscle estimation, Nasr et al. Multibody System Dynamics 2024.
 - [Inter-X](https://liangxuy.github.io/inter-x/). Inter-X: Towards Versatile Human-Human Interaction Analysis, Xu et al. CVPR 2024.
 - [HardMo](https://openaccess.thecvf.com/content/CVPR2024/papers/Liao_HardMo_A_Large-Scale_Hardcase_Dataset_for_Motion_Capture_CVPR_2024_paper.pdf). HardMo: ALarge-Scale Hardcase Dataset for Motion Capture, Liao et al. CVPR 2024.
+- [MMVP](https://metaverse-ai-lab-thu.github.io/MMVP-Dataset/). MMVP: A Multimodal MoCap Dataset with Vision and Pressure Sensors, Zhang et al. CVPR 2024.
 - [RELI11D](http://www.lidarhumanmotion.net/reli11d/). RELI11D: A Comprehensive Multimodal Human Motion Dataset and Method, Yan et al. CVPR 2024.
 - [GroundLink](https://cs-people.bu.edu/xjhan/groundlink.html). GroundLink: A Dataset Unifying Human Body Movement and Ground Reaction Dynamics, Han et al. SIGGRAPH Asia 2023.
 - [HOH](https://hohdataset.github.io/). HOH: Markerless Multimodal Human-Object-Human Handover Dataset with Large Object Count, Wiederhold et al. NeurIPS D&B 2023.
@@ -411,6 +412,7 @@ An aggregation of human motion understanding research.
 - [NCP](https://tencent-roboticsx.github.io/NCP/). Neural Categorical Priors for Physics-Based Character Control, Zhu et al. SIGGRAPH Asia 2023.
 - [DROP](https://stanford-tml.github.io/drop/). DROP: Dynamics Responses from Human Motion Prior and Projective Dynamics, Jiang et al. SIGGRAPH Asia 2023.
 - [InsActor](https://jiawei-ren.github.io/projects/insactor/). InsActor: Instruction-driven Physics-based Characters, Ren et al. NeurIPS 2023.
+- [Humanoid4Parkour](https://humanoid4parkour.github.io/). Humanoid Parkour Learning, Zhuang et al. CoRL 2023.
 - [PHC](https://zhengyiluo.github.io/PHC/). Perpetual Humanoid Control for Real-time Simulated Avatars, Luo et al. ICCV 2023.
 - [DiffMimic](https://diffmimic.github.io/). DiffMimic: Efficient Motion Mimicking with Differentiable Physics, Ren et al. ICLR 2023.
 - [Vid2Player3D](https://research.nvidia.com/labs/toronto-ai/vid2player3d/). DiffMimic: Efficient Motion Mimicking with Differentiable Physics, Zhang et al. SIGGRAPH 2023.
