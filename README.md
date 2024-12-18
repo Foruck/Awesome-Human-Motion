@@ -264,7 +264,6 @@ An aggregation of human motion understanding research.
 - [LaserHuman](https://github.com/4DVLab/LaserHuman). LaserHuman: Language-guided Scene-aware Human Motion Generation in Free Environment, Cong et al. ArXiv 2024.
 - [LINGO](https://lingomotions.com/). Autonomous Character-Scene Interaction Synthesis from Text Instruction, Jiang et al. SIGGRAPH Asia 2024.
 - [DiMoP3D](https://sites.google.com/view/dimop3d). Harmonizing Stochasticity and Determinism: Scene-responsive Diverse Human Motion Prediction, Lou et al. NeurIPS 2024.
-- [InterScene](https://ieeexplore.ieee.org/abstract/document/10550906). Synthesizing Physically Plausible Human Motions in 3D Scenes, Pan et al. 3DV 2024.
 - [Liu et al.](https://arxiv.org/html/2312.02700v2). Revisit Human-Scene Interaction via Space Occupancy, Liu et al. ECCV 2024.
 - [TesMo](https://research.nvidia.com/labs/toronto-ai/tesmo/). Generating Human Interaction Motions in Scenes with Text Control, Yi et al. ECCV 2024.
 - [Afford-Motion](https://afford-motion.github.io/). Move as You Say, Interact as You Can: Language-guided Human Motion Generation with Scene Affordance, Wang et al. CVPR 2024.
@@ -272,6 +271,8 @@ An aggregation of human motion understanding research.
 - [Cen et al.](https://zju3dv.github.io/text_scene_motion/). Generating Human Motion in 3D Scenes from Text Descriptions, Cen et al. CVPR 2024.
 - [TRUMANS](https://jnnan.github.io/trumans/). Scaling Up Dynamic Human-Scene Interaction Modeling, Jiang et al. CVPR 2024.
 - [UniHSI](https://xizaoqu.github.io/unihsi/). UniHSI: Unified Human-Scene Interaction via Prompted Chain-of-Contacts, Xiao et al. ICLR 2024.
+- [Purposer](https://arxiv.org/pdf/2404.12942). Purposer: Putting Human Motion Generation in Context, Ugrinovic et al. 3DV 2024.
+- [InterScene](https://ieeexplore.ieee.org/abstract/document/10550906). Synthesizing Physically Plausible Human Motions in 3D Scenes, Pan et al. 3DV 2024.
 - [DIMOS](https://github.com/zkf1997/DIMOS). DIMOS: Synthesizing Diverse Human Motions in 3D Indoor Scenes, Zhao et al. ICCV 2023.
 - [LAMA](https://jiyewise.github.io/projects/LAMA/). Locomotion-Action-Manipulation: Synthesizing Human-Scene Interactions in Complex 3D Environments, Lee et al. ICCV 2023.
 - [Narrator](http://cic.tju.edu.cn/faculty/likun/projects/Narrator). Narrator: Towards Natural Control of Human-Scene Interaction Generation via Relationship Reasoning, Xuan et al. ICCV 2023.
