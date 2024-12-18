@@ -257,6 +257,7 @@ An aggregation of human motion understanding research.
 <span id="hsi"></span>
 ## Human-Scene Interaction
 
+- [Paschalidis et al](https://arxiv.org/pdf/2408.16770?). 3D Whole-body Grasp Synthesis with Directional Controllability, Paschalidis et al. ArXiv 2024.
 - [EnvPoser](https://arxiv.org/pdf/2412.10235). EnvPoser: Environment-aware Realistic Human Motion Estimation from Sparse Observations with Uncertainty Modeling. Xia et al. ArXiv 2024.
 - [Diffusion Implicit Policy](https://jingyugong.github.io/DiffusionImplicitPolicy/), Diffusion Implicit Policy for Unpaired Scene-aware Motion synthesis, Gong et al. ArXiv 2024.
 - [SIMS](https://arxiv.org/abs/2411.19921). SIMS: Simulating Human-Scene Interactions with Real World Script Planning, Wang et al. ArXiv 2024.
