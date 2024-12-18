@@ -223,7 +223,6 @@ An aggregation of human motion understanding research.
 - [SkillMimic](https://ingrid789.github.io/SkillMimic/). SkillMimic: Learning Reusable Basketball Skills from Demonstrations, Wang et al. ArXiv 2024.
 - [CORE4D](https://core4d.github.io/). CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement, Zhang et al. ArXiv 2024.
 - [Wu et al](https://hoifhli.github.io/). Human-Object Interaction from Human-Level Instructions, Wu et al. ArXiv 2024.
-- [GRIP](https://grip.is.tue.mpg.de). GRIP: Generating Interaction Poses Using Spatial Cues and Latent Consistency, Taheri et al. 3DV 2024.
 - [HumanVLA](https://arxiv.org/abs/2406.19972). HumanVLA: Towards Vision-Language Directed Object Rearrangement by Physical Humanoid, Xu et al. NeurIPS 2024.
 - [OmniGrasp](https://www.zhengyiluo.com/Omnigrasp-Site/). Grasping Diverse Objects with Simulated Humanoids, Luo et al. NeurIPS 2024.
 - [EgoChoir](https://yyvhang.github.io/EgoChoir/). EgoChoir: Capturing 3D Human-Object Interaction Regions from Egocentric Views, Yang et al. NeurIPS 2024.
@@ -240,11 +239,13 @@ An aggregation of human motion understanding research.
 - [CG-HOI](https://cg-hoi.christian-diller.de/#main). CG-HOI: Contact-Guided 3D Human-Object Interaction Generation, Diller et al. CVPR 2024.
 - [InterCap](https://intercap.is.tue.mpg.de/). InterCap: Joint Markerless 3D Tracking of Humans and Objects in Interaction, Huang et al. IJCV 2024.
 - [FORCE](https://arxiv.org/abs/2403.11237). FORCE: Dataset and Method for Intuitive Physics Guided Human-object Interaction, Zhang et al. ArXiv 2024.
+- [Phys-Fullbody-Grasp](https://eth-ait.github.io/phys-fullbody-grasp/). Physically Plausible Full-Body Hand-Object Interaction Synthesis, Braun et al. 3DV 2024.
+- [GRIP](https://grip.is.tue.mpg.de). GRIP: Generating Interaction Poses Using Spatial Cues and Latent Consistency, Taheri et al. 3DV 2024.
 - [OMOMO](https://github.com/lijiaman/omomo_release). Object Motion Guided Human Motion Synthesis, Li et al. SIGGRAPH Asia 2023.
 - [CHAIRS](https://jnnan.github.io/project/chairs/). Full-Body Articulated Human-Object Interaction, Jiang et al. ICCV 2023.
 - [HGHOI](https://zju3dv.github.io/hghoi). Hierarchical Generation of Human-Object Interactions with Diffusion Probabilistic Models, Pi et al. ICCV 2023.
 - [InterDiff](https://sirui-xu.github.io/InterDiff/). InterDiff: Generating 3D Human-Object Interactions with Physics-Informed Diffusion, Xu et al. ICCV 2023.
-- [Object Pop Up](https://virtualhumans.mpi-inf.mpg.de/object_popup/). Object pop-up: Can we infer 3D objects and their poses from human interactions alone?, Petrov et al. CVPR 2023.
+- [Object Pop Up](https://virtualhumans.mpi-inf.mpg.de/object_popup/). Object pop-up: Can we infer 3D objects and their poses from human interactions alone? Petrov et al. CVPR 2023.
 - [ARCTIC](https://arctic.is.tue.mpg.de/). A Dataset for Dexterous Bimanual Hand-Object Manipulation, Fan et al. CVPR 2023.
 - [TOCH](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630001.pdf). TOCH: Spatio-Temporal Object-to-Hand Correspondence for Motion Refinement, Zhou et al. ECCV 2022.
 - [COUCH](https://virtualhumans.mpi-inf.mpg.de/couch/). COUCH: Towards Controllable Human-Chair Interactions, Zhang et al. ECCV 2022.
@@ -400,6 +401,7 @@ An aggregation of human motion understanding research.
 - [PULSE](https://github.com/ZhengyiLuo/PULSE). Universal Humanoid Motion Representations for Physics-Based Control, Luo et al. ICLR 2024.
 - [H-GAP](https://github.com/facebookresearch/hgap). H-GAP: Humanoid Control with a Generalist Planner, Jiang et al. ICLR 2024.
 - [UniHSI](https://xizaoqu.github.io/unihsi/). UniHSI: Unified Human-Scene Interaction via Prompted Chain-of-Contacts, Xiao et al. ICLR 2024.
+- [Phys-Fullbody-Grasp](https://eth-ait.github.io/phys-fullbody-grasp/). Physically Plausible Full-Body Hand-Object Interaction Synthesis, Braun et al. 3DV 2024.
 - [Expressive Humanoid](https://expressive-humanoid.github.io/). Expressive Whole-Body Control for Humanoid Robots, Cheng et al. RSS 2024.
 - [PhySHOI](https://wyhuai.github.io/physhoi-page/). PhysHOI: Physics-Based Imitation of Dynamic Human-Object Interaction, Wang et al. ArXiv 2024. 
 - [CASE](https://frank-zy-dou.github.io/projects/CASE/index.html). C·ASE: Learning Conditional Adversarial Skill Embeddings for Physics-based Characters, Dou et al. SIGGRAPH Asia 2023.
