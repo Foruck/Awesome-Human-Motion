@@ -242,6 +242,7 @@ An aggregation of human motion understanding research.
 - [InterCap](https://intercap.is.tue.mpg.de/). InterCap: Joint Markerless 3D Tracking of Humans and Objects in Interaction, Huang et al. IJCV 2024.
 - [Phys-Fullbody-Grasp](https://eth-ait.github.io/phys-fullbody-grasp/). Physically Plausible Full-Body Hand-Object Interaction Synthesis, Braun et al. 3DV 2024.
 - [GRIP](https://grip.is.tue.mpg.de). GRIP: Generating Interaction Poses Using Spatial Cues and Latent Consistency, Taheri et al. 3DV 2024.
+- [FAVOR](https://kailinli.github.io/FAVOR/). Favor: Full-Body AR-driven Virtual Object Rearrangement Guided by Instruction Text, Li et al. AAAI 2024.
 - [OMOMO](https://github.com/lijiaman/omomo_release). Object Motion Guided Human Motion Synthesis, Li et al. SIGGRAPH Asia 2023.
 - [CHAIRS](https://jnnan.github.io/project/chairs/). Full-Body Articulated Human-Object Interaction, Jiang et al. ICCV 2023.
 - [HGHOI](https://zju3dv.github.io/hghoi). Hierarchical Generation of Human-Object Interactions with Diffusion Probabilistic Models, Pi et al. ICCV 2023.
