@@ -305,6 +305,7 @@ An aggregation of human motion understanding research.
 - [COLLAGE](https://arxiv.org/abs/2409.20502). COLLAGE: Collaborative Human-Agent Interaction Generation using Hierarchical Latent Diffusion and Language Models, Daiya et al. ArXiv 2024.
 - [Harmony4D](https://jyuntins.github.io/harmony4d/). Harmony4D: A Video Dataset for In-The-Wild Close Human Interactions, Khirodkar et al. NeurIPS 2024.
 - [InterControl](https://github.com/zhenzhiwang/intercontrol). InterControl: Generate Human Motion Interactions by Controlling Every Joint, Wang et al. NeurIPS 2024.
+- [PhysReaction](https://yunzeliu.github.io/PhysReaction/). PhysReaction: Physically Plausible Real-Time Humanoid Reaction Synthesis via Forward Dynamics Guided 4D Imitation, Liu et al. ACM MM 2024.
 - [Shan et al.](https://arxiv.org/abs/2405.18483). Towards Open Domain Text-Driven Synthesis of Multi-Person Motions, Shan et al. ECCV 2024.
 - [ReMoS](https://vcai.mpi-inf.mpg.de/projects/remos/). ReMoS: 3D Motion-Conditioned Reaction Synthesis for Two-Person Interactions, Ghosh et al. ECCV 2024.
 - [Inter-X](https://liangxuy.github.io/inter-x/). Inter-X: Towards Versatile Human-Human Interaction Analysis, Xu et al. CVPR 2024.
