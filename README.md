@@ -266,6 +266,7 @@ An aggregation of human motion understanding research.
 - [DiMoP3D](https://sites.google.com/view/dimop3d). Harmonizing Stochasticity and Determinism: Scene-responsive Diverse Human Motion Prediction, Lou et al. NeurIPS 2024.
 - [Liu et al.](https://arxiv.org/html/2312.02700v2). Revisit Human-Scene Interaction via Space Occupancy, Liu et al. ECCV 2024.
 - [TesMo](https://research.nvidia.com/labs/toronto-ai/tesmo/). Generating Human Interaction Motions in Scenes with Text Control, Yi et al. ECCV 2024.
+- [Kang et al](https://diglib.eg.org/server/api/core/bitstreams/f1072102-82a6-4228-a140-9ccf09f21077/content). Learning Climbing Controllers for Physics-Based Characters, Kang et al. Eurographics 2024.
 - [Afford-Motion](https://afford-motion.github.io/). Move as You Say, Interact as You Can: Language-guided Human Motion Generation with Scene Affordance, Wang et al. CVPR 2024.
 - [GenZI](https://craigleili.github.io/projects/genzi/). GenZI: Zero-Shot 3D Human-Scene Interaction Generation, Li et al. CVPR 2024.
 - [Cen et al.](https://zju3dv.github.io/text_scene_motion/). Generating Human Motion in 3D Scenes from Text Descriptions, Cen et al. CVPR 2024.
