@@ -17,6 +17,7 @@ An aggregation of human motion understanding research.
 <span id="motion-generation"></span>
 ## Motion Generation
 
+- [Motion-2-to-3](https://zju3dv.github.io/Motion-2-to-3/). Motion-2-to-3: Leveraging 2D Motion Data to Boost 3D Motion Generation, Pi et al. ArXiv 2024.
 - [Light-T2M](https://arxiv.org/pdf/2412.11193). Light-T2M: A Lightweight and Fast Model for Text-to-motion Generation, Zeng et al. AAAI 2025.
 - [Languate of Motion](https://languageofmotion.github.io/). The Language of Motion: Unifying Verbal and Non-verbal Language of 3D Human Motion, Chen et al. ArXiv 2024.
 - [Mogo](https://arxiv.org/abs/2412.07797). Mogo: RQ Hierarchical Causal Transformer for High-Quality 3D Human Motion Generation, Fu et al. ArXiv 2024.
