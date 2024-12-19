@@ -263,12 +263,12 @@ An aggregation of human motion understanding research.
 - [EnvPoser](https://arxiv.org/pdf/2412.10235). EnvPoser: Environment-aware Realistic Human Motion Estimation from Sparse Observations with Uncertainty Modeling. Xia et al. ArXiv 2024.
 - [Diffusion Implicit Policy](https://jingyugong.github.io/DiffusionImplicitPolicy/), Diffusion Implicit Policy for Unpaired Scene-aware Motion synthesis, Gong et al. ArXiv 2024.
 - [SIMS](https://arxiv.org/abs/2411.19921). SIMS: Simulating Human-Scene Interactions with Real World Script Planning, Wang et al. ArXiv 2024.
-- [SAST](https://github.com/felixbmuller/SAST). Massively Multi-Person 3D Human Motion Forecasting with Scene Context, Mueller et al. ArXiv 2024.
 - [LaserHuman](https://github.com/4DVLab/LaserHuman). LaserHuman: Language-guided Scene-aware Human Motion Generation in Free Environment, Cong et al. ArXiv 2024.
 - [LINGO](https://lingomotions.com/). Autonomous Character-Scene Interaction Synthesis from Text Instruction, Jiang et al. SIGGRAPH Asia 2024.
 - [DiMoP3D](https://sites.google.com/view/dimop3d). Harmonizing Stochasticity and Determinism: Scene-responsive Diverse Human Motion Prediction, Lou et al. NeurIPS 2024.
 - [Liu et al.](https://arxiv.org/html/2312.02700v2). Revisit Human-Scene Interaction via Space Occupancy, Liu et al. ECCV 2024.
 - [TesMo](https://research.nvidia.com/labs/toronto-ai/tesmo/). Generating Human Interaction Motions in Scenes with Text Control, Yi et al. ECCV 2024.
+- [SAST](https://github.com/felixbmuller/SAST). Massively Multi-Person 3D Human Motion Forecasting with Scene Context, Mueller et al. ECCV 2024 Workshop.
 - [Kang et al](https://diglib.eg.org/server/api/core/bitstreams/f1072102-82a6-4228-a140-9ccf09f21077/content). Learning Climbing Controllers for Physics-Based Characters, Kang et al. Eurographics 2024.
 - [Afford-Motion](https://afford-motion.github.io/). Move as You Say, Interact as You Can: Language-guided Human Motion Generation with Scene Affordance, Wang et al. CVPR 2024.
 - [GenZI](https://craigleili.github.io/projects/genzi/). GenZI: Zero-Shot 3D Human-Scene Interaction Generation, Li et al. CVPR 2024.
@@ -448,6 +448,7 @@ An aggregation of human motion understanding research.
 <span id="bio"></span>
 ## Bio-stuff: Human Anatomy, Biomechanics, Physiology
 
+- [OpenCapBench](https://arxiv.org/abs/2406.09788). A Benchmark to Bridge Pose Estimation and Biomechanics, Gozlan et al. WACV 2025.
 - [HDyS](https://foruck.github.io/HDyS). Homogeneous Dynamics Space for Heterogeneous Humans, Liu et al. ArXiv 2024.
 - [BioDesign](https://cs-people.bu.edu/xjhan/bioDesign.html). Motion-Driven Neural Optimizer for Prophylactic Braces Made by Distributed Microstructures, Han et al. SIGGRAPH Asia 2024.
 - [Evans et al](https://www.nature.com/articles/s41597-024-04077-3?fromPaywallRec=false). Synchronized Video, Motion Capture and Force Plate Dataset for Validating Markerless Human Movement Analysis, Evans et al. Scientific Data 2024.
@@ -462,7 +463,6 @@ An aggregation of human motion understanding research.
 - [Dai et al](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2024.1388742/full). Full-body pose reconstruction and correction in virtual reality for rehabilitation training, Dai et al. Frontiers in Neuroscience 2024.
 - [DynSyn](https://www.beanpow.top/assets/pdf/dynsyn_poster.pdf). DynSyn: Dynamical Synergistic Representation for Efficient Learning and Control in Overactuated Embodied Systems, He et al. ICML 2024.
 - [He et al.](https://arxiv.org/pdf/2312.05473.pdf). Self Model for Embodied Intelligence: Modeling Full-Body Human Musculoskeletal System and Locomotion Control with Hierarchical Low-Dimensional Representation, He et al. ICRA 2024.
-- [OpenCapBench](https://arxiv.org/abs/2406.09788). A Benchmark to Bridge Pose Estimation and Biomechanics, Gozlan et al. ArXiv 2024.
 - [SKEL](https://skel.is.tue.mpg.de/). From skin to skeleton: Towards biomechanically accurate 3d digital humans, Keller et al. SIGGRAPH Asia 2023.
 - [MuscleVAE](https://pku-mocca.github.io/MuscleVAE-page/). MuscleVAE: Model-Based Controllers of Muscle-Actuated Characters, Feng et al. SIGGRAPH Asia 2023.
 - [Bidirectional GaitNet](https://github.com/namjohn10/BidirectionalGaitNet) Bidirectional GaitNet, Park et al. SIGGRAPH 2023.
