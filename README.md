@@ -122,6 +122,7 @@ An aggregation of human motion understanding research.
 - [OMG](https://tr3e.github.io/omg-page/). OMG: Towards Open-vocabulary Motion Generation via Mixture of Controllers, Liang et al. CVPR 2024.
 - [FlowMDM](https://barquerogerman.github.io/FlowMDM/). FlowMDM: Seamless Human Motion Composition with Blended Positional Encodings, Barquero et al. CVPR 2024.
 - [Digital Life Project](https://digital-life-project.com/). Digital Life Project: Autonomous 3D Characters with Social Intelligence, Cai et al. CVPR 2024.
+- [EMAGE](https://pantomatrix.github.io/EMAGE/). EMAGE: Towards Unified Holistic Co-Speech Gesture Generation via Expressive Masked Audio Gesture Modeling, Liu et al. CVPR 2024.
 - [STMC](https://xbpeng.github.io/projects/STMC/index.html). Multi-Track Timeline Control for Text-Driven 3D Human Motion Generation, Petrovich et al. CVPR Workshop 2024.
 - [InstructMotion](https://github.com/THU-LYJ-Lab/InstructMotion). Exploring Text-to-Motion Generation with Human Preference, Sheng et al. CVPR Workshop 2024.
 - [Single Motion Diffusion](https://sinmdm.github.io/SinMDM-page/). Raab et al. ICLR 2024.
@@ -188,6 +189,7 @@ An aggregation of human motion understanding research.
 - [ACTOR](https://mathis.petrovich.fr/actor/index.html). Action-Conditioned 3D Human Motion Synthesis with Transformer VAE, Petrovich et al. ICCV 2021.
 - [AIST++](https://google.github.io/aichoreographer/). AI Choreographer: Music Conditioned 3D Dance Generation with AIST++, Li et al. ICCV 2021.
 - [Starke et al.](https://dl.acm.org/doi/10.1145/3450626.3459881). Neural animation layering for synthesizing martial arts movements, Starke et al. SIGGRAPH 2021.
+- [MOJO](https://yz-cnsdqz.github.io/eigenmotion/MOJO/index.html). We are More than Our Joints: Predicting how 3D Bodies Move, Zhang et al. CVPR 2021.
 - [DLow](https://www.ye-yuan.com/dlow). DLow: Diversifying Latent Flows for Diverse Human Motion Prediction, Yuan et al. ECCV 2020.
 - [Starke et al.](https://www.ipab.inf.ed.ac.uk/cgvu/basketball.pdf). Local motion phases for learning multi-contact character movements, Starke et al. SIGGRAPH 2020.
 
@@ -253,6 +255,7 @@ An aggregation of human motion understanding research.
 - [COUCH](https://virtualhumans.mpi-inf.mpg.de/couch/). COUCH: Towards Controllable Human-Chair Interactions, Zhang et al. ECCV 2022.
 - [SAGA](https://jiahaoplus.github.io/SAGA/saga.html). SAGA: Stochastic Whole-Body Grasping with Contact, Wu et al. ECCV 2022.
 - [GOAL](https://goal.is.tue.mpg.de/). GOAL: Generating 4D Whole-Body Motion for Hand-Object Grasping, Taheri et al. CVPR 2022.
+- [BEHAVE](https://virtualhumans.mpi-inf.mpg.de/behave/). BEHAVE: Dataset and Method for Tracking Human Object Interactions, Bhatnagar et al. CVPR 2022.
 - [GRAB](https://grab.is.tue.mpg.de/). GRAB: A Dataset of Whole-Body Human Grasping of Objects, Taheri et al. ECCV 2020.
 
 
@@ -277,6 +280,7 @@ An aggregation of human motion understanding research.
 - [UniHSI](https://xizaoqu.github.io/unihsi/). UniHSI: Unified Human-Scene Interaction via Prompted Chain-of-Contacts, Xiao et al. ICLR 2024.
 - [Purposer](https://arxiv.org/pdf/2404.12942). Purposer: Putting Human Motion Generation in Context, Ugrinovic et al. 3DV 2024.
 - [InterScene](https://ieeexplore.ieee.org/abstract/document/10550906). Synthesizing Physically Plausible Human Motions in 3D Scenes, Pan et al. 3DV 2024.
+- [Mir et al](https://arxiv.org/abs/2304.02061). Generating Continual Human Motion in Diverse 3D Scenes, Mir et al. 3DV 2024.
 - [DIMOS](https://github.com/zkf1997/DIMOS). DIMOS: Synthesizing Diverse Human Motions in 3D Indoor Scenes, Zhao et al. ICCV 2023.
 - [LAMA](https://jiyewise.github.io/projects/LAMA/). Locomotion-Action-Manipulation: Synthesizing Human-Scene Interactions in Complex 3D Environments, Lee et al. ICCV 2023.
 - [Narrator](http://cic.tju.edu.cn/faculty/likun/projects/Narrator). Narrator: Towards Natural Control of Human-Scene Interaction Generation via Relationship Reasoning, Xuan et al. ICCV 2023.
@@ -292,9 +296,11 @@ An aggregation of human motion understanding research.
 - [HUMANISE](https://github.com/Silverster98/HUMANISE). HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes, Wang et al. NeurIPS 2022.
 - [EmbodiedPose](https://github.com/ZhengyiLuo/EmbodiedPose). Embodied Scene-aware Human Pose Estimation, Luo et al. NeurIPS 2022.
 - [GIMO](https://github.com/y-zheng18/GIMO). GIMO: Gaze-Informed Human Motion Prediction in Context, Zheng et al. ECCV 2022.
+- [COINS](https://zkf1997.github.io/COINS/index.html). COINS: Compositional Human-Scene Interaction Synthesis with Semantic Control, Zhao et al. ECCV 2022.
 - [Wang et al.](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Towards_Diverse_and_Natural_Scene-Aware_3D_Human_Motion_Synthesis_CVPR_2022_paper.pdf). Towards Diverse and Natural Scene-aware 3D Human Motion Synthesis, Wang et al. CVPR 2022.
 - [GAMMA](https://yz-cnsdqz.github.io/eigenmotion/GAMMA/). The Wanderings of Odysseus in 3D Scenes, Zhang et al. CVPR 2022.
 - [SAMP](https://samp.is.tue.mpg.de/). Stochastic Scene-Aware Motion Prediction, Hassan et al, ICCV 2021.
+- [LEMO](https://sanweiliti.github.io/LEMO/LEMO.html). Learning Motion Priors for 4D Human Body Capture in 3D Scenes, Zhang et al. ICCV 2021. 
 - [PLACE](https://sanweiliti.github.io/PLACE/PLACE.html). PLACE: Proximity Learning of Articulation and Contact in 3D Environments, Zhang et al. 3DV 2020.
 - [Starke et al.](https://www.ipab.inf.ed.ac.uk/cgvu/basketball.pdf). Local motion phases for learning multi-contact character movements, Starke et al. SIGGRAPH 2020.
 - [PSI](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Generating_3D_People_in_Scenes_Without_People_CVPR_2020_paper.pdf). Generating 3D People in Scenes without People, Zhang et al. CVPR 2020.
@@ -366,7 +372,8 @@ An aggregation of human motion understanding research.
 - [GIMO](https://github.com/y-zheng18/GIMO). GIMO: Gaze-Informed Human Motion Prediction in Context, Zheng et al. ECCV 2022.
 - [HuMMan](https://caizhongang.github.io/projects/HuMMan/). HuMMan: Multi-Modal 4D Human Dataset for Versatile Sensing and Modeling, Cai et al. ECCV 2022.
 - [ExPI](https://github.com/GUO-W/MultiMotion). Multi-Person Extreme Motion Prediction, Guo et al. CVPR 2022.
-- [HumanML3D](https://ericguo5513.github.io/text-to-motion). Generating Diverse and Natural 3D Human Motions from Text, Guo et al. CVPR 2022
+- [HumanML3D](https://ericguo5513.github.io/text-to-motion). Generating Diverse and Natural 3D Human Motions from Text, Guo et al. CVPR 2022.
+- [BEHAVE](https://virtualhumans.mpi-inf.mpg.de/behave/). BEHAVE: Dataset and Method for Tracking Human Object Interactions, Bhatnagar et al. CVPR 2022.
 - [AIST++](https://google.github.io/aichoreographer/). AI Choreographer: Music Conditioned 3D Dance Generation with AIST++, Li et al. ICCV 2021.
 - [Fit3D](https://fit3d.imar.ro/home). AIFit: Automatic 3D Human-Interpretable Feedback Models for Fitness Training, Fieraru et al. CVPR 2021.
 - [BABEL](https://babel.is.tue.mpg.de/). BABEL: Bodies, Action and Behavior with English Labels, Punnakkal et al. CVPR 2021
