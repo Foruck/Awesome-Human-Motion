@@ -378,6 +378,7 @@ An aggregation of human motion understanding research.
 <span id="humanoid"></span>
 ## Humanoid, Simulated or Real
 
+- [UH-1](https://usc-gvl.github.io/UH-1/). Learning from Massive Human Videos for Universal Humanoid Pose Control, Mao et al. ArXiv 2024.
 - [Exbody2](https://exbody2.github.io/). Exbody2: Advanced Expressive Humanoid Whole-Body Control, Ji et al. ArXiv 2024.
 - [SIMS](https://arxiv.org/abs/2411.19921). SIMS: Simulating Human-Scene Interactions with Real World Script Planning, Wang et al. ArXiv 2024.
 - [HOVER](https://arxiv.org/abs/2410.21229). HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots, He et al. ArXiv 2024.
