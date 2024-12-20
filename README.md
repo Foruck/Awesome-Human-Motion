@@ -20,6 +20,8 @@ An aggregation of human motion understanding research.
 ## Motion Generation, Text/Speech/Music-Driven
 
 - [Unimotion](https://coral79.github.io/uni-motion/). Unimotion: Unifying 3D Human Motion Synthesis and Understanding, Li et al. 3DV 2025.
+- [ScaMo](https://shunlinlu.github.io/ScaMo/). ScaMo: Exploring the Scaling Law in Autoregressive Motion Generation Model, Lu et al. ArXiv 2024.
+- [EnergyMoGen](https://jiro-zhang.github.io/EnergyMoGen/). EnergyMoGen: Compositional Human Motion Generation with Energy-Based Diffusion Model in Latent Space, Zhang et al. ArXiv 2024.
 - [Move in 2D](https://hhsinping.github.io/Move-in-2D/). Move-in-2D: 2D-Conditioned Human Motion Generation, Huang et al. ArXiv 2024.
 - [Motion-2-to-3](https://zju3dv.github.io/Motion-2-to-3/). Motion-2-to-3: Leveraging 2D Motion Data to Boost 3D Motion Generation, Pi et al. ArXiv 2024.
 - [Light-T2M](https://arxiv.org/pdf/2412.11193). Light-T2M: A Lightweight and Fast Model for Text-to-motion Generation, Zeng et al. AAAI 2025.
@@ -333,6 +335,7 @@ An aggregation of human motion understanding research.
 <span id="datasets"></span>
 ## Datasets & Benchmarks
 
+- [CMP & CMR](https://github.com/fyyakaxyy/AnimationGPT). AnimationGPT:An AIGC tool for generating game combat motion assets, Liao et al. 
 - [LINGO](https://lingomotions.com/). Autonomous Character-Scene Interaction Synthesis from Text Instruction, Jiang et al. SIGGRAPH Asia 2024.
 - [LaserHuman](https://github.com/4DVLab/LaserHuman). LaserHuman: Language-guided Scene-aware Human Motion Generation in Free Environment, Cong et al. ArXiv 2024.
 - [AtoM](https://atom-motion.github.io/). AToM: Aligning Text-to-Motion Model at Event-Level with GPT-4Vision Reward, Han et al. ArXiv 2024.
@@ -386,6 +389,7 @@ An aggregation of human motion understanding research.
 <span id="humanoid"></span>
 ## Humanoid, Simulated or Real
 
+- [Liu et al](https://arxiv.org/pdf/2412.15166). Human-Humanoid Robots Cross-Embodiment Behavior-Skill Transfer Using Decomposed Adversarial Learning from Demonstration, Liu et al. RA-L 2024.
 - [UH-1](https://usc-gvl.github.io/UH-1/). Learning from Massive Human Videos for Universal Humanoid Pose Control, Mao et al. ArXiv 2024.
 - [Exbody2](https://exbody2.github.io/). Exbody2: Advanced Expressive Humanoid Whole-Body Control, Ji et al. ArXiv 2024.
 - [SIMS](https://arxiv.org/abs/2411.19921). SIMS: Simulating Human-Scene Interactions with Real World Script Planning, Wang et al. ArXiv 2024.
