@@ -21,6 +21,7 @@ An aggregation of human motion understanding research.
 
 - [Unimotion](https://coral79.github.io/uni-motion/). Unimotion: Unifying 3D Human Motion Synthesis and Understanding, Li et al. 3DV 2025.
 - [MotionCraft](https://cure-lab.github.io/MotionCraft/). MotionCraft: Crafting Whole-Body Motion with Plug-and-Play Multimodal Controls, Bian et al. AAAI 2025.
+- [ReinDiffuse](https://reindiffuse.github.io/). ReinDiffuse: Crafting Physically Plausible Motions with Reinforced Diffusion Model, Han et al. WACV 2025.
 - [ScaMo](https://shunlinlu.github.io/ScaMo/). ScaMo: Exploring the Scaling Law in Autoregressive Motion Generation Model, Lu et al. ArXiv 2024.
 - [EnergyMoGen](https://jiro-zhang.github.io/EnergyMoGen/). EnergyMoGen: Compositional Human Motion Generation with Energy-Based Diffusion Model in Latent Space, Zhang et al. ArXiv 2024.
 - [Move in 2D](https://hhsinping.github.io/Move-in-2D/). Move-in-2D: 2D-Conditioned Human Motion Generation, Huang et al. ArXiv 2024.
@@ -36,7 +37,6 @@ An aggregation of human motion understanding research.
 - [MVLift](https://lijiaman.github.io/projects/mvlift/). Lifting Motion to the 3D World via 2D Diffusion, Li et al. ArXiv 2024.
 - [DisCoRD](https://whwjdqls.github.io/discord.github.io/). DisCoRD: Discrete Tokens to Continuous Motion via Rectified Flow Decoding, Cho et al. ArXiv 2024.
 - [MoTe](https://arxiv.org/abs/2411.19786). MoTe: Learning Motion-Text Diffusion Model for Multiple Generation Tasks, Wue et al. ArXiv 2024.
-- [ReinDiffuse](https://reindiffuse.github.io/). ReinDiffuse: Crafting Physically Plausible Motions with Reinforced Diffusion Model, Han et al. WACV 2025.
 - [InfiniDreamer](https://arxiv.org/abs/2411.18303). InfiniDreamer: Arbitrarily Long Human Motion Generation via Segment Score Distillation, Zhuo et al. ArXiv 2024.
 - [FTMoMamba](https://arxiv.org/abs/2411.17532). FTMoMamba: Motion Generation with Frequency and Text State Space Models, Li et al. ArXiv 2024.
 - [Meng et al](https://arxiv.org/abs/2411.16575). Rethinking Diffusion for Text-Driven Human Motion Generation, Meng et al. ArXiv 2024.
@@ -48,7 +48,7 @@ An aggregation of human motion understanding research.
 - [Lodge++](https://li-ronghui.github.io/lodgepp). Lodge++: High-quality and Long Dance Generation with Vivid Choreography Patterns, Li et al. ArXiv 2024.
 - [MotionCLR](https://arxiv.org/abs/2410.18977). MotionCLR: Motion Generation and Training-free Editing via Understanding Attention Mechanisms, Chen et al. ArXiv 2024.
 - [MotionGlot](https://arxiv.org/abs/2410.16623). MotionGlot: A Multi-Embodied Motion Generation Model, Harithas et al. ArXiv 2024.
-- [LEAD](https://arxiv.org/abs/2410.14508). LEAD: Latent Realignment for Human Motion Diffusion, Andreou et al.
+- [LEAD](https://arxiv.org/abs/2410.14508). LEAD: Latent Realignment for Human Motion Diffusion, Andreou et al. ArXiv 2024.
 - [Leite et al.](https://arxiv.org/abs/2410.08931) Enhancing Motion Variation in Text-to-Motion Models via Pose and Video Conditioned Editing, Leite et al. ArXiv 2024.
 - [MotionRL](https://arxiv.org/abs/2410.06513). MotionRL: Align Text-to-Motion Generation to Human Preferences with Multi-Reward Reinforcement Learning, Liu et al. ArXiv 2024.
 - [UniMuMo](https://hanyangclarence.github.io/unimumo_demo/). UniMuMo: Unified Text, Music and Motion Generation, Yang et al. ArXiv 2024.
