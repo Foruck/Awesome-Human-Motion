@@ -20,6 +20,7 @@ An aggregation of human motion understanding research.
 ## Motion Generation, Text/Speech/Music-Driven
 
 - [Unimotion](https://coral79.github.io/uni-motion/). Unimotion: Unifying 3D Human Motion Synthesis and Understanding, Li et al. 3DV 2025.
+- [MotionCraft](https://cure-lab.github.io/MotionCraft/). MotionCraft: Crafting Whole-Body Motion with Plug-and-Play Multimodal Controls, Bian et al. AAAI 2025.
 - [ScaMo](https://shunlinlu.github.io/ScaMo/). ScaMo: Exploring the Scaling Law in Autoregressive Motion Generation Model, Lu et al. ArXiv 2024.
 - [EnergyMoGen](https://jiro-zhang.github.io/EnergyMoGen/). EnergyMoGen: Compositional Human Motion Generation with Energy-Based Diffusion Model in Latent Space, Zhang et al. ArXiv 2024.
 - [Move in 2D](https://hhsinping.github.io/Move-in-2D/). Move-in-2D: 2D-Conditioned Human Motion Generation, Huang et al. ArXiv 2024.
@@ -51,7 +52,6 @@ An aggregation of human motion understanding research.
 - [Leite et al.](https://arxiv.org/abs/2410.08931) Enhancing Motion Variation in Text-to-Motion Models via Pose and Video Conditioned Editing, Leite et al. ArXiv 2024.
 - [MotionRL](https://arxiv.org/abs/2410.06513). MotionRL: Align Text-to-Motion Generation to Human Preferences with Multi-Reward Reinforcement Learning, Liu et al. ArXiv 2024.
 - [UniMuMo](https://hanyangclarence.github.io/unimumo_demo/). UniMuMo: Unified Text, Music and Motion Generation, Yang et al. ArXiv 2024.
-- [MotionCraft](https://cure-lab.github.io/MotionCraft/). MotionCraft: Crafting Whole-Body Motion with Plug-and-Play Multimodal Controls, Bian et al. ArXiv 2024.
 - [MotionLLM](https://lhchen.top/MotionLLM/). MotionLLM: Understanding Human Behaviors from Human Motions and Videos, Chen et al. ArXiv 2024.
 - [DART](https://zkf1997.github.io/DART/). DART: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control, Zhao et al. ArXiv 2024.
 - [CLoSD](https://guytevet.github.io/CLoSD-page/). CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al. ArXiv 2024.
