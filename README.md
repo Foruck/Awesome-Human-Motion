@@ -137,6 +137,11 @@ An aggregation of human motion understanding research.
 - [AMD](https://arxiv.org/abs/2312.12763). AMD: Anatomical Motion Diffusion with Interpretable Motion Decomposition and Fusion, Jing et al. AAAI 2024.
 - [MotionMix](https://nhathoang2002.github.io/MotionMix-page/). MotionMix: Weakly-Supervised Diffusion for Controllable Motion Generation, Hoang et al. AAAI 2024.
 - [B2A-HDM](https://github.com/xiezhy6/B2A-HDM). Towards Detailed Text-to-Motion Synthesis via Basic-to-Advanced Hierarchical Diffusion Model, Xie et al. AAAI 2024.
+- [Everything2Motion](https://ojs.aaai.org/index.php/AAAI/article/view/27936). Everything2Motion: Synchronizing Diverse Inputs via a Unified Framework for Human Motion Synthesis, Fan et al. AAAI 2024.
+- [MotionGPT](https://qiqiapink.github.io/MotionGPT/). MotionGPT: Finetuned LLMs are General-Purpose Motion Generators, Zhang et al. AAAI 2024.
+- [Dong et al](https://arxiv.org/abs/2305.13773). Enhanced Fine-grained Motion Diffusion for Text-driven Human Motion Synthesis, Dong et al. AAAI 2024.
+- [UNIMASKM](https://evm7.github.io/UNIMASKM-page/). A Unified Masked Autoencoder with Patchified Skeletons for Motion Synthesis, Mascaro et al. AAAI 2024.
+- [B2A-HDM](https://arxiv.org/abs/2312.10960). Towards Detailed Text-to-Motion Synthesis via Basic-to-Advanced Hierarchical Diffusion Model, Xie et al. AAAI 2024.
 - [GUESS](https://ieeexplore.ieee.org/abstract/document/10399852). GUESS: GradUally Enriching SyntheSis for Text-Driven Human Motion Generation, Gao et al. TPAMI 2024.
 - [Xie et al.](https://arxiv.org/pdf/2312.12917). Sign Language Production with Latent Motion Transformer, Xie et al. WACV 2024.
 - [GraphMotion](https://github.com/jpthu17/GraphMotion). Act As You Wish: Fine-grained Control of Motion Diffusion Model with Hierarchical Semantic Graphs, Jin et al. NeurIPS 2023.
