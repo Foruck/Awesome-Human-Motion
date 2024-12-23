@@ -341,6 +341,7 @@ An aggregation of human motion understanding research.
 <span id="datasets"></span>
 ## Datasets & Benchmarks
 
+- [SCENIC](https://virtualhumans.mpi-inf.mpg.de/scenic/). SCENIC: Scene-aware Semantic Navigation with Instruction-guided Control, Zhang et al. ArXiv 2024.
 - [CMP & CMR](https://github.com/fyyakaxyy/AnimationGPT). AnimationGPT:An AIGC tool for generating game combat motion assets, Liao et al. 
 - [LINGO](https://lingomotions.com/). Autonomous Character-Scene Interaction Synthesis from Text Instruction, Jiang et al. SIGGRAPH Asia 2024.
 - [LaserHuman](https://github.com/4DVLab/LaserHuman). LaserHuman: Language-guided Scene-aware Human Motion Generation in Free Environment, Cong et al. ArXiv 2024.
