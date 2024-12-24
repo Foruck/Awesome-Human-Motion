@@ -19,6 +19,8 @@ An aggregation of human motion understanding research.
 <span id="motion-generation"></span>
 ## Motion Generation, Text/Speech/Music-Driven
 
+- [SemTalk](https://xiangyue-zhang.github.io/SemTalk). SemTalk: Holistic Co-speech Motion Generation with Frame-level Semantic Emphasis, Zhang et al. ArXiv 2024.
+- [InterDance](https://inter-dance.github.io/). InterDance: Reactive 3D Dance Generation with Realistic Duet Interactions, Li et al. ArXiv 2024.
 - [Unimotion](https://coral79.github.io/uni-motion/). Unimotion: Unifying 3D Human Motion Synthesis and Understanding, Li et al. 3DV 2025.
 - [MotionCraft](https://cure-lab.github.io/MotionCraft/). MotionCraft: Crafting Whole-Body Motion with Plug-and-Play Multimodal Controls, Bian et al. AAAI 2025.
 - [ReinDiffuse](https://reindiffuse.github.io/). ReinDiffuse: Crafting Physically Plausible Motions with Reinforced Diffusion Model, Han et al. WACV 2025.
@@ -269,6 +271,7 @@ An aggregation of human motion understanding research.
 <span id="hsi"></span>
 ## Human-Scene Interaction
 
+- [Mimicking-Bench](https://mimicking-bench.github.io/). Mimicking-Bench: A Benchmark for Generalizable Humanoid-Scene Interaction Learning via Human Mimicking, Liu et al. ArXiv 2024. 
 - [SCENIC](https://virtualhumans.mpi-inf.mpg.de/scenic/). SCENIC: Scene-aware Semantic Navigation with Instruction-guided Control, Zhang et al. ArXiv 2024.
 - [Sitcom-Crafter](https://github.com/WindVChen/Sitcom-Crafter). Sitcom-Crafter: A Plot-Driven Human Motion Generation System in 3D Scenes, Chen et al. ArXiv 2024. 
 - [Paschalidis et al](https://arxiv.org/pdf/2408.16770?). 3D Whole-body Grasp Synthesis with Directional Controllability, Paschalidis et al. ArXiv 2024.
@@ -319,6 +322,7 @@ An aggregation of human motion understanding research.
 <span id="hhi"></span>
 ## Human-Human Interaction
 
+- [Two in One](https://arxiv.org/pdf/2412.16670). Two-in-One: Unified Multi-Person Interactive Motion Generation by Latent Diffusion Transformer, Li et al. ArXiv 2024.
 - [It Takes Two](https://arxiv.org/pdf/2412.02419). It Takes Two: Real-time Co-Speech Two-person’s Interaction Generation via Reactive Auto-regressive Diffusion Model, Shi et al. ArXiv 2024.
 - [InterMask](https://gohar-malik.github.io/intermask). InterMask: 3D Human Interaction Generation via Collaborative Masked Modelling, Javed et al. ArXiv 2024.
 - [COLLAGE](https://arxiv.org/abs/2409.20502). COLLAGE: Collaborative Human-Agent Interaction Generation using Hierarchical Latent Diffusion and Language Models, Daiya et al. ArXiv 2024.
@@ -341,6 +345,7 @@ An aggregation of human motion understanding research.
 <span id="datasets"></span>
 ## Datasets & Benchmarks
 
+- [Mimicking-Bench](https://mimicking-bench.github.io/). Mimicking-Bench: A Benchmark for Generalizable Humanoid-Scene Interaction Learning via Human Mimicking, Liu et al. ArXiv 2024. 
 - [SCENIC](https://virtualhumans.mpi-inf.mpg.de/scenic/). SCENIC: Scene-aware Semantic Navigation with Instruction-guided Control, Zhang et al. ArXiv 2024.
 - [CMP & CMR](https://github.com/fyyakaxyy/AnimationGPT). AnimationGPT:An AIGC tool for generating game combat motion assets, Liao et al. 
 - [LINGO](https://lingomotions.com/). Autonomous Character-Scene Interaction Synthesis from Text Instruction, Jiang et al. SIGGRAPH Asia 2024.
@@ -396,6 +401,7 @@ An aggregation of human motion understanding research.
 <span id="humanoid"></span>
 ## Humanoid, Simulated or Real
 
+- [Mimicking-Bench](https://mimicking-bench.github.io/). Mimicking-Bench: A Benchmark for Generalizable Humanoid-Scene Interaction Learning via Human Mimicking, Liu et al. ArXiv 2024. 
 - [Liu et al](https://arxiv.org/pdf/2412.15166). Human-Humanoid Robots Cross-Embodiment Behavior-Skill Transfer Using Decomposed Adversarial Learning from Demonstration, Liu et al. RA-L 2024.
 - [UH-1](https://usc-gvl.github.io/UH-1/). Learning from Massive Human Videos for Universal Humanoid Pose Control, Mao et al. ArXiv 2024.
 - [Exbody2](https://exbody2.github.io/). Exbody2: Advanced Expressive Humanoid Whole-Body Control, Ji et al. ArXiv 2024.
