@@ -71,6 +71,7 @@ An aggregation of human motion understanding research.
 - [MoGenTS](https://aigc3d.github.io/mogents/). MoGenTS: Motion Generation based on Spatial-Temporal Joint Modeling, Yuan et al. NeurIPS 2024.
 - [M3GPT](https://arxiv.org/abs/2405.16273). M3GPT: An Advanced Multimodal, Multitask Framework for Motion Comprehension and Generation, Luo et al. NeurIPS 2024.
 - [Bikov et al](https://openreview.net/forum?id=BTSnh5YdeI). Fitness Aware Human Motion Generation with Fine-Tuning, Bikov et al. NeurIPS Workshop 2024.
+- [FG-MDM](https://link.springer.com/chapter/10.1007/978-3-031-78104-9_30). FG-MDM: Towards Zero-Shot Human Motion Generation via ChatGPT-Refined Descriptions, ICPR 2024.
 - [SynTalker](https://bohongchen.github.io/SynTalker-Page/). Enabling Synergistic Full-Body Control in Prompt-Based Co-Speech Motion Generation, Chen et al. ACM MM 2024.
 - [L3EM](https://dl.acm.org/doi/abs/10.1145/3664647.3681487). Towards Emotion-enriched Text-to-Motion Generation via LLM-guided Limb-level Emotion Manipulating. Yu et al. ACM MM 2024.
 - [StableMoFusion](https://dl.acm.org/doi/abs/10.1145/3664647.3681657). StableMoFusion: Towards Robust and Efficient Diffusion-based Motion Generation Framework, Huang et al. ACM MM 2024.
