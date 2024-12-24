@@ -431,7 +431,7 @@ An aggregation of human motion understanding research.
 - [PhysicsPingPong](https://jiashunwang.github.io/PhysicsPingPong/). Strategy and Skill Learning for Physics-based Table Tennis Animation, Wang et al. SIGGRAPH 2024.
 - [SuperPADL](https://arxiv.org/abs/2407.10481). SuperPADL: Scaling Language-Directed Physics-Based Control with Progressive Supervised Distillation, Juravsky et al. SIGGRAPH 2024.
 - [SimXR](https://www.zhengyiluo.com/SimXR). Real-Time Simulated Avatar from Head-Mounted Sensors, Luo et al. CVPR 2024.
-- [AnySkill](https://openaccess.thecvf.com/content/CVPR2024/html/Cui_AnySkill_Learning_Open-Vocabulary_Physical_Skill_for_Interactive_Agents_CVPR_2024_paper.html). AnySkill: Learning Open-Vocabulary Physical Skill for Interactive Agents, Cui et al. CVPR 2024.
+- [AnySkill](https://anyskill.github.io/). AnySkill: Learning Open-Vocabulary Physical Skill for Interactive Agents, Cui et al. CVPR 2024.
 - [PULSE](https://github.com/ZhengyiLuo/PULSE). Universal Humanoid Motion Representations for Physics-Based Control, Luo et al. ICLR 2024.
 - [H-GAP](https://github.com/facebookresearch/hgap). H-GAP: Humanoid Control with a Generalist Planner, Jiang et al. ICLR 2024.
 - [UniHSI](https://xizaoqu.github.io/unihsi/). UniHSI: Unified Human-Scene Interaction via Prompted Chain-of-Contacts, Xiao et al. ICLR 2024.
