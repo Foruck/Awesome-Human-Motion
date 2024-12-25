@@ -272,6 +272,7 @@ An aggregation of human motion understanding research.
 <span id="hsi"></span>
 ## Human-Scene Interaction
 
+- [ZeroHSI](https://awfuact.github.io/zerohsi/). ZeroHSI: Zero-Shot 4D Human-Scene Interaction by Video Generation, Li et al. ArXiv 2024.
 - [Mimicking-Bench](https://mimicking-bench.github.io/). Mimicking-Bench: A Benchmark for Generalizable Humanoid-Scene Interaction Learning via Human Mimicking, Liu et al. ArXiv 2024. 
 - [SCENIC](https://virtualhumans.mpi-inf.mpg.de/scenic/). SCENIC: Scene-aware Semantic Navigation with Instruction-guided Control, Zhang et al. ArXiv 2024.
 - [Sitcom-Crafter](https://github.com/WindVChen/Sitcom-Crafter). Sitcom-Crafter: A Plot-Driven Human Motion Generation System in 3D Scenes, Chen et al. ArXiv 2024. 
