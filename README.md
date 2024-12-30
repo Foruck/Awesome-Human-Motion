@@ -41,7 +41,7 @@ An aggregation of human motion understanding research.
 - [MoTe](https://arxiv.org/abs/2411.19786). MoTe: Learning Motion-Text Diffusion Model for Multiple Generation Tasks, Wue et al. ArXiv 2024.
 - [InfiniDreamer](https://arxiv.org/abs/2411.18303). InfiniDreamer: Arbitrarily Long Human Motion Generation via Segment Score Distillation, Zhuo et al. ArXiv 2024.
 - [FTMoMamba](https://arxiv.org/abs/2411.17532). FTMoMamba: Motion Generation with Frequency and Text State Space Models, Li et al. ArXiv 2024.
-- [Meng et al](https://arxiv.org/abs/2411.16575). Rethinking Diffusion for Text-Driven Human Motion Generation, Meng et al. ArXiv 2024.
+- [MARDM](https://arxiv.org/abs/2411.16575). Rethinking Diffusion for Text-Driven Human Motion Generation, Meng et al. ArXiv 2024.
 - [KinMo](https://andypinxinliu.github.io/KinMo/). KinMo: Kinematic-aware Human Motion Understanding and Generation, Zhang et al. ArXiv 2024.
 - [LLaMo](https://arxiv.org/abs/2411.16805). Human Motion Instruction Tuning, Li et al. ArXiv 2024.
 - [Morph](https://arxiv.org/abs/2411.14951). Morph: A Motion-free Physics Optimization Framework for Human Motion Generation, Li et al. ArXiv 2024.
