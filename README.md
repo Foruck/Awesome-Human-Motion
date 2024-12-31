@@ -227,8 +227,10 @@ An aggregation of human motion understanding research.
 <span id="hoi"></span>
 ## Human-Object Interaction
 
+- [DiffGrasp](https://iscas3dv.github.io/DiffGrasp/). Diffgrasp: Whole-Body Grasping Synthesis Guided by Object Motion Using a Diffusion Model, Zhang et al. AAAI 2025.
 - [InterTrack](https://virtualhumans.mpi-inf.mpg.de/InterTrack/). InterTrack: Tracking Human Object Interaction without Object Templates, Xie et al. 3DV 2025.
 - [FORCE](https://arxiv.org/abs/2403.11237). FORCE: Dataset and Method for Intuitive Physics Guided Human-object Interaction, Zhang et al. 3DV 2025.
+- [SyncDiff](https://syncdiff.github.io/). SyncDiff: Synchronized Motion Diffusion for Multi-Body Human-Object Interaction Synthesis, He et al. ArXiv 2024.
 - [CHOICE](https://arxiv.org/pdf/2412.06702). CHOICE: Coordinated Human-Object Interaction in Cluttered Environments for Pick-and-Place Actions, Lu et al. ArXiv 2024.
 - [TriDi](https://virtualhumans.mpi-inf.mpg.de/tridi/). TriDi: Trilateral Diffusion of 3D Humans, Objects and Interactions, Petrov et al. ArXiv 2024.
 - [OOD-HOI](https://nickk0212.github.io/ood-hoi/). OOD-HOI: Text-Driven 3D Whole-Body Human-Object Interactions Generation Beyond Training Domains, Zhang et al. ArXiv 2024.
