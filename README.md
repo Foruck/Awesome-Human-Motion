@@ -19,6 +19,7 @@ An aggregation of human motion understanding research.
 <span id="motion-generation"></span>
 ## Motion Generation, Text/Speech/Music-Driven
 
+- [LS-GAN](https://arxiv.org/pdf/2501.01449). LS-GAN: HumanMotion Synthesis with Latent-space GANs, Amballa et al. ArXiv 2025.
 - [SemTalk](https://xiangyue-zhang.github.io/SemTalk). SemTalk: Holistic Co-speech Motion Generation with Frame-level Semantic Emphasis, Zhang et al. ArXiv 2024.
 - [InterDance](https://inter-dance.github.io/). InterDance: Reactive 3D Dance Generation with Realistic Duet Interactions, Li et al. ArXiv 2024.
 - [Unimotion](https://coral79.github.io/uni-motion/). Unimotion: Unifying 3D Human Motion Synthesis and Understanding, Li et al. 3DV 2025.
