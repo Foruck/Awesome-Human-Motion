@@ -228,6 +228,7 @@ An aggregation of human motion understanding research.
 <span id="hoi"></span>
 ## Human-Object Interaction
 
+- [MobileH2R](https://arxiv.org/pdf/2501.04595). MobileH2R: Learning Generalizable Human to Mobile Robot Handover Exclusively from Scalable and Diverse Synthetic Data, Wang et al. ArXiv 2025.
 - [DiffGrasp](https://iscas3dv.github.io/DiffGrasp/). Diffgrasp: Whole-Body Grasping Synthesis Guided by Object Motion Using a Diffusion Model, Zhang et al. AAAI 2025.
 - [InterTrack](https://virtualhumans.mpi-inf.mpg.de/InterTrack/). InterTrack: Tracking Human Object Interaction without Object Templates, Xie et al. 3DV 2025.
 - [FORCE](https://arxiv.org/abs/2403.11237). FORCE: Dataset and Method for Intuitive Physics Guided Human-object Interaction, Zhang et al. 3DV 2025.
