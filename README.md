@@ -230,6 +230,7 @@ An aggregation of human motion understanding research.
 
 - [MobileH2R](https://arxiv.org/pdf/2501.04595). MobileH2R: Learning Generalizable Human to Mobile Robot Handover Exclusively from Scalable and Diverse Synthetic Data, Wang et al. ArXiv 2025.
 - [DiffGrasp](https://iscas3dv.github.io/DiffGrasp/). Diffgrasp: Whole-Body Grasping Synthesis Guided by Object Motion Using a Diffusion Model, Zhang et al. AAAI 2025.
+- [Paschalidis et al](https://arxiv.org/pdf/2408.16770?). 3D Whole-body Grasp Synthesis with Directional Controllability, Paschalidis et al. 3DV 2025.
 - [InterTrack](https://virtualhumans.mpi-inf.mpg.de/InterTrack/). InterTrack: Tracking Human Object Interaction without Object Templates, Xie et al. 3DV 2025.
 - [FORCE](https://arxiv.org/abs/2403.11237). FORCE: Dataset and Method for Intuitive Physics Guided Human-object Interaction, Zhang et al. 3DV 2025.
 - [SyncDiff](https://syncdiff.github.io/). SyncDiff: Synchronized Motion Diffusion for Multi-Body Human-Object Interaction Synthesis, He et al. ArXiv 2024.
@@ -276,11 +277,11 @@ An aggregation of human motion understanding research.
 <span id="hsi"></span>
 ## Human-Scene Interaction
 
+- [Paschalidis et al](https://arxiv.org/pdf/2408.16770?). 3D Whole-body Grasp Synthesis with Directional Controllability, Paschalidis et al. 3DV 2025.
 - [ZeroHSI](https://awfuact.github.io/zerohsi/). ZeroHSI: Zero-Shot 4D Human-Scene Interaction by Video Generation, Li et al. ArXiv 2024.
 - [Mimicking-Bench](https://mimicking-bench.github.io/). Mimicking-Bench: A Benchmark for Generalizable Humanoid-Scene Interaction Learning via Human Mimicking, Liu et al. ArXiv 2024. 
 - [SCENIC](https://virtualhumans.mpi-inf.mpg.de/scenic/). SCENIC: Scene-aware Semantic Navigation with Instruction-guided Control, Zhang et al. ArXiv 2024.
 - [Sitcom-Crafter](https://github.com/WindVChen/Sitcom-Crafter). Sitcom-Crafter: A Plot-Driven Human Motion Generation System in 3D Scenes, Chen et al. ArXiv 2024. 
-- [Paschalidis et al](https://arxiv.org/pdf/2408.16770?). 3D Whole-body Grasp Synthesis with Directional Controllability, Paschalidis et al. ArXiv 2024.
 - [EnvPoser](https://arxiv.org/pdf/2412.10235). EnvPoser: Environment-aware Realistic Human Motion Estimation from Sparse Observations with Uncertainty Modeling. Xia et al. ArXiv 2024.
 - [Diffusion Implicit Policy](https://jingyugong.github.io/DiffusionImplicitPolicy/), Diffusion Implicit Policy for Unpaired Scene-aware Motion synthesis, Gong et al. ArXiv 2024.
 - [SIMS](https://arxiv.org/abs/2411.19921). SIMS: Simulating Human-Scene Interactions with Real World Script Planning, Wang et al. ArXiv 2024.
