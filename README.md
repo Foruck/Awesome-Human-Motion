@@ -444,7 +444,7 @@ An aggregation of human motion understanding research.
 - [H-GAP](https://github.com/facebookresearch/hgap). H-GAP: Humanoid Control with a Generalist Planner, Jiang et al. ICLR 2024.
 - [UniHSI](https://xizaoqu.github.io/unihsi/). UniHSI: Unified Human-Scene Interaction via Prompted Chain-of-Contacts, Xiao et al. ICLR 2024.
 - [Phys-Fullbody-Grasp](https://eth-ait.github.io/phys-fullbody-grasp/). Physically Plausible Full-Body Hand-Object Interaction Synthesis, Braun et al. 3DV 2024.
-- [Expressive Humanoid](https://expressive-humanoid.github.io/). Expressive Whole-Body Control for Humanoid Robots, Cheng et al. RSS 2024.
+- [ExBody](https://expressive-humanoid.github.io/). Expressive Whole-Body Control for Humanoid Robots, Cheng et al. RSS 2024.
 - [PhySHOI](https://wyhuai.github.io/physhoi-page/). PhysHOI: Physics-Based Imitation of Dynamic Human-Object Interaction, Wang et al. ArXiv 2024. 
 - [CASE](https://frank-zy-dou.github.io/projects/CASE/index.html). C·ASE: Learning Conditional Adversarial Skill Embeddings for Physics-based Characters, Dou et al. SIGGRAPH Asia 2023.
 - [AdaptNet](https://github.com/xupei0610/AdaptNet). AdaptNet: Policy Adaptation for Physics-Based Character Control, Xu et al. SIGGRAPH Asia 2023.
