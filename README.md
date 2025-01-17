@@ -64,6 +64,7 @@ An aggregation of human motion understanding research.
 - [Mandelli et al](https://arxiv.org/abs/2409.11920). Generation of Complex 3D Human Motion by Temporal and Spatial Composition of Diffusion Models, Mandelli et al. ArXiv 2024.
 - [BAD](https://github.com/RohollahHS/BAD). BAD: Bidirectional Auto-regressive Diffusion for Text-to-Motion Generation, Hosseyni et al. ArXiv 2024.
 - [synNsync](https://von31.github.io/synNsync/). Synergy and Synchrony in Couple Dances, Manukele et al. ArXiv 2024.
+- [Motion-Agent](https://knoxzhao.github.io/Motion-Agent/). Motion-Agent: A Conversational Framework for Human Motion Generation with LLMs, Wu et al. ArXiv 2024.
 - [Dong et al](https://aclanthology.org/2024.findings-emnlp.584/). Word-Conditioned 3D American Sign Language Motion Generation, Dong et al. EMNLP 2024.
 - [Text to blind motion](https://nips.cc/virtual/2024/poster/97700). Text to Blind Motion, Kim et al. NeurIPS D&B 2024.
 - [UniMTS](https://github.com/xiyuanzh/UniMTS). UniMTS: Unified Pre-training for Motion Time Series, Zhang et al. NeurIPS 2024.
