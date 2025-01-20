@@ -518,3 +518,4 @@ An aggregation of human motion understanding research.
 - [Zell et al](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w16/Zell_Learning-Based_Inverse_Dynamics_ICCV_2017_paper.pdf). Learning-based inverse dynamics of human motion, Zell et al. ICCV Workshop 2017.
 - [Zell et al](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w1/papers/Zell_Joint_3D_Human_CVPR_2017_paper.pdf). Joint 3d human motion capture and physical analysis from monocular videos, Zell et al. CVPR Workshop 2017.
 - [HuGaDb](https://link.springer.com/chapter/10.1007/978-3-319-73013-4_12). HuGaDB: Human Gait Database for Activity Recognition from Wearable Inertial Sensor Networks, Chereshnev et al. AIST 2017.
+- [Lv et al](https://dl.acm.org/doi/10.1145/2980179.2982440). Data-driven inverse dynamics for human motion, Lv et al. SIGGRAPH 2016.
