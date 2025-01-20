@@ -450,13 +450,13 @@ An aggregation of human motion understanding research.
 - [Phys-Fullbody-Grasp](https://eth-ait.github.io/phys-fullbody-grasp/). Physically Plausible Full-Body Hand-Object Interaction Synthesis, Braun et al. 3DV 2024.
 - [ExBody](https://expressive-humanoid.github.io/). Expressive Whole-Body Control for Humanoid Robots, Cheng et al. RSS 2024.
 - [PhySHOI](https://wyhuai.github.io/physhoi-page/). PhysHOI: Physics-Based Imitation of Dynamic Human-Object Interaction, Wang et al. ArXiv 2024.
-- [Words into Action](https://www.kniranjankumar.com/words_into_action/). Words into Action: Learning Diverse Humanoid Robot Behaviors using Language Guided Iterative Motion Refinement, Kumar et al. ArXiv 2023.
 - [CASE](https://frank-zy-dou.github.io/projects/CASE/index.html). C·ASE: Learning Conditional Adversarial Skill Embeddings for Physics-based Characters, Dou et al. SIGGRAPH Asia 2023.
 - [AdaptNet](https://github.com/xupei0610/AdaptNet). AdaptNet: Policy Adaptation for Physics-Based Character Control, Xu et al. SIGGRAPH Asia 2023.
 - [NCP](https://tencent-roboticsx.github.io/NCP/). Neural Categorical Priors for Physics-Based Character Control, Zhu et al. SIGGRAPH Asia 2023.
 - [DROP](https://stanford-tml.github.io/drop/). DROP: Dynamics Responses from Human Motion Prior and Projective Dynamics, Jiang et al. SIGGRAPH Asia 2023.
 - [InsActor](https://jiawei-ren.github.io/projects/insactor/). InsActor: Instruction-driven Physics-based Characters, Ren et al. NeurIPS 2023.
 - [Humanoid4Parkour](https://humanoid4parkour.github.io/). Humanoid Parkour Learning, Zhuang et al. CoRL 2023.
+- [Words into Action](https://www.kniranjankumar.com/words_into_action/). Words into Action: Learning Diverse Humanoid Robot Behaviors using Language Guided Iterative Motion Refinement, Kumar et al. CoRL Workshop 2023.
 - [PHC](https://zhengyiluo.github.io/PHC/). Perpetual Humanoid Control for Real-time Simulated Avatars, Luo et al. ICCV 2023.
 - [DiffMimic](https://diffmimic.github.io/). DiffMimic: Efficient Motion Mimicking with Differentiable Physics, Ren et al. ICLR 2023.
 - [Vid2Player3D](https://research.nvidia.com/labs/toronto-ai/vid2player3d/). DiffMimic: Efficient Motion Mimicking with Differentiable Physics, Zhang et al. SIGGRAPH 2023.
