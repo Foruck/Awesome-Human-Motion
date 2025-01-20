@@ -449,7 +449,8 @@ An aggregation of human motion understanding research.
 - [UniHSI](https://xizaoqu.github.io/unihsi/). UniHSI: Unified Human-Scene Interaction via Prompted Chain-of-Contacts, Xiao et al. ICLR 2024.
 - [Phys-Fullbody-Grasp](https://eth-ait.github.io/phys-fullbody-grasp/). Physically Plausible Full-Body Hand-Object Interaction Synthesis, Braun et al. 3DV 2024.
 - [ExBody](https://expressive-humanoid.github.io/). Expressive Whole-Body Control for Humanoid Robots, Cheng et al. RSS 2024.
-- [PhySHOI](https://wyhuai.github.io/physhoi-page/). PhysHOI: Physics-Based Imitation of Dynamic Human-Object Interaction, Wang et al. ArXiv 2024. 
+- [PhySHOI](https://wyhuai.github.io/physhoi-page/). PhysHOI: Physics-Based Imitation of Dynamic Human-Object Interaction, Wang et al. ArXiv 2024.
+- [Words into Action](https://www.kniranjankumar.com/words_into_action/). Words into Action: Learning Diverse Humanoid Robot Behaviors using Language Guided Iterative Motion Refinement, Kumar et al. ArXiv 2023.
 - [CASE](https://frank-zy-dou.github.io/projects/CASE/index.html). C·ASE: Learning Conditional Adversarial Skill Embeddings for Physics-based Characters, Dou et al. SIGGRAPH Asia 2023.
 - [AdaptNet](https://github.com/xupei0610/AdaptNet). AdaptNet: Policy Adaptation for Physics-Based Character Control, Xu et al. SIGGRAPH Asia 2023.
 - [NCP](https://tencent-roboticsx.github.io/NCP/). Neural Categorical Priors for Physics-Based Character Control, Zhu et al. SIGGRAPH Asia 2023.
@@ -472,7 +473,7 @@ An aggregation of human motion understanding research.
 - [QuestSim](https://dl.acm.org/doi/fullHtml/10.1145/3550469.3555411). QuestSim: Human Motion Tracking from Sparse Sensors with Simulated Avatars, Winkler et al. SIGGRAPH Asia 2022.
 - [PADL](https://github.com/nv-tlabs/PADL). PADL: Language-Directed Physics-Based Character, Juravsky et al. SIGGRAPH Asia 2022.
 - [Wang et al.](https://dl.acm.org/doi/10.1145/3550454.3555490) Differentiable Simulation of Inertial Musculotendons, Wang et al. SIGGRAPH Asia 2022.
-- [ASE](https://xbpeng.github.io/projects/ASE/index.html). ASE: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters, Peng et al.
+- [ASE](https://xbpeng.github.io/projects/ASE/index.html). ASE: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters, Peng et al. SIGGRAPH 2022. 
 - [Learn to Move](https://xbpeng.github.io/projects/Learn_to_Move/index.html). Deep Reinforcement Learning for Modeling Human Locomotion Control in Neuromechanical Simulation, Peng et al. Journal of Neuro-Engineering and Rehabilitation 2021
 - [KinPoly](https://zhengyiluo.github.io/projects/kin_poly/). Dynamics-Regulated Kinematic Policy for Egocentric Pose Estimation, Luo et al. NeurIPS 2021.
 - [AMP](https://xbpeng.github.io/projects/AMP/index.html). AMP: Adversarial Motion Priors for Stylized Physics-Based Character Control, SIGGRAPH 2021.
@@ -510,5 +511,10 @@ An aggregation of human motion understanding research.
 - [MiA](https://musclesinaction.cs.columbia.edu/). Muscles in Action, Chiquer et al. ICCV 2023.
 - [OSSO](https://osso.is.tue.mpg.de/). OSSO: Obtaining Skeletal Shape from Outside, Keller et al. CVPR 2022.
 - [Xing et al](https://www.nature.com/articles/s41597-022-01188-7). Functional movement screen dataset collected with two Azure Kinect depth sensors, Xing et al. Scientific Data 2022.
+- [Zell et al](https://link.springer.com/article/10.1007/s00521-019-04658-z). Learning inverse dynamics for human locomotion analysis, Zell et al. NCA 2020.
+- [Zell et al](https://arxiv.org/pdf/2007.08969). Weakly-supervised learning of human dynamics, Zell et al. ECCV 2020.
 - [LRLE](https://github.com/jyf588/lrle). Synthesis of biologically realistic human motion using joint torque actuation, Jiang et al. SIGGRAPH 2019.
+- [Pham et al](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8078194). Multicontact Interaction Force Sensing From Whole-Body Motion Capture, Pham et al. TII 2018.
+- [Zell et al](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w16/Zell_Learning-Based_Inverse_Dynamics_ICCV_2017_paper.pdf). Learning-based inverse dynamics of human motion, Zell et al. ICCV Workshop 2017.
+- [Zell et al](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w1/papers/Zell_Joint_3D_Human_CVPR_2017_paper.pdf). Joint 3d human motion capture and physical analysis from monocular videos, Zell et al. CVPR Workshop 2017.
 - [HuGaDb](https://link.springer.com/chapter/10.1007/978-3-319-73013-4_12). HuGaDB: Human Gait Database for Activity Recognition from Wearable Inertial Sensor Networks, Chereshnev et al. AIST 2017.
