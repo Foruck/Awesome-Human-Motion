@@ -12,14 +12,17 @@ An aggregation of human motion understanding research.
 
 
 <span id="review"></span>
-## Reviews & Surveys
+<details open>
+<summary><h2>Reviews & Surveys</h2></summary>
 
 - **(ArXiv 2025)** [Gu et al](https://arxiv.org/pdf/2501.02116). Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning.
 - **(ArXiv 2024)** [Zhao et al](https://arxiv.org/pdf/2412.10458). Motion Generation Review: Exploring Deep Learning for Lifelike Animation with Manifold, Zhao et al.
 - **(T-PAMI 2023)** [Zhu et al](https://arxiv.org/abs/2307.10894). Human Motion Generation: A Survey, Zhu et al.
+</details>
 
 <span id="motion-generation"></span>
-## Motion Generation, Text/Speech/Music-Driven
+<details open>
+<summary><h2>Motion Generation, Text/Speech/Music-Driven</h2></summary>
 
 - **(ArXiv 2025)** [LS-GAN](https://arxiv.org/pdf/2501.01449). LS-GAN: HumanMotion Synthesis with Latent-space GANs, Amballa et al.
 - **(3DV 2025)** [Unimotion](https://coral79.github.io/uni-motion/). Unimotion: Unifying 3D Human Motion Synthesis and Understanding, Li et al.
@@ -206,18 +209,21 @@ An aggregation of human motion understanding research.
 - **(CVPR 2021)** [MOJO](https://yz-cnsdqz.github.io/eigenmotion/MOJO/index.html). We are More than Our Joints: Predicting how 3D Bodies Move, Zhang et al.
 - **(ECCV 2020)** [DLow](https://www.ye-yuan.com/dlow). DLow: Diversifying Latent Flows for Diverse Human Motion Prediction, Yuan et al.
 - **(SIGGRAPH 2020)** [Starke et al.](https://www.ipab.inf.ed.ac.uk/cgvu/basketball.pdf). Local motion phases for learning multi-contact character movements, Starke et al.
-
+</details>
 
 <span id="motion-editing"></span>
-## Motion Editing
+<details open>
+<summary><h2>Motion Editing</h2></summary>
 
 - **(SIGGRAPH Asia 2024)** [MotionFix](https://motionfix.is.tue.mpg.de/). MotionFix: Text-Driven 3D Human Motion Editing, Athanasiou et al.
 - **(NeurIPS 2024)** [CigTime](https://btekin.github.io/). CigTime: Corrective Instruction Generation Through Inverse Motion Editing, Fang et al.
 - **(SIGGRAPH 2024)** [Iterative Motion Editing](https://purvigoel.github.io/iterative-motion-editing/). Iterative Motion Editing with Natural Language, Goel et al.
 - **(CVPR 2024)** [DNO](https://korrawe.github.io/dno-project/). DNO: Optimizing Diffusion Noise Can Serve As Universal Motion Priors, Karunratanakul et al.
+</details>
 
 <span id="motion-stylization"></span>
-## Motion Stylization
+<details open>
+<summary><h2>Motion Stylization</h2></summary>
 
 - **(ArXiv 2024)** [MulSMo](https://arxiv.org/pdf/2412.09901). MulSMo: Multimodal Stylized Motion Generation by Bidirectional Control Flow, Li et al.
 - **(TSMC 2024)** [D-LORD](https://arxiv.org/pdf/2412.04097). D-LORD for Motion Stylization, Gupta et al.
@@ -226,10 +232,11 @@ An aggregation of human motion understanding research.
 - **(CVPR 2024)** [MCM-LDM](https://xingliangjin.github.io/MCM-LDM-Web/). Arbitrary Motion Style Transfer with Multi-condition Motion Latent Diffusion Model, Song et al.
 - **(CVPR 2024)** [MoST](https://boeun-kim.github.io/page-MoST/). MoST: Motion Style Transformer between Diverse Action Contents, Kim et al.
 - **(ICLR 2024)** [GenMoStyle](https://yxmu.foo/GenMoStyle/). Generative Human Motion Stylization in Latent Space, Guo et al.
-
+</details>
 
 <span id="hoi"></span>
-## Human-Object Interaction
+<details open>
+<summary><h2>Human-Object Interaction</h2></summary>
 
 - **(ArXiv 2025)** [MobileH2R](https://arxiv.org/pdf/2501.04595). MobileH2R: Learning Generalizable Human to Mobile Robot Handover Exclusively from Scalable and Diverse Synthetic Data, Wang et al.
 - **(AAAI 2025)** [DiffGrasp](https://iscas3dv.github.io/DiffGrasp/). Diffgrasp: Whole-Body Grasping Synthesis Guided by Object Motion Using a Diffusion Model, Zhang et al.
@@ -275,10 +282,11 @@ An aggregation of human motion understanding research.
 - **(CVPR 2022)** [GOAL](https://goal.is.tue.mpg.de/). GOAL: Generating 4D Whole-Body Motion for Hand-Object Grasping, Taheri et al.
 - **(CVPR 2022)** [BEHAVE](https://virtualhumans.mpi-inf.mpg.de/behave/). BEHAVE: Dataset and Method for Tracking Human Object Interactions, Bhatnagar et al.
 - **(ECCV 2020)** [GRAB](https://grab.is.tue.mpg.de/). GRAB: A Dataset of Whole-Body Human Grasping of Objects, Taheri et al.
-
+</details>
 
 <span id="hsi"></span>
-## Human-Scene Interaction
+<details open>
+<summary><h2>Human-Scene Interaction</h2></summary>
 
 - **(3DV 2025)** [Paschalidis et al](https://arxiv.org/pdf/2408.16770?). 3D Whole-body Grasp Synthesis with Directional Controllability, Paschalidis et al.
 - **(ArXiv 2024)** [ZeroHSI](https://awfuact.github.io/zerohsi/). ZeroHSI: Zero-Shot 4D Human-Scene Interaction by Video Generation, Li et al.
@@ -328,9 +336,11 @@ An aggregation of human motion understanding research.
 - **(CVPR 2020)** [PSI](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Generating_3D_People_in_Scenes_Without_People_CVPR_2020_paper.pdf). Generating 3D People in Scenes without People, Zhang et al.
 - **(SIGGRAPH Asia 2019)** [NSM](https://www.ipab.inf.ed.ac.uk/cgvu/nsm.pdf). Neural State Machine for Character-Scene Interactions, Starke et al.
 - **(ICCV 2019)** [PROX](https://prox.is.tue.mpg.de/). Resolving 3D Human Pose Ambiguities with 3D Scene Constraints, Hassan et al.
+</details>
 
 <span id="hhi"></span>
-## Human-Human Interaction
+<details open>
+<summary><h2>Human-Human Interaction</h2></summary>
 
 - **(ArXiv 2024)** [Two in One](https://arxiv.org/pdf/2412.16670). Two-in-One: Unified Multi-Person Interactive Motion Generation by Latent Diffusion Transformer, Li et al.
 - **(ArXiv 2024)** [It Takes Two](https://arxiv.org/pdf/2412.02419). It Takes Two: Real-time Co-Speech Two-person’s Interaction Generation via Reactive Auto-regressive Diffusion Model, Shi et al.
@@ -351,9 +361,11 @@ An aggregation of human motion understanding research.
 - **(CVPR 2023)** [Hi4D](https://yifeiyin04.github.io/Hi4D/). Hi4D: 4D Instance Segmentation of Close Human Interaction, Yin et al.
 - **(CVPR 2022)** [ExPI](https://github.com/GUO-W/MultiMotion). Multi-Person Extreme Motion Prediction, Guo et al.
 - **(CVPR 2020)** [CHI3D](https://ci3d.imar.ro/home). Three-Dimensional Reconstruction of Human Interactions, Fieraru et al.
+</details>
 
 <span id="datasets"></span>
-## Datasets & Benchmarks
+<details open>
+<summary><h2>Datasets & Benchmarks</h2></summary>
 
 - **(ArXiv 2025)** [Motion-X++](https://arxiv.org/pdf/2501.05098). Motion-X++: A Large-Scale Multimodal 3D Whole-body Human Motion Dataset, Zhang et al.
 - **(ArXiv 2024)** [Mimicking-Bench](https://mimicking-bench.github.io/). Mimicking-Bench: A Benchmark for Generalizable Humanoid-Scene Interaction Learning via Human Mimicking, Liu et al. 
@@ -408,9 +420,11 @@ An aggregation of human motion understanding research.
 - **(CVPR 2020)** [CHI3D](https://ci3d.imar.ro/home). Three-Dimensional Reconstruction of Human Interactions, Fieraru et al.
 - **(ICCV 2019)** [PROX](https://prox.is.tue.mpg.de/). Resolving 3D Human Pose Ambiguities with 3D Scene Constraints, Hassan et al.
 - **(ICCV 2019)** [AMASS](https://amass.is.tue.mpg.de/). AMASS: Archive of Motion Capture As Surface Shapes, Mahmood et al.
+</details>
 
 <span id="humanoid"></span>
-## Humanoid, Simulated or Real
+<details open>
+<summary><h2>Humanoid, Simulated or Real</h2></summary>
 
 - **(ArXiv 2025)** [Gu et al](https://arxiv.org/pdf/2501.02116).  Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning.
 - **(ArXiv 2024)** [UH-1](https://usc-gvl.github.io/UH-1/). Learning from Massive Human Videos for Universal Humanoid Pose Control, Mao et al.
@@ -482,10 +496,11 @@ An aggregation of human motion understanding research.
 - **(ICLR 2020)** [Yuan et al.](https://arxiv.org/abs/1907.04967). Diverse Trajectory Forecasting with Determinantal Point Processes, Yuan et al.
 - **(ICCV 2019)** [Ego-Pose](https://ye-yuan.com/ego-pose/). Ego-Pose Estimation and Forecasting as Real-Time PD Control, Yuan et al.
 - **(SIGGRAPH 2018)** [DeepMimic](https://xbpeng.github.io/projects/DeepMimic/index.html). DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills, Peng et al.
-
+</details>
 
 <span id="bio"></span>
-## Bio-stuff: Human Anatomy, Biomechanics, Physiology
+<details open>
+<summary><h2>Bio-stuff: Human Anatomy, Biomechanics, Physiology</h2></summary>
 
 - **(WACV 2025)** [OpenCapBench](https://arxiv.org/abs/2406.09788). A Benchmark to Bridge Pose Estimation and Biomechanics, Gozlan et al.
 - **(BiorXiv 2024)** [Lai et al](https://www.biorxiv.org/content/10.1101/2024.12.30.630841v1.full.pdf). Mapping Grip Force to Muscular Activity Towards Understanding Upper Limb Musculoskeletal Intent using a Novel Grip Strength Model, Lai et al.
@@ -519,3 +534,4 @@ An aggregation of human motion understanding research.
 - **(CVPR Workshop 2017)** [Zell et al](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w1/papers/Zell_Joint_3D_Human_CVPR_2017_paper.pdf). Joint 3d human motion capture and physical analysis from monocular videos, Zell et al.
 - **(AIST 2017)** [HuGaDb](https://link.springer.com/chapter/10.1007/978-3-319-73013-4_12). HuGaDB: Human Gait Database for Activity Recognition from Wearable Inertial Sensor Networks, Chereshnev et al.
 - **(SIGGRAPH 2016)** [Lv et al](https://dl.acm.org/doi/10.1145/2980179.2982440). Data-driven inverse dynamics for human motion, Lv et al.
+</details>
