@@ -24,6 +24,8 @@ An aggregation of human motion understanding research.
 <details open>
 <summary><h2>Motion Generation, Text/Speech/Music-Driven</h2></summary>
 
+- **(ICLR 2025)** [DART](https://zkf1997.github.io/DART/). DART: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control, Zhao et al.
+- **(ICLR 2025)** [Motion-Agent](https://knoxzhao.github.io/Motion-Agent/). Motion-Agent: A Conversational Framework for Human Motion Generation with LLMs, Wu et al.
 - **(ArXiv 2025)** [LS-GAN](https://arxiv.org/pdf/2501.01449). LS-GAN: HumanMotion Synthesis with Latent-space GANs, Amballa et al.
 - **(3DV 2025)** [Unimotion](https://coral79.github.io/uni-motion/). Unimotion: Unifying 3D Human Motion Synthesis and Understanding, Li et al.
 - **(AAAI 2025)** [MotionCraft](https://cure-lab.github.io/MotionCraft/). MotionCraft: Crafting Whole-Body Motion with Plug-and-Play Multimodal Controls, Bian et al.
@@ -61,7 +63,6 @@ An aggregation of human motion understanding research.
 - **(ArXiv 2024)** [MotionRL](https://arxiv.org/abs/2410.06513). MotionRL: Align Text-to-Motion Generation to Human Preferences with Multi-Reward Reinforcement Learning, Liu et al.
 - **(ArXiv 2024)** [UniMuMo](https://hanyangclarence.github.io/unimumo_demo/). UniMuMo: Unified Text, Music and Motion Generation, Yang et al.
 - **(ArXiv 2024)** [MotionLLM](https://lhchen.top/MotionLLM/). MotionLLM: Understanding Human Behaviors from Human Motions and Videos, Chen et al.
-- **(ArXiv 2024)** [DART](https://zkf1997.github.io/DART/). DART: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control, Zhao et al.
 - **(ArXiv 2024)** [CLoSD](https://guytevet.github.io/CLoSD-page/). CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.
 - **(ArXiv 2024)** [Wang et al](https://arxiv.org/abs/2410.03311). Quo Vadis, Motion Generation? From Large Language Models to Large Motion Models, Wang et al.
 - **(ArXiv 2024)** [T2M-X](https://arxiv.org/abs/2409.13251). T2M-X: Learning Expressive Text-to-Motion Generation from Partially Annotated Data, Liu et al.
@@ -69,7 +70,6 @@ An aggregation of human motion understanding research.
 - **(ArXiv 2024)** [Mandelli et al](https://arxiv.org/abs/2409.11920). Generation of Complex 3D Human Motion by Temporal and Spatial Composition of Diffusion Models, Mandelli et al.
 - **(ArXiv 2024)** [BAD](https://github.com/RohollahHS/BAD). BAD: Bidirectional Auto-regressive Diffusion for Text-to-Motion Generation, Hosseyni et al.
 - **(ArXiv 2024)** [synNsync](https://von31.github.io/synNsync/). Synergy and Synchrony in Couple Dances, Manukele et al.
-- **(ArXiv 2024)** [Motion-Agent](https://knoxzhao.github.io/Motion-Agent/). Motion-Agent: A Conversational Framework for Human Motion Generation with LLMs, Wu et al.
 - **(EMNLP 2024)** [Dong et al](https://aclanthology.org/2024.findings-emnlp.584/). Word-Conditioned 3D American Sign Language Motion Generation, Dong et al.
 - **(NeurIPS D&B 2024)** [Text to blind motion](https://nips.cc/virtual/2024/poster/97700). Text to Blind Motion, Kim et al.
 - **(NeurIPS 2024)** [UniMTS](https://github.com/xiyuanzh/UniMTS). UniMTS: Unified Pre-training for Motion Time Series, Zhang et al.
@@ -288,11 +288,11 @@ An aggregation of human motion understanding research.
 <details open>
 <summary><h2>Human-Scene Interaction</h2></summary>
 
+- **(ICLR 2025)** [Sitcom-Crafter](https://github.com/WindVChen/Sitcom-Crafter). Sitcom-Crafter: A Plot-Driven Human Motion Generation System in 3D Scenes, Chen et al. 
 - **(3DV 2025)** [Paschalidis et al](https://arxiv.org/pdf/2408.16770?). 3D Whole-body Grasp Synthesis with Directional Controllability, Paschalidis et al.
 - **(ArXiv 2024)** [ZeroHSI](https://awfuact.github.io/zerohsi/). ZeroHSI: Zero-Shot 4D Human-Scene Interaction by Video Generation, Li et al.
 - **(ArXiv 2024)** [Mimicking-Bench](https://mimicking-bench.github.io/). Mimicking-Bench: A Benchmark for Generalizable Humanoid-Scene Interaction Learning via Human Mimicking, Liu et al. 
 - **(ArXiv 2024)** [SCENIC](https://virtualhumans.mpi-inf.mpg.de/scenic/). SCENIC: Scene-aware Semantic Navigation with Instruction-guided Control, Zhang et al.
-- **(ArXiv 2024)** [Sitcom-Crafter](https://github.com/WindVChen/Sitcom-Crafter). Sitcom-Crafter: A Plot-Driven Human Motion Generation System in 3D Scenes, Chen et al. 
 - **(ArXiv 2024)** [EnvPoser](https://arxiv.org/pdf/2412.10235). EnvPoser: Environment-aware Realistic Human Motion Estimation from Sparse Observations with Uncertainty Modeling. Xia et al.
 - **(ArXiv 2024)** [Diffusion Implicit Policy](https://jingyugong.github.io/DiffusionImplicitPolicy/), Diffusion Implicit Policy for Unpaired Scene-aware Motion synthesis, Gong et al.
 - **(ArXiv 2024)** [SIMS](https://arxiv.org/abs/2411.19921). SIMS: Simulating Human-Scene Interactions with Real World Script Planning, Wang et al.
@@ -367,12 +367,12 @@ An aggregation of human motion understanding research.
 <details open>
 <summary><h2>Datasets & Benchmarks</h2></summary>
 
+- **(ICLR 2025)** [MotionCritic](https://motioncritic.github.io/). Aligning Human Motion Generation with Human Perceptions, Wang et al.
 - **(ArXiv 2025)** [Motion-X++](https://arxiv.org/pdf/2501.05098). Motion-X++: A Large-Scale Multimodal 3D Whole-body Human Motion Dataset, Zhang et al.
 - **(ArXiv 2024)** [Mimicking-Bench](https://mimicking-bench.github.io/). Mimicking-Bench: A Benchmark for Generalizable Humanoid-Scene Interaction Learning via Human Mimicking, Liu et al. 
 - **(ArXiv 2024)** [LaserHuman](https://github.com/4DVLab/LaserHuman). LaserHuman: Language-guided Scene-aware Human Motion Generation in Free Environment, Cong et al.
 - **(ArXiv 2024)** [AtoM](https://atom-motion.github.io/). AToM: Aligning Text-to-Motion Model at Event-Level with GPT-4Vision Reward, Han et al.
 - **(ArXiv 2024)** [SCENIC](https://virtualhumans.mpi-inf.mpg.de/scenic/). SCENIC: Scene-aware Semantic Navigation with Instruction-guided Control, Zhang et al.
-- **(ArXiv 2024)** [MotionCritic](https://motioncritic.github.io/). Aligning Human Motion Generation with Human Perceptions, Wang et al.
 - **(ArXiv 2024)** [EMHI](https://arxiv.org/abs/2408.17168). EMHI: A Multimodal Egocentric Human Motion Dataset with HMD and Body-Worn IMUs, Fan et al.
 - **(ArXiv 2024)** [synNsync](https://von31.github.io/synNsync/). Synergy and Synchrony in Couple Dances, Manukele et al.
 - **(ArXiv 2024)** [MotionBank](https://github.com/liangxuy/MotionBank). MotionBank: A Large-scale Video Motion Benchmark with Disentangled Rule-based Annotations, Xu et al.
@@ -502,10 +502,10 @@ An aggregation of human motion understanding research.
 <details open>
 <summary><h2>Bio-stuff: Human Anatomy, Biomechanics, Physiology</h2></summary>
 
+- **(ICLR 2025)** [ImDy](https://foruck.github.io/ImDy). ImDy: Human Inverse Dynamics from Imitated Observations, Liu et al.
 - **(WACV 2025)** [OpenCapBench](https://arxiv.org/abs/2406.09788). A Benchmark to Bridge Pose Estimation and Biomechanics, Gozlan et al.
 - **(BiorXiv 2024)** [Lai et al](https://www.biorxiv.org/content/10.1101/2024.12.30.630841v1.full.pdf). Mapping Grip Force to Muscular Activity Towards Understanding Upper Limb Musculoskeletal Intent using a Novel Grip Strength Model, Lai et al.
 - **(ArXiv 2024)** [HDyS](https://foruck.github.io/HDyS). Homogeneous Dynamics Space for Heterogeneous Humans, Liu et al.
-- **(ArXiv 2024)** [ImDy](https://foruck.github.io/ImDy). ImDy: Human Inverse Dynamics from Imitated Observations, Liu et al.
 - **(IROS 2024)** [Shahriari et al](https://arxiv.org/pdf/2412.18869).  Enhancing Robustness in Manipulability Assessment: The Pseudo-Ellipsoid Approach, Shahriari et al.
 - **(SIGGRAPH Asia 2024)** [BioDesign](https://cs-people.bu.edu/xjhan/bioDesign.html). Motion-Driven Neural Optimizer for Prophylactic Braces Made by Distributed Microstructures, Han et al.
 - **(Scientific Data 2024)** [Evans et al](https://www.nature.com/articles/s41597-024-04077-3?fromPaywallRec=false). Synchronized Video, Motion Capture and Force Plate Dataset for Validating Markerless Human Movement Analysis, Evans et al.
