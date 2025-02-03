@@ -24,6 +24,8 @@ An aggregation of human motion understanding research.
 <details open>
 <summary><h2>Motion Generation, Text/Speech/Music-Driven</h2></summary>
 
+- **(ICRA 2025)** [MotionGlot](https://arxiv.org/abs/2410.16623). MotionGlot: A Multi-Embodied Motion Generation Model, Harithas et al.
+- **(ICLR 2025)** [CLoSD](https://guytevet.github.io/CLoSD-page/). CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.
 - **(ICLR 2025)** [DART](https://zkf1997.github.io/DART/). DART: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control, Zhao et al.
 - **(ICLR 2025)** [Motion-Agent](https://knoxzhao.github.io/Motion-Agent/). Motion-Agent: A Conversational Framework for Human Motion Generation with LLMs, Wu et al.
 - **(ArXiv 2025)** [MotionPCM](https://arxiv.org/pdf/2501.19083). MotionPCM: Real-Time Motion Synthesis with Phased Consistency Model, Jiang et al.
@@ -33,9 +35,11 @@ An aggregation of human motion understanding research.
 - **(ArXiv 2025)** [FlexMotion](https://arxiv.org/html/2501.16778v1). FlexMotion: Lightweight, Physics-Aware, and Controllable Human Motion Generation, Tashakori et al.
 - **(ArXiv 2025)** [PackDiT](https://arxiv.org/pdf/2501.16551). PackDiT: Joint Human Motion and Text Generation via Mutual Prompting, Jiang et al.
 - **(3DV 2025)** [Unimotion](https://coral79.github.io/uni-motion/). Unimotion: Unifying 3D Human Motion Synthesis and Understanding, Li et al.
+- **(AAAI 2025)** [UniMuMo](https://hanyangclarence.github.io/unimumo_demo/). UniMuMo: Unified Text, Music and Motion Generation, Yang et al.
 - **(AAAI 2025)** [MotionCraft](https://cure-lab.github.io/MotionCraft/). MotionCraft: Crafting Whole-Body Motion with Plug-and-Play Multimodal Controls, Bian et al.
 - **(AAAI 2025)** [Light-T2M](https://arxiv.org/pdf/2412.11193). Light-T2M: A Lightweight and Fast Model for Text-to-motion Generation, Zeng et al.
 - **(WACV 2025)** [ReinDiffuse](https://reindiffuse.github.io/). ReinDiffuse: Crafting Physically Plausible Motions with Reinforced Diffusion Model, Han et al.
+- **(WACV 2025)** [MoRAG](https://motion-rag.github.io/). MoRAG -- Multi-Fusion Retrieval Augmented Generation for Human Motion, Shashank et al.
 - **(ArXiv 2024)** [SemTalk](https://xiangyue-zhang.github.io/SemTalk). SemTalk: Holistic Co-speech Motion Generation with Frame-level Semantic Emphasis, Zhang et al.
 - **(ArXiv 2024)** [InterDance](https://inter-dance.github.io/). InterDance: Reactive 3D Dance Generation with Realistic Duet Interactions, Li et al.
 - **(ArXiv 2024)** [ScaMo](https://shunlinlu.github.io/ScaMo/). ScaMo: Exploring the Scaling Law in Autoregressive Motion Generation Model, Lu et al.
@@ -62,16 +66,12 @@ An aggregation of human motion understanding research.
 - **(ArXiv 2024)** [MotionGPT-2](https://arxiv.org/abs/2410.21747). MotionGPT-2: A General-Purpose Motion-Language Model for Motion Generation and Understanding, Wang et al.
 - **(ArXiv 2024)** [Lodge++](https://li-ronghui.github.io/lodgepp). Lodge++: High-quality and Long Dance Generation with Vivid Choreography Patterns, Li et al.
 - **(ArXiv 2024)** [MotionCLR](https://arxiv.org/abs/2410.18977). MotionCLR: Motion Generation and Training-free Editing via Understanding Attention Mechanisms, Chen et al.
-- **(ArXiv 2024)** [MotionGlot](https://arxiv.org/abs/2410.16623). MotionGlot: A Multi-Embodied Motion Generation Model, Harithas et al.
 - **(ArXiv 2024)** [LEAD](https://arxiv.org/abs/2410.14508). LEAD: Latent Realignment for Human Motion Diffusion, Andreou et al.
 - **(ArXiv 2024)** [Leite et al.](https://arxiv.org/abs/2410.08931) Enhancing Motion Variation in Text-to-Motion Models via Pose and Video Conditioned Editing, Leite et al.
 - **(ArXiv 2024)** [MotionRL](https://arxiv.org/abs/2410.06513). MotionRL: Align Text-to-Motion Generation to Human Preferences with Multi-Reward Reinforcement Learning, Liu et al.
-- **(ArXiv 2024)** [UniMuMo](https://hanyangclarence.github.io/unimumo_demo/). UniMuMo: Unified Text, Music and Motion Generation, Yang et al.
 - **(ArXiv 2024)** [MotionLLM](https://lhchen.top/MotionLLM/). MotionLLM: Understanding Human Behaviors from Human Motions and Videos, Chen et al.
-- **(ArXiv 2024)** [CLoSD](https://guytevet.github.io/CLoSD-page/). CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.
 - **(ArXiv 2024)** [Wang et al](https://arxiv.org/abs/2410.03311). Quo Vadis, Motion Generation? From Large Language Models to Large Motion Models, Wang et al.
 - **(ArXiv 2024)** [T2M-X](https://arxiv.org/abs/2409.13251). T2M-X: Learning Expressive Text-to-Motion Generation from Partially Annotated Data, Liu et al.
-- **(ArXiv 2024)** [MoRAG](https://motion-rag.github.io/). MoRAG -- Multi-Fusion Retrieval Augmented Generation for Human Motion, Shashank et al.
 - **(ArXiv 2024)** [Mandelli et al](https://arxiv.org/abs/2409.11920). Generation of Complex 3D Human Motion by Temporal and Spatial Composition of Diffusion Models, Mandelli et al.
 - **(ArXiv 2024)** [BAD](https://github.com/RohollahHS/BAD). BAD: Bidirectional Auto-regressive Diffusion for Text-to-Motion Generation, Hosseyni et al.
 - **(ArXiv 2024)** [synNsync](https://von31.github.io/synNsync/). Synergy and Synchrony in Couple Dances, Manukele et al.
@@ -431,14 +431,13 @@ An aggregation of human motion understanding research.
 <details open>
 <summary><h2>Humanoid, Simulated or Real</h2></summary>
 
-- **(ArXiv 2025)** [Gu et al](https://arxiv.org/pdf/2501.02116).  Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning.
+- **(ICLR 2025)** [CLoSD](https://guytevet.github.io/CLoSD-page/). CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.
+- **(ArXiv 2025)** [Gu et al](https://arxiv.org/pdf/2501.02116). Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning.
 - **(ArXiv 2024)** [UH-1](https://usc-gvl.github.io/UH-1/). Learning from Massive Human Videos for Universal Humanoid Pose Control, Mao et al.
 - **(ArXiv 2024)** [Mimicking-Bench](https://mimicking-bench.github.io/). Mimicking-Bench: A Benchmark for Generalizable Humanoid-Scene Interaction Learning via Human Mimicking, Liu et al. 
-- **(ArXiv 2024)** [UH-1](https://usc-gvl.github.io/UH-1/). Learning from Massive Human Videos for Universal Humanoid Pose Control, Mao et al.
 - **(ArXiv 2024)** [Exbody2](https://exbody2.github.io/). Exbody2: Advanced Expressive Humanoid Whole-Body Control, Ji et al.
 - **(ArXiv 2024)** [SIMS](https://arxiv.org/abs/2411.19921). SIMS: Simulating Human-Scene Interactions with Real World Script Planning, Wang et al.
 - **(ArXiv 2024)** [HOVER](https://arxiv.org/abs/2410.21229). HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots, He et al.
-- **(ArXiv 2024)** [CLoSD](https://guytevet.github.io/CLoSD-page/). CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.
 - **(ArXiv 2024)** [Humanoidlympics](https://smplolympics.github.io/SMPLOlympics). Humanoidlympics: Sports Environments for Physically Simulated Humanoids, Luo et al.
 - **(ArXiv 2024)** [SkillMimic](https://ingrid789.github.io/SkillMimic/). SkillMimic: Learning Reusable Basketball Skills from Demonstrations, Wang et al.
 - **(ArXiv 2024)** [PhySHOI](https://wyhuai.github.io/physhoi-page/). PhysHOI: Physics-Based Imitation of Dynamic Human-Object Interaction, Wang et al.
