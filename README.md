@@ -36,6 +36,7 @@ An aggregation of human motion understanding research.
 - **(ArXiv 2025)** [PackDiT](https://arxiv.org/pdf/2501.16551). PackDiT: Joint Human Motion and Text Generation via Mutual Prompting, Jiang et al.
 - **(3DV 2025)** [Unimotion](https://coral79.github.io/uni-motion/). Unimotion: Unifying 3D Human Motion Synthesis and Understanding, Li et al.
 - **(AAAI 2025)** [UniMuMo](https://hanyangclarence.github.io/unimumo_demo/). UniMuMo: Unified Text, Music and Motion Generation, Yang et al.
+- **(AAAI 2025)** [ALERT-Motion](https://arxiv.org/abs/2408.00352). Autonomous LLM-Enhanced Adversarial Attack for Text-to-Motion, Miao et al.
 - **(AAAI 2025)** [MotionCraft](https://cure-lab.github.io/MotionCraft/). MotionCraft: Crafting Whole-Body Motion with Plug-and-Play Multimodal Controls, Bian et al.
 - **(AAAI 2025)** [Light-T2M](https://arxiv.org/pdf/2412.11193). Light-T2M: A Lightweight and Fast Model for Text-to-motion Generation, Zeng et al.
 - **(WACV 2025)** [ReinDiffuse](https://reindiffuse.github.io/). ReinDiffuse: Crafting Physically Plausible Motions with Reinforced Diffusion Model, Han et al.
@@ -373,12 +374,12 @@ An aggregation of human motion understanding research.
 <summary><h2>Datasets & Benchmarks</h2></summary>
 
 - **(ICLR 2025)** [MotionCritic](https://motioncritic.github.io/). Aligning Human Motion Generation with Human Perceptions, Wang et al.
+- **(AAAI 2025)** [EMHI](https://arxiv.org/abs/2408.17168). EMHI: A Multimodal Egocentric Human Motion Dataset with HMD and Body-Worn IMUs, Fan et al.
 - **(ArXiv 2025)** [Motion-X++](https://arxiv.org/pdf/2501.05098). Motion-X++: A Large-Scale Multimodal 3D Whole-body Human Motion Dataset, Zhang et al.
 - **(ArXiv 2024)** [Mimicking-Bench](https://mimicking-bench.github.io/). Mimicking-Bench: A Benchmark for Generalizable Humanoid-Scene Interaction Learning via Human Mimicking, Liu et al. 
 - **(ArXiv 2024)** [LaserHuman](https://github.com/4DVLab/LaserHuman). LaserHuman: Language-guided Scene-aware Human Motion Generation in Free Environment, Cong et al.
 - **(ArXiv 2024)** [AtoM](https://atom-motion.github.io/). AToM: Aligning Text-to-Motion Model at Event-Level with GPT-4Vision Reward, Han et al.
 - **(ArXiv 2024)** [SCENIC](https://virtualhumans.mpi-inf.mpg.de/scenic/). SCENIC: Scene-aware Semantic Navigation with Instruction-guided Control, Zhang et al.
-- **(ArXiv 2024)** [EMHI](https://arxiv.org/abs/2408.17168). EMHI: A Multimodal Egocentric Human Motion Dataset with HMD and Body-Worn IMUs, Fan et al.
 - **(ArXiv 2024)** [synNsync](https://von31.github.io/synNsync/). Synergy and Synchrony in Couple Dances, Manukele et al.
 - **(ArXiv 2024)** [MotionBank](https://github.com/liangxuy/MotionBank). MotionBank: A Large-scale Video Motion Benchmark with Disentangled Rule-based Annotations, Xu et al.
 - **(ArXiv 2024)** [CORE4D](https://core4d.github.io/). CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement, Zhang et al.
