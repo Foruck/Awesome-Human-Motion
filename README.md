@@ -26,6 +26,9 @@ An aggregation of human motion understanding research.
 
 - **(ICLR 2025)** [DART](https://zkf1997.github.io/DART/). DART: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control, Zhao et al.
 - **(ICLR 2025)** [Motion-Agent](https://knoxzhao.github.io/Motion-Agent/). Motion-Agent: A Conversational Framework for Human Motion Generation with LLMs, Wu et al.
+- **(ArXiv 2025)** [MotionPCM](https://arxiv.org/pdf/2501.19083). MotionPCM: Real-Time Motion Synthesis with Phased Consistency Model, Jiang et al.
+- **(ArXiv 2025)** [GestureLSM](https://andypinxinliu.github.io/GestureLSM/). GestureLSM: Latent Shortcut based Co-Speech Gesture Generation with Spatial-Temporal Modeling, Liu et al.
+- **(ArXiv 2025)** [Free-T2M](https://arxiv.org/pdf/2501.18232). Free-T2M: Frequency Enhanced Text-to-Motion Diffusion Model With Consistency Loss, Chen et al.
 - **(ArXiv 2025)** [LS-GAN](https://arxiv.org/pdf/2501.01449). LS-GAN: HumanMotion Synthesis with Latent-space GANs, Amballa et al.
 - **(ArXiv 2025)** [FlexMotion](https://arxiv.org/html/2501.16778v1). FlexMotion: Lightweight, Physics-Aware, and Controllable Human Motion Generation, Tashakori et al.
 - **(ArXiv 2025)** [PackDiT](https://arxiv.org/pdf/2501.16551). PackDiT: Joint Human Motion and Text Generation via Mutual Prompting, Jiang et al.
