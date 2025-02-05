@@ -28,6 +28,8 @@ An aggregation of human motion understanding research.
 - **(ICLR 2025)** [CLoSD](https://guytevet.github.io/CLoSD-page/). CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.
 - **(ICLR 2025)** [DART](https://zkf1997.github.io/DART/). DART: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control, Zhao et al.
 - **(ICLR 2025)** [Motion-Agent](https://knoxzhao.github.io/Motion-Agent/). Motion-Agent: A Conversational Framework for Human Motion Generation with LLMs, Wu et al.
+- **(ArXiv 2025)** [MotionLab](https://diouo.github.io/motionlab.github.io/). MotionLab: Unified Human Motion Generation and Editing via the Motion-Condition-Motion Paradigm, Guo et al.
+- **(ArXiv 2025)** [CASIM](https://cjerry1243.github.io/casim_t2m/). CASIM: Composite Aware Semantic Injection for Text to Motion Generation, Chang et al.
 - **(ArXiv 2025)** [MotionPCM](https://arxiv.org/pdf/2501.19083). MotionPCM: Real-Time Motion Synthesis with Phased Consistency Model, Jiang et al.
 - **(ArXiv 2025)** [GestureLSM](https://andypinxinliu.github.io/GestureLSM/). GestureLSM: Latent Shortcut based Co-Speech Gesture Generation with Spatial-Temporal Modeling, Liu et al.
 - **(ArXiv 2025)** [Free-T2M](https://arxiv.org/pdf/2501.18232). Free-T2M: Frequency Enhanced Text-to-Motion Diffusion Model With Consistency Loss, Chen et al.
@@ -433,7 +435,9 @@ An aggregation of human motion understanding research.
 <summary><h2>Humanoid, Simulated or Real</h2></summary>
 
 - **(ICLR 2025)** [CLoSD](https://guytevet.github.io/CLoSD-page/). CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.
-- **(ArXiv 2025)** [Gu et al](https://arxiv.org/pdf/2501.02116). Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning.
+- **(ArXiv 2025)** [Embrace Collisions](https://arxiv.org/pdf/2502.01465). Embrace Collisions: Humanoid Shadowing for Deployable Contact-Agnostics Motion, Zhuang et al.
+- **(ArXiv 2025)** [ASAP](https://agile.human2humanoid.com/). ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills, He et al.
+- **(ArXiv 2025)** [Gu et al](https://arxiv.org/pdf/2501.02116). Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning, Gu et al.
 - **(ArXiv 2024)** [UH-1](https://usc-gvl.github.io/UH-1/). Learning from Massive Human Videos for Universal Humanoid Pose Control, Mao et al.
 - **(ArXiv 2024)** [Mimicking-Bench](https://mimicking-bench.github.io/). Mimicking-Bench: A Benchmark for Generalizable Humanoid-Scene Interaction Learning via Human Mimicking, Liu et al. 
 - **(ArXiv 2024)** [Exbody2](https://exbody2.github.io/). Exbody2: Advanced Expressive Humanoid Whole-Body Control, Ji et al.
