@@ -350,9 +350,9 @@ An aggregation of human motion understanding research.
 <details open>
 <summary><h2>Human-Human Interaction</h2></summary>
 
+- **(ICLR 2025)** [InterMask](https://gohar-malik.github.io/intermask). InterMask: 3D Human Interaction Generation via Collaborative Masked Modelling, Javed et al.
 - **(ArXiv 2024)** [Two in One](https://arxiv.org/pdf/2412.16670). Two-in-One: Unified Multi-Person Interactive Motion Generation by Latent Diffusion Transformer, Li et al.
 - **(ArXiv 2024)** [It Takes Two](https://arxiv.org/pdf/2412.02419). It Takes Two: Real-time Co-Speech Two-person’s Interaction Generation via Reactive Auto-regressive Diffusion Model, Shi et al.
-- **(ArXiv 2024)** [InterMask](https://gohar-malik.github.io/intermask). InterMask: 3D Human Interaction Generation via Collaborative Masked Modelling, Javed et al.
 - **(ArXiv 2024)** [COLLAGE](https://arxiv.org/abs/2409.20502). COLLAGE: Collaborative Human-Agent Interaction Generation using Hierarchical Latent Diffusion and Language Models, Daiya et al.
 - **(NeurIPS 2024)** [Harmony4D](https://jyuntins.github.io/harmony4d/). Harmony4D: A Video Dataset for In-The-Wild Close Human Interactions, Khirodkar et al.
 - **(NeurIPS 2024)** [InterControl](https://github.com/zhenzhiwang/intercontrol). InterControl: Generate Human Motion Interactions by Controlling Every Joint, Wang et al.
