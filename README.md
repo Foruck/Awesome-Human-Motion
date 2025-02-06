@@ -26,6 +26,10 @@ An aggregation of human motion understanding research.
 
 - **(ICRA 2025)** [MotionGlot](https://arxiv.org/abs/2410.16623). MotionGlot: A Multi-Embodied Motion Generation Model, Harithas et al.
 - **(ICLR 2025)** [CLoSD](https://guytevet.github.io/CLoSD-page/). CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.
+- **(ICLR 2025)** [HGM³](https://openreview.net/forum?id=IEul1M5pyk). HGM³: Hierarchical Generative Masked Motion Modeling with Hard Token Mining, Jeong et al.
+- **(ICLR 2025)** [LaMP](https://openreview.net/forum?id=LYawG8YkPa). LaMP: Language-Motion Pretraining for Motion Generation, Retrieval, and Captioning, Li et al.
+- **(ICLR 2025)** [MotionDreamer](https://openreview.net/forum?id=d23EVDRJ6g). MotionDreamer: One-to-Many Motion Synthesis with Localized Generative Masked Transformer, Wang et al.
+- **(ICLR 2025)** [Lyu et al](https://openreview.net/forum?id=Oh8MuCacJW). Towards Unified Human Motion-Language Understanding via Sparse Interpretable Characterization, Lyu et al.
 - **(ICLR 2025)** [DART](https://zkf1997.github.io/DART/). DART: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control, Zhao et al.
 - **(ICLR 2025)** [Motion-Agent](https://knoxzhao.github.io/Motion-Agent/). Motion-Agent: A Conversational Framework for Human Motion Generation with LLMs, Wu et al.
 - **(ArXiv 2025)** [MotionLab](https://diouo.github.io/motionlab.github.io/). MotionLab: Unified Human Motion Generation and Editing via the Motion-Condition-Motion Paradigm, Guo et al.
@@ -350,6 +354,8 @@ An aggregation of human motion understanding research.
 <details open>
 <summary><h2>Human-Human Interaction</h2></summary>
 
+- **(ICLR 2025)** [Think Then React](https://openreview.net/forum?id=UxzKcIZedp). Think Then React: Towards Unconstrained Action-to-Reaction Motion Generation, Tan et al.
+- **(ICLR 2025)** [Ready-to-React](https://openreview.net/forum?id=mm0cqJ2O3f). Ready-to-React: Online Reaction Policy for Two-Character Interaction Generation, Cen et al.
 - **(ICLR 2025)** [InterMask](https://gohar-malik.github.io/intermask). InterMask: 3D Human Interaction Generation via Collaborative Masked Modelling, Javed et al.
 - **(ArXiv 2024)** [Two in One](https://arxiv.org/pdf/2412.16670). Two-in-One: Unified Multi-Person Interactive Motion Generation by Latent Diffusion Transformer, Li et al.
 - **(ArXiv 2024)** [It Takes Two](https://arxiv.org/pdf/2412.02419). It Takes Two: Real-time Co-Speech Two-person’s Interaction Generation via Reactive Auto-regressive Diffusion Model, Shi et al.
@@ -376,6 +382,7 @@ An aggregation of human motion understanding research.
 <summary><h2>Datasets & Benchmarks</h2></summary>
 
 - **(ICLR 2025)** [MotionCritic](https://motioncritic.github.io/). Aligning Human Motion Generation with Human Perceptions, Wang et al.
+- **(ICLR 2025)** [LocoVR](https://openreview.net/forum?id=9mBodivRIo). LocoVR: Multiuser Indoor Locomotion Dataset in Virtual Reality, Takeyama et al.
 - **(AAAI 2025)** [EMHI](https://arxiv.org/abs/2408.17168). EMHI: A Multimodal Egocentric Human Motion Dataset with HMD and Body-Worn IMUs, Fan et al.
 - **(ArXiv 2025)** [Motion-X++](https://arxiv.org/pdf/2501.05098). Motion-X++: A Large-Scale Multimodal 3D Whole-body Human Motion Dataset, Zhang et al.
 - **(ArXiv 2024)** [Mimicking-Bench](https://mimicking-bench.github.io/). Mimicking-Bench: A Benchmark for Generalizable Humanoid-Scene Interaction Learning via Human Mimicking, Liu et al. 
@@ -434,8 +441,12 @@ An aggregation of human motion understanding research.
 <details open>
 <summary><h2>Humanoid, Simulated or Real</h2></summary>
 
+- **(ICRA 2025)** [HOVER](https://arxiv.org/abs/2410.21229). HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots, He et al.
+- **(ICLR 2025)** [Puppeteer](https://rlpuppeteer.github.io/). Hierarchical World Models as Visual Whole-Body Humanoid Controllers, Hansen et al.
+- **(ICLR 2025)** [FB-CPR](https://openreview.net/forum?id=9sOR0nYLtz). Zero-Shot Whole-Body Humanoid Control via Behavioral Foundation Models, Tirinzoni et al.
+- **(ICLR 2025)** [MPC2](https://openreview.net/forum?id=MWHIIWrWWu). Motion Control of High-Dimensional Musculoskeletal System with Hierarchical Model-Based Planning, Wei et al.
 - **(ICLR 2025)** [CLoSD](https://guytevet.github.io/CLoSD-page/). CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.
-- **(ICLR 2025)** [HiLo](https://arxiv.org/pdf/2502.03122).HiLo: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.
+- **(ICLR 2025)** [HiLo](https://arxiv.org/pdf/2502.03122). HiLo: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.
 - **(ArXiv 2025)** [Embrace Collisions](https://arxiv.org/pdf/2502.01465). Embrace Collisions: Humanoid Shadowing for Deployable Contact-Agnostics Motion, Zhuang et al.
 - **(ArXiv 2025)** [ToddlerBot](https://toddlerbot.github.io/). ToddlerBot: Open-Source ML-Compatible Humanoid Platform for Loco-Manipulation, Shi et al.
 - **(ArXiv 2025)** [ASAP](https://agile.human2humanoid.com/). ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills, He et al.
@@ -444,7 +455,6 @@ An aggregation of human motion understanding research.
 - **(ArXiv 2024)** [Mimicking-Bench](https://mimicking-bench.github.io/). Mimicking-Bench: A Benchmark for Generalizable Humanoid-Scene Interaction Learning via Human Mimicking, Liu et al. 
 - **(ArXiv 2024)** [Exbody2](https://exbody2.github.io/). Exbody2: Advanced Expressive Humanoid Whole-Body Control, Ji et al.
 - **(ArXiv 2024)** [SIMS](https://arxiv.org/abs/2411.19921). SIMS: Simulating Human-Scene Interactions with Real World Script Planning, Wang et al.
-- **(ArXiv 2024)** [HOVER](https://arxiv.org/abs/2410.21229). HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots, He et al.
 - **(ArXiv 2024)** [Humanoidlympics](https://smplolympics.github.io/SMPLOlympics). Humanoidlympics: Sports Environments for Physically Simulated Humanoids, Luo et al.
 - **(ArXiv 2024)** [SkillMimic](https://ingrid789.github.io/SkillMimic/). SkillMimic: Learning Reusable Basketball Skills from Demonstrations, Wang et al.
 - **(ArXiv 2024)** [PhySHOI](https://wyhuai.github.io/physhoi-page/). PhysHOI: Physics-Based Imitation of Dynamic Human-Object Interaction, Wang et al.
@@ -514,6 +524,7 @@ An aggregation of human motion understanding research.
 <summary><h2>Bio-stuff: Human Anatomy, Biomechanics, Physiology</h2></summary>
 
 - **(ICLR 2025)** [ImDy](https://foruck.github.io/ImDy). ImDy: Human Inverse Dynamics from Imitated Observations, Liu et al.
+- **(ICLR 2025)** [MPC2](https://openreview.net/forum?id=MWHIIWrWWu). Motion Control of High-Dimensional Musculoskeletal System with Hierarchical Model-Based Planning, Wei et al.
 - **(WACV 2025)** [OpenCapBench](https://arxiv.org/abs/2406.09788). A Benchmark to Bridge Pose Estimation and Biomechanics, Gozlan et al.
 - **(BiorXiv 2024)** [Lai et al](https://www.biorxiv.org/content/10.1101/2024.12.30.630841v1.full.pdf). Mapping Grip Force to Muscular Activity Towards Understanding Upper Limb Musculoskeletal Intent using a Novel Grip Strength Model, Lai et al.
 - **(ArXiv 2024)** [HDyS](https://foruck.github.io/HDyS). Homogeneous Dynamics Space for Heterogeneous Humans, Liu et al.
