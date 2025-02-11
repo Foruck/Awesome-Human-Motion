@@ -33,6 +33,7 @@ An aggregation of human motion understanding research.
 - **(ICLR 2025)** [DART](https://zkf1997.github.io/DART/). DART: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control, Zhao et al.
 - **(ICLR 2025)** [Motion-Agent](https://knoxzhao.github.io/Motion-Agent/). Motion-Agent: A Conversational Framework for Human Motion Generation with LLMs, Wu et al.
 - **(ArXiv 2025)** [MotionLab](https://diouo.github.io/motionlab.github.io/). MotionLab: Unified Human Motion Generation and Editing via the Motion-Condition-Motion Paradigm, Guo et al.
+- **(ArXiv 2025)** [Fg-T2M++](https://arxiv.org/pdf/2502.05534)。 Fg-T2M++: LLMs-Augmented Fine-Grained Text Driven Human Motion Generation, Wang et al.
 - **(ArXiv 2025)** [CASIM](https://cjerry1243.github.io/casim_t2m/). CASIM: Composite Aware Semantic Injection for Text to Motion Generation, Chang et al.
 - **(ArXiv 2025)** [MotionPCM](https://arxiv.org/pdf/2501.19083). MotionPCM: Real-Time Motion Synthesis with Phased Consistency Model, Jiang et al.
 - **(ArXiv 2025)** [GestureLSM](https://andypinxinliu.github.io/GestureLSM/). GestureLSM: Latent Shortcut based Co-Speech Gesture Generation with Spatial-Temporal Modeling, Liu et al.
@@ -526,6 +527,7 @@ An aggregation of human motion understanding research.
 - **(ICLR 2025)** [ImDy](https://foruck.github.io/ImDy). ImDy: Human Inverse Dynamics from Imitated Observations, Liu et al.
 - **(ICLR 2025)** [MPC2](https://openreview.net/forum?id=MWHIIWrWWu). Motion Control of High-Dimensional Musculoskeletal System with Hierarchical Model-Based Planning, Wei et al.
 - **(WACV 2025)** [OpenCapBench](https://arxiv.org/abs/2406.09788). A Benchmark to Bridge Pose Estimation and Biomechanics, Gozlan et al.
+- **(ArXiv 2025)** [Cotton et al](https://arxiv.org/pdf/2502.06486). Biomechanical Reconstruction with Confidence Intervals from Multiview Markerless Motion Capture, Cotton et al.
 - **(BiorXiv 2024)** [Lai et al](https://www.biorxiv.org/content/10.1101/2024.12.30.630841v1.full.pdf). Mapping Grip Force to Muscular Activity Towards Understanding Upper Limb Musculoskeletal Intent using a Novel Grip Strength Model, Lai et al.
 - **(ArXiv 2024)** [HDyS](https://foruck.github.io/HDyS). Homogeneous Dynamics Space for Heterogeneous Humans, Liu et al.
 - **(IROS 2024)** [Shahriari et al](https://arxiv.org/pdf/2412.18869).  Enhancing Robustness in Manipulability Assessment: The Pseudo-Ellipsoid Approach, Shahriari et al.
