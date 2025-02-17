@@ -449,6 +449,7 @@ An aggregation of human motion understanding research.
 - **(ICLR 2025)** [CLoSD](https://guytevet.github.io/CLoSD-page/). CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.
 - **(ICLR 2025)** [HiLo](https://arxiv.org/pdf/2502.03122). HiLo: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.
 - **(Github 2025)** [MobilityGen](https://github.com/NVlabs/MobilityGen). MobilityGen.
+- **(ArXiv 2025)** [BeamDojo](https://why618188.github.io/beamdojo/). BeamDojo: Learning Agile Humanoid Locomotion on Sparse Footholds, Wang et al.
 - **(ArXiv 2025)** [HoST](https://taohuang13.github.io/humanoid-standingup.github.io/). Learning Humanoid Standing-up Control across Diverse Postures, Huang et al.
 - **(ArXiv 2025)** [Embrace Collisions](https://arxiv.org/pdf/2502.01465). Embrace Collisions: Humanoid Shadowing for Deployable Contact-Agnostics Motion, Zhuang et al.
 - **(ArXiv 2025)** [ToddlerBot](https://toddlerbot.github.io/). ToddlerBot: Open-Source ML-Compatible Humanoid Platform for Loco-Manipulation, Shi et al.
