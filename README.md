@@ -48,6 +48,7 @@ An aggregation of human motion understanding research.
 - **(AAAI 2025)** [Light-T2M](https://arxiv.org/pdf/2412.11193). Light-T2M: A Lightweight and Fast Model for Text-to-motion Generation, Zeng et al.
 - **(WACV 2025)** [ReinDiffuse](https://reindiffuse.github.io/). ReinDiffuse: Crafting Physically Plausible Motions with Reinforced Diffusion Model, Han et al.
 - **(WACV 2025)** [MoRAG](https://motion-rag.github.io/). MoRAG -- Multi-Fusion Retrieval Augmented Generation for Human Motion, Shashank et al.
+- **(ArXiv 2025)** [SOLAMI](https://solami-ai.github.io/). SOLAMI: Social Vision-Language-Action Modeling for Immersive Interaction with 3D Autonomous Characters, Jiang et al.
 - **(ArXiv 2024)** [SemTalk](https://xiangyue-zhang.github.io/SemTalk). SemTalk: Holistic Co-speech Motion Generation with Frame-level Semantic Emphasis, Zhang et al.
 - **(ArXiv 2024)** [InterDance](https://inter-dance.github.io/). InterDance: Reactive 3D Dance Generation with Realistic Duet Interactions, Li et al.
 - **(ArXiv 2024)** [ScaMo](https://shunlinlu.github.io/ScaMo/). ScaMo: Exploring the Scaling Law in Autoregressive Motion Generation Model, Lu et al.
