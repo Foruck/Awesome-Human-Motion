@@ -451,6 +451,7 @@ An aggregation of human motion understanding research.
 - **(ICLR 2025)** [CLoSD](https://guytevet.github.io/CLoSD-page/). CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.
 - **(ICLR 2025)** [HiLo](https://arxiv.org/pdf/2502.03122). HiLo: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.
 - **(Github 2025)** [MobilityGen](https://github.com/NVlabs/MobilityGen). MobilityGen.
+- **(ArXiv 2025)** [Li et al](https://arxiv.org/pdf/2502.13707). Human-Like Robot Impedance Regulation Skill Learning from Human-Human Demonstrations, Li et al.
 - **(ArXiv 2025)** [HumanUP](https://humanoid-getup.github.io/). Learning Getting-Up Policies for Real-World Humanoid Robots, He et al.
 - **(ArXiv 2025)** [RHINO](https://humanoid-interaction.github.io/). RHINO: Learning Real-Time Humanoid-Human-Object Interaction from Human Demonstrations, Chen et al.
 - **(ArXiv 2025)** [HOMIE](https://arxiv.org/pdf/2502.13013). HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit, Ben et al.
