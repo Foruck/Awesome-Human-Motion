@@ -551,6 +551,7 @@ An aggregation of human motion understanding research.
 - **(HFES 2024)** [Macwan et al](https://journals.sagepub.com/doi/full/10.1177/10711813241262026). High-Fidelity Worker Motion Simulation With Generative AI, Macwan et al.
 - **(ECCV 2024)** [AddBiomechanics](https://addbiomechanics.org/). AddBiomechanics Dataset: Capturing the Physics of Human Motion at Scale, Werling et al.
 - **(ECCV 2024)** [MANIKIN](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00194.pdf). MANIKIN: Biomechanically Accurate Neural Inverse Kinematics for Human Motion Estimation, Jiang et al.
+- **(TOG 2024)** [NICER](https://dl.acm.org/doi/pdf/10.1145/3658230). NICER: A New and Improved Consumed Endurance and Recovery Metric to Quantify Muscle Fatigue of Mid-Air Interactions, Li et al.
 - **(ICML 2024)** [DynSyn](https://www.beanpow.top/assets/pdf/dynsyn_poster.pdf). DynSyn: Dynamical Synergistic Representation for Efficient Learning and Control in Overactuated Embodied Systems, He et al.
 - **(Multibody System Dynamics 2024)** [Human3.6M+](https://github.com/ainlamyae/Human3.6Mplus). Using musculoskeletal models to generate physically-consistent data for 3D human pose, kinematic, dynamic, and muscle estimation, Nasr et al.
 - **(CVPR 2024)** [HIT](https://hit.is.tue.mpg.de/). HIT: Estimating Internal Human Implicit Tissues from the Body Surface, Keller et al.
