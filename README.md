@@ -15,7 +15,8 @@ An aggregation of human motion understanding research.
 <details open>
 <summary><h2>Reviews & Surveys</h2></summary>
 
-- **(ArXiv 2025)** [Gu et al](https://arxiv.org/pdf/2501.02116). Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning.
+- **(JEB 2025)** [McAllister et al](https://journals.biologists.com/jeb/article/228/Suppl_1/JEB248125/367009/Behavioural-energetics-in-human-locomotion-how). Behavioural energetics in human locomotion: how energy use influences how we move, McAllister et al.
+- **(ArXiv 2025)** [Gu et al](https://arxiv.org/pdf/2501.02116). Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning, Gu et al.
 - **(ArXiv 2024)** [Zhao et al](https://arxiv.org/pdf/2412.10458). Motion Generation Review: Exploring Deep Learning for Lifelike Animation with Manifold, Zhao et al.
 - **(T-PAMI 2023)** [Zhu et al](https://arxiv.org/abs/2307.10894). Human Motion Generation: A Survey, Zhu et al.
 </details>
