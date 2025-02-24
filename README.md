@@ -539,6 +539,7 @@ An aggregation of human motion understanding research.
 
 - **(ICLR 2025)** [ImDy](https://foruck.github.io/ImDy). ImDy: Human Inverse Dynamics from Imitated Observations, Liu et al.
 - **(ICLR 2025)** [MPC2](https://openreview.net/forum?id=MWHIIWrWWu). Motion Control of High-Dimensional Musculoskeletal System with Hierarchical Model-Based Planning, Wei et al.
+- **(JEB 2025)** [McAllister et al](https://journals.biologists.com/jeb/article/228/Suppl_1/JEB248125/367009/Behavioural-energetics-in-human-locomotion-how). Behavioural energetics in human locomotion: how energy use influences how we move, McAllister et al.
 - **(WACV 2025)** [OpenCapBench](https://arxiv.org/abs/2406.09788). A Benchmark to Bridge Pose Estimation and Biomechanics, Gozlan et al.
 - **(ArXiv 2025)** [Wu et al](https://arxiv.org/pdf/2502.13760). Muscle Activation Estimation by Optimizing the Musculoskeletal Model for Personalized Strength and Conditioning Training, Wu et al.
 - **(ArXiv 2025)** [Cotton et al](https://arxiv.org/pdf/2502.06486). Biomechanical Reconstruction with Confidence Intervals from Multiview Markerless Motion Capture, Cotton et al.
