@@ -33,6 +33,7 @@ An aggregation of human motion understanding research.
 - **(ICLR 2025)** [Lyu et al](https://openreview.net/forum?id=Oh8MuCacJW). Towards Unified Human Motion-Language Understanding via Sparse Interpretable Characterization, Lyu et al.
 - **(ICLR 2025)** [DART](https://zkf1997.github.io/DART/). DART: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control, Zhao et al.
 - **(ICLR 2025)** [Motion-Agent](https://knoxzhao.github.io/Motion-Agent/). Motion-Agent: A Conversational Framework for Human Motion Generation with LLMs, Wu et al.
+- **(ArXiv 2025)** [AnyTop](https://arxiv.org/pdf/2502.17327). AnyTop: Character Animation Diffusion with Any Topology, Gat et al.
 - **(ArXiv 2025)** [MotionLab](https://diouo.github.io/motionlab.github.io/). MotionLab: Unified Human Motion Generation and Editing via the Motion-Condition-Motion Paradigm, Guo et al.
 - **(ArXiv 2025)** [Fg-T2M++](https://arxiv.org/pdf/2502.05534)。 Fg-T2M++: LLMs-Augmented Fine-Grained Text Driven Human Motion Generation, Wang et al.
 - **(ArXiv 2025)** [CASIM](https://cjerry1243.github.io/casim_t2m/). CASIM: Composite Aware Semantic Injection for Text to Motion Generation, Chang et al.
@@ -453,6 +454,7 @@ An aggregation of human motion understanding research.
 - **(ICLR 2025)** [CLoSD](https://guytevet.github.io/CLoSD-page/). CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.
 - **(ICLR 2025)** [HiLo](https://arxiv.org/pdf/2502.03122). HiLo: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.
 - **(Github 2025)** [MobilityGen](https://github.com/NVlabs/MobilityGen). MobilityGen.
+- **(ArXiv 2025)** [COMPASS](https://nvlabs.github.io/COMPASS/). COMPASS: Cross-embOdiment Mobility Policy via ResiduAl RL and Skill Synthesis, Liu et al.
 - **(ArXiv 2025)** [VB-COM](https://renjunli99.github.io/vbcom.github.io/). VB-Com: Learning Vision-Blind Composite Humanoid Locomotion Against Deficient Perception, Ren et al.
 - **(ArXiv 2025)** [ModSkill](https://arxiv.org/pdf/2502.14140). ModSkill: Physical Character Skill Modularization, Huang et al.
 - **(ArXiv 2025)** [Humanoid-VLA](https://arxiv.org/pdf/2502.14795). Humanoid-VLA: Towards Universal Humanoid Control with Visual Integration, Ding et al.
