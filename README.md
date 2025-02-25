@@ -362,6 +362,7 @@ An aggregation of human motion understanding research.
 - **(ICLR 2025)** [Think Then React](https://openreview.net/forum?id=UxzKcIZedp). Think Then React: Towards Unconstrained Action-to-Reaction Motion Generation, Tan et al.
 - **(ICLR 2025)** [Ready-to-React](https://openreview.net/forum?id=mm0cqJ2O3f). Ready-to-React: Online Reaction Policy for Two-Character Interaction Generation, Cen et al.
 - **(ICLR 2025)** [InterMask](https://gohar-malik.github.io/intermask). InterMask: 3D Human Interaction Generation via Collaborative Masked Modelling, Javed et al.
+- **(3DV 2025)** [Interactive Humanoid](https://arxiv.org/abs/2312.08983). Interactive Humanoid: Online Full-Body Motion Reaction Synthesis with Social Affordance Canonicalization and Forecasting, Liu et al.
 - **(ArXiv 2025)** [Leader and Follower](https://arxiv.org/pdf/2502.11563). Leader and Follower: Interactive Motion Generation under Trajectory Constraints, Wang et al. 
 - **(ArXiv 2024)** [Two in One](https://arxiv.org/pdf/2412.16670). Two-in-One: Unified Multi-Person Interactive Motion Generation by Latent Diffusion Transformer, Li et al.
 - **(ArXiv 2024)** [It Takes Two](https://arxiv.org/pdf/2412.02419). It Takes Two: Real-time Co-Speech Two-person’s Interaction Generation via Reactive Auto-regressive Diffusion Model, Shi et al.
