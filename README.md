@@ -503,6 +503,7 @@ An aggregation of human motion understanding research.
 - **(ICLR 2024)** [UniHSI](https://xizaoqu.github.io/unihsi/). UniHSI: Unified Human-Scene Interaction via Prompted Chain-of-Contacts, Xiao et al.
 - **(3DV 2024)** [Phys-Fullbody-Grasp](https://eth-ait.github.io/phys-fullbody-grasp/). Physically Plausible Full-Body Hand-Object Interaction Synthesis, Braun et al.
 - **(RSS 2024)** [ExBody](https://expressive-humanoid.github.io/). Expressive Whole-Body Control for Humanoid Robots, Cheng et al.
+- **(SIGGRAPH Asia 2023)** [Fatigued Movements](https://vcai.mpi-inf.mpg.de/projects/FatiguedMovements/). Discovering Fatigued Movements for Virtual Character Animation, Cheema et al.
 - **(SIGGRAPH Asia 2023)** [CASE](https://frank-zy-dou.github.io/projects/CASE/index.html). C·ASE: Learning Conditional Adversarial Skill Embeddings for Physics-based Characters, Dou et al.
 - **(SIGGRAPH Asia 2023)** [AdaptNet](https://github.com/xupei0610/AdaptNet). AdaptNet: Policy Adaptation for Physics-Based Character Control, Xu et al.
 - **(SIGGRAPH Asia 2023)** [NCP](https://tencent-roboticsx.github.io/NCP/). Neural Categorical Priors for Physics-Based Character Control, Zhu et al.
@@ -563,6 +564,7 @@ An aggregation of human motion understanding research.
 - **(CVPR 2024)** [HIT](https://hit.is.tue.mpg.de/). HIT: Estimating Internal Human Implicit Tissues from the Body Surface, Keller et al.
 - **(Frontiers in Neuroscience 2024)** [Dai et al](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2024.1388742/full). Full-body pose reconstruction and correction in virtual reality for rehabilitation training, Dai et al.
 - **(ICRA 2024)** [He et al.](https://arxiv.org/pdf/2312.05473.pdf). Self Model for Embodied Intelligence: Modeling Full-Body Human Musculoskeletal System and Locomotion Control with Hierarchical Low-Dimensional Representation, He et al.
+- **(SIGGRAPH Asia 2023)** [Fatigued Movements](https://vcai.mpi-inf.mpg.de/projects/FatiguedMovements/). Discovering Fatigued Movements for Virtual Character Animation, Cheema et al.
 - **(SIGGRAPH Asia 2023)** [SKEL](https://skel.is.tue.mpg.de/). From skin to skeleton: Towards biomechanically accurate 3d digital humans, Keller et al.
 - **(SIGGRAPH Asia 2023)** [MuscleVAE](https://pku-mocca.github.io/MuscleVAE-page/). MuscleVAE: Model-Based Controllers of Muscle-Actuated Characters, Feng et al.
 - **(SIGGRAPH 2023)** [Bidirectional GaitNet](https://github.com/namjohn10/BidirectionalGaitNet) Bidirectional GaitNet, Park et al.
