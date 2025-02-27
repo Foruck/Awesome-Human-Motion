@@ -543,6 +543,7 @@ An aggregation of human motion understanding research.
 <details open>
 <summary><h2>Bio-stuff: Human Anatomy, Biomechanics, Physiology</h2></summary>
 
+- **(CVPR 2025)** [HDyS](https://foruck.github.io/HDyS). Homogeneous Dynamics Space for Heterogeneous Humans, Liu et al.
 - **(ICLR 2025)** [ImDy](https://foruck.github.io/ImDy). ImDy: Human Inverse Dynamics from Imitated Observations, Liu et al.
 - **(ICLR 2025)** [MPC2](https://openreview.net/forum?id=MWHIIWrWWu). Motion Control of High-Dimensional Musculoskeletal System with Hierarchical Model-Based Planning, Wei et al.
 - **(JEB 2025)** [McAllister et al](https://journals.biologists.com/jeb/article/228/Suppl_1/JEB248125/367009/Behavioural-energetics-in-human-locomotion-how). Behavioural energetics in human locomotion: how energy use influences how we move, McAllister et al.
@@ -550,7 +551,6 @@ An aggregation of human motion understanding research.
 - **(ArXiv 2025)** [Wu et al](https://arxiv.org/pdf/2502.13760). Muscle Activation Estimation by Optimizing the Musculoskeletal Model for Personalized Strength and Conditioning Training, Wu et al.
 - **(ArXiv 2025)** [Cotton et al](https://arxiv.org/pdf/2502.06486). Biomechanical Reconstruction with Confidence Intervals from Multiview Markerless Motion Capture, Cotton et al.
 - **(BiorXiv 2024)** [Lai et al](https://www.biorxiv.org/content/10.1101/2024.12.30.630841v1.full.pdf). Mapping Grip Force to Muscular Activity Towards Understanding Upper Limb Musculoskeletal Intent using a Novel Grip Strength Model, Lai et al.
-- **(ArXiv 2024)** [HDyS](https://foruck.github.io/HDyS). Homogeneous Dynamics Space for Heterogeneous Humans, Liu et al.
 - **(IROS 2024)** [Shahriari et al](https://arxiv.org/pdf/2412.18869).  Enhancing Robustness in Manipulability Assessment: The Pseudo-Ellipsoid Approach, Shahriari et al.
 - **(SIGGRAPH Asia 2024)** [BioDesign](https://cs-people.bu.edu/xjhan/bioDesign.html). Motion-Driven Neural Optimizer for Prophylactic Braces Made by Distributed Microstructures, Han et al.
 - **(Scientific Data 2024)** [Evans et al](https://www.nature.com/articles/s41597-024-04077-3?fromPaywallRec=false). Synchronized Video, Motion Capture and Force Plate Dataset for Validating Markerless Human Movement Analysis, Evans et al.
