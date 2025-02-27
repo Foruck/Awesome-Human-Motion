@@ -456,6 +456,7 @@ An aggregation of human motion understanding research.
 - **(ICLR 2025)** [CLoSD](https://guytevet.github.io/CLoSD-page/). CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.
 - **(ICLR 2025)** [HiLo](https://arxiv.org/pdf/2502.03122). HiLo: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.
 - **(Github 2025)** [MobilityGen](https://github.com/NVlabs/MobilityGen). MobilityGen.
+- **(ArXiv 2025)** [Think on your feet](https://arxiv.org/pdf/2502.18901). Think on your feet: Seamless Transition between Human-like Locomotion in Response to Changing Commands, Huang et al.
 - **(ArXiv 2025)** [COMPASS](https://nvlabs.github.io/COMPASS/). COMPASS: Cross-embOdiment Mobility Policy via ResiduAl RL and Skill Synthesis, Liu et al.
 - **(ArXiv 2025)** [VB-COM](https://renjunli99.github.io/vbcom.github.io/). VB-Com: Learning Vision-Blind Composite Humanoid Locomotion Against Deficient Perception, Ren et al.
 - **(ArXiv 2025)** [ModSkill](https://arxiv.org/pdf/2502.14140). ModSkill: Physical Character Skill Modularization, Huang et al.
