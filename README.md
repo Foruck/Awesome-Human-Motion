@@ -25,6 +25,7 @@ An aggregation of human motion understanding research.
 <details open>
 <summary><h2>Motion Generation, Text/Speech/Music-Driven</h2></summary>
 
+- **(CVPR 2025)** [Move in 2D](https://hhsinping.github.io/Move-in-2D/). Move-in-2D: 2D-Conditioned Human Motion Generation, Huang et al.
 - **(ICRA 2025)** [MotionGlot](https://arxiv.org/abs/2410.16623). MotionGlot: A Multi-Embodied Motion Generation Model, Harithas et al.
 - **(ICLR 2025)** [CLoSD](https://guytevet.github.io/CLoSD-page/). CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.
 - **(ICLR 2025)** [HGM³](https://openreview.net/forum?id=IEul1M5pyk). HGM³: Hierarchical Generative Masked Motion Modeling with Hard Token Mining, Jeong et al.
@@ -41,7 +42,7 @@ An aggregation of human motion understanding research.
 - **(ArXiv 2025)** [MotionPCM](https://arxiv.org/pdf/2501.19083). MotionPCM: Real-Time Motion Synthesis with Phased Consistency Model, Jiang et al.
 - **(ArXiv 2025)** [GestureLSM](https://andypinxinliu.github.io/GestureLSM/). GestureLSM: Latent Shortcut based Co-Speech Gesture Generation with Spatial-Temporal Modeling, Liu et al.
 - **(ArXiv 2025)** [Free-T2M](https://arxiv.org/pdf/2501.18232). Free-T2M: Frequency Enhanced Text-to-Motion Diffusion Model With Consistency Loss, Chen et al.
-- **(ArXiv 2025)** [LS-GAN](https://arxiv.org/pdf/2501.01449). LS-GAN: HumanMotion Synthesis with Latent-space GANs, Amballa et al.
+- **(ArXiv 2025)** [LS-GAN](https://arxiv.org/pdf/2501.01449). LS-GAN: Human Motion Synthesis with Latent-space GANs, Amballa et al.
 - **(ArXiv 2025)** [FlexMotion](https://arxiv.org/html/2501.16778v1). FlexMotion: Lightweight, Physics-Aware, and Controllable Human Motion Generation, Tashakori et al.
 - **(ArXiv 2025)** [PackDiT](https://arxiv.org/pdf/2501.16551). PackDiT: Joint Human Motion and Text Generation via Mutual Prompting, Jiang et al.
 - **(3DV 2025)** [Unimotion](https://coral79.github.io/uni-motion/). Unimotion: Unifying 3D Human Motion Synthesis and Understanding, Li et al.
@@ -57,7 +58,6 @@ An aggregation of human motion understanding research.
 - **(ArXiv 2024)** [InterDance](https://inter-dance.github.io/). InterDance: Reactive 3D Dance Generation with Realistic Duet Interactions, Li et al.
 - **(ArXiv 2024)** [ScaMo](https://shunlinlu.github.io/ScaMo/). ScaMo: Exploring the Scaling Law in Autoregressive Motion Generation Model, Lu et al.
 - **(ArXiv 2024)** [EnergyMoGen](https://jiro-zhang.github.io/EnergyMoGen/). EnergyMoGen: Compositional Human Motion Generation with Energy-Based Diffusion Model in Latent Space, Zhang et al.
-- **(ArXiv 2024)** [Move in 2D](https://hhsinping.github.io/Move-in-2D/). Move-in-2D: 2D-Conditioned Human Motion Generation, Huang et al.
 - **(ArXiv 2024)** [Motion-2-to-3](https://zju3dv.github.io/Motion-2-to-3/). Motion-2-to-3: Leveraging 2D Motion Data to Boost 3D Motion Generation, Pi et al.
 - **(ArXiv 2024)** [Languate of Motion](https://languageofmotion.github.io/). The Language of Motion: Unifying Verbal and Non-verbal Language of 3D Human Motion, Chen et al.
 - **(ArXiv 2024)** [Mogo](https://arxiv.org/abs/2412.07797). Mogo: RQ Hierarchical Causal Transformer for High-Quality 3D Human Motion Generation, Fu et al.
@@ -255,6 +255,8 @@ An aggregation of human motion understanding research.
 <details open>
 <summary><h2>Human-Object Interaction</h2></summary>
 
+- **(CVPR 2025)** [CORE4D](https://core4d.github.io/). CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement, Zhang et al.
+- **(CVPR 2025)** [SkillMimic](https://ingrid789.github.io/SkillMimic/). SkillMimic: Learning Reusable Basketball Skills from Demonstrations, Wang et al.
 - **(ArXiv 2025)** [MobileH2R](https://arxiv.org/pdf/2501.04595). MobileH2R: Learning Generalizable Human to Mobile Robot Handover Exclusively from Scalable and Diverse Synthetic Data, Wang et al.
 - **(AAAI 2025)** [DiffGrasp](https://iscas3dv.github.io/DiffGrasp/). Diffgrasp: Whole-Body Grasping Synthesis Guided by Object Motion Using a Diffusion Model, Zhang et al.
 - **(3DV 2025)** [Paschalidis et al](https://arxiv.org/pdf/2408.16770?). 3D Whole-body Grasp Synthesis with Directional Controllability, Paschalidis et al.
@@ -266,8 +268,6 @@ An aggregation of human motion understanding research.
 - **(ArXiv 2024)** [OOD-HOI](https://nickk0212.github.io/ood-hoi/). OOD-HOI: Text-Driven 3D Whole-Body Human-Object Interactions Generation Beyond Training Domains, Zhang et al.
 - **(ArXiv 2024)** [COLLAGE](https://arxiv.org/abs/2409.20502). COLLAGE: Collaborative Human-Agent Interaction Generation using Hierarchical Latent Diffusion and Language Models, Daiya et al.
 - **(ArXiv 2024)** [SMGDiff](https://arxiv.org/abs/2411.16216). SMGDiff: Soccer Motion Generation using diffusion probabilistic models, Yang et al.
-- **(ArXiv 2024)** [SkillMimic](https://ingrid789.github.io/SkillMimic/). SkillMimic: Learning Reusable Basketball Skills from Demonstrations, Wang et al.
-- **(ArXiv 2024)** [CORE4D](https://core4d.github.io/). CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement, Zhang et al.
 - **(ArXiv 2024)** [Wu et al](https://hoifhli.github.io/). Human-Object Interaction from Human-Level Instructions, Wu et al.
 - **(NeurIPS 2024)** [HumanVLA](https://arxiv.org/abs/2406.19972). HumanVLA: Towards Vision-Language Directed Object Rearrangement by Physical Humanoid, Xu et al.
 - **(NeurIPS 2024)** [OmniGrasp](https://www.zhengyiluo.com/Omnigrasp-Site/). Grasping Diverse Objects with Simulated Humanoids, Luo et al.
@@ -305,13 +305,13 @@ An aggregation of human motion understanding research.
 <details open>
 <summary><h2>Human-Scene Interaction</h2></summary>
 
+- **(CVPR 2025)** [EnvPoser](https://arxiv.org/pdf/2412.10235). EnvPoser: Environment-aware Realistic Human Motion Estimation from Sparse Observations with Uncertainty Modeling. Xia et al.
 - **(ICLR 2025)** [Sitcom-Crafter](https://github.com/WindVChen/Sitcom-Crafter). Sitcom-Crafter: A Plot-Driven Human Motion Generation System in 3D Scenes, Chen et al. 
 - **(3DV 2025)** [Paschalidis et al](https://arxiv.org/pdf/2408.16770?). 3D Whole-body Grasp Synthesis with Directional Controllability, Paschalidis et al.
 - **(WACV 2025)** [GHOST](https://arxiv.org/abs/2405.18438). GHOST: Grounded Human Motion Generation with Open Vocabulary Scene-and-Text Contexts, Milacski et al.
 - **(ArXiv 2024)** [ZeroHSI](https://awfuact.github.io/zerohsi/). ZeroHSI: Zero-Shot 4D Human-Scene Interaction by Video Generation, Li et al.
 - **(ArXiv 2024)** [Mimicking-Bench](https://mimicking-bench.github.io/). Mimicking-Bench: A Benchmark for Generalizable Humanoid-Scene Interaction Learning via Human Mimicking, Liu et al. 
 - **(ArXiv 2024)** [SCENIC](https://virtualhumans.mpi-inf.mpg.de/scenic/). SCENIC: Scene-aware Semantic Navigation with Instruction-guided Control, Zhang et al.
-- **(ArXiv 2024)** [EnvPoser](https://arxiv.org/pdf/2412.10235). EnvPoser: Environment-aware Realistic Human Motion Estimation from Sparse Observations with Uncertainty Modeling. Xia et al.
 - **(ArXiv 2024)** [Diffusion Implicit Policy](https://jingyugong.github.io/DiffusionImplicitPolicy/), Diffusion Implicit Policy for Unpaired Scene-aware Motion synthesis, Gong et al.
 - **(ArXiv 2024)** [SIMS](https://arxiv.org/abs/2411.19921). SIMS: Simulating Human-Scene Interactions with Real World Script Planning, Wang et al.
 - **(ArXiv 2024)** [LaserHuman](https://github.com/4DVLab/LaserHuman). LaserHuman: Language-guided Scene-aware Human Motion Generation in Free Environment, Cong et al.
@@ -389,6 +389,7 @@ An aggregation of human motion understanding research.
 <details open>
 <summary><h2>Datasets & Benchmarks</h2></summary>
 
+- **(CVPR 2025)** [CORE4D](https://core4d.github.io/). CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement, Zhang et al.
 - **(ICLR 2025)** [MotionCritic](https://motioncritic.github.io/). Aligning Human Motion Generation with Human Perceptions, Wang et al.
 - **(ICLR 2025)** [LocoVR](https://openreview.net/forum?id=9mBodivRIo). LocoVR: Multiuser Indoor Locomotion Dataset in Virtual Reality, Takeyama et al.
 - **(AAAI 2025)** [EMHI](https://arxiv.org/abs/2408.17168). EMHI: A Multimodal Egocentric Human Motion Dataset with HMD and Body-Worn IMUs, Fan et al.
@@ -399,7 +400,6 @@ An aggregation of human motion understanding research.
 - **(ArXiv 2024)** [SCENIC](https://virtualhumans.mpi-inf.mpg.de/scenic/). SCENIC: Scene-aware Semantic Navigation with Instruction-guided Control, Zhang et al.
 - **(ArXiv 2024)** [synNsync](https://von31.github.io/synNsync/). Synergy and Synchrony in Couple Dances, Manukele et al.
 - **(ArXiv 2024)** [MotionBank](https://github.com/liangxuy/MotionBank). MotionBank: A Large-scale Video Motion Benchmark with Disentangled Rule-based Annotations, Xu et al.
-- **(ArXiv 2024)** [CORE4D](https://core4d.github.io/). CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement, Zhang et al.
 - **(Github 2024)** [CMP & CMR](https://github.com/fyyakaxyy/AnimationGPT). AnimationGPT: An AIGC tool for generating game combat motion assets, Liao et al.
 - **(Scientific Data 2024)** [Evans et al](https://www.nature.com/articles/s41597-024-04077-3?fromPaywallRec=false). Synchronized Video, Motion Capture and Force Plate Dataset for Validating Markerless Human Movement Analysis, Evans et al.
 - **(SIGGRAPH Asia 2024)** [LINGO](https://lingomotions.com/). Autonomous Character-Scene Interaction Synthesis from Text Instruction, Jiang et al.
@@ -449,6 +449,7 @@ An aggregation of human motion understanding research.
 <details open>
 <summary><h2>Humanoid, Simulated or Real</h2></summary>
 
+- **(CVPR 2025)** [SkillMimic](https://ingrid789.github.io/SkillMimic/). SkillMimic: Learning Reusable Basketball Skills from Demonstrations, Wang et al.
 - **(ICRA 2025)** [HOVER](https://arxiv.org/abs/2410.21229). HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots, He et al.
 - **(ICLR 2025)** [Puppeteer](https://rlpuppeteer.github.io/). Hierarchical World Models as Visual Whole-Body Humanoid Controllers, Hansen et al.
 - **(ICLR 2025)** [FB-CPR](https://openreview.net/forum?id=9sOR0nYLtz). Zero-Shot Whole-Body Humanoid Control via Behavioral Foundation Models, Tirinzoni et al.
@@ -476,7 +477,6 @@ An aggregation of human motion understanding research.
 - **(ArXiv 2024)** [Exbody2](https://exbody2.github.io/). Exbody2: Advanced Expressive Humanoid Whole-Body Control, Ji et al.
 - **(ArXiv 2024)** [SIMS](https://arxiv.org/abs/2411.19921). SIMS: Simulating Human-Scene Interactions with Real World Script Planning, Wang et al.
 - **(ArXiv 2024)** [Humanoidlympics](https://smplolympics.github.io/SMPLOlympics). Humanoidlympics: Sports Environments for Physically Simulated Humanoids, Luo et al.
-- **(ArXiv 2024)** [SkillMimic](https://ingrid789.github.io/SkillMimic/). SkillMimic: Learning Reusable Basketball Skills from Demonstrations, Wang et al.
 - **(ArXiv 2024)** [PhySHOI](https://wyhuai.github.io/physhoi-page/). PhysHOI: Physics-Based Imitation of Dynamic Human-Object Interaction, Wang et al.
 - **(RA-L 2024)** [Liu et al](https://arxiv.org/pdf/2412.15166). Human-Humanoid Robots Cross-Embodiment Behavior-Skill Transfer Using Decomposed Adversarial Learning from Demonstration, Liu et al.
 - **(SIGGRAPH Asia 2024)** [PDP](https://stanford-tml.github.io/PDP.github.io/). PDP: Physics-Based Character Animation via Diffusion Policy, Truong et al.
