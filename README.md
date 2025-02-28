@@ -49,7 +49,7 @@ An aggregation of human motion understanding research.
 - **(AAAI 2025)** [UniMuMo](https://hanyangclarence.github.io/unimumo_demo/). UniMuMo: Unified Text, Music and Motion Generation, Yang et al.
 - **(AAAI 2025)** [ALERT-Motion](https://arxiv.org/abs/2408.00352). Autonomous LLM-Enhanced Adversarial Attack for Text-to-Motion, Miao et al.
 - **(AAAI 2025)** [MotionCraft](https://cure-lab.github.io/MotionCraft/). MotionCraft: Crafting Whole-Body Motion with Plug-and-Play Multimodal Controls, Bian et al.
-- **(AAAI 2025)** [Light-T2M](https://arxiv.org/pdf/2412.11193). Light-T2M: A Lightweight and Fast Model for Text-to-motion Generation, Zeng et al.
+- **(AAAI 2025)** [Light-T2M](https://arxiv.org/pdf/2412.11193). Light-T2M: A Lightweight and Fast Model for Text-to-Motion Generation, Zeng et al.
 - **(WACV 2025)** [ReinDiffuse](https://reindiffuse.github.io/). ReinDiffuse: Crafting Physically Plausible Motions with Reinforced Diffusion Model, Han et al.
 - **(WACV 2025)** [MoRAG](https://motion-rag.github.io/). MoRAG -- Multi-Fusion Retrieval Augmented Generation for Human Motion, Shashank et al.
 - **(WACV 2025)** [Mandelli et al](https://arxiv.org/abs/2409.11920). Generation of Complex 3D Human Motion by Temporal and Spatial Composition of Diffusion Models, Mandelli et al.
@@ -78,7 +78,7 @@ An aggregation of human motion understanding research.
 - **(ArXiv 2024)** [KMM](https://steve-zeyu-zhang.github.io/KMM). KMM: Key Frame Mask Mamba for Extended Motion Generation, Zhang et al.
 - **(ArXiv 2024)** [MotionGPT-2](https://arxiv.org/abs/2410.21747). MotionGPT-2: A General-Purpose Motion-Language Model for Motion Generation and Understanding, Wang et al.
 - **(ArXiv 2024)** [Lodge++](https://li-ronghui.github.io/lodgepp). Lodge++: High-quality and Long Dance Generation with Vivid Choreography Patterns, Li et al.
-- **(ArXiv 2024)** [MotionCLR](https://arxiv.org/abs/2410.18977). MotionCLR: Motion Generation and Training-free Editing via Understanding Attention Mechanisms, Chen et al.
+- **(ArXiv 2024)** [MotionCLR](https://arxiv.org/abs/2410.18977). MotionCLR: Motion Generation and Training-Free Editing via Understanding Attention Mechanisms, Chen et al.
 - **(ArXiv 2024)** [LEAD](https://arxiv.org/abs/2410.14508). LEAD: Latent Realignment for Human Motion Diffusion, Andreou et al.
 - **(ArXiv 2024)** [Leite et al.](https://arxiv.org/abs/2410.08931) Enhancing Motion Variation in Text-to-Motion Models via Pose and Video Conditioned Editing, Leite et al.
 - **(ArXiv 2024)** [MotionRL](https://arxiv.org/abs/2410.06513). MotionRL: Align Text-to-Motion Generation to Human Preferences with Multi-Reward Reinforcement Learning, Liu et al.
@@ -95,6 +95,7 @@ An aggregation of human motion understanding research.
 - **(NeurIPS 2024)** [MoGenTS](https://aigc3d.github.io/mogents/). MoGenTS: Motion Generation based on Spatial-Temporal Joint Modeling, Yuan et al.
 - **(NeurIPS 2024)** [M3GPT](https://arxiv.org/abs/2405.16273). M3GPT: An Advanced Multimodal, Multitask Framework for Motion Comprehension and Generation, Luo et al.
 - **(NeurIPS Workshop 2024)** [Bikov et al](https://openreview.net/forum?id=BTSnh5YdeI). Fitness Aware Human Motion Generation with Fine-Tuning, Bikov et al.
+- **(NeurIPS Workshop 2024)** [DGFM](https://arxiv.org/pdf/2502.20176). DGFM: Full Body Dance Generation Driven by Music Foundation Models, Liu et al.
 - **(ICPR 2024)** [FG-MDM](https://link.springer.com/chapter/10.1007/978-3-031-78104-9_30). FG-MDM: Towards Zero-Shot Human Motion Generation via ChatGPT-Refined Descriptions, Shi et al.
 - **(ACM MM 2024)** [SynTalker](https://bohongchen.github.io/SynTalker-Page/). Enabling Synergistic Full-Body Control in Prompt-Based Co-Speech Motion Generation, Chen et al.
 - **(ACM MM 2024)** [L3EM](https://dl.acm.org/doi/abs/10.1145/3664647.3681487). Towards Emotion-enriched Text-to-Motion Generation via LLM-guided Limb-level Emotion Manipulating. Yu et al.
@@ -255,6 +256,7 @@ An aggregation of human motion understanding research.
 <details open>
 <summary><h2>Human-Object Interaction</h2></summary>
 
+- **(CVPR 2025)** [InterMimic](https://sirui-xu.github.io/InterMimic/). InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions, Xu et al.
 - **(CVPR 2025)** [CORE4D](https://core4d.github.io/). CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement, Zhang et al.
 - **(CVPR 2025)** [SkillMimic](https://ingrid789.github.io/SkillMimic/). SkillMimic: Learning Reusable Basketball Skills from Demonstrations, Wang et al.
 - **(ArXiv 2025)** [MobileH2R](https://arxiv.org/pdf/2501.04595). MobileH2R: Learning Generalizable Human to Mobile Robot Handover Exclusively from Scalable and Diverse Synthetic Data, Wang et al.
@@ -281,7 +283,7 @@ An aggregation of human motion understanding research.
 - **(ECCV 2024)** [HIMO](https://lvxintao.github.io/himo/). HIMO: A New Benchmark for Full-Body Human Interacting with Multiple Objects, Lv et al.
 - **(SIGGRAPH 2024)** [PhysicsPingPong](https://jiashunwang.github.io/PhysicsPingPong/). Strategy and Skill Learning for Physics-based Table Tennis Animation, Wang et al.
 - **(CVPR 2024)** [NIFTY](https://nileshkulkarni.github.io/nifty/). NIFTY: Neural Object Interaction Fields for Guided Human Motion Synthesis, Kulkarni et al.
-- **(CVPR 2024)** [HOI Animator](https://zxylinkstart.github.io/HOIAnimator-Web/). HOIAnimator: Generating Text-prompt Human-object Animations using Novel Perceptive Diffusion Models, Son et al.
+- **(CVPR 2024)** [HOI Animator](https://zxylinkstart.github.io/HOIAnimator-Web/). HOIAnimator: Generating Text-Prompt Human-Object Animations using Novel Perceptive Diffusion Models, Son et al.
 - **(CVPR 2024)** [CG-HOI](https://cg-hoi.christian-diller.de/#main). CG-HOI: Contact-Guided 3D Human-Object Interaction Generation, Diller et al.
 - **(IJCV 2024)** [InterCap](https://intercap.is.tue.mpg.de/). InterCap: Joint Markerless 3D Tracking of Humans and Objects in Interaction, Huang et al.
 - **(3DV 2024)** [Phys-Fullbody-Grasp](https://eth-ait.github.io/phys-fullbody-grasp/). Physically Plausible Full-Body Hand-Object Interaction Synthesis, Braun et al.
@@ -332,7 +334,7 @@ An aggregation of human motion understanding research.
 - **(ICCV 2023)** [DIMOS](https://github.com/zkf1997/DIMOS). DIMOS: Synthesizing Diverse Human Motions in 3D Indoor Scenes, Zhao et al.
 - **(ICCV 2023)** [LAMA](https://jiyewise.github.io/projects/LAMA/). Locomotion-Action-Manipulation: Synthesizing Human-Scene Interactions in Complex 3D Environments, Lee et al.
 - **(ICCV 2023)** [Narrator](http://cic.tju.edu.cn/faculty/likun/projects/Narrator). Narrator: Towards Natural Control of Human-Scene Interaction Generation via Relationship Reasoning, Xuan et al.
-- **(CVPR 2023)** [CIMI4D](http://www.lidarhumanmotion.net/cimi4d). CIMI4D: A Large Multimodal Climbing Motion Dataset under Human-scene Interactions, Yan et al.
+- **(CVPR 2023)** [CIMI4D](http://www.lidarhumanmotion.net/cimi4d). CIMI4D: A Large Multimodal Climbing Motion Dataset under Human-Scene Interactions, Yan et al.
 - **(CVPR 2023)** [Scene-Ego](https://people.mpi-inf.mpg.de/~jianwang/projects/sceneego/). Scene-aware Egocentric 3D Human Pose Estimation, Wang et al.
 - **(CVPR 2023)** [SLOPER4D](http://www.lidarhumanmotion.net/sloper4d). SLOPER4D: A Scene-Aware Dataset for Global 4D Human Pose Estimation in Urban Environments, Dai et al.
 - **(CVPR 2023)** [CIRCLE](https://stanford-tml.github.io/circle_dataset/). CIRCLE: Capture in Rich Contextual Environments, Araujo et al.
@@ -340,7 +342,7 @@ An aggregation of human motion understanding research.
 - **(SIGGRAPH 2023)** [PMP](https://github.com/jinseokbae/pmp). PMP: Learning to Physically Interact with Environments using Part-wise Motion Priors, Bae et al.
 - **(SIGGRAPH 2023)** [QuestEnvSim](https://dl.acm.org/doi/10.1145/3588432.3591504). QuestEnvSim: Environment-Aware Simulated Motion Tracking from Sparse Sensors, Lee et al.
 - **(SIGGRAPH 2023)** [Hassan et al.](https://research.nvidia.com/publication/2023-08_synthesizing-physical-character-scene-interactions) Synthesizing Physical Character-Scene Interactions, Hassan et al.
-- **(NeurIPS 2022)** [Mao et al.](https://github.com/wei-mao-2019/ContAwareMotionPred). Contact-aware Human Motion Forecasting, Mao et al.
+- **(NeurIPS 2022)** [Mao et al.](https://github.com/wei-mao-2019/ContAwareMotionPred). Contact-Aware Human Motion Forecasting, Mao et al.
 - **(NeurIPS 2022)** [HUMANISE](https://github.com/Silverster98/HUMANISE). HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes, Wang et al.
 - **(NeurIPS 2022)** [EmbodiedPose](https://github.com/ZhengyiLuo/EmbodiedPose). Embodied Scene-aware Human Pose Estimation, Luo et al.
 - **(ECCV 2022)** [GIMO](https://github.com/y-zheng18/GIMO). GIMO: Gaze-Informed Human Motion Prediction in Context, Zheng et al.
@@ -361,7 +363,7 @@ An aggregation of human motion understanding research.
 <summary><h2>Human-Human Interaction</h2></summary>
 
 - **(ICLR 2025)** [Think Then React](https://openreview.net/forum?id=UxzKcIZedp). Think Then React: Towards Unconstrained Action-to-Reaction Motion Generation, Tan et al.
-- **(ICLR 2025)** [Ready-to-React](https://openreview.net/forum?id=mm0cqJ2O3f). Ready-to-React: Online Reaction Policy for Two-Character Interaction Generation, Cen et al.
+- **(ICLR 2025)** [Ready-to-React](https://zju3dv.github.io/ready_to_react/). Ready-to-React: Online Reaction Policy for Two-Character Interaction Generation, Cen et al.
 - **(ICLR 2025)** [InterMask](https://gohar-malik.github.io/intermask). InterMask: 3D Human Interaction Generation via Collaborative Masked Modelling, Javed et al.
 - **(3DV 2025)** [Interactive Humanoid](https://arxiv.org/abs/2312.08983). Interactive Humanoid: Online Full-Body Motion Reaction Synthesis with Social Affordance Canonicalization and Forecasting, Liu et al.
 - **(ArXiv 2025)** [Leader and Follower](https://arxiv.org/pdf/2502.11563). Leader and Follower: Interactive Motion Generation under Trajectory Constraints, Wang et al. 
@@ -422,7 +424,7 @@ An aggregation of human motion understanding research.
 - **(NeurIPS D&B 2023)** [Motion-X](https://motion-x-dataset.github.io/). Motion-X: A Large-scale 3D Expressive Whole-body Human Motion Dataset, Lin et al.
 - **(NeurIPS D&B 2023)** [Humans in Kitchens](https://github.com/jutanke/hik). Humans in Kitchens: A Dataset for Multi-Person Human Motion Forecasting with Scene Context, Tanke et al.
 - **(ICCV 2023)** [CHAIRS](https://jnnan.github.io/project/chairs/). Full-Body Articulated Human-Object Interaction, Jiang et al.
-- **(CVPR 2023)** [CIMI4D](http://www.lidarhumanmotion.net/cimi4d). CIMI4D: A Large Multimodal Climbing Motion Dataset under Human-scene Interactions, Yan et al.
+- **(CVPR 2023)** [CIMI4D](http://www.lidarhumanmotion.net/cimi4d). CIMI4D: A Large Multimodal Climbing Motion Dataset under Human-Scene Interactions, Yan et al.
 - **(CVPR 2023)** [FLAG3D](https://andytang15.github.io/FLAG3D/). FLAG3D: A 3D Fitness Activity Dataset with Language Instruction, Tang et al.
 - **(CVPR 2023)** [Hi4D](https://yifeiyin04.github.io/Hi4D/). Hi4D: 4D Instance Segmentation of Close Human Interaction, Yin et al.
 - **(CVPR 2023)** [CIRCLE](https://stanford-tml.github.io/circle_dataset/). CIRCLE: Capture in Rich Contextual Environments, Araujo et al.
@@ -438,7 +440,7 @@ An aggregation of human motion understanding research.
 - **(CVPR 2022)** [BEHAVE](https://virtualhumans.mpi-inf.mpg.de/behave/). BEHAVE: Dataset and Method for Tracking Human Object Interactions, Bhatnagar et al.
 - **(ICCV 2021)** [AIST++](https://google.github.io/aichoreographer/). AI Choreographer: Music Conditioned 3D Dance Generation with AIST++, Li et al.
 - **(CVPR 2021)** [Fit3D](https://fit3d.imar.ro/home). AIFit: Automatic 3D Human-Interpretable Feedback Models for Fitness Training, Fieraru et al.
-- **(CVPR 2021)** [BABEL](https://babel.is.tue.mpg.de/). BABEL: Bodies, Action and Behavior with English Labels, Punnakkal et al.
+- **(CVPR 2021)** [BABEL](https://babel.is.tue.mpg.de/). BABEL: Bodies, Action, and Behavior with English Labels, Punnakkal et al.
 - **(AAAI 2021)** [HumanSC3D](https://sc3d.imar.ro/home). Learning complex 3d human self-contact, Fieraru et al.
 - **(CVPR 2020)** [CHI3D](https://ci3d.imar.ro/home). Three-Dimensional Reconstruction of Human Interactions, Fieraru et al.
 - **(ICCV 2019)** [PROX](https://prox.is.tue.mpg.de/). Resolving 3D Human Pose Ambiguities with 3D Scene Constraints, Hassan et al.
@@ -449,6 +451,7 @@ An aggregation of human motion understanding research.
 <details open>
 <summary><h2>Humanoid, Simulated or Real</h2></summary>
 
+- **(CVPR 2025)** [InterMimic](https://sirui-xu.github.io/InterMimic/). InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions, Xu et al.
 - **(CVPR 2025)** [SkillMimic](https://ingrid789.github.io/SkillMimic/). SkillMimic: Learning Reusable Basketball Skills from Demonstrations, Wang et al.
 - **(ICRA 2025)** [HOVER](https://arxiv.org/abs/2410.21229). HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots, He et al.
 - **(ICLR 2025)** [Puppeteer](https://rlpuppeteer.github.io/). Hierarchical World Models as Visual Whole-Body Humanoid Controllers, Hansen et al.
@@ -457,6 +460,7 @@ An aggregation of human motion understanding research.
 - **(ICLR 2025)** [CLoSD](https://guytevet.github.io/CLoSD-page/). CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.
 - **(ICLR 2025)** [HiLo](https://arxiv.org/pdf/2502.03122). HiLo: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.
 - **(Github 2025)** [MobilityGen](https://github.com/NVlabs/MobilityGen). MobilityGen.
+- **(ArXiv 2025)** [Lin et al](https://toruowo.github.io/recipe/). Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids, Lin et al.
 - **(ArXiv 2025)** [Think on your feet](https://arxiv.org/pdf/2502.18901). Think on your feet: Seamless Transition between Human-like Locomotion in Response to Changing Commands, Huang et al.
 - **(ArXiv 2025)** [COMPASS](https://nvlabs.github.io/COMPASS/). COMPASS: Cross-embOdiment Mobility Policy via ResiduAl RL and Skill Synthesis, Liu et al.
 - **(ArXiv 2025)** [VB-COM](https://renjunli99.github.io/vbcom.github.io/). VB-Com: Learning Vision-Blind Composite Humanoid Locomotion Against Deficient Perception, Ren et al.
