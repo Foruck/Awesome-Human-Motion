@@ -25,6 +25,7 @@ An aggregation of human motion understanding research.
 <details open>
 <summary><h2>Motion Generation, Text/Speech/Music-Driven</h2></summary>
 
+- **(CVPR 2025)** [ScaMo](https://shunlinlu.github.io/ScaMo/). ScaMo: Exploring the Scaling Law in Autoregressive Motion Generation Model, Lu et al.
 - **(CVPR 2025)** [Move in 2D](https://hhsinping.github.io/Move-in-2D/). Move-in-2D: 2D-Conditioned Human Motion Generation, Huang et al.
 - **(CVPR 2025)** [MVLift](https://lijiaman.github.io/projects/mvlift/). Lifting Motion to the 3D World via 2D Diffusion, Li et al.
 - **(ICRA 2025)** [MotionGlot](https://arxiv.org/abs/2410.16623). MotionGlot: A Multi-Embodied Motion Generation Model, Harithas et al.
@@ -57,7 +58,6 @@ An aggregation of human motion understanding research.
 - **(ArXiv 2025)** [SOLAMI](https://solami-ai.github.io/). SOLAMI: Social Vision-Language-Action Modeling for Immersive Interaction with 3D Autonomous Characters, Jiang et al.
 - **(ArXiv 2024)** [SemTalk](https://xiangyue-zhang.github.io/SemTalk). SemTalk: Holistic Co-speech Motion Generation with Frame-level Semantic Emphasis, Zhang et al.
 - **(ArXiv 2024)** [InterDance](https://inter-dance.github.io/). InterDance: Reactive 3D Dance Generation with Realistic Duet Interactions, Li et al.
-- **(ArXiv 2024)** [ScaMo](https://shunlinlu.github.io/ScaMo/). ScaMo: Exploring the Scaling Law in Autoregressive Motion Generation Model, Lu et al.
 - **(ArXiv 2024)** [EnergyMoGen](https://jiro-zhang.github.io/EnergyMoGen/). EnergyMoGen: Compositional Human Motion Generation with Energy-Based Diffusion Model in Latent Space, Zhang et al.
 - **(ArXiv 2024)** [Motion-2-to-3](https://zju3dv.github.io/Motion-2-to-3/). Motion-2-to-3: Leveraging 2D Motion Data to Boost 3D Motion Generation, Pi et al.
 - **(ArXiv 2024)** [Languate of Motion](https://languageofmotion.github.io/). The Language of Motion: Unifying Verbal and Non-verbal Language of 3D Human Motion, Chen et al.
