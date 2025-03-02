@@ -26,6 +26,7 @@ An aggregation of human motion understanding research.
 <summary><h2>Motion Generation, Text/Speech/Music-Driven</h2></summary>
 
 - **(CVPR 2025)** [Move in 2D](https://hhsinping.github.io/Move-in-2D/). Move-in-2D: 2D-Conditioned Human Motion Generation, Huang et al.
+- **(CVPR 2025)** [MVLift](https://lijiaman.github.io/projects/mvlift/). Lifting Motion to the 3D World via 2D Diffusion, Li et al.
 - **(ICRA 2025)** [MotionGlot](https://arxiv.org/abs/2410.16623). MotionGlot: A Multi-Embodied Motion Generation Model, Harithas et al.
 - **(ICLR 2025)** [CLoSD](https://guytevet.github.io/CLoSD-page/). CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.
 - **(ICLR 2025)** [HGM³](https://openreview.net/forum?id=IEul1M5pyk). HGM³: Hierarchical Generative Masked Motion Modeling with Hard Token Mining, Jeong et al.
@@ -66,7 +67,6 @@ An aggregation of human motion understanding research.
 - **(ArXiv 2024)** [RMD](https://arxiv.org/pdf/2412.04343). RMD: A Simple Baseline for More General Human Motion Generation via Training-free Retrieval-Augmented Motion Diffuse, Liao et al.
 - **(ArXiv 2024)** [BiPO](https://arxiv.org/pdf/2412.00112). BiPO: Bidirectional Partial Occlusion Network for Text-to-Motion Synthesis, Hong et al.
 - **(ArXiv 2024)** [AtoM](https://atom-motion.github.io/). AToM: Aligning Text-to-Motion Model at Event-Level with GPT-4Vision Reward, Han et al.
-- **(ArXiv 2024)** [MVLift](https://lijiaman.github.io/projects/mvlift/). Lifting Motion to the 3D World via 2D Diffusion, Li et al.
 - **(ArXiv 2024)** [DisCoRD](https://whwjdqls.github.io/discord.github.io/). DisCoRD: Discrete Tokens to Continuous Motion via Rectified Flow Decoding, Cho et al.
 - **(ArXiv 2024)** [MoTe](https://arxiv.org/abs/2411.19786). MoTe: Learning Motion-Text Diffusion Model for Multiple Generation Tasks, Wue et al.
 - **(ArXiv 2024)** [InfiniDreamer](https://arxiv.org/abs/2411.18303). InfiniDreamer: Arbitrarily Long Human Motion Generation via Segment Score Distillation, Zhuo et al.
