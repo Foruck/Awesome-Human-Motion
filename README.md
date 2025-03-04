@@ -260,7 +260,7 @@ An aggregation of human motion understanding research.
 - **(CVPR 2025)** [InterMimic](https://sirui-xu.github.io/InterMimic/). InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions, Xu et al.
 - **(CVPR 2025)** [CORE4D](https://core4d.github.io/). CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement, Zhang et al.
 - **(CVPR 2025)** [SkillMimic](https://ingrid789.github.io/SkillMimic/). SkillMimic: Learning Reusable Basketball Skills from Demonstrations, Wang et al.
-- **(ArXiv 2025)** [MobileH2R](https://arxiv.org/pdf/2501.04595). MobileH2R: Learning Generalizable Human to Mobile Robot Handover Exclusively from Scalable and Diverse Synthetic Data, Wang et al.
+- **(CVPR 2025)** [MobileH2R](https://arxiv.org/pdf/2501.04595). MobileH2R: Learning Generalizable Human to Mobile Robot Handover Exclusively from Scalable and Diverse Synthetic Data, Wang et al.
 - **(AAAI 2025)** [DiffGrasp](https://iscas3dv.github.io/DiffGrasp/). Diffgrasp: Whole-Body Grasping Synthesis Guided by Object Motion Using a Diffusion Model, Zhang et al.
 - **(3DV 2025)** [Paschalidis et al](https://arxiv.org/pdf/2408.16770?). 3D Whole-body Grasp Synthesis with Directional Controllability, Paschalidis et al.
 - **(3DV 2025)** [InterTrack](https://virtualhumans.mpi-inf.mpg.de/InterTrack/). InterTrack: Tracking Human Object Interaction without Object Templates, Xie et al.
@@ -393,6 +393,7 @@ An aggregation of human motion understanding research.
 <details open>
 <summary><h2>Datasets & Benchmarks</h2></summary>
 
+- **(CVPR 2025)** [AtoM](https://atom-motion.github.io/). AToM: Aligning Text-to-Motion Model at Event-Level with GPT-4Vision Reward, Han et al.
 - **(CVPR 2025)** [CORE4D](https://core4d.github.io/). CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement, Zhang et al.
 - **(ICLR 2025)** [MotionCritic](https://motioncritic.github.io/). Aligning Human Motion Generation with Human Perceptions, Wang et al.
 - **(ICLR 2025)** [LocoVR](https://openreview.net/forum?id=9mBodivRIo). LocoVR: Multiuser Indoor Locomotion Dataset in Virtual Reality, Takeyama et al.
@@ -402,7 +403,6 @@ An aggregation of human motion understanding research.
 - **(ArXiv 2025)** [Motion-X++](https://arxiv.org/pdf/2501.05098). Motion-X++: A Large-Scale Multimodal 3D Whole-body Human Motion Dataset, Zhang et al.
 - **(ArXiv 2024)** [Mimicking-Bench](https://mimicking-bench.github.io/). Mimicking-Bench: A Benchmark for Generalizable Humanoid-Scene Interaction Learning via Human Mimicking, Liu et al. 
 - **(ArXiv 2024)** [LaserHuman](https://github.com/4DVLab/LaserHuman). LaserHuman: Language-guided Scene-aware Human Motion Generation in Free Environment, Cong et al.
-- **(ArXiv 2024)** [AtoM](https://atom-motion.github.io/). AToM: Aligning Text-to-Motion Model at Event-Level with GPT-4Vision Reward, Han et al.
 - **(ArXiv 2024)** [SCENIC](https://virtualhumans.mpi-inf.mpg.de/scenic/). SCENIC: Scene-aware Semantic Navigation with Instruction-guided Control, Zhang et al.
 - **(ArXiv 2024)** [synNsync](https://von31.github.io/synNsync/). Synergy and Synchrony in Couple Dances, Manukele et al.
 - **(ArXiv 2024)** [MotionBank](https://github.com/liangxuy/MotionBank). MotionBank: A Large-scale Video Motion Benchmark with Disentangled Rule-based Annotations, Xu et al.
