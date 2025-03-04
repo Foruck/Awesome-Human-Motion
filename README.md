@@ -1,6 +1,6 @@
 # Awesome Human Motion
 
-An aggregation of human motion understanding research. 
+An aggregation of human motion understanding research, feel free to contribute.
 
 [Reviews & Surveys](#review) 
 
@@ -25,9 +25,11 @@ An aggregation of human motion understanding research.
 <details open>
 <summary><h2>Motion Generation, Text/Speech/Music-Driven</h2></summary>
 
+- **(CVPR 2025)** [HOP](https://star-uu-wang.github.io/HOP/). HOP: Heterogeneous Topology-based Multimodal Entanglement for Co-Speech Gesture Generation, Cheng et al.
 - **(CVPR 2025)** [ScaMo](https://shunlinlu.github.io/ScaMo/). ScaMo: Exploring the Scaling Law in Autoregressive Motion Generation Model, Lu et al.
 - **(CVPR 2025)** [Move in 2D](https://hhsinping.github.io/Move-in-2D/). Move-in-2D: 2D-Conditioned Human Motion Generation, Huang et al.
 - **(CVPR 2025)** [MVLift](https://lijiaman.github.io/projects/mvlift/). Lifting Motion to the 3D World via 2D Diffusion, Li et al.
+- **(ACM Sensys 2025)** [SHADE-AD](https://arxiv.org/pdf/2503.01768). SHADE-AD: An LLM-Based Framework for Synthesizing Activity Data of Alzheimer’s Patients, Fu et al.
 - **(ICRA 2025)** [MotionGlot](https://arxiv.org/abs/2410.16623). MotionGlot: A Multi-Embodied Motion Generation Model, Harithas et al.
 - **(ICLR 2025)** [CLoSD](https://guytevet.github.io/CLoSD-page/). CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.
 - **(ICLR 2025)** [HGM³](https://openreview.net/forum?id=IEul1M5pyk). HGM³: Hierarchical Generative Masked Motion Modeling with Hard Token Mining, Jeong et al.
@@ -265,6 +267,7 @@ An aggregation of human motion understanding research.
 - **(3DV 2025)** [Paschalidis et al](https://arxiv.org/pdf/2408.16770?). 3D Whole-body Grasp Synthesis with Directional Controllability, Paschalidis et al.
 - **(3DV 2025)** [InterTrack](https://virtualhumans.mpi-inf.mpg.de/InterTrack/). InterTrack: Tracking Human Object Interaction without Object Templates, Xie et al.
 - **(3DV 2025)** [FORCE](https://arxiv.org/abs/2403.11237). FORCE: Dataset and Method for Intuitive Physics Guided Human-object Interaction, Zhang et al.
+- **(ArXiv 2025)** [EigenActor](https://arxiv.org/pdf/2503.00382).  EigenActor: Variant Body-Object Interaction Generation Evolved from Invariant Action Basis Reasoning, Guo et al.
 - **(ArXiv 2024)** [SyncDiff](https://syncdiff.github.io/). SyncDiff: Synchronized Motion Diffusion for Multi-Body Human-Object Interaction Synthesis, He et al.
 - **(ArXiv 2024)** [CHOICE](https://arxiv.org/pdf/2412.06702). CHOICE: Coordinated Human-Object Interaction in Cluttered Environments for Pick-and-Place Actions, Lu et al.
 - **(ArXiv 2024)** [TriDi](https://virtualhumans.mpi-inf.mpg.de/tridi/). TriDi: Trilateral Diffusion of 3D Humans, Objects and Interactions, Petrov et al.
@@ -375,7 +378,7 @@ An aggregation of human motion understanding research.
 - **(NeurIPS 2024)** [Harmony4D](https://jyuntins.github.io/harmony4d/). Harmony4D: A Video Dataset for In-The-Wild Close Human Interactions, Khirodkar et al.
 - **(NeurIPS 2024)** [InterControl](https://github.com/zhenzhiwang/intercontrol). InterControl: Generate Human Motion Interactions by Controlling Every Joint, Wang et al.
 - **(ACM MM 2024)** [PhysReaction](https://yunzeliu.github.io/PhysReaction/). PhysReaction: Physically Plausible Real-Time Humanoid Reaction Synthesis via Forward Dynamics Guided 4D Imitation, Liu et al.
-- **(ECCV 2024)** [Shan et al.](https://arxiv.org/abs/2405.18483). Towards Open Domain Text-Driven Synthesis of Multi-Person Motions, Shan et al.
+- **(ECCV 2024)** [Shan et al](https://arxiv.org/abs/2405.18483). Towards Open Domain Text-Driven Synthesis of Multi-Person Motions, Shan et al.
 - **(ECCV 2024)** [ReMoS](https://vcai.mpi-inf.mpg.de/projects/remos/). ReMoS: 3D Motion-Conditioned Reaction Synthesis for Two-Person Interactions, Ghosh et al.
 - **(CVPR 2024)** [Inter-X](https://liangxuy.github.io/inter-x/). Inter-X: Towards Versatile Human-Human Interaction Analysis, Xu et al.
 - **(CVPR 2024)** [ReGenNet](https://github.com/liangxuy/ReGenNet). ReGenNet: Towards Human Action-Reaction Synthesis, Xu et al.
@@ -555,6 +558,7 @@ An aggregation of human motion understanding research.
 - **(CVPR 2025)** [HDyS](https://foruck.github.io/HDyS). Homogeneous Dynamics Space for Heterogeneous Humans, Liu et al.
 - **(ICLR 2025)** [ImDy](https://foruck.github.io/ImDy). ImDy: Human Inverse Dynamics from Imitated Observations, Liu et al.
 - **(ICLR 2025)** [MPC2](https://openreview.net/forum?id=MWHIIWrWWu). Motion Control of High-Dimensional Musculoskeletal System with Hierarchical Model-Based Planning, Wei et al.
+- **(ACM Sensys 2025)** [SHADE-AD](https://arxiv.org/pdf/2503.01768). SHADE-AD: An LLM-Based Framework for Synthesizing Activity Data of Alzheimer’s Patients, Fu et al.
 - **(JEB 2025)** [McAllister et al](https://journals.biologists.com/jeb/article/228/Suppl_1/JEB248125/367009/Behavioural-energetics-in-human-locomotion-how). Behavioural energetics in human locomotion: how energy use influences how we move, McAllister et al.
 - **(WACV 2025)** [OpenCapBench](https://arxiv.org/abs/2406.09788). A Benchmark to Bridge Pose Estimation and Biomechanics, Gozlan et al.
 - **(ArXiv 2025)** [Wu et al](https://arxiv.org/pdf/2502.13760). Muscle Activation Estimation by Optimizing the Musculoskeletal Model for Personalized Strength and Conditioning Training, Wu et al.
