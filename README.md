@@ -461,6 +461,8 @@ An aggregation of human motion understanding research, feel free to contribute.
 - **(CVPR 2025)** [InterMimic](https://sirui-xu.github.io/InterMimic/). InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions, Xu et al.
 - **(CVPR 2025)** [SkillMimic](https://ingrid789.github.io/SkillMimic/). SkillMimic: Learning Reusable Basketball Skills from Demonstrations, Wang et al.
 - **(ICRA 2025)** [HOVER](https://arxiv.org/abs/2410.21229). HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots, He et al.
+- **(ICRA 2025)** [PIM](https://junfeng-long.github.io/PIM/). Learning Humanoid Locomotion with Perceptive Internal Model, Long et al.
+- **(ICRA 2025)** [Think on your feet](https://arxiv.org/pdf/2502.18901). Think on your feet: Seamless Transition between Human-like Locomotion in Response to Changing Commands, Huang et al.
 - **(ICLR 2025)** [Puppeteer](https://rlpuppeteer.github.io/). Hierarchical World Models as Visual Whole-Body Humanoid Controllers, Hansen et al.
 - **(ICLR 2025)** [FB-CPR](https://openreview.net/forum?id=9sOR0nYLtz). Zero-Shot Whole-Body Humanoid Control via Behavioral Foundation Models, Tirinzoni et al.
 - **(ICLR 2025)** [MPC2](https://openreview.net/forum?id=MWHIIWrWWu). Motion Control of High-Dimensional Musculoskeletal System with Hierarchical Model-Based Planning, Wei et al.
@@ -468,7 +470,6 @@ An aggregation of human motion understanding research, feel free to contribute.
 - **(ICLR 2025)** [HiLo](https://arxiv.org/pdf/2502.03122). HiLo: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.
 - **(Github 2025)** [MobilityGen](https://github.com/NVlabs/MobilityGen). MobilityGen.
 - **(ArXiv 2025)** [Lin et al](https://toruowo.github.io/recipe/). Sim-to-Real Reinforcement Learning for Vision-Based Dexterous Manipulation on Humanoids, Lin et al.
-- **(ArXiv 2025)** [Think on your feet](https://arxiv.org/pdf/2502.18901). Think on your feet: Seamless Transition between Human-like Locomotion in Response to Changing Commands, Huang et al.
 - **(ArXiv 2025)** [COMPASS](https://nvlabs.github.io/COMPASS/). COMPASS: Cross-embOdiment Mobility Policy via ResiduAl RL and Skill Synthesis, Liu et al.
 - **(ArXiv 2025)** [VB-COM](https://renjunli99.github.io/vbcom.github.io/). VB-Com: Learning Vision-Blind Composite Humanoid Locomotion Against Deficient Perception, Ren et al.
 - **(ArXiv 2025)** [ModSkill](https://arxiv.org/pdf/2502.14140). ModSkill: Physical Character Skill Modularization, Huang et al.
