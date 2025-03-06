@@ -38,10 +38,11 @@ An aggregation of human motion understanding research, feel free to contribute.
 - **(ICLR 2025)** [Lyu et al](https://openreview.net/forum?id=Oh8MuCacJW). Towards Unified Human Motion-Language Understanding via Sparse Interpretable Characterization, Lyu et al.
 - **(ICLR 2025)** [DART](https://zkf1997.github.io/DART/). DART: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control, Zhao et al.
 - **(ICLR 2025)** [Motion-Agent](https://knoxzhao.github.io/Motion-Agent/). Motion-Agent: A Conversational Framework for Human Motion Generation with LLMs, Wu et al.
+- **(IJCV 2025)** [Fg-T2M++](https://arxiv.org/pdf/2502.05534)。 Fg-T2M++: LLMs-Augmented Fine-Grained Text Driven Human Motion Generation, Wang et al.
+- **(TVCG 2025)** [SPORT](https://ieeexplore.ieee.org/abstract/document/10891181/authors#authors). SPORT: From Zero-Shot Prompts to Real-Time Motion Generation, Ji et al.
 - **(ArXiv 2025)** [AnyTop](https://arxiv.org/pdf/2502.17327). AnyTop: Character Animation Diffusion with Any Topology, Gat et al.
 - **(ArXiv 2025)** [GCDance](https://arxiv.org/pdf/2502.18309). GCDance: Genre-Controlled 3D Full Body Dance Generation Driven By Music, Liu et al.
 - **(ArXiv 2025)** [MotionLab](https://diouo.github.io/motionlab.github.io/). MotionLab: Unified Human Motion Generation and Editing via the Motion-Condition-Motion Paradigm, Guo et al.
-- **(ArXiv 2025)** [Fg-T2M++](https://arxiv.org/pdf/2502.05534)。 Fg-T2M++: LLMs-Augmented Fine-Grained Text Driven Human Motion Generation, Wang et al.
 - **(ArXiv 2025)** [CASIM](https://cjerry1243.github.io/casim_t2m/). CASIM: Composite Aware Semantic Injection for Text to Motion Generation, Chang et al.
 - **(ArXiv 2025)** [MotionPCM](https://arxiv.org/pdf/2501.19083). MotionPCM: Real-Time Motion Synthesis with Phased Consistency Model, Jiang et al.
 - **(ArXiv 2025)** [GestureLSM](https://andypinxinliu.github.io/GestureLSM/). GestureLSM: Latent Shortcut based Co-Speech Gesture Generation with Spatial-Temporal Modeling, Liu et al.
