@@ -282,6 +282,7 @@ An aggregation of human motion understanding research, feel free to contribute.
     <summary><h3>2025</h3></summary>
     <ul style="margin-left: 5px;">
         <li><b>(CVPR 2025)</b> <a href="https://4dvlab.github.io/project_page/semgeomo/">SemGeoMo</a>: SemGeoMo: Dynamic Contextual Human Motion Generation with Semantic and Geometric Guidance, Cong et al.</li>
+        <li><b>(CVPR 2025)</b> <a href="https://jlogkim.github.io/parahome/">ParaHome</a>: ParaHome: Parameterizing Everyday Home Activities Towards 3D Generative Modeling of Human-Object Interactions, Kim et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://sirui-xu.github.io/InterMimic/">InterMimic</a>: InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions, Xu et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://core4d.github.io/">CORE4D</a>: CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement, Zhang et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://ingrid789.github.io/SkillMimic/">SkillMimic</a>: SkillMimic: Learning Reusable Basketball Skills from Demonstrations, Wang et al.</li>
@@ -411,6 +412,7 @@ An aggregation of human motion understanding research, feel free to contribute.
 <details open>
 <summary><h2>Human-Human Interaction</h2></summary>
 <ul style="margin-left: 5px;">
+    <li><b>(CVPR 2025)</b> <a href="https://aigc-explorer.github.io/TIMotion-page/">TIMotion</a>: TIMotion: Temporal and Interactive Framework for Efficient Human-Human Motion Generation, Wang et al.</li>
     <li><b>(ICLR 2025)</b> <a href="https://openreview.net/forum?id=UxzKcIZedp">Think Then React</a>: Think Then React: Towards Unconstrained Action-to-Reaction Motion Generation, Tan et al.</li>
     <li><b>(ICLR 2025)</b> <a href="https://zju3dv.github.io/ready_to_react/">Ready-to-React</a>: Ready-to-React: Online Reaction Policy for Two-Character Interaction Generation, Cen et al.</li>
     <li><b>(ICLR 2025)</b> <a href="https://gohar-malik.github.io/intermask">InterMask</a>: InterMask: 3D Human Interaction Generation via Collaborative Masked Modelling, Javed et al.</li>
