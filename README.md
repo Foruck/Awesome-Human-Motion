@@ -30,6 +30,7 @@ An aggregation of human motion understanding research, feel free to contribute.
     <summary><h3>2025</h3></summary>
         <ul style="margin-left: 5px;">
         <li><b>(CVPR 2025)</b> <a href="https://arxiv.org/abs/2411.16575">MARDM</a>: Rethinking Diffusion for Text-Driven Human Motion Generation, Meng et al.</li>
+        <li><b>(CVPR 2025)</b> <a href="https://arxiv.org/pdf/2503.04829">StickMotion</a>: StickMotion: Generating 3D Human Motions by Drawing a Stickman, Wang et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://arxiv.org/abs/2411.16805">LLaMo</a>: Human Motion Instruction Tuning, Li et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://star-uu-wang.github.io/HOP/">HOP</a>: HOP: Heterogeneous Topology-based Multimodal Entanglement for Co-Speech Gesture Generation, Cheng et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://atom-motion.github.io/">AtoM</a>: AToM: Aligning Text-to-Motion Model at Event-Level with GPT-4Vision Reward, Han et al.</li>
@@ -413,6 +414,7 @@ An aggregation of human motion understanding research, feel free to contribute.
     <li><b>(ICLR 2025)</b> <a href="https://zju3dv.github.io/ready_to_react/">Ready-to-React</a>: Ready-to-React: Online Reaction Policy for Two-Character Interaction Generation, Cen et al.</li>
     <li><b>(ICLR 2025)</b> <a href="https://gohar-malik.github.io/intermask">InterMask</a>: InterMask: 3D Human Interaction Generation via Collaborative Masked Modelling, Javed et al.</li>
     <li><b>(3DV 2025)</b> <a href="https://arxiv.org/abs/2312.08983">Interactive Humanoid</a>: Interactive Humanoid: Online Full-Body Motion Reaction Synthesis with Social Affordance Canonicalization and Forecasting, Liu et al.</li>
+    <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.04816">Invisible Strings</a>: Invisible Strings: Revealing Latent Dancer-to-Dancer Interactions with Graph Neural Networks, Zerkowski et al. </li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2502.11563">Leader and Follower</a>: Leader and Follower: Interactive Motion Generation under Trajectory Constraints, Wang et al. </li>
     <li><b>(ArXiv 2024)</b> <a href="https://arxiv.org/pdf/2412.16670">Two in One</a>: Two-in-One: Unified Multi-Person Interactive Motion Generation by Latent Diffusion Transformer, Li et al.</li>
     <li><b>(ArXiv 2024)</b> <a href="https://arxiv.org/pdf/2412.02419">It Takes Two</a>: It Takes Two: Real-time Co-Speech Two-person’s Interaction Generation via Reactive Auto-regressive Diffusion Model, Shi et al.</li>
