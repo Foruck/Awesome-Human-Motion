@@ -43,6 +43,7 @@ An aggregation of human motion understanding research, feel free to contribute.
         <li><b>(ACM Sensys 2025)</b> <a href="https://arxiv.org/pdf/2503.01768">SHADE-AD</a>: SHADE-AD: An LLM-Based Framework for Synthesizing Activity Data of Alzheimer’s Patients, Fu et al.</li>
         <li><b>(ICRA 2025)</b> <a href="https://arxiv.org/abs/2410.16623">MotionGlot</a>: MotionGlot: A Multi-Embodied Motion Generation Model, Harithas et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
+        <li><b>(ICLR 2025)</b> <a href="https://genforce.github.io/PedGen/">PedGen</a>: Learning to Generate Diverse Pedestrian Movements from Web Videos with Noisy Labels, Liu et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://openreview.net/forum?id=IEul1M5pyk">HGM³</a>: HGM³: Hierarchical Generative Masked Motion Modeling with Hard Token Mining, Jeong et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://openreview.net/forum?id=LYawG8YkPa">LaMP</a>: LaMP: Language-Motion Pretraining for Motion Generation, Retrieval, and Captioning, Li et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://openreview.net/forum?id=d23EVDRJ6g">MotionDreamer</a>: MotionDreamer: One-to-Many Motion Synthesis with Localized Generative Masked Transformer, Wang et al.</li>
