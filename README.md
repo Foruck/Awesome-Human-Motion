@@ -297,6 +297,7 @@ An aggregation of human motion understanding research, feel free to contribute.
         <li><b>(3DV 2025)</b> <a href="https://arxiv.org/pdf/2408.16770?">Paschalidis et al</a>: 3D Whole-body Grasp Synthesis with Directional Controllability, Paschalidis et al.</li>
         <li><b>(3DV 2025)</b> <a href="https://virtualhumans.mpi-inf.mpg.de/InterTrack/">InterTrack</a>: InterTrack: Tracking Human Object Interaction without Object Templates, Xie et al.</li>
         <li><b>(3DV 2025)</b> <a href="https://arxiv.org/abs/2403.11237">FORCE</a>: FORCE: Dataset and Method for Intuitive Physics Guided Human-object Interaction, Zhang et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2503.05231">Kaiwu</a>: Kaiwu: A Multimodal Manipulation Dataset and Framework for Robot Learning and Human-Robot Interaction, Jiang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.00382">EigenActor</a>:  EigenActor: Variant Body-Object Interaction Generation Evolved from Invariant Action Basis Reasoning, Guo et al.</li>
     </ul></details>
     <details>
@@ -459,7 +460,7 @@ An aggregation of human motion understanding research, feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://github.com/coding-rachal/PMRDataset">PMR</a>: Pedestrian Motion Reconstruction: A Large-scale Benchmark via Mixed Reality Rendering with Multiple Perspectives and Modalities, Wang et al.</li>
         <li><b>(AAAI 2025)</b> <a href="https://arxiv.org/abs/2408.17168">EMHI</a>: EMHI: A Multimodal Egocentric Human Motion Dataset with HMD and Body-Worn IMUs, Fan et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.06522">SGA-INTERACT</a>: SGA-INTERACT: A3DSkeleton-based Benchmark for Group Activity Understanding in Modern Basketball Tactic, Yang et al.</li>
-        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2501.05098">Kaiwu</a>: Kaiwu: A Multimodal Manipulation Dataset and Framework for Robot Learning and Human-Robot Interaction, Jiang et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2503.05231">Kaiwu</a>: Kaiwu: A Multimodal Manipulation Dataset and Framework for Robot Learning and Human-Robot Interaction, Jiang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2501.05098">Motion-X++</a>: Motion-X++: A Large-Scale Multimodal 3D Whole-body Human Motion Dataset, Zhang et al.</li>
     </ul></details>
     <details open>
