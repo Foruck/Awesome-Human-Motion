@@ -53,6 +53,7 @@ An aggregation of human motion understanding research, feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://knoxzhao.github.io/Motion-Agent/">Motion-Agent</a>: Motion-Agent: A Conversational Framework for Human Motion Generation with LLMs, Wu et al.</li>
         <li><b>(IJCV 2025)</b> <a href="https://arxiv.org/pdf/2502.05534">Fg-T2M++</a>:。 Fg-T2M++: LLMs-Augmented Fine-Grained Text Driven Human Motion Generation, Wang et al.</li>
         <li><b>(TVCG 2025)</b> <a href="https://ieeexplore.ieee.org/abstract/document/10891181/authors#authors">SPORT</a>: SPORT: From Zero-Shot Prompts to Real-Time Motion Generation, Ji et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://jackyu6.github.io/HERO/">HERO</a>: HERO: Human Reaction Generation from Videos, Yu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.06151">BioMoDiffuse</a>: BioMoDiffuse: Physics-Guided Biomechanical Diffusion for Controllable and Authentic Human Motion Synthesis, Kang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.06499">ExGes</a>: ExGes: Expressive Human Motion Retrieval and Modulation for Audio-Driven Gesture Synthesis, Zhou et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2502.17327">AnyTop</a>: AnyTop: Character Animation Diffusion with Any Topology, Gat et al.</li>
@@ -259,7 +260,9 @@ An aggregation of human motion understanding research, feel free to contribute.
 <span id="motion-editing"></span>
 <details open>
 <summary><h2>Motion Editing</h2></summary>
-    <ul style="margin-left: 5px;">
+<ul style="margin-left: 5px;">
+    <li><b>(CVPR 2025)</b> <a href="https://kwanyun.github.io/AnyMoLe_page/">AnyMoLe</a>: AnyMoLe: Any Character Motion In-Betweening Leveraging Video Diffusion Models, Yun et al.</li>
+    <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.08180">Dai et al</a>: Towards Synthesized and Editable Motion In-Betweening Through Part-Wise Phase Representation, Dai et al.</li>
     <li><b>(SIGGRAPH Asia 2024)</b> <a href="https://motionfix.is.tue.mpg.de/">MotionFix</a>: MotionFix: Text-Driven 3D Human Motion Editing, Athanasiou et al.</li>
     <li><b>(NeurIPS 2024)</b> <a href="https://btekin.github.io/">CigTime</a>: CigTime: Corrective Instruction Generation Through Inverse Motion Editing, Fang et al.</li>
     <li><b>(SIGGRAPH 2024)</b> <a href="https://purvigoel.github.io/iterative-motion-editing/">Iterative Motion Editing</a>: Iterative Motion Editing with Natural Language, Goel et al.</li>
