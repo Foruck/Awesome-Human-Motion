@@ -471,6 +471,7 @@ An aggregation of human motion understanding research, feel free to contribute.
     <details open>
     <summary><h3>2025</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(Scientific Data 2024)</b> <a href="https://www.nature.com/articles/s41597-024-03144-z">MultiSenseBadminton</a>: MultiSenseBadminton: Wearable Sensor–Based Biomechanical Dataset for Evaluation of Badminton Performance, Seong et al.</li>
         <li><b>(Bioengineering 2025)</b> <a href="https://www.mdpi.com/2306-5354/12/3/317">MeLLO</a>: The Utah Manipulation and Locomotion of Large Objects (MeLLO) Data Library, Luttmer et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://atom-motion.github.io/">AtoM</a>: AToM: Aligning Text-to-Motion Model at Event-Level with GPT-4Vision Reward, Han et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://core4d.github.io/">CORE4D</a>: CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement, Zhang et al.</li>
