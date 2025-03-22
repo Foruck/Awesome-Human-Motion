@@ -299,6 +299,7 @@ An aggregation of human motion understanding research, feel free to contribute.
     <details open>
     <summary><h3>2025</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(Bioengineering 2025)</b> <a href="https://www.mdpi.com/2306-5354/12/3/317">MeLLO</a>: The Utah Manipulation and Locomotion of Large Objects (MeLLO) Data Library, Luttmer et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://arxiv.org/pdf/2503.13130">ChainHOI</a>: ChainHOI: Joint-based Kinematic Chain Modeling for Human-Object Interaction Generation, Zeng et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://4dvlab.github.io/project_page/semgeomo/">SemGeoMo</a>: SemGeoMo: Dynamic Contextual Human Motion Generation with Semantic and Geometric Guidance, Cong et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://liyitang22.github.io/phys-reach-grasp/">Phys-Reach-Grasp</a>: Learning Physics-Based Full-Body Human Reaching and Grasping from Brief Walking References, Li et al.</li>
@@ -470,6 +471,7 @@ An aggregation of human motion understanding research, feel free to contribute.
     <details open>
     <summary><h3>2025</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(Bioengineering 2025)</b> <a href="https://www.mdpi.com/2306-5354/12/3/317">MeLLO</a>: The Utah Manipulation and Locomotion of Large Objects (MeLLO) Data Library, Luttmer et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://atom-motion.github.io/">AtoM</a>: AToM: Aligning Text-to-Motion Model at Event-Level with GPT-4Vision Reward, Han et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://core4d.github.io/">CORE4D</a>: CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement, Zhang et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://motioncritic.github.io/">MotionCritic</a>: Aligning Human Motion Generation with Human Perceptions, Wang et al.</li>
