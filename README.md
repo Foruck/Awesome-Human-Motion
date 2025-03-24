@@ -308,6 +308,7 @@ An aggregation of human motion understanding research, feel free to contribute.
         <li><b>(CVPR 2025)</b> <a href="https://core4d.github.io/">CORE4D</a>: CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement, Zhang et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://ingrid789.github.io/SkillMimic/">SkillMimic</a>: SkillMimic: Learning Reusable Basketball Skills from Demonstrations, Wang et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://arxiv.org/pdf/2501.04595">MobileH2R</a>: MobileH2R: Learning Generalizable Human to Mobile Robot Handover Exclusively from Scalable and Diverse Synthetic Data, Wang et al.</li>
+        <li><b>(AAAI 2025)</b> <a href="https://arxiv.org/pdf/2503.16801">ARDHOI</a>: Auto-Regressive Diffusion for Generating 3D Human-Object Interactions, Geng et al.</li>
         <li><b>(AAAI 2025)</b> <a href="https://iscas3dv.github.io/DiffGrasp/">DiffGrasp</a>: Diffgrasp: Whole-Body Grasping Synthesis Guided by Object Motion Using a Diffusion Model, Zhang et al.</li>
         <li><b>(3DV 2025)</b> <a href="https://arxiv.org/pdf/2408.16770?">Paschalidis et al</a>: 3D Whole-body Grasp Synthesis with Directional Controllability, Paschalidis et al.</li>
         <li><b>(3DV 2025)</b> <a href="https://virtualhumans.mpi-inf.mpg.de/InterTrack/">InterTrack</a>: InterTrack: Tracking Human Object Interaction without Object Templates, Xie et al.</li>
@@ -441,6 +442,7 @@ An aggregation of human motion understanding research, feel free to contribute.
     <li><b>(ICLR 2025)</b> <a href="https://zju3dv.github.io/ready_to_react/">Ready-to-React</a>: Ready-to-React: Online Reaction Policy for Two-Character Interaction Generation, Cen et al.</li>
     <li><b>(ICLR 2025)</b> <a href="https://gohar-malik.github.io/intermask">InterMask</a>: InterMask: 3D Human Interaction Generation via Collaborative Masked Modelling, Javed et al.</li>
     <li><b>(3DV 2025)</b> <a href="https://arxiv.org/abs/2312.08983">Interactive Humanoid</a>: Interactive Humanoid: Online Full-Body Motion Reaction Synthesis with Social Affordance Canonicalization and Forecasting, Liu et al.</li>
+    <li><b>(ArXiv 2025)</b> <a href="https://arflow2025.github.io/">ARFlow</a>: ARFlow: Human Action-Reaction Flow Matching with Physical Guidance, Jiang et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.13120">Fan et al</a>: 3D Human Interaction Generation: A Survey, Fan et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.04816">Invisible Strings</a>: Invisible Strings: Revealing Latent Dancer-to-Dancer Interactions with Graph Neural Networks, Zerkowski et al. </li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2502.11563">Leader and Follower</a>: Leader and Follower: Interactive Motion Generation under Trajectory Constraints, Wang et al. </li>
