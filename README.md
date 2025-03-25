@@ -56,6 +56,8 @@ An aggregation of human motion understanding research, feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://knoxzhao.github.io/Motion-Agent/">Motion-Agent</a>: Motion-Agent: A Conversational Framework for Human Motion Generation with LLMs, Wu et al.</li>
         <li><b>(IJCV 2025)</b> <a href="https://arxiv.org/pdf/2502.05534">Fg-T2M++</a>:。 Fg-T2M++: LLMs-Augmented Fine-Grained Text Driven Human Motion Generation, Wang et al.</li>
         <li><b>(TVCG 2025)</b> <a href="https://ieeexplore.ieee.org/abstract/document/10891181/authors#authors">SPORT</a>: SPORT: From Zero-Shot Prompts to Real-Time Motion Generation, Ji et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://yz-cnsdqz.github.io/eigenmotion/PRIMAL/">PRIMAL</a>: PRIMAL:Physically Reactive and Interactive Motor Model for Avatar Learning, Zhang et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://www.pinlab.org/hmu">HMU</a>: Human Motion Unlearning, Matteis et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="http://inwoohwang.me/SFControl">SFControl</a>: Motion Synthesis with Sparse and Flexible Keyjoint Control, Hwang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.14919">GenM3</a>: GenM3: Generative Pretrained Multi-path Motion Model for Text Conditional Human Motion Generation, Shi et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://zju3dv.github.io/MotionStreamer/">MotionStreamer</a>: MotionStreamer: Streaming Motion Generation via Diffusion-based Autoregressive Model in Causal Latent Space, Xiao et al.</li>
@@ -272,6 +274,8 @@ An aggregation of human motion understanding research, feel free to contribute.
 <summary><h2>Motion Editing</h2></summary>
 <ul style="margin-left: 5px;">
     <li><b>(CVPR 2025)</b> <a href="https://kwanyun.github.io/AnyMoLe_page/">AnyMoLe</a>: AnyMoLe: Any Character Motion In-Betweening Leveraging Video Diffusion Models, Yun et al.</li>
+    <li><b>(CVPR 2025)</b> <a href="https://github.com/lzhyu/SimMotionEdit">SimMotionEdit</a>: SimMotionEdit: Text-Based Human Motion Editing with Motion Similarity Prediction, Li et al.</li>
+    <li><b>(ArXiv 2025)</b> <a href="https://yz-cnsdqz.github.io/eigenmotion/PRIMAL/">PRIMAL</a>: PRIMAL:Physically Reactive and Interactive Motor Model for Avatar Learning, Zhang et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.08180">Dai et al</a>: Towards Synthesized and Editable Motion In-Betweening Through Part-Wise Phase Representation, Dai et al.</li>
     <li><b>(SIGGRAPH Asia 2024)</b> <a href="https://motionfix.is.tue.mpg.de/">MotionFix</a>: MotionFix: Text-Driven 3D Human Motion Editing, Athanasiou et al.</li>
     <li><b>(NeurIPS 2024)</b> <a href="https://btekin.github.io/">CigTime</a>: CigTime: Corrective Instruction Generation Through Inverse Motion Editing, Fang et al.</li>
@@ -313,6 +317,7 @@ An aggregation of human motion understanding research, feel free to contribute.
         <li><b>(3DV 2025)</b> <a href="https://arxiv.org/pdf/2408.16770?">Paschalidis et al</a>: 3D Whole-body Grasp Synthesis with Directional Controllability, Paschalidis et al.</li>
         <li><b>(3DV 2025)</b> <a href="https://virtualhumans.mpi-inf.mpg.de/InterTrack/">InterTrack</a>: InterTrack: Tracking Human Object Interaction without Object Templates, Xie et al.</li>
         <li><b>(3DV 2025)</b> <a href="https://arxiv.org/abs/2403.11237">FORCE</a>: FORCE: Dataset and Method for Intuitive Physics Guided Human-object Interaction, Zhang et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://rmd-hoi.github.io/">RMD-HOI</a>: Human-Object Interaction with Vision-Language Model Guided Relative Movement Dynamics, Deng et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2503.05231">Kaiwu</a>: Kaiwu: A Multimodal Manipulation Dataset and Framework for Robot Learning and Human-Robot Interaction, Jiang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.00382">EigenActor</a>:  EigenActor: Variant Body-Object Interaction Generation Evolved from Invariant Action Basis Reasoning, Guo et al.</li>
     </ul></details>
@@ -374,6 +379,7 @@ An aggregation of human motion understanding research, feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://github.com/WindVChen/Sitcom-Crafter">Sitcom-Crafter</a>: Sitcom-Crafter: A Plot-Driven Human Motion Generation System in 3D Scenes, Chen et al. </li>
         <li><b>(3DV 2025)</b> <a href="https://arxiv.org/pdf/2408.16770?">Paschalidis et al</a>: 3D Whole-body Grasp Synthesis with Directional Controllability, Paschalidis et al.</li>
         <li><b>(WACV 2025)</b> <a href="https://arxiv.org/abs/2405.18438">GHOST</a>: GHOST: Grounded Human Motion Generation with Open Vocabulary Scene-and-Text Contexts, Milacski et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://rmd-hoi.github.io/">RMD-HOI</a>: Human-Object Interaction with Vision-Language Model Guided Relative Movement Dynamics, Deng et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="http://inwoohwang.me/SceneMI">SceneMI</a>: SceneMI: Motion In-Betweening for Modeling Human-Scene Interactions, Hwang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.12955">HIS-GPT</a>: HIS-GPT: Towards 3D Human-In-Scene Multimodal Understanding, Zhao et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.00371">Gao et al</a>: Jointly Understand Your Command and Intention: Reciprocal Co-Evolution between Scene-Aware 3D Human Motion Synthesis and Analysis, Gao et al.</li>
@@ -481,6 +487,7 @@ An aggregation of human motion understanding research, feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://openreview.net/forum?id=9mBodivRIo">LocoVR</a>: LocoVR: Multiuser Indoor Locomotion Dataset in Virtual Reality, Takeyama et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://github.com/coding-rachal/PMRDataset">PMR</a>: Pedestrian Motion Reconstruction: A Large-scale Benchmark via Mixed Reality Rendering with Multiple Perspectives and Modalities, Wang et al.</li>
         <li><b>(AAAI 2025)</b> <a href="https://arxiv.org/abs/2408.17168">EMHI</a>: EMHI: A Multimodal Egocentric Human Motion Dataset with HMD and Body-Worn IMUs, Fan et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://rmd-hoi.github.io/">RMD-HOI</a>: Human-Object Interaction with Vision-Language Model Guided Relative Movement Dynamics, Deng et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.06522">SGA-INTERACT</a>: SGA-INTERACT: A3DSkeleton-based Benchmark for Group Activity Understanding in Modern Basketball Tactic, Yang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2503.05231">Kaiwu</a>: Kaiwu: A Multimodal Manipulation Dataset and Framework for Robot Learning and Human-Robot Interaction, Jiang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2501.05098">Motion-X++</a>: Motion-X++: A Large-Scale Multimodal 3D Whole-body Human Motion Dataset, Zhang et al.</li>
