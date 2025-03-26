@@ -287,6 +287,7 @@ An aggregation of human motion understanding research, feel free to contribute.
 <details open>
 <summary><h2>Motion Stylization</h2></summary>
 <ul style="margin-left: 5px;">
+    <li><b>(ArXiv 2025)</b> <a href="https://haimsaw.github.io/LoRA-MDM/">Dance Like a Chicken</a>: Dance Like a Chicken: Low-Rank Stylization for Human Motion Diffusion, Sawdayee et al.</li>
     <li><b>(ArXiv 2024)</b> <a href="https://arxiv.org/pdf/2412.09901">MulSMo</a>: MulSMo: Multimodal Stylized Motion Generation by Bidirectional Control Flow, Li et al.</li>
     <li><b>(TSMC 2024)</b> <a href="https://arxiv.org/pdf/2412.04097">D-LORD</a>: D-LORD for Motion Stylization, Gupta et al.</li>
     <li><b>(ECCV 2024)</b> <a href="https://otaheri.github.io/publication/2024_humos/">HUMOS</a>: HUMOS: Human Motion Model Conditioned on Body Shape, Tripathi et al.</li>
@@ -376,6 +377,7 @@ An aggregation of human motion understanding research, feel free to contribute.
     <summary><h3>2025</h3></summary>
     <ul style="margin-left: 5px;">
         <li><b>(CVPR 2025)</b> <a href="https://arxiv.org/pdf/2412.10235">EnvPoser</a>: EnvPoser: Environment-aware Realistic Human Motion Estimation from Sparse Observations with Uncertainty Modeling. Xia et al.</li>
+        <li><b>(CVPR 2025)</b> <a href="https://liangpan99.github.io/TokenHSI/">TokenHSI</a>: TokenHSI: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization, Pan et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://github.com/WindVChen/Sitcom-Crafter">Sitcom-Crafter</a>: Sitcom-Crafter: A Plot-Driven Human Motion Generation System in 3D Scenes, Chen et al. </li>
         <li><b>(3DV 2025)</b> <a href="https://arxiv.org/pdf/2408.16770?">Paschalidis et al</a>: 3D Whole-body Grasp Synthesis with Directional Controllability, Paschalidis et al.</li>
         <li><b>(WACV 2025)</b> <a href="https://arxiv.org/abs/2405.18438">GHOST</a>: GHOST: Grounded Human Motion Generation with Open Vocabulary Scene-and-Text Contexts, Milacski et al.</li>
