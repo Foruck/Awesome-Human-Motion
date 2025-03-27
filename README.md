@@ -275,6 +275,7 @@ An aggregation of human motion understanding research, feel free to contribute.
 <ul style="margin-left: 5px;">
     <li><b>(CVPR 2025)</b> <a href="https://kwanyun.github.io/AnyMoLe_page/">AnyMoLe</a>: AnyMoLe: Any Character Motion In-Betweening Leveraging Video Diffusion Models, Yun et al.</li>
     <li><b>(CVPR 2025)</b> <a href="https://github.com/lzhyu/SimMotionEdit">SimMotionEdit</a>: SimMotionEdit: Text-Based Human Motion Editing with Motion Similarity Prediction, Li et al.</li>
+    <li><b>(CVPR 2025)</b> <a href="https://awfuact.github.io/motionrefit/">MotionReFit</a>: Dynamic Motion Blending for Versatile Motion Editing, Jiang et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://yz-cnsdqz.github.io/eigenmotion/PRIMAL/">PRIMAL</a>: PRIMAL:Physically Reactive and Interactive Motor Model for Avatar Learning, Zhang et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.08180">Dai et al</a>: Towards Synthesized and Editable Motion In-Betweening Through Part-Wise Phase Representation, Dai et al.</li>
     <li><b>(SIGGRAPH Asia 2024)</b> <a href="https://motionfix.is.tue.mpg.de/">MotionFix</a>: MotionFix: Text-Driven 3D Human Motion Editing, Athanasiou et al.</li>
@@ -306,6 +307,7 @@ An aggregation of human motion understanding research, feel free to contribute.
     <ul style="margin-left: 5px;">
         <li><b>(Bioengineering 2025)</b> <a href="https://www.mdpi.com/2306-5354/12/3/317">MeLLO</a>: The Utah Manipulation and Locomotion of Large Objects (MeLLO) Data Library, Luttmer et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://arxiv.org/pdf/2503.13130">ChainHOI</a>: ChainHOI: Joint-based Kinematic Chain Modeling for Human-Object Interaction Generation, Zeng et al.</li>
+        <li><b>(CVPR 2025)</b> <a href="https://lalalfhdh.github.io/rog_page/">ROG</a>: Guiding Human-Object Interactions with Rich Geometry and Relations, Xue et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://4dvlab.github.io/project_page/semgeomo/">SemGeoMo</a>: SemGeoMo: Dynamic Contextual Human Motion Generation with Semantic and Geometric Guidance, Cong et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://liyitang22.github.io/phys-reach-grasp/">Phys-Reach-Grasp</a>: Learning Physics-Based Full-Body Human Reaching and Grasping from Brief Walking References, Li et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://jlogkim.github.io/parahome/">ParaHome</a>: ParaHome: Parameterizing Everyday Home Activities Towards 3D Generative Modeling of Human-Object Interactions, Kim et al.</li>
@@ -318,6 +320,7 @@ An aggregation of human motion understanding research, feel free to contribute.
         <li><b>(3DV 2025)</b> <a href="https://arxiv.org/pdf/2408.16770?">Paschalidis et al</a>: 3D Whole-body Grasp Synthesis with Directional Controllability, Paschalidis et al.</li>
         <li><b>(3DV 2025)</b> <a href="https://virtualhumans.mpi-inf.mpg.de/InterTrack/">InterTrack</a>: InterTrack: Tracking Human Object Interaction without Object Templates, Xie et al.</li>
         <li><b>(3DV 2025)</b> <a href="https://arxiv.org/abs/2403.11237">FORCE</a>: FORCE: Dataset and Method for Intuitive Physics Guided Human-object Interaction, Zhang et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://thorin666.github.io/projects/ZeroHOI/">ZeroHOI</a>: Zero-Shot Human-Object Interaction Synthesis with Multimodal Priors, Lou et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://rmd-hoi.github.io/">RMD-HOI</a>: Human-Object Interaction with Vision-Language Model Guided Relative Movement Dynamics, Deng et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2503.05231">Kaiwu</a>: Kaiwu: A Multimodal Manipulation Dataset and Framework for Robot Learning and Human-Robot Interaction, Jiang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.00382">EigenActor</a>:  EigenActor: Variant Body-Object Interaction Generation Evolved from Invariant Action Basis Reasoning, Guo et al.</li>
