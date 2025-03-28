@@ -288,6 +288,7 @@ An aggregation of human motion understanding research, feel free to contribute.
 <details open>
 <summary><h2>Motion Stylization</h2></summary>
 <ul style="margin-left: 5px;">
+    <li><b>(ArXiv 2025)</b> <a href="https://stylemotif.github.io/">StyleMotif</a>: StyleMotif: Multi-Modal Motion Stylization using Style-Content Cross Fusion, Guo et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://haimsaw.github.io/LoRA-MDM/">Dance Like a Chicken</a>: Dance Like a Chicken: Low-Rank Stylization for Human Motion Diffusion, Sawdayee et al.</li>
     <li><b>(ArXiv 2024)</b> <a href="https://arxiv.org/pdf/2412.09901">MulSMo</a>: MulSMo: Multimodal Stylized Motion Generation by Bidirectional Control Flow, Li et al.</li>
     <li><b>(TSMC 2024)</b> <a href="https://arxiv.org/pdf/2412.04097">D-LORD</a>: D-LORD for Motion Stylization, Gupta et al.</li>
@@ -677,13 +678,15 @@ An aggregation of human motion understanding research, feel free to contribute.
 <details open>
 <summary><h2>Bio-stuff: Human Anatomy, Biomechanics, Physiology</h2></summary>
 <ul style="margin-left: 5px;">
+    <li><b>(CVPR 2025)</b> <a href="https://isshikihugh.github.io/HSMR/">HSMR</a>: Reconstructing Humans with A Biomechanically Accurate Skeleton, Xia et al.</li>
     <li><b>(CVPR 2025)</b> <a href="https://foruck.github.io/HDyS">HDyS</a>: Homogeneous Dynamics Space for Heterogeneous Humans, Liu et al.</li>
     <li><b>(ICLR 2025)</b> <a href="https://foruck.github.io/ImDy">ImDy</a>: ImDy: Human Inverse Dynamics from Imitated Observations, Liu et al.</li>
     <li><b>(ICLR 2025)</b> <a href="https://openreview.net/forum?id=MWHIIWrWWu">MPC2</a>: Motion Control of High-Dimensional Musculoskeletal System with Hierarchical Model-Based Planning, Wei et al.</li>
     <li><b>(ACM Sensys 2025)</b> <a href="https://arxiv.org/pdf/2503.01768">SHADE-AD</a>: SHADE-AD: An LLM-Based Framework for Synthesizing Activity Data of Alzheimer’s Patients, Fu et al.</li>
     <li><b>(JEB 2025)</b> <a href="https://journals.biologists.com/jeb/article/228/Suppl_1/JEB248125/367009/Behavioural-energetics-in-human-locomotion-how">McAllister et al</a>: Behavioural energetics in human locomotion: how energy use influences how we move, McAllister et al.</li>
     <li><b>(WACV 2025)</b> <a href="https://arxiv.org/abs/2406.09788">OpenCapBench</a>: A Benchmark to Bridge Pose Estimation and Biomechanics, Gozlan et al.</li>
-        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.14637">KINESIS</a>: Reinforcement Learning-Based Motion Imitation for Physiologically Plausible Musculoskeletal Motor Control, Simos et al.</li>
+    <li><b>(Preprint 2025)</b> <a href="https://github.com/stanfordnmbl/GaitDynamics">GaitDynamics</a>: GaitDynamics: A Foundation Model for Analyzing Gait Dynamics, Tan et al.</li>
+    <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.14637">KINESIS</a>: Reinforcement Learning-Based Motion Imitation for Physiologically Plausible Musculoskeletal Motor Control, Simos et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2502.13760">Wu et al</a>: Muscle Activation Estimation by Optimizing the Musculoskeletal Model for Personalized Strength and Conditioning Training, Wu et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2502.06486">Cotton et al</a>: Biomechanical Reconstruction with Confidence Intervals from Multiview Markerless Motion Capture, Cotton et al.</li>
     <li><b>(BiorXiv 2024)</b> <a href="https://www.biorxiv.org/content/10.1101/2024.12.30.630841v1.full.pdf">Lai et al</a>: Mapping Grip Force to Muscular Activity Towards Understanding Upper Limb Musculoskeletal Intent using a Novel Grip Strength Model, Lai et al.</li>
