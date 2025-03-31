@@ -18,6 +18,7 @@ An aggregation of human motion understanding research, feel free to contribute.
 <li><b>(JEB 2025)</b> <a href="https://journals.biologists.com/jeb/article/228/Suppl_1/JEB248125/367009/Behavioural-energetics-in-human-locomotion-how">McAllister et al</a>: Behavioural energetics in human locomotion: how energy use influences how we move, McAllister et al.</li>
 <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.12763">Sui et al</a>: A Survey on Human Interaction Motion Generation, Sui et al.</li>
 <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.13120">Fan et al</a>: 3D Human Interaction Generation: A Survey, Fan et al.</li>
+<li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2502.08556">HcFMs</a>: Human-Centric Foundation Models: Perception, Generation and Agentic Modeling, Tang et al.</li>
 <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2501.02116">Gu et al</a>: Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning, Gu et al.</li>
 <li><b>(ArXiv 2024)</b> <a href="https://arxiv.org/pdf/2412.10458">Zhao et al</a>: Motion Generation Review: Exploring Deep Learning for Lifelike Animation with Manifold, Zhao et al.</li>
 <li><b>(T-PAMI 2023)</b> <a href="https://arxiv.org/abs/2307.10894">Zhu et al</a>: Human Motion Generation: A Survey, Zhu et al.</li>
