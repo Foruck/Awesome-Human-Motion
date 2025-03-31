@@ -56,6 +56,7 @@ An aggregation of human motion understanding research, feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://knoxzhao.github.io/Motion-Agent/">Motion-Agent</a>: A Conversational Framework for Human Motion Generation with LLMs, Wu et al.</li>
         <li><b>(IJCV 2025)</b> <a href="https://arxiv.org/pdf/2502.05534">Fg-T2M++</a>: LLMs-Augmented Fine-Grained Text Driven Human Motion Generation, Wang et al.</li>
         <li><b>(TVCG 2025)</b> <a href="https://ieeexplore.ieee.org/abstract/document/10891181/authors#authors">SPORT</a>: From Zero-Shot Prompts to Real-Time Motion Generation, Ji et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://yong-xie-xy.github.io/ReCoM/">ReCoM</a>: Realistic Co-Speech Motion Generation with Recurrent Embedded Transformer, Xie et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://yz-cnsdqz.github.io/eigenmotion/PRIMAL/">PRIMAL</a>: Physically Reactive and Interactive Motor Model for Avatar Learning, Zhang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://www.pinlab.org/hmu">HMU</a>: Human Motion Unlearning, Matteis et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="http://inwoohwang.me/SFControl">SFControl</a>: Motion Synthesis with Sparse and Flexible Keyjoint Control, Hwang et al.</li>
