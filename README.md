@@ -323,6 +323,7 @@ An aggregation of human motion understanding research, feel free to contribute.
         <li><b>(3DV 2025)</b> <a href="https://arxiv.org/pdf/2408.16770?">Paschalidis et al</a>: 3D Whole-body Grasp Synthesis with Directional Controllability, Paschalidis et al.</li>
         <li><b>(3DV 2025)</b> <a href="https://virtualhumans.mpi-inf.mpg.de/InterTrack/">InterTrack</a>: InterTrack: Tracking Human Object Interaction without Object Templates, Xie et al.</li>
         <li><b>(3DV 2025)</b> <a href="https://arxiv.org/abs/2403.11237">FORCE</a>: FORCE: Dataset and Method for Intuitive Physics Guided Human-object Interaction, Zhang et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.23121">EJIM</a>: Efficient Explicit Joint-level Interaction Modeling with Mamba for Text-guided HOI Generation, Huang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://thorin666.github.io/projects/ZeroHOI/">ZeroHOI</a>: Zero-Shot Human-Object Interaction Synthesis with Multimodal Priors, Lou et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://rmd-hoi.github.io/">RMD-HOI</a>: Human-Object Interaction with Vision-Language Model Guided Relative Movement Dynamics, Deng et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2503.05231">Kaiwu</a>: Kaiwu: A Multimodal Manipulation Dataset and Framework for Robot Learning and Human-Robot Interaction, Jiang et al.</li>
@@ -456,6 +457,7 @@ An aggregation of human motion understanding research, feel free to contribute.
     <li><b>(ICLR 2025)</b> <a href="https://zju3dv.github.io/ready_to_react/">Ready-to-React</a>: Online Reaction Policy for Two-Character Interaction Generation, Cen et al.</li>
     <li><b>(ICLR 2025)</b> <a href="https://gohar-malik.github.io/intermask">InterMask</a>: 3D Human Interaction Generation via Collaborative Masked Modelling, Javed et al.</li>
     <li><b>(3DV 2025)</b> <a href="https://arxiv.org/abs/2312.08983">Interactive Humanoid</a>: Online Full-Body Motion Reaction Synthesis with Social Affordance Canonicalization and Forecasting, Liu et al.</li>
+    <li><b>(ArXiv 2025)</b> <a href="https://socialgenx.github.io/">SocialGen</a>: Modeling Multi-Human Social Interaction with Language Models, Yu et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arflow2025.github.io/">ARFlow</a>: Human Action-Reaction Flow Matching with Physical Guidance, Jiang et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.13120">Fan et al</a>: 3D Human Interaction Generation: A Survey, Fan et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.04816">Invisible Strings</a>: Invisible Strings: Revealing Latent Dancer-to-Dancer Interactions with Graph Neural Networks, Zerkowski et al. </li>
