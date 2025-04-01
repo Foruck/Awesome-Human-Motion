@@ -21,6 +21,7 @@ An aggregation of human motion understanding research, feel free to contribute.
 <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2502.08556">HcFMs</a>: Human-Centric Foundation Models: Perception, Generation and Agentic Modeling, Tang et al.</li>
 <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2501.02116">Gu et al</a>: Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning, Gu et al.</li>
 <li><b>(ArXiv 2024)</b> <a href="https://arxiv.org/pdf/2412.10458">Zhao et al</a>: Motion Generation Review: Exploring Deep Learning for Lifelike Animation with Manifold, Zhao et al.</li>
+<li><b>(TVCG 2024)</b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10230894">Loi et al</a>: Machine Learning Approaches for 3D Motion Synthesis and Musculoskeletal Dynamics Estimation: A Survey, Loi et al.</li>
 <li><b>(T-PAMI 2023)</b> <a href="https://arxiv.org/abs/2307.10894">Zhu et al</a>: Human Motion Generation: A Survey, Zhu et al.</li>
 </ul>
 </details>
@@ -707,6 +708,7 @@ An aggregation of human motion understanding research, feel free to contribute.
     <li><b>(ECCV 2024)</b> <a href="https://addbiomechanics.org/">AddBiomechanics Dataset</a>: Capturing the Physics of Human Motion at Scale, Werling et al.</li>
     <li><b>(ECCV 2024)</b> <a href="https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00194.pdf">MANIKIN</a>: Biomechanically Accurate Neural Inverse Kinematics for Human Motion Estimation, Jiang et al.</li>
     <li><b>(TOG 2024)</b> <a href="https://dl.acm.org/doi/pdf/10.1145/3658230">NICER</a>: A New and Improved Consumed Endurance and Recovery Metric to Quantify Muscle Fatigue of Mid-Air Interactions, Li et al.</li>
+    <li><b>(TVCG 2024)</b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10230894">Loi et al</a>: Machine Learning Approaches for 3D Motion Synthesis and Musculoskeletal Dynamics Estimation: A Survey, Loi et al.</li>
     <li><b>(ICML 2024)</b> <a href="https://www.beanpow.top/assets/pdf/dynsyn_poster.pdf">DynSyn</a>: Dynamical Synergistic Representation for Efficient Learning and Control in Overactuated Embodied Systems, He et al.</li>
     <li><b>(Multibody System Dynamics 2024)</b> <a href="https://github.com/ainlamyae/Human3.6Mplus">Human3.6M+</a>: Using musculoskeletal models to generate physically-consistent data for 3D human pose, kinematic, dynamic, and muscle estimation, Nasr et al.</li>
     <li><b>(CVPR 2024)</b> <a href="https://hit.is.tue.mpg.de/">HIT</a>: Estimating Internal Human Implicit Tissues from the Body Surface, Keller et al.</li>
