@@ -33,6 +33,7 @@ An aggregation of human motion understanding research, feel free to contribute.
     <details open>
     <summary><h3>2025</h3></summary>
         <ul style="margin-left: 5px;">
+        <li><b>(CVPR 2025)</b> <a href="https://github.com/CVI-SZU/MG-MotionLLM">MG-MotionLLM</a>: A Unified Framework for Motion Comprehension and Generation across Multiple Granularities, Wu et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://seokhyeonhong.github.io/projects/salad/">SALAD</a>: Skeleton-aware Latent Diffusion for Text-driven Motion Generation and Editing, Hong et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://boeun-kim.github.io/page-PersonaBooth/">PersonalBooth</a>: Personalized Text-to-Motion Generation, Kim et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://arxiv.org/abs/2411.16575">MARDM</a>: Rethinking Diffusion for Text-Driven Human Motion Generation, Meng et al.</li>
@@ -276,15 +277,17 @@ An aggregation of human motion understanding research, feel free to contribute.
 <details open>
 <summary><h2>Motion Editing</h2></summary>
 <ul style="margin-left: 5px;">
-    <li><b>(CVPR 2025)</b> <a href="https://kwanyun.github.io/AnyMoLe_page/">AnyMoLe</a>: AnyMoLe: Any Character Motion In-Betweening Leveraging Video Diffusion Models, Yun et al.</li>
-    <li><b>(CVPR 2025)</b> <a href="https://github.com/lzhyu/SimMotionEdit">SimMotionEdit</a>: SimMotionEdit: Text-Based Human Motion Editing with Motion Similarity Prediction, Li et al.</li>
+    <li><b>(CVPR 2025)</b> <a href="https://seokhyeonhong.github.io/projects/salad/">SALAD</a>: Skeleton-aware Latent Diffusion for Text-driven Motion Generation and Editing, Hong et al.</li>
+    <li><b>(CVPR 2025)</b> <a href="https://www.pabloruizponce.com/papers/MixerMDM">MixerMDM</a>: Learnable Composition of Human Motion Diffusion Models, Ruiz-Ponce et al.</li>
+    <li><b>(CVPR 2025)</b> <a href="https://kwanyun.github.io/AnyMoLe_page/">AnyMoLe</a>: Any Character Motion In-Betweening Leveraging Video Diffusion Models, Yun et al.</li>
+    <li><b>(CVPR 2025)</b> <a href="https://github.com/lzhyu/SimMotionEdit">SimMotionEdit</a>: Text-Based Human Motion Editing with Motion Similarity Prediction, Li et al.</li>
     <li><b>(CVPR 2025)</b> <a href="https://awfuact.github.io/motionrefit/">MotionReFit</a>: Dynamic Motion Blending for Versatile Motion Editing, Jiang et al.</li>
-    <li><b>(ArXiv 2025)</b> <a href="https://yz-cnsdqz.github.io/eigenmotion/PRIMAL/">PRIMAL</a>: PRIMAL:Physically Reactive and Interactive Motor Model for Avatar Learning, Zhang et al.</li>
+    <li><b>(ArXiv 2025)</b> <a href="https://yz-cnsdqz.github.io/eigenmotion/PRIMAL/">PRIMAL</a>: Physically Reactive and Interactive Motor Model for Avatar Learning, Zhang et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.08180">Dai et al</a>: Towards Synthesized and Editable Motion In-Betweening Through Part-Wise Phase Representation, Dai et al.</li>
-    <li><b>(SIGGRAPH Asia 2024)</b> <a href="https://motionfix.is.tue.mpg.de/">MotionFix</a>: MotionFix: Text-Driven 3D Human Motion Editing, Athanasiou et al.</li>
-    <li><b>(NeurIPS 2024)</b> <a href="https://btekin.github.io/">CigTime</a>: CigTime: Corrective Instruction Generation Through Inverse Motion Editing, Fang et al.</li>
+    <li><b>(SIGGRAPH Asia 2024)</b> <a href="https://motionfix.is.tue.mpg.de/">MotionFix</a>: Text-Driven 3D Human Motion Editing, Athanasiou et al.</li>
+    <li><b>(NeurIPS 2024)</b> <a href="https://btekin.github.io/">CigTime</a>: Corrective Instruction Generation Through Inverse Motion Editing, Fang et al.</li>
     <li><b>(SIGGRAPH 2024)</b> <a href="https://purvigoel.github.io/iterative-motion-editing/">Iterative Motion Editing</a>: Iterative Motion Editing with Natural Language, Goel et al.</li>
-    <li><b>(CVPR 2024)</b> <a href="https://korrawe.github.io/dno-project/">DNO</a>: DNO: Optimizing Diffusion Noise Can Serve As Universal Motion Priors, Karunratanakul et al.</li>
+    <li><b>(CVPR 2024)</b> <a href="https://korrawe.github.io/dno-project/">DNO</a>: Optimizing Diffusion Noise Can Serve As Universal Motion Priors, Karunratanakul et al.</li>
 </ul></details>
 
 <span id="motion-stylization"></span>
