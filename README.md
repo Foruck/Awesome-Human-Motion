@@ -33,6 +33,7 @@ An aggregation of human motion understanding research, feel free to contribute.
     <details open>
     <summary><h3>2025</h3></summary>
         <ul style="margin-left: 5px;">
+        <li><b>(CVPR 2025)</b> <a href="https://shape-move.github.io/">Shape My Moves</a>: Text-Driven Shape-Aware Synthesis of Human Motions, Liao et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://github.com/CVI-SZU/MG-MotionLLM">MG-MotionLLM</a>: A Unified Framework for Motion Comprehension and Generation across Multiple Granularities, Wu et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://seokhyeonhong.github.io/projects/salad/">SALAD</a>: Skeleton-aware Latent Diffusion for Text-driven Motion Generation and Editing, Hong et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://boeun-kim.github.io/page-PersonaBooth/">PersonalBooth</a>: Personalized Text-to-Motion Generation, Kim et al.</li>
