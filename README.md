@@ -33,6 +33,7 @@ An aggregation of human motion understanding research, feel free to contribute.
     <details open>
     <summary><h3>2025</h3></summary>
         <ul style="margin-left: 5px;">
+        <li><b>(CVPR 2025)</b> <a href="https://shape-move.github.io/">From Sparse Signal to Smooth Motion</a>: Real-Time Motion Generation with Rolling Prediction Models, Barquero et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://shape-move.github.io/">Shape My Moves</a>: Text-Driven Shape-Aware Synthesis of Human Motions, Liao et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://github.com/CVI-SZU/MG-MotionLLM">MG-MotionLLM</a>: A Unified Framework for Motion Comprehension and Generation across Multiple Granularities, Wu et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://seokhyeonhong.github.io/projects/salad/">SALAD</a>: Skeleton-aware Latent Diffusion for Text-driven Motion Generation and Editing, Hong et al.</li>
@@ -495,6 +496,8 @@ An aggregation of human motion understanding research, feel free to contribute.
     <summary><h3>2025</h3></summary>
     <ul style="margin-left: 5px;">
         <li><b>(Bioengineering 2025)</b> <a href="https://www.mdpi.com/2306-5354/12/3/317">MeLLO</a>: The Utah Manipulation and Locomotion of Large Objects (MeLLO) Data Library, Luttmer et al.</li>
+        <li><b>(CVPR 2025)</b> <a href="https://nju-cite-mocaphumanoid.github.io/MotionPRO/">MotionPro</a>: Exploring the Role of Pressure in Human MoCap and Beyond, Ren et al.</li>
+        <li><b>(CVPR 2025)</b> <a href="https://shape-move.github.io/">GORP</a>: Real-Time Motion Generation with Rolling Prediction Models, Barquero et al.</li>
         <li><b>(CVPR 2025)</b> <a href="http://www.lidarhumanmotion.net/climbingcap/">ClimbingCap</a>: ClimbingCap: Multi-Modal Dataset and Method for Rock Climbing in World Coordinate, Yan et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://atom-motion.github.io/">AtoM</a>: AToM: Aligning Text-to-Motion Model at Event-Level with GPT-4Vision Reward, Han et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://core4d.github.io/">CORE4D</a>: CORE4D: A 4D Human-Object-Human Interaction Dataset for Collaborative Object REarrangement, Zhang et al.</li>
