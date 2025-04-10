@@ -589,6 +589,8 @@ An aggregation of human motion understanding research, feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/pdf/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2504.06585">Cha et al</a>: Sim-to-Real of Humanoid Locomotion Policies via Joint Torque Space Perturbation Injection, Cha et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2504.07095">Neural Motion Simulator</a>: Pushing the Limit of World Models in Reinforcement Learning, Hao et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://xianqi-zhang.github.io/FLAM/">FLAM</a>: Foundation Model-Based Body Stabilization for Humanoid Locomotion and Manipulation, Zhang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.22459">Lutz et al</a>: Control of Humanoid Robots with Parallel Mechanisms using Kinematic Actuation Models, Lutz et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.14734">GR00T N1</a>: An Open Foundation Model for Generalist Humanoid Robots, NVIDIA.</li>
