@@ -61,6 +61,7 @@ An aggregation of human motion understanding research, feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://knoxzhao.github.io/Motion-Agent/">Motion-Agent</a>: A Conversational Framework for Human Motion Generation with LLMs, Wu et al.</li>
         <li><b>(IJCV 2025)</b> <a href="https://arxiv.org/pdf/2502.05534">Fg-T2M++</a>: LLMs-Augmented Fine-Grained Text Driven Human Motion Generation, Wang et al.</li>
         <li><b>(TVCG 2025)</b> <a href="https://ieeexplore.ieee.org/abstract/document/10891181/authors#authors">SPORT</a>: From Zero-Shot Prompts to Real-Time Motion Generation, Ji et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://xiangyuezhang.com/SemTalk/">SemTalk</a>: Holistic Co-speech Motion Generation with Frame-level Semantic Emphasis, Zhang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://foram-s1.github.io/DanceMosaic/">DanceMosaic</a>: High-Fidelity Dance Generation with Multimodal Editability, Shah et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://yong-xie-xy.github.io/ReCoM/">ReCoM</a>: Realistic Co-Speech Motion Generation with Recurrent Embedded Transformer, Xie et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://yz-cnsdqz.github.io/eigenmotion/PRIMAL/">PRIMAL</a>: Physically Reactive and Interactive Motor Model for Avatar Learning, Zhang et al.</li>
@@ -330,6 +331,7 @@ An aggregation of human motion understanding research, feel free to contribute.
         <li><b>(3DV 2025)</b> <a href="https://arxiv.org/pdf/2408.16770?">Paschalidis et al</a>: 3D Whole-body Grasp Synthesis with Directional Controllability, Paschalidis et al.</li>
         <li><b>(3DV 2025)</b> <a href="https://virtualhumans.mpi-inf.mpg.de/InterTrack/">InterTrack</a>: Tracking Human Object Interaction without Object Templates, Xie et al.</li>
         <li><b>(3DV 2025)</b> <a href="https://arxiv.org/abs/2403.11237">FORCE</a>: Dataset and Method for Intuitive Physics Guided Human-object Interaction, Zhang et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://jiaxin-lu.github.io/humoto/">HUMOTO</a>: A 4D Dataset of Mocap Human Object Interactions, Lu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.23121">EJIM</a>: Efficient Explicit Joint-level Interaction Modeling with Mamba for Text-guided HOI Generation, Huang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://thorin666.github.io/projects/ZeroHOI/">ZeroHOI</a>: Zero-Shot Human-Object Interaction Synthesis with Multimodal Priors, Lou et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://rmd-hoi.github.io/">RMD-HOI</a>: Human-Object Interaction with Vision-Language Model Guided Relative Movement Dynamics, Deng et al.</li>
@@ -589,6 +591,9 @@ An aggregation of human motion understanding research, feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/pdf/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2504.09532">Hao et al</a>: Embodied Chain of Action Reasoning with Multi-Modal Foundation Model for Humanoid Loco-manipulation, Hao et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2504.09833">PreCi</a>: Pre-training and Continual Improvement of Humanoid Locomotion via Model-Assumption-based Regularization, Jung et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2504.10390">Teacher Motion Priors</a>: Enhancing Robot Locomotion over Challenging Terrain, Lin et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2504.06585">Cha et al</a>: Sim-to-Real of Humanoid Locomotion Policies via Joint Torque Space Perturbation Injection, Cha et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2504.07095">Neural Motion Simulator</a>: Pushing the Limit of World Models in Reinforcement Learning, Hao et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://xianqi-zhang.github.io/FLAM/">FLAM</a>: Foundation Model-Based Body Stabilization for Humanoid Locomotion and Manipulation, Zhang et al.</li>
@@ -705,6 +710,9 @@ An aggregation of human motion understanding research, feel free to contribute.
     <li><b>(JEB 2025)</b> <a href="https://journals.biologists.com/jeb/article/228/Suppl_1/JEB248125/367009/Behavioural-energetics-in-human-locomotion-how">McAllister et al</a>: Behavioural energetics in human locomotion: how energy use influences how we move, McAllister et al.</li>
     <li><b>(WACV 2025)</b> <a href="https://arxiv.org/abs/2406.09788">OpenCapBench</a>: A Benchmark to Bridge Pose Estimation and Biomechanics, Gozlan et al.</li>
     <li><b>(Preprint 2025)</b> <a href="https://github.com/stanfordnmbl/GaitDynamics">GaitDynamics</a>: A Foundation Model for Analyzing Gait Dynamics, Tan et al.</li>
+    <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2504.10102">Mobedi et al</a>: A Framework for Adaptive Load Redistribution in Human-Exoskeleton-Cobot Systems, Mobedi et al.</li>
+    <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2504.10102">A Human-Sensitive Controller</a>: Adapting to Human Ergonomics and Physical Constraints via Reinforcement Learning, Almeida et al.</li>
+    <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2504.10294">Ankle Exoskeletons in Walking and Load-Carrying Tasks</a>: Insights into Biomechanics and Human-Robot Interaction, Almeida et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://vadeli.github.io/GAITGen/">GAITGen</a>: Disentangled Motion-Pathology Impaired Gait Generative Model, Adeli et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.14637">KINESIS</a>: Reinforcement Learning-Based Motion Imitation for Physiologically Plausible Musculoskeletal Motor Control, Simos et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2502.13760">Wu et al</a>: Muscle Activation Estimation by Optimizing the Musculoskeletal Model for Personalized Strength and Conditioning Training, Wu et al.</li>
