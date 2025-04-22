@@ -1,6 +1,6 @@
 # Awesome Human Motion
 
-An aggregation of human motion understanding research, feel free to contribute.
+An aggregation of human motion understanding research; feel free to contribute.
 
 [Reviews & Surveys](#review) 
 
@@ -508,6 +508,7 @@ An aggregation of human motion understanding research, feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://openreview.net/forum?id=9mBodivRIo">LocoVR</a>: LocoVR: Multiuser Indoor Locomotion Dataset in Virtual Reality, Takeyama et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://github.com/coding-rachal/PMRDataset">PMR</a>: Pedestrian Motion Reconstruction: A Large-scale Benchmark via Mixed Reality Rendering with Multiple Perspectives and Modalities, Wang et al.</li>
         <li><b>(AAAI 2025)</b> <a href="https://arxiv.org/abs/2408.17168">EMHI</a>: EMHI: A Multimodal Egocentric Human Motion Dataset with HMD and Body-Worn IMUs, Fan et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://k2muse.github.io/">K2MUSE</a>: A Large-scale Human Lower limb Dataset of Kinematics, Kinetics, amplitude Mode Ultrasound and Surface Electromyography, Li et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://rmd-hoi.github.io/">RMD-HOI</a>: Human-Object Interaction with Vision-Language Model Guided Relative Movement Dynamics, Deng et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.06522">SGA-INTERACT</a>: SGA-INTERACT: A3DSkeleton-based Benchmark for Group Activity Understanding in Modern Basketball Tactic, Yang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2503.05231">Kaiwu</a>: Kaiwu: A Multimodal Manipulation Dataset and Framework for Robot Learning and Human-Robot Interaction, Jiang et al.</li>
@@ -591,6 +592,7 @@ An aggregation of human motion understanding research, feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/pdf/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://almi-humanoid.github.io/">ALMI</a>: Adversarial Locomotion and Motion Imitation for Humanoid Policy Learning, Shi et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://wuyan01.github.io/uniphys-project/">UniPhys</a>: Unified Planner and Controller with Diffusion for Flexible Physics-Based Character Control, Wu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2504.09532">Hao et al</a>: Embodied Chain of Action Reasoning with Multi-Modal Foundation Model for Humanoid Loco-manipulation, Hao et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2504.09833">PreCi</a>: Pre-training and Continual Improvement of Humanoid Locomotion via Model-Assumption-based Regularization, Jung et al.</li>
@@ -711,6 +713,7 @@ An aggregation of human motion understanding research, feel free to contribute.
     <li><b>(JEB 2025)</b> <a href="https://journals.biologists.com/jeb/article/228/Suppl_1/JEB248125/367009/Behavioural-energetics-in-human-locomotion-how">McAllister et al</a>: Behavioural energetics in human locomotion: how energy use influences how we move, McAllister et al.</li>
     <li><b>(WACV 2025)</b> <a href="https://arxiv.org/abs/2406.09788">OpenCapBench</a>: A Benchmark to Bridge Pose Estimation and Biomechanics, Gozlan et al.</li>
     <li><b>(Preprint 2025)</b> <a href="https://github.com/stanfordnmbl/GaitDynamics">GaitDynamics</a>: A Foundation Model for Analyzing Gait Dynamics, Tan et al.</li>
+    <li><b>(ArXiv 2025)</b> <a href="https://k2muse.github.io/">K2MUSE</a>: A Large-scale Human Lower limb Dataset of Kinematics, Kinetics, amplitude Mode Ultrasound and Surface Electromyography, Li et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2504.10102">Mobedi et al</a>: A Framework for Adaptive Load Redistribution in Human-Exoskeleton-Cobot Systems, Mobedi et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2504.10102">A Human-Sensitive Controller</a>: Adapting to Human Ergonomics and Physical Constraints via Reinforcement Learning, Almeida et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2504.10294">Ankle Exoskeletons in Walking and Load-Carrying Tasks</a>: Insights into Biomechanics and Human-Robot Interaction, Almeida et al.</li>
