@@ -16,6 +16,7 @@ An aggregation of human motion understanding research; feel free to contribute.
 <summary><h2>Reviews & Surveys</h2></summary>
 <ul style="margin-left: 5px;">
 <li><b>(JEB 2025)</b> <a href="https://journals.biologists.com/jeb/article/228/Suppl_1/JEB248125/367009/Behavioural-energetics-in-human-locomotion-how">McAllister et al</a>: Behavioural energetics in human locomotion: how energy use influences how we move, McAllister et al.</li>
+<li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2504.19056">Generative AI for Character Animation</a>: A Comprehensive Survey of Techniques, Applications, and Future Directions, Abootorabi et al.</li>
 <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.12763">Sui et al</a>: A Survey on Human Interaction Motion Generation, Sui et al.</li>
 <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.13120">Fan et al</a>: 3D Human Interaction Generation: A Survey, Fan et al.</li>
 <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2502.08556">HcFMs</a>: Human-Centric Foundation Models: Perception, Generation and Agentic Modeling, Tang et al.</li>
@@ -33,6 +34,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2025</h3></summary>
         <ul style="margin-left: 5px;">
+        <li><b>(TOG 2025)</b> <a href="https://zhongleilz.github.io/Sketch2Anim/">Sketch2Anim</a>: Towards Transferring Sketch Storyboards into 3D Animation, Zhong et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://shape-move.github.io/">From Sparse Signal to Smooth Motion</a>: Real-Time Motion Generation with Rolling Prediction Models, Barquero et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://shape-move.github.io/">Shape My Moves</a>: Text-Driven Shape-Aware Synthesis of Human Motions, Liao et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://github.com/CVI-SZU/MG-MotionLLM">MG-MotionLLM</a>: A Unified Framework for Motion Comprehension and Generation across Multiple Granularities, Wu et al.</li>
