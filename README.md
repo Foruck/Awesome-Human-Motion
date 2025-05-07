@@ -291,6 +291,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <li><b>(CVPR 2025)</b> <a href="https://kwanyun.github.io/AnyMoLe_page/">AnyMoLe</a>: Any Character Motion In-Betweening Leveraging Video Diffusion Models, Yun et al.</li>
     <li><b>(CVPR 2025)</b> <a href="https://github.com/lzhyu/SimMotionEdit">SimMotionEdit</a>: Text-Based Human Motion Editing with Motion Similarity Prediction, Li et al.</li>
     <li><b>(CVPR 2025)</b> <a href="https://awfuact.github.io/motionrefit/">MotionReFit</a>: Dynamic Motion Blending for Versatile Motion Editing, Jiang et al.</li>
+    <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2505.03154">StableMotion</a>: Training Motion Cleanup Models with Unpaired Corrupted Data, Mu et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://yz-cnsdqz.github.io/eigenmotion/PRIMAL/">PRIMAL</a>: Physically Reactive and Interactive Motor Model for Avatar Learning, Zhang et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.08180">Dai et al</a>: Towards Synthesized and Editable Motion In-Betweening Through Part-Wise Phase Representation, Dai et al.</li>
     <li><b>(SIGGRAPH Asia 2024)</b> <a href="https://motionfix.is.tue.mpg.de/">MotionFix</a>: Text-Driven 3D Human Motion Editing, Athanasiou et al.</li>
@@ -588,6 +589,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2025</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(RSS 2025)</b> <a href="https://amo-humanoid.github.io/">AMO</a>: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control, Li et al.</li>
         <li><b>(SIGGRAPH 2025)</b> <a href="https://arxiv.org/pdf/2505.02094">SkillMimic-v2</a>: Learning Robust and Generalizable Interaction Skills from Sparse and Noisy Demonstrations, Yu et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://jiemingcui.github.io/grove/">GROVE</a>: A Generalized Reward for Learning Open-Vocabulary Physical Skill, Cui et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://sirui-xu.github.io/InterMimic/">InterMimic</a>: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions, Xu et al.</li>
@@ -601,6 +603,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/pdf/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://www.videomimic.net/">VideoMimic</a>: Visual imitation enables contextual humanoid control, Allshire et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2505.02833">TWIST</a>: Teleoperated Whole-Body Imitation System, Ze et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://bit-bots.github.io/SoccerDiffusion/">SoccerDiffusion</a>: Toward Learning End-to-End Humanoid Robot Soccer from Gameplay Recordings, Vahl et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2504.17249">Demonstrating Berkeley Humanoid Lite</a>: An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot, Chi et al.</li>
