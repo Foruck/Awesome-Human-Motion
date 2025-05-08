@@ -590,6 +590,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <summary><h3>2025</h3></summary>
     <ul style="margin-left: 5px;">
         <li><b>(RSS 2025)</b> <a href="https://amo-humanoid.github.io/">AMO</a>: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control, Li et al.</li>
+        <li><b>(SIGGRAPH 2025)</b> <a href="https://arxiv.org/pdf/2505.04002">PARC</a>: Physics-based Augmentation with Reinforcement Learning for Character Controllers, Xu et al.</li>
         <li><b>(SIGGRAPH 2025)</b> <a href="https://arxiv.org/pdf/2505.02094">SkillMimic-v2</a>: Learning Robust and Generalizable Interaction Skills from Sparse and Noisy Demonstrations, Yu et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://jiemingcui.github.io/grove/">GROVE</a>: A Generalized Reward for Learning Open-Vocabulary Physical Skill, Cui et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://sirui-xu.github.io/InterMimic/">InterMimic</a>: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions, Xu et al.</li>
