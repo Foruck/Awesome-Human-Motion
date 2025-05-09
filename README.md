@@ -63,6 +63,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://zkf1997.github.io/DART/">DART</a>: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control, Zhao et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://knoxzhao.github.io/Motion-Agent/">Motion-Agent</a>: A Conversational Framework for Human Motion Generation with LLMs, Wu et al.</li>
         <li><b>(IJCV 2025)</b> <a href="https://arxiv.org/pdf/2502.05534">Fg-T2M++</a>: LLMs-Augmented Fine-Grained Text Driven Human Motion Generation, Wang et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://wengwanjiang.github.io/ReAlign-page/">ReAlign</a>: Bilingual Text-to-Motion Generation via Step-Aware Reward-Guided Alignment, Weng et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://research.nvidia.com/labs/dair/genmo/">GENMO</a>: A GENeralist Model for Human MOtion, Li et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2504.16722">ProMoGen</a>: PMG: Progressive Motion Generation via Sparse Anchor Postures Curriculum Learning, Xi et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2504.16722">ProMoGen</a>: PMG: Progressive Motion Generation via Sparse Anchor Postures Curriculum Learning, Xi et al.</li>
@@ -604,6 +605,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/pdf/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2505.04961">ADD</a>: Physics-Based Motion Imitation with Adversarial Differential Discriminators, Zhang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://www.videomimic.net/">VideoMimic</a>: Visual imitation enables contextual humanoid control, Allshire et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2505.02833">TWIST</a>: Teleoperated Whole-Body Imitation System, Ze et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://bit-bots.github.io/SoccerDiffusion/">SoccerDiffusion</a>: Toward Learning End-to-End Humanoid Robot Soccer from Gameplay Recordings, Vahl et al.</li>
