@@ -52,6 +52,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(CVPR 2025)</b> <a href="https://hhsinping.github.io/Move-in-2D/">Move in 2D</a>: 2D-Conditioned Human Motion Generation, Huang et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://solami-ai.github.io/">SOLAMI</a>: Social Vision-Language-Action Modeling for Immersive Interaction with 3D Autonomous Characters, Jiang et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://lijiaman.github.io/projects/mvlift/">MVLift</a>: Lifting Motion to the 3D World via 2D Diffusion, Li et al.</li>
+        <li><b>(CVPR 2025 Workshop)</b> <a href="https://arxiv.org/pdf/2505.09827">Dyadic Mamba</a>: Long-term Dyadic Human Motion Synthesis, Tanke et al.</li>
         <li><b>(ACM Sensys 2025)</b> <a href="https://arxiv.org/pdf/2503.01768">SHADE-AD</a>: An LLM-Based Framework for Synthesizing Activity Data of Alzheimer’s Patients, Fu et al.</li>
         <li><b>(ICRA 2025)</b> <a href="https://arxiv.org/abs/2410.16623">MotionGlot</a>: A Multi-Embodied Motion Generation Model, Harithas et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
