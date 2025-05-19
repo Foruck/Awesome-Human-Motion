@@ -52,6 +52,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(CVPR 2025)</b> <a href="https://hhsinping.github.io/Move-in-2D/">Move in 2D</a>: 2D-Conditioned Human Motion Generation, Huang et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://solami-ai.github.io/">SOLAMI</a>: Social Vision-Language-Action Modeling for Immersive Interaction with 3D Autonomous Characters, Jiang et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://lijiaman.github.io/projects/mvlift/">MVLift</a>: Lifting Motion to the 3D World via 2D Diffusion, Li et al.</li>
+        <li><b>(CVPR 2025 Workshop)</b> <a href="https://arxiv.org/pdf/2505.10810">MoCLIP</a>: Motion-Aware Fine-Tuning and Distillation of CLIP for Human Motion Generation, Maldonado et al.</li>
         <li><b>(CVPR 2025 Workshop)</b> <a href="https://arxiv.org/pdf/2505.09827">Dyadic Mamba</a>: Long-term Dyadic Human Motion Synthesis, Tanke et al.</li>
         <li><b>(ACM Sensys 2025)</b> <a href="https://arxiv.org/pdf/2503.01768">SHADE-AD</a>: An LLM-Based Framework for Synthesizing Activity Data of Alzheimer’s Patients, Fu et al.</li>
         <li><b>(ICRA 2025)</b> <a href="https://arxiv.org/abs/2410.16623">MotionGlot</a>: A Multi-Embodied Motion Generation Model, Harithas et al.</li>
@@ -478,6 +479,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <li><b>(ICLR 2025)</b> <a href="https://zju3dv.github.io/ready_to_react/">Ready-to-React</a>: Online Reaction Policy for Two-Character Interaction Generation, Cen et al.</li>
     <li><b>(ICLR 2025)</b> <a href="https://gohar-malik.github.io/intermask">InterMask</a>: 3D Human Interaction Generation via Collaborative Masked Modelling, Javed et al.</li>
     <li><b>(3DV 2025)</b> <a href="https://arxiv.org/abs/2312.08983">Interactive Humanoid</a>: Online Full-Body Motion Reaction Synthesis with Social Affordance Canonicalization and Forecasting, Liu et al.</li>
+    <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2505.11334">MARRS</a>: MaskedAutoregressive Unit-based Reaction Synthesis, Wang et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://socialgenx.github.io/">SocialGen</a>: Modeling Multi-Human Social Interaction with Language Models, Yu et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arflow2025.github.io/">ARFlow</a>: Human Action-Reaction Flow Matching with Physical Guidance, Jiang et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.13120">Fan et al</a>: 3D Human Interaction Generation: A Survey, Fan et al.</li>
@@ -609,6 +611,9 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/pdf/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://zzk273.github.io/R2S2/">R2S2</a>: Unleashing Humanoid Reaching Potential via Real-world-Ready Skill Space, Zhang et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2505.11495">Bracing for Impact</a>: Robust Humanoid Push Recovery and Locomotion with Reduced Order Model, Yang et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2505.11494">SHIELD</a>: Safety on Humanoids via CBFs In Expectation on Learned Dynamics, Yang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2505.06584">JAEGER</a>: Dual-Level Humanoid Whole-Body Controller, Ding et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://lecar-lab.github.io/falcon-humanoid/">FALCON</a>: Learning Force-Adaptive Humanoid Loco-Manipulation, Zhang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://hub-robot.github.io/">HuB</a>: Learning Extreme Humanoid Balance, Zhang et al.</li>
