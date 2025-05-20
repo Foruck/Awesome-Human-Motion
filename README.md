@@ -343,6 +343,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(3DV 2025)</b> <a href="https://arxiv.org/pdf/2408.16770?">Paschalidis et al</a>: 3D Whole-body Grasp Synthesis with Directional Controllability, Paschalidis et al.</li>
         <li><b>(3DV 2025)</b> <a href="https://virtualhumans.mpi-inf.mpg.de/InterTrack/">InterTrack</a>: Tracking Human Object Interaction without Object Templates, Xie et al.</li>
         <li><b>(3DV 2025)</b> <a href="https://arxiv.org/abs/2403.11237">FORCE</a>: Dataset and Method for Intuitive Physics Guided Human-object Interaction, Zhang et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2505.12774">UniHM</a>: Universal Human Motion Generation with Object Interactions in Indoor Scenes, Geng et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://jiaxin-lu.github.io/humoto/">HUMOTO</a>: A 4D Dataset of Mocap Human Object Interactions, Lu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.23121">EJIM</a>: Efficient Explicit Joint-level Interaction Modeling with Mamba for Text-guided HOI Generation, Huang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://thorin666.github.io/projects/ZeroHOI/">ZeroHOI</a>: Zero-Shot Human-Object Interaction Synthesis with Multimodal Priors, Lou et al.</li>
@@ -611,6 +612,10 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/pdf/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2505.12619">HIL</a>: Hybrid Imitation Learning of Diverse Parkour Skills from Videos, Wang et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2505.12679">Dribble Master</a>: Learning Agile Humanoid Dribbling Through Legged Locomotion, Wang et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2505.13436">KinTwin</a>:  Imitation Learning with Torque and Muscle Driven Biomechanical Models Enables Precise Replication of Able-Bodied and Impaired Movement from Markerless Motion Capture, Cotton et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="http://www.zhengyiluo.com/PDC-Site/">PDC</a>: Emergent Active Perception and Dexterity of Simulated Humanoids from Visual Reinforcement Learning, Luo et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://zzk273.github.io/R2S2/">R2S2</a>: Unleashing Humanoid Reaching Potential via Real-world-Ready Skill Space, Zhang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2505.11495">Bracing for Impact</a>: Robust Humanoid Push Recovery and Locomotion with Reduced Order Model, Yang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2505.11494">SHIELD</a>: Safety on Humanoids via CBFs In Expectation on Learned Dynamics, Yang et al.</li>
