@@ -35,6 +35,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <summary><h3>2025</h3></summary>
         <ul style="margin-left: 5px;">
         <li><b>(TOG 2025)</b> <a href="https://zhongleilz.github.io/Sketch2Anim/">Sketch2Anim</a>: Towards Transferring Sketch Storyboards into 3D Animation, Zhong et al.</li>
+        <li><b>(SIGGRAPH 2025)</b> <a href="https://arxiv.org/pdf/2505.14087">Chang et al.</a>: Large-Scale Multi-Character Interaction Synthesis, Chang et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://arxiv.org/pdf/2505.00998">DSDFM</a>: Deterministic-to-Stochastic Diverse Latent Feature Mapping for Human Motion Synthesis, Hua et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://arxiv.org/abs/2504.05265">From Sparse Signal to Smooth Motion</a>: Real-Time Motion Generation with Rolling Prediction Models, Barquero et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://shape-move.github.io/">Shape My Moves</a>: Text-Driven Shape-Aware Synthesis of Human Motions, Liao et al.</li>
@@ -65,6 +66,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://zkf1997.github.io/DART/">DART</a>: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control, Zhao et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://knoxzhao.github.io/Motion-Agent/">Motion-Agent</a>: A Conversational Framework for Human Motion Generation with LLMs, Wu et al.</li>
         <li><b>(IJCV 2025)</b> <a href="https://arxiv.org/pdf/2502.05534">Fg-T2M++</a>: LLMs-Augmented Fine-Grained Text Driven Human Motion Generation, Wang et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2505.14222">MatchDance</a>: Collaborative Mamba-Transformer Architecture Matching for High-Quality 3D Dance Synthesis, Yang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2505.08293">M3G</a>: Multi-Granular Gesture Generator for Audio-Driven Full-Body Human Motion Synthesis, Yin et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2505.05589">ReactDance</a>: Progressive-Granular Representation for Long-Term Coherent Reactive Dance Generation, Lin et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://wengwanjiang.github.io/ReAlign-page/">ReAlign</a>: Bilingual Text-to-Motion Generation via Step-Aware Reward-Guided Alignment, Weng et al.</li>
