@@ -605,6 +605,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(CVPR 2025)</b> <a href="https://jiemingcui.github.io/grove/">GROVE</a>: A Generalized Reward for Learning Open-Vocabulary Physical Skill, Cui et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://sirui-xu.github.io/InterMimic/">InterMimic</a>: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions, Xu et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://ingrid789.github.io/SkillMimic/">SkillMimic</a>: Learning Reusable Basketball Skills from Demonstrations, Wang et al.</li>
+        <li><b>(Eurographics 2025)</b> <a href="https://arxiv.org/pdf/2503.12814">Bae et al</a>: Versatile Physics-based Character Control with Hybrid Latent Representation, Bae et al.</li>
         <li><b>(ICRA 2025)</b> <a href="https://arxiv.org/pdf/2505.05773">Boguslavskii et al</a>: Human-Robot Collaboration for the Remote Control of Mobile Humanoid Robots with Torso-Arm Coordination, Boguslavskii et al.</li>
         <li><b>(ICRA 2025)</b> <a href="https://arxiv.org/abs/2410.21229">HOVER</a>: Versatile Neural Whole-Body Controller for Humanoid Robots, He et al.</li>
         <li><b>(ICRA 2025)</b> <a href="https://junfeng-long.github.io/PIM/">PIM</a>: Learning Humanoid Locomotion with Perceptive Internal Model, Long et al.</li>
@@ -643,7 +644,6 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ArXiv 2025)</b> <a href="https://styleloco.github.io/">StyleLoco</a>: Generative Adversarial Distillation for Natural Humanoid Robot Locomotion, Ma et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.14637">KINESIS</a>: Reinforcement Learning-Based Motion Imitation for Physiologically Plausible Musculoskeletal Motor Control, Simos et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.11801">Diffuse-CLoC</a>: Guided Diffusion for Physics-based Character Look-ahead Control, Huang et al.</li>
-        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.12814">Bae et al</a>: Versatile Physics-based Character Control with Hybrid Latent Representation, Bae et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://sites.google.com/view/humanoid-gmp">GMP</a>: Natural Humanoid Robot Locomotion with Generative Motion Prior, Zhang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.00692">Sun et al</a>: Learning Perceptive Humanoid Locomotion over Challenging Terrain, Sun et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.00923">HWC-Loco</a>: A Hierarchical Whole-Body Control Approach to Robust Humanoid Locomotion, Lin et al.</li>
