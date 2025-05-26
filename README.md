@@ -478,6 +478,7 @@ An aggregation of human motion understanding research; feel free to contribute.
 <details open>
 <summary><h2>Human-Human Interaction</h2></summary>
 <ul style="margin-left: 5px;">
+    <li><b>(SIGGRAPH 2025)</b> <a href="https://arxiv.org/pdf/2505.17860">Xu et al</a>: Multi-Person Interaction Generation from Two-Person Motion Priors, Xu et al.</li>
     <li><b>(CVPR 2025)</b> <a href="https://aigc-explorer.github.io/TIMotion-page/">TIMotion</a>: Temporal and Interactive Framework for Efficient Human-Human Motion Generation, Wang et al.</li>
     <li><b>(ICLR 2025)</b> <a href="https://openreview.net/forum?id=UxzKcIZedp">Think Then React</a>: Towards Unconstrained Action-to-Reaction Motion Generation, Tan et al.</li>
     <li><b>(ICLR 2025)</b> <a href="https://zju3dv.github.io/ready_to_react/">Ready-to-React</a>: Online Reaction Policy for Two-Character Interaction Generation, Cen et al.</li>
@@ -616,6 +617,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/pdf/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://h2compact.github.io/h2compact/">H2-COMPAXT</a>: Human–Humanoid Co-Manipulation via Adaptive Contact Trajectory Policies, Bethala et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2505.12619">HIL</a>: Hybrid Imitation Learning of Diverse Parkour Skills from Videos, Wang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2505.12679">Dribble Master</a>: Learning Agile Humanoid Dribbling Through Legged Locomotion, Wang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2505.13436">KinTwin</a>:  Imitation Learning with Torque and Muscle Driven Biomechanical Models Enables Precise Replication of Able-Bodied and Impaired Movement from Markerless Motion Capture, Cotton et al.</li>
