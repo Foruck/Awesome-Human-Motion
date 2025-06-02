@@ -617,6 +617,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(CVPR 2025)</b> <a href="https://jiemingcui.github.io/grove/">GROVE</a>: A Generalized Reward for Learning Open-Vocabulary Physical Skill, Cui et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://sirui-xu.github.io/InterMimic/">InterMimic</a>: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions, Xu et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://ingrid789.github.io/SkillMimic/">SkillMimic</a>: Learning Reusable Basketball Skills from Demonstrations, Wang et al.</li>
+        <li><b>(CVPR 2025)</b> <a href="https://arxiv.org/pdf/2504.07095">Neural Motion Simulator</a>: Pushing the Limit of World Models in Reinforcement Learning, Hao et al.</li>
         <li><b>(Eurographics 2025)</b> <a href="https://arxiv.org/pdf/2503.12814">Bae et al</a>: Versatile Physics-based Character Control with Hybrid Latent Representation, Bae et al.</li>
         <li><b>(ICRA 2025)</b> <a href="https://arxiv.org/pdf/2505.05773">Boguslavskii et al</a>: Human-Robot Collaboration for the Remote Control of Mobile Humanoid Robots with Torso-Arm Coordination, Boguslavskii et al.</li>
         <li><b>(ICRA 2025)</b> <a href="https://arxiv.org/abs/2410.21229">HOVER</a>: Versatile Neural Whole-Body Controller for Humanoid Robots, He et al.</li>
@@ -656,7 +657,6 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2504.09833">PreCi</a>: Pre-training and Continual Improvement of Humanoid Locomotion via Model-Assumption-based Regularization, Jung et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2504.10390">Teacher Motion Priors</a>: Enhancing Robot Locomotion over Challenging Terrain, Lin et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2504.06585">Cha et al</a>: Sim-to-Real of Humanoid Locomotion Policies via Joint Torque Space Perturbation Injection, Cha et al.</li>
-        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2504.07095">Neural Motion Simulator</a>: Pushing the Limit of World Models in Reinforcement Learning, Hao et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://xianqi-zhang.github.io/FLAM/">FLAM</a>: Foundation Model-Based Body Stabilization for Humanoid Locomotion and Manipulation, Zhang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.22459">Lutz et al</a>: Control of Humanoid Robots with Parallel Mechanisms using Kinematic Actuation Models, Lutz et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2503.14734">GR00T N1</a>: An Open Foundation Model for Generalist Humanoid Robots, NVIDIA.</li>
