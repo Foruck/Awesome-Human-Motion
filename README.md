@@ -352,6 +352,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(3DV 2025)</b> <a href="https://arxiv.org/pdf/2408.16770?">Paschalidis et al</a>: 3D Whole-body Grasp Synthesis with Directional Controllability, Paschalidis et al.</li>
         <li><b>(3DV 2025)</b> <a href="https://virtualhumans.mpi-inf.mpg.de/InterTrack/">InterTrack</a>: Tracking Human Object Interaction without Object Templates, Xie et al.</li>
         <li><b>(3DV 2025)</b> <a href="https://arxiv.org/abs/2403.11237">FORCE</a>: Dataset and Method for Intuitive Physics Guided Human-object Interaction, Zhang et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://jinluzhang.site/projects/interactanything/">InteractAnything</a>: Zero-shot Human Object-Interaction Synthesis via LLM Feedback and Object Affordance Parsing, Zhang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://phj128.github.io/page/CoDA/index.html">CoDA</a>: Coordinated Diffusion Noise Optimization for Whole-Body Manipulation of Articulated Objects, Pi et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2505.19086">MaskedManipulator</a>: Versatile Whole-Body Control for Loco-Manipulation, Tessler et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2505.12774">UniHM</a>: Universal Human Motion Generation with Object Interactions in Indoor Scenes, Geng et al.</li>
@@ -627,6 +628,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/pdf/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://lecar-lab.github.io/SoFTA/">Hold My Beer🍻</a>: Learning Gentle Humanoid Locomotion and End-Effector Stabilization Control, Li et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://younggyo.me/fast_td3/">FastTD3</a>: Simple, Fast, and Capable Reinforcement Learning for Humanoid Control, Seo et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2505.20619">Peng et al</a>: Gait-Conditioned Reinforcement Learning with Multi-Phase Curriculum for Humanoid Locomotion, Peng et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://dreampolicy.github.io/">One Policy but Many Worlds</a>: A Scalable Unified Policy for Versatile Humanoid Locomotion, Fan et al.</li>
