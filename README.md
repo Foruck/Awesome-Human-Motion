@@ -317,6 +317,7 @@ An aggregation of human motion understanding research; feel free to contribute.
 <details open>
 <summary><h2>Motion Stylization</h2></summary>
 <ul style="margin-left: 5px;">
+    <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2506.00173">MotionPersona</a>: Characteristics-aware Locomotion Control, Shi et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://stylemotif.github.io/">StyleMotif</a>: Multi-Modal Motion Stylization using Style-Content Cross Fusion, Guo et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://haimsaw.github.io/LoRA-MDM/">Dance Like a Chicken</a>: Low-Rank Stylization for Human Motion Diffusion, Sawdayee et al.</li>
     <li><b>(ArXiv 2024)</b> <a href="https://arxiv.org/pdf/2412.09901">MulSMo</a>: Multimodal Stylized Motion Generation by Bidirectional Control Flow, Li et al.</li>
@@ -352,6 +353,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(3DV 2025)</b> <a href="https://arxiv.org/pdf/2408.16770?">Paschalidis et al</a>: 3D Whole-body Grasp Synthesis with Directional Controllability, Paschalidis et al.</li>
         <li><b>(3DV 2025)</b> <a href="https://virtualhumans.mpi-inf.mpg.de/InterTrack/">InterTrack</a>: Tracking Human Object Interaction without Object Templates, Xie et al.</li>
         <li><b>(3DV 2025)</b> <a href="https://arxiv.org/abs/2403.11237">FORCE</a>: Dataset and Method for Intuitive Physics Guided Human-object Interaction, Zhang et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://yw0208.github.io/hosig/">HOSIG</a>: Full-Body Human-Object-Scene Interaction Generation, Yao et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://jinluzhang.site/projects/interactanything/">InteractAnything</a>: Zero-shot Human Object-Interaction Synthesis via LLM Feedback and Object Affordance Parsing, Zhang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://phj128.github.io/page/CoDA/index.html">CoDA</a>: Coordinated Diffusion Noise Optimization for Whole-Body Manipulation of Articulated Objects, Pi et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2505.19086">MaskedManipulator</a>: Versatile Whole-Body Control for Loco-Manipulation, Tessler et al.</li>
@@ -537,6 +539,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://openreview.net/forum?id=9mBodivRIo">LocoVR</a>: LocoVR: Multiuser Indoor Locomotion Dataset in Virtual Reality, Takeyama et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://github.com/coding-rachal/PMRDataset">PMR</a>: Pedestrian Motion Reconstruction: A Large-scale Benchmark via Mixed Reality Rendering with Multiple Perspectives and Modalities, Wang et al.</li>
         <li><b>(AAAI 2025)</b> <a href="https://arxiv.org/abs/2408.17168">EMHI</a>: EMHI: A Multimodal Egocentric Human Motion Dataset with HMD and Body-Worn IMUs, Fan et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2506.00043">From Motion to Behavior</a>: Hierarchical Modeling of Humanoid Generative Behavior Control, Zhang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2505.23301">Rekik et al</a>: Quality assessment of 3D human animation: Subjective and objective evaluation, Rekik et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://k2muse.github.io/">K2MUSE</a>: A Large-scale Human Lower limb Dataset of Kinematics, Kinetics, amplitude Mode Ultrasound and Surface Electromyography, Li et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://rmd-hoi.github.io/">RMD-HOI</a>: Human-Object Interaction with Vision-Language Model Guided Relative Movement Dynamics, Deng et al.</li>
@@ -772,6 +775,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <li><b>(JEB 2025)</b> <a href="https://journals.biologists.com/jeb/article/228/Suppl_1/JEB248125/367009/Behavioural-energetics-in-human-locomotion-how">McAllister et al</a>: Behavioural energetics in human locomotion: how energy use influences how we move, McAllister et al.</li>
     <li><b>(WACV 2025)</b> <a href="https://arxiv.org/abs/2406.09788">OpenCapBench</a>: A Benchmark to Bridge Pose Estimation and Biomechanics, Gozlan et al.</li>
     <li><b>(Preprint 2025)</b> <a href="https://github.com/stanfordnmbl/GaitDynamics">GaitDynamics</a>: A Foundation Model for Analyzing Gait Dynamics, Tan et al.</li>
+    <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2506.00071">SMS-Human</a>: Human sensory-musculoskeletal modeling and control of whole-body movements, Zuo et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://k2muse.github.io/">K2MUSE</a>: A Large-scale Human Lower limb Dataset of Kinematics, Kinetics, amplitude Mode Ultrasound and Surface Electromyography, Li et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2504.10102">Mobedi et al</a>: A Framework for Adaptive Load Redistribution in Human-Exoskeleton-Cobot Systems, Mobedi et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2504.10102">A Human-Sensitive Controller</a>: Adapting to Human Ergonomics and Physical Constraints via Reinforcement Learning, Almeida et al.</li>
