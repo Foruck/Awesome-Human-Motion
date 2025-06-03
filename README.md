@@ -527,6 +527,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <summary><h3>2025</h3></summary>
     <ul style="margin-left: 5px;">
         <li><b>(Bioengineering 2025)</b> <a href="https://www.mdpi.com/2306-5354/12/3/317">MeLLO</a>: The Utah Manipulation and Locomotion of Large Objects (MeLLO) Data Library, Luttmer et al.</li>
+        <li><b>(CVPR 2025)</b> <a href="https://github.com/wzyabcas/InterAct">InterAct</a>: Advancing Large-Scale Versatile 3D Human-Object Interaction Generation, Xu et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://nju-cite-mocaphumanoid.github.io/MotionPRO/">MotionPro</a>: Exploring the Role of Pressure in Human MoCap and Beyond, Ren et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://shape-move.github.io/">GORP</a>: Real-Time Motion Generation with Rolling Prediction Models, Barquero et al.</li>
         <li><b>(CVPR 2025)</b> <a href="http://www.lidarhumanmotion.net/climbingcap/">ClimbingCap</a>: ClimbingCap: Multi-Modal Dataset and Method for Rock Climbing in World Coordinate, Yan et al.</li>
