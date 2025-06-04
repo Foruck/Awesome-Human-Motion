@@ -66,6 +66,8 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://zkf1997.github.io/DART/">DART</a>: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control, Zhao et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://knoxzhao.github.io/Motion-Agent/">Motion-Agent</a>: A Conversational Framework for Human Motion Generation with LLMs, Wu et al.</li>
         <li><b>(IJCV 2025)</b> <a href="https://arxiv.org/pdf/2502.05534">Fg-T2M++</a>: LLMs-Augmented Fine-Grained Text Driven Human Motion Generation, Wang et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2506.02452">ANT</a>: AdaptiveNeuralTemporal-Aware Text-to-Motion Model, Chen et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2506.02661">MotionRAG-Diff</a>: A Retrieval-Augmented Diffusion Framework for Long-Term Music-to-Dance Generation, Huang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2505.21146">IKMo</a>: Image-Keyframed Motion Generation with Trajectory-Pose Conditioned Motion Diffusion Model, Zhao et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2505.21531">Li et al</a>: How Much Do Large Language Models Know about Human Motion? A Case Study in 3D Avatar Control, Li et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2505.21837">UniMoGen</a>: Universal Motion Generation, Khani et al.</li>
@@ -495,6 +497,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <li><b>(ICLR 2025)</b> <a href="https://zju3dv.github.io/ready_to_react/">Ready-to-React</a>: Online Reaction Policy for Two-Character Interaction Generation, Cen et al.</li>
     <li><b>(ICLR 2025)</b> <a href="https://gohar-malik.github.io/intermask">InterMask</a>: 3D Human Interaction Generation via Collaborative Masked Modelling, Javed et al.</li>
     <li><b>(3DV 2025)</b> <a href="https://arxiv.org/abs/2312.08983">Interactive Humanoid</a>: Online Full-Body Motion Reaction Synthesis with Social Affordance Canonicalization and Forecasting, Liu et al.</li>
+    <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2506.03084">InterMamba</a>: Efficient Human-Human Interaction Generation with Adaptive Spatio-Temporal Mamba, Wu et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2505.11334">MARRS</a>: MaskedAutoregressive Unit-based Reaction Synthesis, Wang et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://socialgenx.github.io/">SocialGen</a>: Modeling Multi-Human Social Interaction with Language Models, Yu et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arflow2025.github.io/">ARFlow</a>: Human Action-Reaction Flow Matching with Physical Guidance, Jiang et al.</li>
