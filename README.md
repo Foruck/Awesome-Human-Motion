@@ -422,6 +422,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <summary><h3>2025</h3></summary>
     <ul style="margin-left: 5px;">
         <li><b>(ICME 2025)</b> <a href="https://tstmotion.github.io/">TSTMotion</a>: Training-free Scene-aware Text-to-motion Generation, Guo et al.</li>
+        <li><b>(CVPR 2025)</b> <a href="https://openaccess.thecvf.com//content/CVPR2025/papers/Wang_HSI-GPT_A_General-Purpose_Large_Scene-Motion-Language_Model_for_Human_Scene_Interaction_CVPR_2025_paper.pdf">HSI-GPT</a>: A General-Purpose Large Scene-Motion-Language Model for Human Scene Interaction. Wang et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://arxiv.org/pdf/2412.10235">EnvPoser</a>: Environment-aware Realistic Human Motion Estimation from Sparse Observations with Uncertainty Modeling. Xia et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://liangpan99.github.io/TokenHSI/">TokenHSI</a>: Unified Synthesis of Physical Human-Scene Interactions through Task Tokenization, Pan et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://github.com/WindVChen/Sitcom-Crafter">Sitcom-Crafter</a>: A Plot-Driven Human Motion Generation System in 3D Scenes, Chen et al. </li>
