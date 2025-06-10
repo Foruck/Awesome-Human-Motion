@@ -356,6 +356,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(3DV 2025)</b> <a href="https://arxiv.org/pdf/2408.16770?">Paschalidis et al</a>: 3D Whole-body Grasp Synthesis with Directional Controllability, Paschalidis et al.</li>
         <li><b>(3DV 2025)</b> <a href="https://virtualhumans.mpi-inf.mpg.de/InterTrack/">InterTrack</a>: Tracking Human Object Interaction without Object Templates, Xie et al.</li>
         <li><b>(3DV 2025)</b> <a href="https://arxiv.org/abs/2403.11237">FORCE</a>: Dataset and Method for Intuitive Physics Guided Human-object Interaction, Zhang et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://hoipage.github.io/">HOI-PAGE</a>: Zero-Shot Human-Object Interaction Generation with Part Affordance Guidance, Li et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://yw0208.github.io/hosig/">HOSIG</a>: Full-Body Human-Object-Scene Interaction Generation, Yao et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://jinluzhang.site/projects/interactanything/">InteractAnything</a>: Zero-shot Human Object-Interaction Synthesis via LLM Feedback and Object Affordance Parsing, Zhang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://phj128.github.io/page/CoDA/index.html">CoDA</a>: Coordinated Diffusion Noise Optimization for Whole-Body Manipulation of Articulated Objects, Pi et al.</li>
@@ -499,6 +500,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <li><b>(ICLR 2025)</b> <a href="https://zju3dv.github.io/ready_to_react/">Ready-to-React</a>: Online Reaction Policy for Two-Character Interaction Generation, Cen et al.</li>
     <li><b>(ICLR 2025)</b> <a href="https://gohar-malik.github.io/intermask">InterMask</a>: 3D Human Interaction Generation via Collaborative Masked Modelling, Javed et al.</li>
     <li><b>(3DV 2025)</b> <a href="https://arxiv.org/abs/2312.08983">Interactive Humanoid</a>: Online Full-Body Motion Reaction Synthesis with Social Affordance Canonicalization and Forecasting, Liu et al.</li>
+    <li><b>(ArXiv 2025)</b> <a href="https://yw0208.github.io/physiinter/">PhysInter</a>: Integrating Physical Mapping for High-Fidelity Human Interaction Generation, Yao et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2506.03084">InterMamba</a>: Efficient Human-Human Interaction Generation with Adaptive Spatio-Temporal Mamba, Wu et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2505.11334">MARRS</a>: MaskedAutoregressive Unit-based Reaction Synthesis, Wang et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://socialgenx.github.io/">SocialGen</a>: Modeling Multi-Human Social Interaction with Language Models, Yu et al.</li>
