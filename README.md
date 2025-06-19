@@ -357,6 +357,8 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(3DV 2025)</b> <a href="https://arxiv.org/pdf/2408.16770?">Paschalidis et al</a>: 3D Whole-body Grasp Synthesis with Directional Controllability, Paschalidis et al.</li>
         <li><b>(3DV 2025)</b> <a href="https://virtualhumans.mpi-inf.mpg.de/InterTrack/">InterTrack</a>: Tracking Human Object Interaction without Object Templates, Xie et al.</li>
         <li><b>(3DV 2025)</b> <a href="https://arxiv.org/abs/2403.11237">FORCE</a>: Dataset and Method for Intuitive Physics Guided Human-object Interaction, Zhang et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://hoidini.github.io/">HOIDiNi</a>: Human-Object Interaction through Diffusion Noise Optimization, Ron et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2506.15483">GenHOI</a>: Generalizing Text-driven 4D Human-Object Interaction Synthesis for Unseen Objects, Li et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://hoipage.github.io/">HOI-PAGE</a>: Zero-Shot Human-Object Interaction Generation with Part Affordance Guidance, Li et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://yw0208.github.io/hosig/">HOSIG</a>: Full-Body Human-Object-Scene Interaction Generation, Yao et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://jinluzhang.site/projects/interactanything/">InteractAnything</a>: Zero-shot Human Object-Interaction Synthesis via LLM Feedback and Object Affordance Parsing, Zhang et al.</li>
