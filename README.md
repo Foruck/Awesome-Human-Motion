@@ -647,7 +647,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/pdf/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://beingbeyond.github.io/RLPF/">RL from Physical Feedback</a>: Aligning Large Motion Models with Humanoid Control, Yue et al.</li>
-        <li><b>(ArXiv 2025)</b> <a href="hhttps://arxiv.org/pdf/2506.12779">From Experts to a Generalist</a>: Toward General Whole-Body Control for Humanoid Robots, Wang et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2506.12779">From Experts to a Generalist</a>: Toward General Whole-Body Control for Humanoid Robots, Wang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2506.13751">LeVERB</a>: Humanoid Whole-Body Control with Latent Vision-Language Instruction, Xue et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://gmt-humanoid.github.io/">GMT</a>: General Motion Tracking for Humanoid Whole-Body Control, Chen et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://kungfu-bot.github.io/">KungfuBot</a>: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills, Xie et al.</li>
