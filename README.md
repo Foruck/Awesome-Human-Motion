@@ -67,6 +67,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://zkf1997.github.io/DART/">DART</a>: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control, Zhao et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://knoxzhao.github.io/Motion-Agent/">Motion-Agent</a>: A Conversational Framework for Human Motion Generation with LLMs, Wu et al.</li>
         <li><b>(IJCV 2025)</b> <a href="https://arxiv.org/pdf/2502.05534">Fg-T2M++</a>: LLMs-Augmented Fine-Grained Text Driven Human Motion Generation, Wang et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2506.17912">PlanMoGPT</a>: Flow-Enhanced Progressive Planning for Text to Motion Synthesis, Jin et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://motion-r1.github.io/">Motion-R1</a>: Chain-of-Thought Reasoning and Reinforcement Learning for Human Motion Generation, Ouyang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2506.02452">ANT</a>: Adaptive Neural Temporal-Aware Text-to-Motion Model, Chen et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2506.02661">MotionRAG-Diff</a>: A Retrieval-Augmented Diffusion Framework for Long-Term Music-to-Dance Generation, Huang et al.</li>
