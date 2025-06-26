@@ -427,6 +427,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2025</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ICCV 2025)</b> <a href="https://arxiv.org/abs/2411.19921">SIMS</a>: Simulating Human-Scene Interactions with Real World Script Planning, Wang et al.</li>
         <li><b>(ICME 2025)</b> <a href="https://tstmotion.github.io/">TSTMotion</a>: Training-free Scene-aware Text-to-motion Generation, Guo et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://openaccess.thecvf.com//content/CVPR2025/papers/Wang_HSI-GPT_A_General-Purpose_Large_Scene-Motion-Language_Model_for_Human_Scene_Interaction_CVPR_2025_paper.pdf">HSI-GPT</a>: A General-Purpose Large Scene-Motion-Language Model for Human Scene Interaction. Wang et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://arxiv.org/pdf/2412.10235">EnvPoser</a>: Environment-aware Realistic Human Motion Estimation from Sparse Observations with Uncertainty Modeling. Xia et al.</li>
@@ -447,7 +448,6 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ArXiv 2024)</b> <a href="https://mimicking-bench.github.io/">Mimicking-Bench</a>: A Benchmark for Generalizable Humanoid-Scene Interaction Learning via Human Mimicking, Liu et al. </li>
         <li><b>(ArXiv 2024)</b> <a href="https://virtualhumans.mpi-inf.mpg.de/scenic/">SCENIC</a>: Scene-aware Semantic Navigation with Instruction-guided Control, Zhang et al.</li>
         <li><b>(ArXiv 2024)</b> <a href="https://jingyugong.github.io/DiffusionImplicitPolicy/">Diffusion Implicit Policy</a>: Diffusion Implicit Policy for Unpaired Scene-aware Motion synthesis, Gong et al.</li>
-        <li><b>(ArXiv 2024)</b> <a href="https://arxiv.org/abs/2411.19921">SIMS</a>: Simulating Human-Scene Interactions with Real World Script Planning, Wang et al.</li>
         <li><b>(ArXiv 2024)</b> <a href="https://github.com/4DVLab/LaserHuman">LaserHuman</a>: Language-guided Scene-aware Human Motion Generation in Free Environment, Cong et al.</li>
         <li><b>(SIGGRAPH Asia 2024)</b> <a href="https://lingomotions.com/">LINGO</a>: Autonomous Character-Scene Interaction Synthesis from Text Instruction, Jiang et al.</li>
         <li><b>(NeurIPS 2024)</b> <a href="https://sites.google.com/view/dimop3d">DiMoP3D</a>: Harmonizing Stochasticity and Determinism: Scene-responsive Diverse Human Motion Prediction, Lou et al.</li>
