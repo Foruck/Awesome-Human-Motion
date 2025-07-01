@@ -506,7 +506,8 @@ An aggregation of human motion understanding research; feel free to contribute.
     <li><b>(ICLR 2025)</b> <a href="https://zju3dv.github.io/ready_to_react/">Ready-to-React</a>: Online Reaction Policy for Two-Character Interaction Generation, Cen et al.</li>
     <li><b>(ICLR 2025)</b> <a href="https://gohar-malik.github.io/intermask">InterMask</a>: 3D Human Interaction Generation via Collaborative Masked Modelling, Javed et al.</li>
     <li><b>(3DV 2025)</b> <a href="https://arxiv.org/abs/2312.08983">Interactive Humanoid</a>: Online Full-Body Motion Reaction Synthesis with Social Affordance Canonicalization and Forecasting, Liu et al.</li>
-    <li><b>(ArXiv 2025)</b> <a href="https://www.arxiv.org/abs/2506.13040">MAMMA</a>: Markerless & Automatic Multi-Person Motion Action Capture, Cuevas-Velasquez et al.</li>
+    <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2506.22554">Seamless Interaction</a>: Dyadic Audiovisual Motion Modeling and Large-Scale Dataset, Agrawal et al.</li>
+    <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2506.13040">MAMMA</a>: Markerless & Automatic Multi-Person Motion Action Capture, Cuevas-Velasquez et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://yw0208.github.io/physiinter/">PhysInter</a>: Integrating Physical Mapping for High-Fidelity Human Interaction Generation, Yao et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2506.03084">InterMamba</a>: Efficient Human-Human Interaction Generation with Adaptive Spatio-Temporal Mamba, Wu et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2505.11334">MARRS</a>: MaskedAutoregressive Unit-based Reaction Synthesis, Wang et al.</li>
@@ -654,6 +655,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/pdf/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2506.22827">Schakkal et al</a>: Hierarchical Vision-Language Planning for Multi-Step Humanoid Manipulation, Schakkal et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2506.20343">PIMBS</a>: Efficient Body Schema Learning for Musculoskeletal Humanoids with Physics-Informed Neural Networks, Kawaharazuka et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2506.20487">Behavior Foundation Model</a>: Towards Next-Generation Whole-Body Control System of Humanoid Robots, Yuan et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://beingbeyond.github.io/RLPF/">RL from Physical Feedback</a>: Aligning Large Motion Models with Humanoid Control, Yue et al.</li>
