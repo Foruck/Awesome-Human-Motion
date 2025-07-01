@@ -35,6 +35,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2025</h3></summary>
         <ul style="margin-left: 5px;">
+        <li><b>(ICCV 2025)</b> <a href="https://www.ekkasit.com/ControlMM-page/">ControlMM</a>: Controllable Masked Motion Generation, Pinyoanuntapong et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://yz-cnsdqz.github.io/eigenmotion/PRIMAL/">PRIMAL</a>: Physically Reactive and Interactive Motor Model for Avatar Learning, Zhang et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://jackyu6.github.io/HERO/">HERO</a>: Human Reaction Generation from Videos, Yu et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://zju3dv.github.io/MotionStreamer/">MotionStreamer</a>: Streaming Motion Generation via Diffusion-based Autoregressive Model in Causal Latent Space, Xiao et al.</li>
