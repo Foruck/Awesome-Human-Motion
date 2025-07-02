@@ -77,6 +77,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://zkf1997.github.io/DART/">DART</a>: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control, Zhao et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://knoxzhao.github.io/Motion-Agent/">Motion-Agent</a>: A Conversational Framework for Human Motion Generation with LLMs, Wu et al.</li>
         <li><b>(IJCV 2025)</b> <a href="https://arxiv.org/pdf/2502.05534">Fg-T2M++</a>: LLMs-Augmented Fine-Grained Text Driven Human Motion Generation, Wang et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://github.com/OpenMotionLab/MotionGPT3">MotionGPT3</a>: Human Motion as a Second Modality, Zhu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2506.21912">HumanAttr</a>: Generating Attribute-Aware Human Motions from Textual Prompt, Wang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2506.17912">PlanMoGPT</a>: Flow-Enhanced Progressive Planning for Text to Motion Synthesis, Jin et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://motion-r1.github.io/">Motion-R1</a>: Chain-of-Thought Reasoning and Reinforcement Learning for Human Motion Generation, Ouyang et al.</li>
@@ -306,6 +307,7 @@ An aggregation of human motion understanding research; feel free to contribute.
 <details open>
 <summary><h2>Motion Editing</h2></summary>
 <ul style="margin-left: 5px;">
+    <li><b>(IVA 2025)</b> <a href="https://arxiv.org/pdf/2507.00792">TF-JAX-IK</a>: Real-Time Inverse Kinematics for Generating Multi-Constrained Movements of Virtual Human Characters, Voss et al.</li>
     <li><b>(ICCV 2025)</b> <a href="https://yz-cnsdqz.github.io/eigenmotion/PRIMAL/">PRIMAL</a>: Physically Reactive and Interactive Motor Model for Avatar Learning, Zhang et al.</li>
     <li><b>(CVPR 2025)</b> <a href="https://seokhyeonhong.github.io/projects/salad/">SALAD</a>: Skeleton-aware Latent Diffusion for Text-driven Motion Generation and Editing, Hong et al.</li>
     <li><b>(CVPR 2025)</b> <a href="https://www.pabloruizponce.com/papers/MixerMDM">MixerMDM</a>: Learnable Composition of Human Motion Diffusion Models, Ruiz-Ponce et al.</li>
