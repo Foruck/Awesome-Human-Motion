@@ -16,7 +16,8 @@ An aggregation of human motion understanding research; feel free to contribute.
 <summary><h2>Reviews & Surveys</h2></summary>
 <ul style="margin-left: 5px;">
 <li><b>(JEB 2025)</b> <a href="https://journals.biologists.com/jeb/article/228/Suppl_1/JEB248125/367009/Behavioural-energetics-in-human-locomotion-how">McAllister et al</a>: Behavioural energetics in human locomotion: how energy use influences how we move, McAllister et al.</li>
-<li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2506.03191">Multimodal Generative AI with Autoregressive LLMs for Human Motion Understanding and Generation</a>: A Way Forward, Islam et al.</li>
+<li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2506.03191">Segado et al</a>: Grounding Intelligence in Movement, Segado et al.</li>
+<li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2507.02771">Multimodal Generative AI with Autoregressive LLMs for Human Motion Understanding and Generation</a>: A Way Forward, Islam et al.</li>
 <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2504.19056">Generative AI for Character Animation</a>: A Comprehensive Survey of Techniques, Applications, and Future Directions, Abootorabi et al.</li>
 <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2503.12763">Sui et al</a>: A Survey on Human Interaction Motion Generation, Sui et al.</li>
 <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2503.13120">Fan et al</a>: 3D Human Interaction Generation: A Survey, Fan et al.</li>
