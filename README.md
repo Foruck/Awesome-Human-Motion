@@ -444,7 +444,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2506.19840">GenHSI</a>: Controllable Generation of Human-Scene Interaction Videos, Li et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://rmd-hoi.github.io/">RMD-HOI</a>: Human-Object Interaction with Vision-Language Model Guided Relative Movement Dynamics, Deng et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2503.12955">HIS-GPT</a>: Towards 3D Human-In-Scene Multimodal Understanding, Zhao et al.</li>
-        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2503.00371">Gao et al</a>: Jointly Understand Your Command and Intention: Reciprocal Co-Evolution between Scene-Aware 3D Human Motion Synthesis and Analysis, Gao et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2503.00371">Jointly Understand Your Command and Intention</a>: Reciprocal Co-Evolution between Scene-Aware 3D Human Motion Synthesis and Analysis, Gao et al.</li>
     </ul></details>
     <details open>
     <summary><h3>2024</h3></summary>
@@ -518,7 +518,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <li><b>(ArXiv 2025)</b> <a href="https://socialgenx.github.io/">SocialGen</a>: Modeling Multi-Human Social Interaction with Language Models, Yu et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arflow2025.github.io/">ARFlow</a>: Human Action-Reaction Flow Matching with Physical Guidance, Jiang et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2503.13120">Fan et al</a>: 3D Human Interaction Generation: A Survey, Fan et al.</li>
-    <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2503.04816">Invisible Strings</a>: Invisible Strings: Revealing Latent Dancer-to-Dancer Interactions with Graph Neural Networks, Zerkowski et al. </li>
+    <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2503.04816">Invisible Strings</a>: Revealing Latent Dancer-to-Dancer Interactions with Graph Neural Networks, Zerkowski et al. </li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2502.11563">Leader and Follower</a>: Interactive Motion Generation under Trajectory Constraints, Wang et al. </li>
     <li><b>(ArXiv 2024)</b> <a href="https://arxiv.org/abs/2412.16670">Two in One</a>: Unified Multi-Person Interactive Motion Generation by Latent Diffusion Transformer, Li et al.</li>
     <li><b>(ArXiv 2024)</b> <a href="https://arxiv.org/abs/2412.02419">It Takes Two</a>: Real-time Co-Speech Two-person’s Interaction Generation via Reactive Auto-regressive Diffusion Model, Shi et al.</li>
@@ -680,7 +680,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ArXiv 2025)</b> <a href="https://h2compact.github.io/h2compact/">H2-COMPAXT</a>: Human–Humanoid Co-Manipulation via Adaptive Contact Trajectory Policies, Bethala et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2505.12619">HIL</a>: Hybrid Imitation Learning of Diverse Parkour Skills from Videos, Wang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2505.12679">Dribble Master</a>: Learning Agile Humanoid Dribbling Through Legged Locomotion, Wang et al.</li>
-        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2505.13436">KinTwin</a>:  Imitation Learning with Torque and Muscle Driven Biomechanical Models Enables Precise Replication of Able-Bodied and Impaired Movement from Markerless Motion Capture, Cotton et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2505.13436">KinTwin</a>: Imitation Learning with Torque and Muscle Driven Biomechanical Models Enables Precise Replication of Able-Bodied and Impaired Movement from Markerless Motion Capture, Cotton et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="http://www.zhengyiluo.com/PDC-Site/">PDC</a>: Emergent Active Perception and Dexterity of Simulated Humanoids from Visual Reinforcement Learning, Luo et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://zzk273.github.io/R2S2/">R2S2</a>: Unleashing Humanoid Reaching Potential via Real-world-Ready Skill Space, Zhang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2505.11495">Bracing for Impact</a>: Robust Humanoid Push Recovery and Locomotion with Reduced Order Model, Yang et al.</li>
@@ -805,18 +805,19 @@ An aggregation of human motion understanding research; feel free to contribute.
     <li><b>(ACM Sensys 2025)</b> <a href="https://arxiv.org/abs/2503.01768">SHADE-AD</a>: An LLM-Based Framework for Synthesizing Activity Data of Alzheimer’s Patients, Fu et al.</li>
     <li><b>(JEB 2025)</b> <a href="https://journals.biologists.com/jeb/article/228/Suppl_1/JEB248125/367009/Behavioural-energetics-in-human-locomotion-how">McAllister et al</a>: Behavioural energetics in human locomotion: how energy use influences how we move, McAllister et al.</li>
     <li><b>(WACV 2025)</b> <a href="https://arxiv.org/abs/2406.09788">OpenCapBench</a>: A Benchmark to Bridge Pose Estimation and Biomechanics, Gozlan et al.</li>
+    <li><b>(RA-L 2025)</b> <a href="https://arxiv.org/abs/2504.10102">Mobedi et al</a>: A Framework for Adaptive Load Redistribution in Human-Exoskeleton-Cobot Systems, Mobedi et al.</li>
     <li><b>(Preprint 2025)</b> <a href="https://github.com/stanfordnmbl/GaitDynamics">GaitDynamics</a>: A Foundation Model for Analyzing Gait Dynamics, Tan et al.</li>
     <li><b>(bioRxiv 2025)</b> <a href="https://www.biorxiv.org/content/10.1101/2025.06.24.660703v1.full.pdf">Richards et al</a>: Visualising joint force-velocity proper es in musculoskeletal models, Richards et al.</li>
+    <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2507.01340">Le et al</a>: Physics-informed Ground Reaction Dynamics from Human Motion Capture, Le et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2506.00071">SMS-Human</a>: Human sensory-musculoskeletal modeling and control of whole-body movements, Zuo et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://k2muse.github.io/">K2MUSE</a>: A Large-scale Human Lower limb Dataset of Kinematics, Kinetics, amplitude Mode Ultrasound and Surface Electromyography, Li et al.</li>
-    <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2504.10102">Mobedi et al</a>: A Framework for Adaptive Load Redistribution in Human-Exoskeleton-Cobot Systems, Mobedi et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2504.10102">A Human-Sensitive Controller</a>: Adapting to Human Ergonomics and Physical Constraints via Reinforcement Learning, Almeida et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2504.10294">Ankle Exoskeletons in Walking and Load-Carrying Tasks</a>: Insights into Biomechanics and Human-Robot Interaction, Almeida et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://vadeli.github.io/GAITGen/">GAITGen</a>: Disentangled Motion-Pathology Impaired Gait Generative Model, Adeli et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2503.14637">KINESIS</a>: Reinforcement Learning-Based Motion Imitation for Physiologically Plausible Musculoskeletal Motor Control, Simos et al.</li>
-    <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2502.13760">Wu et al</a>: Muscle Activation Estimation by Optimizing the Musculoskeletal Model for Personalized Strength and Conditioning Training, Wu et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2502.06486">Cotton et al</a>: Biomechanical Reconstruction with Confidence Intervals from Multiview Markerless Motion Capture, Cotton et al.</li>
     <li><b>(BiorXiv 2024)</b> <a href="https://www.biorxiv.org/content/10.1101/2024.12.30.630841v1.full.pdf">Lai et al</a>: Mapping Grip Force to Muscular Activity Towards Understanding Upper Limb Musculoskeletal Intent using a Novel Grip Strength Model, Lai et al.</li>
+    <li><b>(ROBIO 2024)</b> <a href="https://arxiv.org/abs/2502.13760">Wu et al</a>: Muscle Activation Estimation by Optimizing the Musculoskeletal Model for Personalized Strength and Conditioning Training, Wu et al.</li>
     <li><b>(IROS 2024)</b> <a href="https://arxiv.org/abs/2412.18869">Shahriari et al</a>:  Enhancing Robustness in Manipulability Assessment: The Pseudo-Ellipsoid Approach, Shahriari et al.</li>
     <li><b>(SIGGRAPH Asia 2024)</b> <a href="https://cs-people.bu.edu/xjhan/bioDesign.html">BioDesign</a>: Motion-Driven Neural Optimizer for Prophylactic Braces Made by Distributed Microstructures, Han et al.</li>
     <li><b>(Scientific Data 2024)</b> <a href="https://www.nature.com/articles/s41597-024-04077-3?fromPaywallRec=false">Evans et al</a>: Synchronized Video, Motion Capture and Force Plate Dataset for Validating Markerless Human Movement Analysis, Evans et al.</li>
