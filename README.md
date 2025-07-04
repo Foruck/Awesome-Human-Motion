@@ -16,14 +16,14 @@ An aggregation of human motion understanding research; feel free to contribute.
 <summary><h2>Reviews & Surveys</h2></summary>
 <ul style="margin-left: 5px;">
 <li><b>(JEB 2025)</b> <a href="https://journals.biologists.com/jeb/article/228/Suppl_1/JEB248125/367009/Behavioural-energetics-in-human-locomotion-how">McAllister et al</a>: Behavioural energetics in human locomotion: how energy use influences how we move, McAllister et al.</li>
+<li><b>(ICER 2025)</b> <a href="https://arxiv.org/abs/2412.10458">Zhao et al</a>: Motion Generation Review: Exploring Deep Learning for Lifelike Animation with Manifold, Zhao et al.</li>
 <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2506.03191">Segado et al</a>: Grounding Intelligence in Movement, Segado et al.</li>
 <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2507.02771">Multimodal Generative AI with Autoregressive LLMs for Human Motion Understanding and Generation</a>: A Way Forward, Islam et al.</li>
 <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2504.19056">Generative AI for Character Animation</a>: A Comprehensive Survey of Techniques, Applications, and Future Directions, Abootorabi et al.</li>
 <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2503.12763">Sui et al</a>: A Survey on Human Interaction Motion Generation, Sui et al.</li>
-<li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2503.13120">Fan et al</a>: 3D Human Interaction Generation: A Survey, Fan et al.</li>
-<li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2502.08556">HcFMs</a>: Human-Centric Foundation Models: Perception, Generation and Agentic Modeling, Tang et al.</li>
-<li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2501.02116">Gu et al</a>: Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning, Gu et al.</li>
-<li><b>(ArXiv 2024)</b> <a href="https://arxiv.org/abs/2412.10458">Zhao et al</a>: Motion Generation Review: Exploring Deep Learning for Lifelike Animation with Manifold, Zhao et al.</li>
+<li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2503.13120">3D Human Interaction Generation</a>: A Survey, Fan et al.</li>
+<li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2502.08556">Human-Centric Foundation Models</a>: Perception, Generation and Agentic Modeling, Tang et al.</li>
+<li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2501.02116">Humanoid Locomotion and Manipulation</a>: Current Progress and Challenges in Control, Planning, and Learning, Gu et al.</li>
 <li><b>(TVCG 2024)</b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10230894">Loi et al</a>: Machine Learning Approaches for 3D Motion Synthesis and Musculoskeletal Dynamics Estimation: A Survey, Loi et al.</li>
 <li><b>(T-PAMI 2023)</b> <a href="https://arxiv.org/abs/2307.10894">Zhu et al</a>: Human Motion Generation: A Survey, Zhu et al.</li>
 </ul>
