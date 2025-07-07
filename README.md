@@ -36,6 +36,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2025</h3></summary>
         <ul style="margin-left: 5px;">
+        <li><b>(ICCV 2025)</b> <a href="https://github.com/VankouF/MotionMillion-Codes">Go to Zero</a>: Towards Zero-shot Motion Generation with Million-scale Data, Fan et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://arxiv.org/abs/2411.14951">Morph</a>: A Motion-free Physics Optimization Framework for Human Motion Generation, Li et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://whwjdqls.github.io/discord.github.io/">DisCoRD</a>: Discrete Tokens to Continuous Motion via Rectified Flow Decoding, Cho et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://xiangyuezhang.com/SemTalk/">SemTalk</a>: Holistic Co-speech Motion Generation with Frame-level Semantic Emphasis, Zhang et al.</li>
