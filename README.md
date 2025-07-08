@@ -76,7 +76,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(CVPR 2025 Workshop)</b> <a href="https://arxiv.org/abs/2505.09827">Dyadic Mamba</a>: Long-term Dyadic Human Motion Synthesis, Tanke et al.</li>
         <li><b>(ACM Sensys 2025)</b> <a href="https://arxiv.org/abs/2503.01768">SHADE-AD</a>: An LLM-Based Framework for Synthesizing Activity Data of Alzheimer’s Patients, Fu et al.</li>
         <li><b>(ICRA 2025)</b> <a href="https://arxiv.org/abs/2410.16623">MotionGlot</a>: A Multi-Embodied Motion Generation Model, Harithas et al.</li>
-        <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
+        <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for Multi-Task Character Control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://genforce.github.io/PedGen/">PedGen</a>: Learning to Generate Diverse Pedestrian Movements from Web Videos with Noisy Labels, Liu et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://openreview.net/forum?id=IEul1M5pyk">HGM³</a>: Hierarchical Generative Masked Motion Modeling with Hard Token Mining, Jeong et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://openreview.net/forum?id=LYawG8YkPa">LaMP</a>: Language-Motion Pretraining for Motion Generation, Retrieval, and Captioning, Li et al.</li>
@@ -86,6 +86,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://knoxzhao.github.io/Motion-Agent/">Motion-Agent</a>: A Conversational Framework for Human Motion Generation with LLMs, Wu et al.</li>
         <li><b>(IJCV 2025)</b> <a href="https://arxiv.org/abs/2502.05534">Fg-T2M++</a>: LLMs-Augmented Fine-Grained Text Driven Human Motion Generation, Wang et al.</li>
         <li><b>(TCSVT 2025)</b> <a href="https://arxiv.org/abs/2503.13300">Zeng et al</a>: Progressive Human Motion Generation Based on Text and Few Motion Frames, Zeng et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://groundedgestures.github.io/">Grounded Gestures</a>: Language, Motion and Space, Deichler et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://github.com/OpenMotionLab/MotionGPT3">MotionGPT3</a>: Human Motion as a Second Modality, Zhu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2506.21912">HumanAttr</a>: Generating Attribute-Aware Human Motions from Textual Prompt, Wang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2506.17912">PlanMoGPT</a>: Flow-Enhanced Progressive Planning for Text to Motion Synthesis, Jin et al.</li>
