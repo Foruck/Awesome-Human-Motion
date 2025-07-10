@@ -87,6 +87,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://knoxzhao.github.io/Motion-Agent/">Motion-Agent</a>: A Conversational Framework for Human Motion Generation with LLMs, Wu et al.</li>
         <li><b>(IJCV 2025)</b> <a href="https://arxiv.org/abs/2502.05534">Fg-T2M++</a>: LLMs-Augmented Fine-Grained Text Driven Human Motion Generation, Wang et al.</li>
         <li><b>(TCSVT 2025)</b> <a href="https://arxiv.org/abs/2503.13300">Zeng et al</a>: Progressive Human Motion Generation Based on Text and Few Motion Frames, Zeng et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2507.06590">MOST</a>: Motion Diffusion Model for Rare Text via Temporal Clip Banzhaf Interaction, Wang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://groundedgestures.github.io/">Grounded Gestures</a>: Language, Motion and Space, Deichler et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://github.com/OpenMotionLab/MotionGPT3">MotionGPT3</a>: Human Motion as a Second Modality, Zhu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2506.21912">HumanAttr</a>: Generating Attribute-Aware Human Motions from Textual Prompt, Wang et al.</li>
@@ -664,6 +665,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/abs/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://ulc-humanoid.github.io/">ULC</a>: A Unified and Fine-Grained Controller for Humanoid Loco-Manipulation, Sun et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2506.22827">Schakkal et al</a>: Hierarchical Vision-Language Planning for Multi-Step Humanoid Manipulation, Schakkal et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2506.20343">PIMBS</a>: Efficient Body Schema Learning for Musculoskeletal Humanoids with Physics-Informed Neural Networks, Kawaharazuka et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2506.20487">Behavior Foundation Model</a>: Towards Next-Generation Whole-Body Control System of Humanoid Robots, Yuan et al.</li>
