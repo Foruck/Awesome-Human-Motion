@@ -532,6 +532,7 @@ An aggregation of human motion understanding research; feel free to contribute.
 <summary><h2>Human-Human Interaction</h2></summary>
 <ul style="margin-left: 5px;">
     <li><b>(SIGGRAPH 2025)</b> <a href="https://arxiv.org/abs/2505.17860">Xu et al</a>: Multi-Person Interaction Generation from Two-Person Motion Priors, Xu et al.</li>
+    <li><b>(SIGGRAPH 2025)</b> <a href="https://arxiv.org/pdf/2506.18680">DuetGen</a>: Music Driven Two-Person Dance Generation via Hierarchical Masked Modeling, Ghosh et al.</li>
     <li><b>(CVPR 2025)</b> <a href="https://aigc-explorer.github.io/TIMotion-page/">TIMotion</a>: Temporal and Interactive Framework for Efficient Human-Human Motion Generation, Wang et al.</li>
     <li><b>(ICLR 2025)</b> <a href="https://openreview.net/forum?id=UxzKcIZedp">Think Then React</a>: Towards Unconstrained Action-to-Reaction Motion Generation, Tan et al.</li>
     <li><b>(ICLR 2025)</b> <a href="https://zju3dv.github.io/ready_to_react/">Ready-to-React</a>: Online Reaction Policy for Two-Character Interaction Generation, Cen et al.</li>
@@ -964,7 +965,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(CVPR 2025)</b> <a href="https://wenboran2002.github.io/3dhoi/">Wen et al</a>: Reconstructing In-the-Wild Open-Vocabulary Human-Object Interactions, Wen et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://interactvlm.is.tue.mpg.de">InteractVLM</a>: 3D Interaction Reasoning from 2D Foundational Models, Dwivedi et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://pico.is.tue.mpg.de">PICO</a>: Reconstructing 3D People In Contact with Objects, Cseke et al.</li>
-        <li><b>(CVPR 2025)</b> <a href="https://pico.is.tue.mpg.de">EasyHOI</a>: Unleashing the Power of Large Models for Reconstructing Hand-Object Interactions in the Wild, Liu et al.</li>
+        <li><b>(CVPR 2025)</b> <a href="https://lym29.github.io/EasyHOI-page/">EasyHOI</a>: Unleashing the Power of Large Models for Reconstructing Hand-Object Interactions in the Wild, Liu et al.</li>
         <li><b>(CVPR 2024)</b> <a href="https://zc-alexfan.github.io/hold">HOLD</a>:Category-agnostic 3D Reconstruction of Interacting Hands and Objects from Video, Fan et al.</li>
         <li><b>(CVPR 2024)</b> <a href="https://virtualhumans.mpi-inf.mpg.de/procigen-hdm/">Xie et al</a>: Template Free Reconstruction of Human-object Interaction with Procedural Interaction Generation, Xie et al.</li>
         <li><b>(ACM MM 2024)</b> <a href="https://huochf.github.io/WildHOI/">WildHOI</a>: Monocular Human-Object Reconstruction in the Wild, Huo et al.</li>
@@ -1009,7 +1010,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ArXiv 2024)</b> <a href="https://arxiv.org/pdf/2411.12872">From Text to Pose to Image</a>: Improving Diffusion Model Control and Quality, Bonnet et al.</li>
         <li><b>(TNNLS 2023)</b> <a href="https://ieeexplore.ieee.org/document/9732175">Verbal-Person Nets</a>: Pose-Guided Multi-Granularity Language-to-Person Generation, Liu et al.</li>
         <li><b>(ICCV 2023)</b> <a href="https://idea-research.github.io/HumanSD/">HumanSD</a>: A Native Skeleton-Guided Diffusion Model for Human Image Generation, Ju et al.</li>
-        <li><b>(CVPR 2023)</b> <a href="https://idea-research.github.io/HumanSD/">Bhunia et al</a>: Person Image Synthesis via Denoising Diffusion Model, Bhunia et al.</li>
+        <li><b>(CVPR 2023)</b> <a href="https://ankanbhunia.github.io/PIDM/">Bhunia et al</a>: Person Image Synthesis via Denoising Diffusion Model, Bhunia et al.</li>
     </ul></details>
 </ul></details>
 
