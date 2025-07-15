@@ -99,6 +99,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://knoxzhao.github.io/Motion-Agent/">Motion-Agent</a>: A Conversational Framework for Human Motion Generation with LLMs, Wu et al.</li>
         <li><b>(IJCV 2025)</b> <a href="https://arxiv.org/abs/2502.05534">Fg-T2M++</a>: LLMs-Augmented Fine-Grained Text Driven Human Motion Generation, Wang et al.</li>
         <li><b>(TCSVT 2025)</b> <a href="https://arxiv.org/abs/2503.13300">Zeng et al</a>: Progressive Human Motion Generation Based on Text and Few Motion Frames, Zeng et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://snap-research.github.io/SnapMoGen/">SnapMoGen</a>: Human Motion Generation from Expressive Texts, Wang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2507.06590">MOST</a>: Motion Diffusion Model for Rare Text via Temporal Clip Banzhaf Interaction, Wang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://groundedgestures.github.io/">Grounded Gestures</a>: Language, Motion and Space, Deichler et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://github.com/OpenMotionLab/MotionGPT3">MotionGPT3</a>: Human Motion as a Second Modality, Zhu et al.</li>
