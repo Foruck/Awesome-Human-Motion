@@ -149,7 +149,6 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details>
     <summary><h3>2024</h3></summary>
         <ul style="margin-left: 5px;">
-        <li><b>(ArXiv 2024)</b> <a href="https://mingyuan-zhang.github.io/projects/LMM.html">Zhang</a>: Large Motion Model for Unified Multi-Modal Motion Generation, Zhang et al.</li>
         <li><b>(ArXiv 2024)</b> <a href="https://inter-dance.github.io/">InterDance</a>: Reactive 3D Dance Generation with Realistic Duet Interactions, Li et al.</li>
         <li><b>(ArXiv 2024)</b> <a href="https://arxiv.org/abs/2412.07797">Mogo</a>: RQ Hierarchical Causal Transformer for High-Quality 3D Human Motion Generation, Fu et al.</li>
         <li><b>(ArXiv 2024)</b> <a href="https://gabrie-l.github.io/coma-page/">CoMA</a>: Compositional Human Motion Generation with Multi-modal Agents, Sun et al.</li>
@@ -207,7 +206,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ECCV 2024)</b> <a href="https://dai-wenxun.github.io/MotionLCM-page/">MotionLCM</a>: Real-time Controllable Motion Generation via Latent Consistency Model, Dai et al.</li>
         <li><b>(ECCV 2024)</b> <a href="https://arxiv.org/abs/2312.10993">Ren et al</a>: Realistic Human Motion Generation with Cross-Diffusion Models, Ren et al.</li>
         <li><b>(ECCV 2024)</b> <a href="https://arxiv.org/abs/2407.14502">M2D2M</a>: Multi-Motion Generation from Text with Discrete Diffusion Models, Chi et al.</li>
-        <li><b>(ECCV 2024)</b> <a href="https://mingyuan-zhang.github.io/projects/LMM.html">Large Motion Model</a>: Large Motion Model for Unified Multi-Modal Motion Generation, Zhang et al.</li>
+        <li><b>(ECCV 2024)</b> <a href="https://mingyuan-zhang.github.io/projects/LMM.html">LMM</a>: Large Motion Model for Unified Multi-Modal Motion Generation, Zhang et al.</li>
         <li><b>(ECCV 2024)</b> <a href="https://research.nvidia.com/labs/toronto-ai/tesmo/">TesMo</a>: Generating Human Interaction Motions in Scenes with Text Control, Yi et al.</li>
         <li><b>(ECCV 2024)</b> <a href="https://tlcontrol.weilinwl.com/">TLcontrol</a>: Trajectory and Language Control for Human Motion Synthesis, Wan et al.</li>
         <li><b>(ICME 2024)</b> <a href="https://ieeexplore.ieee.org/abstract/document/10687922">ExpGest</a>: Expressive Speaker Generation Using Diffusion Model and Hybrid Audio-Text Guidance, Cheng et al.</li>
@@ -699,6 +698,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/abs/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://robot-drummer.github.io/">Robot Drummer</a>: Learning Rhythmic Skills for Humanoid Drumming, Shahid et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2507.08303">PL-CAP</a>: Learning Robust Motion Skills via Critical Adversarial Attacks for Humanoid Robots, Zhang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2507.07356">UniTracker</a>: Learning Universal Whole-Body Motion Tracker for Humanoid Robots, Yin et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://ulc-humanoid.github.io/">ULC</a>: A Unified and Fine-Grained Controller for Humanoid Loco-Manipulation, Sun et al.</li>
