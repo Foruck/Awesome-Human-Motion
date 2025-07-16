@@ -149,6 +149,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details>
     <summary><h3>2024</h3></summary>
         <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2024)</b> <a href="https://mingyuan-zhang.github.io/projects/LMM.html">Zhang</a>: Large Motion Model for Unified Multi-Modal Motion Generation, Zhang et al.</li>
         <li><b>(ArXiv 2024)</b> <a href="https://inter-dance.github.io/">InterDance</a>: Reactive 3D Dance Generation with Realistic Duet Interactions, Li et al.</li>
         <li><b>(ArXiv 2024)</b> <a href="https://arxiv.org/abs/2412.07797">Mogo</a>: RQ Hierarchical Causal Transformer for High-Quality 3D Human Motion Generation, Fu et al.</li>
         <li><b>(ArXiv 2024)</b> <a href="https://gabrie-l.github.io/coma-page/">CoMA</a>: Compositional Human Motion Generation with Multi-modal Agents, Sun et al.</li>
@@ -227,7 +228,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(CVPR 2024)</b> <a href="https://guytevet.github.io/mas-page/">MAS</a>: Multi-view Ancestral Sampling for 3D motion generation using 2D diffusion, Kapon et al.</li>
         <li><b>(CVPR 2024)</b> <a href="https://wandr.is.tue.mpg.de/">WANDR</a>: Intention-guided Human Motion Generation, Diomataris et al.</li>
         <li><b>(CVPR 2024)</b> <a href="https://ericguo5513.github.io/momask/">MoMask</a>: Generative Masked Modeling of 3D Human Motions, Guo et al.</li>
-        <li><b>(CVPR 2024)</b> <a href="https://yfeng95.github.io/ChatPose/">ChapPose</a>: Chatting about 3D Human Pose, Feng et al.</li>
+        <li><b>(CVPR 2024)</b> <a href="https://yfeng95.github.io/ChatPose/">ChatPose</a>: Chatting about 3D Human Pose, Feng et al.</li>
         <li><b>(CVPR 2024)</b> <a href="https://zixiangzhou916.github.io/AvatarGPT/">AvatarGPT</a>: All-in-One Framework for Motion Understanding, Planning, Generation and Beyond, Zhou et al.</li>
         <li><b>(CVPR 2024)</b> <a href="https://exitudio.github.io/MMM-page/">MMM</a>: Generative Masked Motion Model, Pinyoanuntapong et al.</li>
         <li><b>(CVPR 2024)</b> <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Li_AAMDM_Accelerated_Auto-regressive_Motion_Diffusion_Model_CVPR_2024_paper.pdf">AAMDM</a>: Accelerated Auto-regressive Motion Diffusion Model, Li et al.</li>
