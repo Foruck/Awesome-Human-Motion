@@ -370,6 +370,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(SIGGRAPH 2025)</b> <a href="https://arxiv.org/abs/2505.02094">SkillMimic-v2</a>: Learning Robust and Generalizable Interaction Skills from Sparse and Noisy Demonstrations, Yu et al.</li>
         <li><b>(Bioengineering 2025)</b> <a href="https://www.mdpi.com/2306-5354/12/3/317">MeLLO</a>: The Utah Manipulation and Locomotion of Large Objects (MeLLO) Data Library, Luttmer et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://arxiv.org/abs/2503.13130">ChainHOI</a>: Joint-based Kinematic Chain Modeling for Human-Object Interaction Generation, Zeng et al.</li>
+        <li><b>(CVPR 2025)</b> <a href="https://www.mingzhenhuang.com/projects/hoigpt.html">HOIGPT</a>: Learning Long Sequence Hand-Object Interaction with Language Models, Zeng et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://arxiv.org/pdf/2503.18134">Hui et al</a>: An Image-like Diffusion Method for Human-Object Interaction Detection, Hui et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://arxiv.org/pdf/2501.05823">PersonaHOI</a>: Effortlessly Improving Personalized Face with Human-Object Interaction Generation, Hu et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://interactvlm.is.tue.mpg.de">InteractVLM</a>: 3D Interaction Reasoning from 2D Foundational Models, Dwivedi et al.</li>
