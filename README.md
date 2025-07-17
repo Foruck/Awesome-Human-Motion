@@ -47,6 +47,8 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2025</h3></summary>
         <ul style="margin-left: 5px;">
+        <li><b>(ICCV 2025)</b> <a href="https://research.nvidia.com/labs/dair/genmo/">GENMO</a>: A GENeralist Model for Human MOtion, Li et al.</li>
+        <li><b>(ICCV 2025)</b> <a href="https://arxiv.org/abs/2411.18303">InfiniDreamer</a>: Arbitrarily Long Human Motion Generation via Segment Score Distillation, Zhuo et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://github.com/VankouF/MotionMillion-Codes">Go to Zero</a>: Towards Zero-shot Motion Generation with Million-scale Data, Fan et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://arxiv.org/abs/2411.14951">Morph</a>: A Motion-free Physics Optimization Framework for Human Motion Generation, Li et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://whwjdqls.github.io/discord.github.io/">DisCoRD</a>: Discrete Tokens to Continuous Motion via Rectified Flow Decoding, Cho et al.</li>
@@ -120,7 +122,6 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2505.08293">M3G</a>: Multi-Granular Gesture Generator for Audio-Driven Full-Body Human Motion Synthesis, Yin et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2505.05589">ReactDance</a>: Progressive-Granular Representation for Long-Term Coherent Reactive Dance Generation, Lin et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://wengwanjiang.github.io/ReAlign-page/">ReAlign</a>: Bilingual Text-to-Motion Generation via Step-Aware Reward-Guided Alignment, Weng et al.</li>
-        <li><b>(ArXiv 2025)</b> <a href="https://research.nvidia.com/labs/dair/genmo/">GENMO</a>: A GENeralist Model for Human MOtion, Li et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2504.16722">PMG</a>: Progressive Motion Generation via Sparse Anchor Postures Curriculum Learning, Xi et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://foram-s1.github.io/DanceMosaic/">DanceMosaic</a>: High-Fidelity Dance Generation with Multimodal Editability, Shah et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://yong-xie-xy.github.io/ReCoM/">ReCoM</a>: Realistic Co-Speech Motion Generation with Recurrent Embedded Transformer, Xie et al.</li>
@@ -157,7 +158,6 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ArXiv 2024)</b> <a href="https://arxiv.org/abs/2412.04343">RMD</a>: A Simple Baseline for More General Human Motion Generation via Training-free Retrieval-Augmented Motion Diffuse, Liao et al.</li>
         <li><b>(ArXiv 2024)</b> <a href="https://arxiv.org/abs/2412.00112">BiPO</a>: Bidirectional Partial Occlusion Network for Text-to-Motion Synthesis, Hong et al.</li>
         <li><b>(ArXiv 2024)</b> <a href="https://arxiv.org/abs/2411.19786">MoTe</a>: Learning Motion-Text Diffusion Model for Multiple Generation Tasks, Wue et al.</li>
-        <li><b>(ArXiv 2024)</b> <a href="https://arxiv.org/abs/2411.18303">InfiniDreamer</a>: Arbitrarily Long Human Motion Generation via Segment Score Distillation, Zhuo et al.</li>
         <li><b>(ArXiv 2024)</b> <a href="https://arxiv.org/abs/2411.17532">FTMoMamba</a>: Motion Generation with Frequency and Text State Space Models, Li et al.</li>
         <li><b>(ArXiv 2024)</b> <a href="https://steve-zeyu-zhang.github.io/KMM">KMM</a>: Key Frame Mask Mamba for Extended Motion Generation, Zhang et al.</li>
         <li><b>(ArXiv 2024)</b> <a href="https://arxiv.org/abs/2410.21747">MotionGPT-2</a>: A General-Purpose Motion-Language Model for Motion Generation and Understanding, Wang et al.</li>
@@ -344,9 +344,9 @@ An aggregation of human motion understanding research; feel free to contribute.
 <details open>
 <summary><h2>Motion Stylization</h2></summary>
 <ul style="margin-left: 5px;">
+    <li><b>(ICCV 2025)</b> <a href="https://stylemotif.github.io/">StyleMotif</a>: Multi-Modal Motion Stylization using Style-Content Cross Fusion, Guo et al.</li>
     <li><b>(CVPR 2025)</b> <a href="https://cvlab-kaist.github.io/Visual-Persona/">Visual Persona</a>: Foundation Model for Full-Body Human Customization, Nam et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2506.00173">MotionPersona</a>: Characteristics-aware Locomotion Control, Shi et al.</li>
-    <li><b>(ArXiv 2025)</b> <a href="https://stylemotif.github.io/">StyleMotif</a>: Multi-Modal Motion Stylization using Style-Content Cross Fusion, Guo et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://haimsaw.github.io/LoRA-MDM/">Dance Like a Chicken</a>: Low-Rank Stylization for Human Motion Diffusion, Sawdayee et al.</li>
     <li><b>(ArXiv 2024)</b> <a href="https://arxiv.org/abs/2412.09901">MulSMo</a>: Multimodal Stylized Motion Generation by Bidirectional Control Flow, Li et al.</li>
     <li><b>(TSMC 2024)</b> <a href="https://arxiv.org/abs/2412.04097">D-LORD</a>: D-LORD for Motion Stylization, Gupta et al.</li>
@@ -365,6 +365,9 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2025</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ICCV 2025)</b> <a href="https://virtualhumans.mpi-inf.mpg.de/tridi/">TriDi</a>: Trilateral Diffusion of 3D Humans, Objects and Interactions, Petrov et al.</li>
+        <li><b>(ICCV 2025)</b> <a href="https://arxiv.org/abs/2411.16216">SMGDiff</a>: Soccer Motion Generation using diffusion probabilistic models, Yang et al.</li>
+        <li><b>(ICCV 2025)</b> <a href="https://syncdiff.github.io/">SyncDiff</a>: Synchronized Motion Diffusion for Multi-Body Human-Object Interaction Synthesis, He et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://hoifhli.github.io/">Wu et al</a>: Human-Object Interaction from Human-Level Instructions, Wu et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://jiaxin-lu.github.io/humoto/">HUMOTO</a>: A 4D Dataset of Mocap Human Object Interactions, Lu et al.</li>
         <li><b>(SIGGRAPH 2025)</b> <a href="hhttps://arxiv.org/abs/2504.21216">PhysicsFC</a>: Learning User-Controlled Skills for a Physics-Based Football Player Controller, Kim et al.</li>
@@ -409,12 +412,9 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details>
     <summary><h3>2024</h3></summary>
     <ul style="margin-left: 5px;">
-        <li><b>(ArXiv 2024)</b> <a href="https://syncdiff.github.io/">SyncDiff</a>: Synchronized Motion Diffusion for Multi-Body Human-Object Interaction Synthesis, He et al.</li>
         <li><b>(ArXiv 2024)</b> <a href="https://arxiv.org/abs/2412.06702">CHOICE</a>: Coordinated Human-Object Interaction in Cluttered Environments for Pick-and-Place Actions, Lu et al.</li>
-        <li><b>(ArXiv 2024)</b> <a href="https://virtualhumans.mpi-inf.mpg.de/tridi/">TriDi</a>: Trilateral Diffusion of 3D Humans, Objects and Interactions, Petrov et al.</li>
         <li><b>(ArXiv 2024)</b> <a href="https://nickk0212.github.io/ood-hoi/">OOD-HOI</a>: Text-Driven 3D Whole-Body Human-Object Interactions Generation Beyond Training Domains, Zhang et al.</li>
         <li><b>(ArXiv 2024)</b> <a href="https://arxiv.org/abs/2409.20502">COLLAGE</a>: Collaborative Human-Agent Interaction Generation using Hierarchical Latent Diffusion and Language Models, Daiya et al.</li>
-        <li><b>(ArXiv 2024)</b> <a href="https://arxiv.org/abs/2411.16216">SMGDiff</a>: Soccer Motion Generation using diffusion probabilistic models, Yang et al.</li>
         <li><b>(NeurIPS 2024)</b> <a href="https://arxiv.org/abs/2406.19972">HumanVLA</a>: Towards Vision-Language Directed Object Rearrangement by Physical Humanoid, Xu et al.</li>
         <li><b>(NeurIPS 2024)</b> <a href="https://www.zhengyiluo.com/Omnigrasp-Site/">OmniGrasp</a>: Grasping Diverse Objects with Simulated Humanoids, Luo et al.</li>
         <li><b>(NeurIPS 2024)</b> <a href="https://yyvhang.github.io/EgoChoir/">EgoChoir</a>: Capturing 3D Human-Object Interaction Regions from Egocentric Views, Yang et al.</li>
@@ -674,6 +674,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <ul style="margin-left: 5px;">
         <li><b>(ICCV 2025)</b> <a href="https://arxiv.org/abs/2411.19921">SIMS</a>: Simulating Human-Scene Interactions with Real World Script Planning, Wang et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://arxiv.org/abs/2502.14140">ModSkill</a>: Physical Character Skill Modularization, Huang et al.</li>
+        <li><b>(ICCV 2025)</b> <a href="https://wuyan01.github.io/uniphys-project/">UniPhys</a>: Unified Planner and Controller with Diffusion for Flexible Physics-Based Character Control, Wu et al.</li>
         <li><b>(RSS 2025)</b> <a href="https://arxiv.org/abs/2502.13013">HOMIE</a>: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit, Ben et al.</li>
         <li><b>(RSS 2025)</b> <a href="https://why618188.github.io/beamdojo/">BeamDojo</a>: Learning Agile Humanoid Locomotion on Sparse Footholds, Wang et al.</li>
         <li><b>(RSS 2025)</b> <a href="https://agile.human2humanoid.com/">ASAP</a>: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills, He et al.</li>
@@ -736,7 +737,6 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2505.02833">TWIST</a>: Teleoperated Whole-Body Imitation System, Ze et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://bit-bots.github.io/SoccerDiffusion/">SoccerDiffusion</a>: Toward Learning End-to-End Humanoid Robot Soccer from Gameplay Recordings, Vahl et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://almi-humanoid.github.io/">ALMI</a>: Adversarial Locomotion and Motion Imitation for Humanoid Policy Learning, Shi et al.</li>
-        <li><b>(ArXiv 2025)</b> <a href="https://wuyan01.github.io/uniphys-project/">UniPhys</a>: Unified Planner and Controller with Diffusion for Flexible Physics-Based Character Control, Wu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2504.09532">Hao et al</a>: Embodied Chain of Action Reasoning with Multi-Modal Foundation Model for Humanoid Loco-manipulation, Hao et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2504.09833">PreCi</a>: Pre-training and Continual Improvement of Humanoid Locomotion via Model-Assumption-based Regularization, Jung et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2504.10390">Teacher Motion Priors</a>: Enhancing Robot Locomotion over Challenging Terrain, Lin et al.</li>
