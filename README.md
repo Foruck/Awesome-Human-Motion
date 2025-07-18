@@ -41,7 +41,7 @@ An aggregation of human motion understanding research; feel free to contribute.
 </details>
 
 <span id="motion-generation"></span>
-## Motion Generation
+## Motion Generation, Text/Speech/Music-Driven
 <details open>
 <summary></summary>
 <ul style="margin-left: 5px;">
@@ -1066,5 +1066,5 @@ An aggregation of human motion understanding research; feel free to contribute.
 </ul></details>
 
 ---
-# Contributor
+# Contributors
 This paper list is mainly contributed by <a href="https://foruck.github.io/">Xinpeng Liu</a> and <a href="https://github.com/Daydreamer-f">Yusu Fang</a>, feel free to contact us if you have any questions or suggestions!
