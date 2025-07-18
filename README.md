@@ -101,6 +101,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://knoxzhao.github.io/Motion-Agent/">Motion-Agent</a>: A Conversational Framework for Human Motion Generation with LLMs, Wu et al.</li>
         <li><b>(IJCV 2025)</b> <a href="https://arxiv.org/abs/2502.05534">Fg-T2M++</a>: LLMs-Augmented Fine-Grained Text Driven Human Motion Generation, Wang et al.</li>
         <li><b>(TCSVT 2025)</b> <a href="https://arxiv.org/abs/2503.13300">Zeng et al</a>: Progressive Human Motion Generation Based on Text and Few Motion Frames, Zeng et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href=https://www.arxiv.org/pdf/2507.03905">EchoMimicV3</a>: 1.3B Parameters are All You Need for Unified Multi-Modal and Multi-Task Human Animation, Meng et al.</li>
         <li><b>(ArXiv 2025)</b> <a href=https://arxiv.org/abs/2507.11949">MOSPA</a>: Human Motion Generation Driven by Spatial Audio, Xu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://snap-research.github.io/SnapMoGen/">SnapMoGen</a>: Human Motion Generation from Expressive Texts, Wang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2507.06590">MOST</a>: Motion Diffusion Model for Rare Text via Temporal Clip Banzhaf Interaction, Wang et al.</li>
@@ -140,6 +141,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(3DV 2025)</b> <a href="https://coral79.github.io/uni-motion/">Unimotion</a>: Unifying 3D Human Motion Synthesis and Understanding, Li et al.</li>
         <li><b>(3DV 2025)</b> <a href="https://cyk990422.github.io/HoloGest.github.io//">HoloGest</a>: Decoupled Diffusion and Motion Priors for Generating Holisticly Expressive Co-speech Gestures, Cheng et al.</li>
         <li><b>(AAAI 2025)</b> <a href="https://hanyangclarence.github.io/unimumo_demo/">UniMuMo</a>: Unified Text, Music and Motion Generation, Yang et al.</li>
+        <li><b>(AAAI 2025)</b> <a href="https://antgroup.github.io/ai/echomimic/">EchoMimic</a>: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditioning, Chen et al.</li>
         <li><b>(AAAI 2025)</b> <a href="https://arxiv.org/abs/2408.00352">ALERT-Motion</a>: Autonomous LLM-Enhanced Adversarial Attack for Text-to-Motion, Miao et al.</li>
         <li><b>(AAAI 2025)</b> <a href="https://cure-lab.github.io/MotionCraft/">MotionCraft</a>: Crafting Whole-Body Motion with Plug-and-Play Multimodal Controls, Bian et al.</li>
         <li><b>(AAAI 2025)</b> <a href="https://arxiv.org/abs/2412.11193">Light-T2M</a>: A Lightweight and Fast Model for Text-to-Motion Generation, Zeng et al.</li>
@@ -917,6 +919,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(CVPR 2025)</b> <a href="https://multigohuman.github.io/">MultiGO</a>: Towards Multi-Level Geometry Learning for Monocular 3D Textured Human Reconstruction, Zhang et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Tu_GBC-Splat_Generalizable_Gaussian-Based_Clothed_Human_Digitalization_under_Sparse_RGB_Cameras_CVPR_2025_paper.pdf">GBC-Splat</a>: Generalizable Gaussian-Based Clothed Human Digitalization under Sparse RGB Cameras, Tu et al.</li>
         <li><b>(CVPR 2025 workshop)</b> <a href="https://arxiv.org/pdf/2409.17671">Ludwig et al</a>: Leveraging Anthropometric Measurements to Improve Human Mesh Estimation and Ensure Consistent Body Shapes, Ludwig et al.</li>
+        <li><b>(CVPR 2025 workshop)</b> <a href="https://arxiv.org/pdf/2504.09953">Ludwig et al</a>: Efficient 2D to Full 3D Human Pose Uplifting including Joint Rotations, Ludwig et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://www.liuisabella.com/DG-Mesh/">Dynamic Gaussians Mesh</a>: Consistent Mesh Reconstruction from Dynamic Scenes, Liu et al.</li>
         <li><b>(3DV 2025)</b> <a href="https://camerahmr.is.tue.mpg.de/">CameraHMR</a>: Aligning People with Perspective, Patel et al.</li>
     </ul></details>
