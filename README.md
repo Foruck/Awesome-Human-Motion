@@ -916,6 +916,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(CVPR 2025)</b> <a href="https://yiyuzhuang.github.io/IDOL/">IDOL</a>: Instant Photorealistic 3D Human Creation from a Single Image, Zhuang et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://multigohuman.github.io/">MultiGO</a>: Towards Multi-Level Geometry Learning for Monocular 3D Textured Human Reconstruction, Zhang et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Tu_GBC-Splat_Generalizable_Gaussian-Based_Clothed_Human_Digitalization_under_Sparse_RGB_Cameras_CVPR_2025_paper.pdf">GBC-Splat</a>: Generalizable Gaussian-Based Clothed Human Digitalization under Sparse RGB Cameras, Tu et al.</li>
+        <li><b>(CVPR 2025 workshop)</b> <a href="https://arxiv.org/pdf/2409.17671">Ludwig et al</a>: Leveraging Anthropometric Measurements to Improve Human Mesh Estimation and Ensure Consistent Body Shapes, Ludwig et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://www.liuisabella.com/DG-Mesh/">Dynamic Gaussians Mesh</a>: Consistent Mesh Reconstruction from Dynamic Scenes, Liu et al.</li>
         <li><b>(3DV 2025)</b> <a href="https://camerahmr.is.tue.mpg.de/">CameraHMR</a>: Aligning People with Perspective, Patel et al.</li>
     </ul></details>
