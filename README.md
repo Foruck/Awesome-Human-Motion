@@ -2,28 +2,28 @@
 
 An aggregation of human motion understanding research; feel free to contribute.
 
-[Reviews & Surveys](#review) 
+- [Reviews & Surveys](#review) 
+- [Motion Generation](#motion-generation)  
+- [Motion Editing](#motion-editing)  
+- [Motion Stylization](#motion-stylization) 
+- [Human-Object Interaction](#hoi) 
+- [Human-Scene Interaction](#hsi)  
+- [Human-Human Interaction](#hhi) 
+- [Datasets](#datasets) 
+- [Humanoid](#humanoid) 
+- [Bio-stuff](#bio)
+- [Motion Reconstruction](#motion-reconstruction)    
+- [HOI/HSI Reconstruction](#hoi/hsi-reconstruction)
+- [Motion Controlled Image/Video Generation](#motion-video/image-generation)
+- [Human Pose Estimation/Recognition](#pose-estimation)
+- [Human Motion Understanding](#motion-understanding)
 
-[Motion Generation](#motion-generation)  [Motion Editing](#motion-editing)  [Motion Stylization](#motion-stylization) 
-
-[Human-Object Interaction](#hoi) [Human-Scene Interaction](#hsi)  [Human-Human Interaction](#hhi) 
-
-[Datasets](#datasets) [Humanoid](#humanoid) [Bio-stuff](#bio)
-
-[Motion Reconstruction](#motion-reconstruction)    
-
-[HOI/HSI Reconstruction](#hoi/hsi-reconstruction)
-
-[Motion Controlled Image/Video Generation](#motion-video/image-generation)
-
-[Human Pose Estimation/Recognition](#pose-estimation)
-
-[Human Motion Understanding](#motion-understanding)
-
+---
 
 <span id="review"></span>
+## Reviews & Surveys
 <details open>
-<summary><h2>Reviews & Surveys</h2></summary>
+<summary></summary>
 <ul style="margin-left: 5px;">
 <li><b>(JEB 2025)</b> <a href="https://journals.biologists.com/jeb/article/228/Suppl_1/JEB248125/367009/Behavioural-energetics-in-human-locomotion-how">McAllister et al</a>: Behavioural energetics in human locomotion: how energy use influences how we move, McAllister et al.</li>
 <li><b>(ICER 2025)</b> <a href="https://arxiv.org/abs/2412.10458">Zhao et al</a>: Motion Generation Review: Exploring Deep Learning for Lifelike Animation with Manifold, Zhao et al.</li>
@@ -41,8 +41,9 @@ An aggregation of human motion understanding research; feel free to contribute.
 </details>
 
 <span id="motion-generation"></span>
+## Motion Generation
 <details open>
-<summary><h2>Motion Generation, Text/Speech/Music-Driven</h2></summary>
+<summary></summary>
 <ul style="margin-left: 5px;">
     <details open>
     <summary><h3>2025</h3></summary>
@@ -323,9 +324,11 @@ An aggregation of human motion understanding research; feel free to contribute.
     </ul></details>
 </ul></details>
 
+
 <span id="motion-editing"></span>
+## Motion Editing
 <details open>
-<summary><h2>Motion Editing</h2></summary>
+<summary></summary>
 <ul style="margin-left: 5px;">
     <li><b>(IVA 2025)</b> <a href="https://arxiv.org/abs/2507.00792">TF-JAX-IK</a>: Real-Time Inverse Kinematics for Generating Multi-Constrained Movements of Virtual Human Characters, Voss et al.</li>
     <li><b>(ICCV 2025)</b> <a href="https://yz-cnsdqz.github.io/eigenmotion/PRIMAL/">PRIMAL</a>: Physically Reactive and Interactive Motor Model for Avatar Learning, Zhang et al.</li>
@@ -343,8 +346,9 @@ An aggregation of human motion understanding research; feel free to contribute.
 </ul></details>
 
 <span id="motion-stylization"></span>
+## Motion Stylization
 <details open>
-<summary><h2>Motion Stylization</h2></summary>
+<summary></summary>
 <ul style="margin-left: 5px;">
     <li><b>(ICCV 2025)</b> <a href="https://stylemotif.github.io/">StyleMotif</a>: Multi-Modal Motion Stylization using Style-Content Cross Fusion, Guo et al.</li>
     <li><b>(CVPR 2025)</b> <a href="https://cvlab-kaist.github.io/Visual-Persona/">Visual Persona</a>: Foundation Model for Full-Body Human Customization, Nam et al.</li>
@@ -361,8 +365,9 @@ An aggregation of human motion understanding research; feel free to contribute.
 </ul></details>
 
 <span id="hoi"></span>
+## Human-Object Interaction
 <details open>
-<summary><h2>Human-Object Interaction</h2></summary>
+<summary></summary>
 <ul style="margin-left: 5px;">
     <details open>
     <summary><h3>2025</h3></summary>
@@ -455,8 +460,9 @@ An aggregation of human motion understanding research; feel free to contribute.
 </ul></details>
 
 <span id="hsi"></span>
+## Human-Scene Interaction
 <details open>
-<summary><h2>Human-Scene Interaction</h2></summary>
+<summary></summary>
 <ul style="margin-left: 5px;">
     <details open>
     <summary><h3>2025</h3></summary>
@@ -533,8 +539,9 @@ An aggregation of human motion understanding research; feel free to contribute.
 </ul></details>
 
 <span id="hhi"></span>
+## Human-Human Interaction
 <details open>
-<summary><h2>Human-Human Interaction</h2></summary>
+<summary></summary>
 <ul style="margin-left: 5px;">
     <li><b>(SIGGRAPH 2025)</b> <a href="https://arxiv.org/abs/2505.17860">Xu et al</a>: Multi-Person Interaction Generation from Two-Person Motion Priors, Xu et al.</li>
     <li><b>(SIGGRAPH 2025)</b> <a href="https://arxiv.org/pdf/2506.18680">DuetGen</a>: Music Driven Two-Person Dance Generation via Hierarchical Masked Modeling, Ghosh et al.</li>
@@ -574,8 +581,9 @@ An aggregation of human motion understanding research; feel free to contribute.
 </ul></details>
 
 <span id="datasets"></span>
+## Datasets & Benchmarks
 <details open>
-<summary><h2>Datasets & Benchmarks</h2></summary>
+<summary></summary>
 <ul style="margin-left: 5px;">
     <details open>
     <summary><h3>2025</h3></summary>
@@ -669,8 +677,9 @@ An aggregation of human motion understanding research; feel free to contribute.
 </ul></details>
 
 <span id="humanoid"></span>
+## Humanoid, Simulated or Real
 <details open>
-<summary><h2>Humanoid, Simulated or Real</h2></summary>
+<summary></summary>
 <ul style="margin-left: 5px;">
     <details open>
     <summary><h3>2025</h3></summary>
@@ -842,8 +851,9 @@ An aggregation of human motion understanding research; feel free to contribute.
 </ul></details>
 
 <span id="bio"></span>
+## Bio-stuff: Human Anatomy, Biomechanics, Physiology
 <details open>
-<summary><h2>Bio-stuff: Human Anatomy, Biomechanics, Physiology</h2></summary>
+<summary></summary>
 <ul style="margin-left: 5px;">
     <li><b>(CVPR 2025)</b> <a href="https://isshikihugh.github.io/HSMR/">HSMR</a>: Reconstructing Humans with A Biomechanically Accurate Skeleton, Xia et al.</li>
     <li><b>(CVPR 2025)</b> <a href="https://foruck.github.io/HDyS">HDyS</a>: Homogeneous Dynamics Space for Heterogeneous Humans, Liu et al.</li>
@@ -899,8 +909,9 @@ An aggregation of human motion understanding research; feel free to contribute.
 </ul></details>
 
 <span id="motion-reconstruction"></span>
+## Human Reconstruction, Motion/Interaction/Avatar
+<summary></summary>
 <details open>
-<summary><h2>Human Reconstruction, Motion/Interaction/Avatar</h2></summary>
 <ul style="margin-left: 5px;">
     <details open>
     <summary><h3>2025</h3></summary>
@@ -967,8 +978,9 @@ An aggregation of human motion understanding research; feel free to contribute.
 
 
 <span id="hoi/hsi-reconstruction"></span>
+## HOI/HSI Reconstruction
 <details open>
-<summary><h2>HOI/HSI Reconstruction</h2></summary>
+<summary></summary>
 <ul style="margin-left: 5px;">
     <details open>
     <summary><h3>HOI Reconstruction</h3></summary>
@@ -1001,8 +1013,9 @@ An aggregation of human motion understanding research; feel free to contribute.
 </ul></details>
 
 <span id="motion-video/image-generation"></span>
+## Motion Controlled Image/Video Generation
 <details open>
-<summary><h2>Motion Controlled Image/Video Generation</h2></summary>
+<summary></summary>
 <ul style="margin-left: 5px;">
     <details open>
     <summary><h3>video</h3></summary>
@@ -1026,8 +1039,9 @@ An aggregation of human motion understanding research; feel free to contribute.
 </ul></details>
 
 <span id="pose-estimation"></span>
+## Human Pose Estimation/Recognition
 <details open>
-<summary><h2>Human Pose Estimation/Recognition</h2></summary>
+<summary></summary>
 <ul style="margin-left: 5px;">
     <li><b>(CVPR 2025)</b> <a href="https://arxiv.org/pdf/2504.04708">SapiensID</a>: Foundation for Human Recognition, Kim et al.</li>
     <li><b>(CVPR 2025)</b> <a href="https://aviralchharia.github.io/MV-SSM/">MV-SSM</a>: Multi-View State Space Modeling for 3D Human Pose Estimation, Chharia et al.</li>
@@ -1040,8 +1054,9 @@ An aggregation of human motion understanding research; feel free to contribute.
 </ul></details>
 
 <span id="motion-understanding"></span>
+## Human Motion Understanding
 <details open>
-<summary><h2>Human Motion Understanding</h2></summary>
+<summary></summary>
 <ul style="margin-left: 5px;">
     <li><b>(CVPR 2025)</b> <a href="https://chathuman.github.io/">ChatHuman</a>: Chatting about 3D Humans with Tools, Lin et al.</li>
     <li><b>(CVPR 2025)</b> <a href="https://qhfang.github.io/papers/humocon.html">HuMoCon</a>: Concept Discovery for Human Motion Understanding, Fang et al.</li>
@@ -1049,3 +1064,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <li><b>(ArXiv 2024)</b> <a href="https://lhchen.top/MotionLLM/">MotionLLM</a>: Understanding Human Behaviors from Human Motions and Videos, Chen et al.</li>
     <li><b>(CVPR 2024)</b> <a href="https://yfeng95.github.io/ChatPose/">ChatPose</a>: Chatting about 3D Human Pose, Feng et al.</li>
 </ul></details>
+
+---
+# Contributor
+This paper list is mainly contributed by <a href="https://foruck.github.io/">Xinpeng Liu</a> and <a href="https://github.com/Daydreamer-f">Yusu Fang</a>, feel free to contact us if you have any questions or suggestions!
