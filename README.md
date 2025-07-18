@@ -12,8 +12,8 @@ An aggregation of human motion understanding research; feel free to contribute.
 - [Datasets](#datasets) 
 - [Humanoid](#humanoid) 
 - [Bio-stuff](#bio)
-- [Motion Reconstruction](#motion-reconstruction)    
-- [HOI/HSI Reconstruction](#hoi/hsi-reconstruction)
+- [Human Reconstruction](#motion-reconstruction)    
+- [Human-Object/Scene Interaction Reconstruction](#hoi/hsi-reconstruction)
 - [Motion Controlled Image/Video Generation](#motion-video/image-generation)
 - [Human Pose Estimation/Recognition](#pose-estimation)
 - [Human Motion Understanding](#motion-understanding)
@@ -910,8 +910,8 @@ An aggregation of human motion understanding research; feel free to contribute.
 
 <span id="motion-reconstruction"></span>
 ## Human Reconstruction, Motion/Interaction/Avatar
-<summary></summary>
 <details open>
+<summary></summary>
 <ul style="margin-left: 5px;">
     <details open>
     <summary><h3>2025</h3></summary>
@@ -978,7 +978,7 @@ An aggregation of human motion understanding research; feel free to contribute.
 
 
 <span id="hoi/hsi-reconstruction"></span>
-## HOI/HSI Reconstruction
+## Human-Object/Scene Interaction Reconstruction
 <details open>
 <summary></summary>
 <ul style="margin-left: 5px;">
