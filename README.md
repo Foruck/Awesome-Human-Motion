@@ -590,6 +590,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://openreview.net/forum?id=9mBodivRIo">LocoVR</a>: LocoVR: Multiuser Indoor Locomotion Dataset in Virtual Reality, Takeyama et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://github.com/coding-rachal/PMRDataset">PMR</a>: Pedestrian Motion Reconstruction: A Large-scale Benchmark via Mixed Reality Rendering with Multiple Perspectives and Modalities, Wang et al.</li>
         <li><b>(AAAI 2025)</b> <a href="https://arxiv.org/abs/2408.17168">EMHI</a>: EMHI: A Multimodal Egocentric Human Motion Dataset with HMD and Body-Worn IMUs, Fan et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2507.12905">AthleticsPose</a>: Authentic Sports Motion Dataset on Athletic Field and Evaluation of Monocular 3D Pose Estimation Ability, Suzuki et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://mmhu-benchmark.github.io/">MMHU</a>: A Massive-Scale Multimodal Benchmark for Human Behavior Understanding, Li et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2506.00043">FLEX</a>: A Large-Scale Multi-Modal Multi-Action Dataset for Fitness Action Quality Assessment, Yin et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2506.00043">From Motion to Behavior</a>: Hierarchical Modeling of Humanoid Generative Behavior Control, Zhang et al.</li>
