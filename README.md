@@ -102,7 +102,8 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://knoxzhao.github.io/Motion-Agent/">Motion-Agent</a>: A Conversational Framework for Human Motion Generation with LLMs, Wu et al.</li>
         <li><b>(IJCV 2025)</b> <a href="https://arxiv.org/abs/2502.05534">Fg-T2M++</a>: LLMs-Augmented Fine-Grained Text Driven Human Motion Generation, Wang et al.</li>
         <li><b>(TCSVT 2025)</b> <a href="https://arxiv.org/abs/2503.13300">Zeng et al</a>: Progressive Human Motion Generation Based on Text and Few Motion Frames, Zeng et al.</li>
-        <li><b>(ArXiv 2025)</b> <a href=https://www.arxiv.org/pdf/2507.03905">EchoMimicV3</a>: 1.3B Parameters are All You Need for Unified Multi-Modal and Multi-Task Human Animation, Meng et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://dorniwang.github.io/SpeakerVid-5M/">SpeakerVid-5M</a>: A Large-Scale High-Quality Dataset for audio-visual Dyadic Interactive Human Generation, Zhang et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://www.arxiv.org/pdf/2507.03905">EchoMimicV3</a>: 1.3B Parameters are All You Need for Unified Multi-Modal and Multi-Task Human Animation, Meng et al.</li>
         <li><b>(ArXiv 2025)</b> <a href=https://arxiv.org/abs/2507.11949">MOSPA</a>: Human Motion Generation Driven by Spatial Audio, Xu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://snap-research.github.io/SnapMoGen/">SnapMoGen</a>: Human Motion Generation from Expressive Texts, Wang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2507.06590">MOST</a>: Motion Diffusion Model for Rare Text via Temporal Clip Banzhaf Interaction, Wang et al.</li>
@@ -600,6 +601,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://openreview.net/forum?id=9mBodivRIo">LocoVR</a>: LocoVR: Multiuser Indoor Locomotion Dataset in Virtual Reality, Takeyama et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://github.com/coding-rachal/PMRDataset">PMR</a>: Pedestrian Motion Reconstruction: A Large-scale Benchmark via Mixed Reality Rendering with Multiple Perspectives and Modalities, Wang et al.</li>
         <li><b>(AAAI 2025)</b> <a href="https://arxiv.org/abs/2408.17168">EMHI</a>: EMHI: A Multimodal Egocentric Human Motion Dataset with HMD and Body-Worn IMUs, Fan et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://dorniwang.github.io/SpeakerVid-5M/">SpeakerVid-5M</a>: A Large-Scale High-Quality Dataset for audio-visual Dyadic Interactive Human Generation, Zhang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2507.12905">AthleticsPose</a>: Authentic Sports Motion Dataset on Athletic Field and Evaluation of Monocular 3D Pose Estimation Ability, Suzuki et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://mmhu-benchmark.github.io/">MMHU</a>: A Massive-Scale Multimodal Benchmark for Human Behavior Understanding, Li et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2506.00043">FLEX</a>: A Large-Scale Multi-Modal Multi-Action Dataset for Fitness Action Quality Assessment, Yin et al.</li>
@@ -707,6 +709,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICRA 2025)</b> <a href="https://arxiv.org/abs/2410.21229">HOVER</a>: Versatile Neural Whole-Body Controller for Humanoid Robots, He et al.</li>
         <li><b>(ICRA 2025)</b> <a href="https://junfeng-long.github.io/PIM/">PIM</a>: Learning Humanoid Locomotion with Perceptive Internal Model, Long et al.</li>
         <li><b>(ICRA 2025)</b> <a href="https://arxiv.org/abs/2502.18901">Think on your feet</a>: Seamless Transition between Human-like Locomotion in Response to Changing Commands, Huang et al.</li>
+         <li><b>(ICLR 2025)</b> <a href="https://robo-mimiclabs.github.io/">MimicLabs</a>: What Matters in Learning from Large-Scale Datasets for Robot Manipulation, Saxena et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://rlpuppeteer.github.io/">Puppeteer</a>: Hierarchical World Models as Visual Whole-Body Humanoid Controllers, Hansen et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://openreview.net/forum?id=9sOR0nYLtz">FB-CPR</a>: Zero-Shot Whole-Body Humanoid Control via Behavioral Foundation Models, Tirinzoni et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://openreview.net/forum?id=MWHIIWrWWu">MPC2</a>: Motion Control of High-Dimensional Musculoskeletal System with Hierarchical Model-Based Planning, Wei et al.</li>
@@ -916,6 +919,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2025</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ICCV 2025)</b> <a href="https://diffuman4d.github.io/">Diffuman4D</a>: 4D Consistent Human View Synthesis from Sparse-View Videos with Spatio-Temporal Diffusion Models, Jin et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://boqian-li.github.io/ETCH/">ETCH</a>: Generalizing Body Fitting to Clothed Humans via Equivariant Tightness, Li et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://muelea.github.io/hsfm/">HSFM</a>: Reconstructing People, Places, and Cameras, M\"uller et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://prosepose.github.io/">Subramanian et al</a>: Pose Priors from Language Models, Subramanian et al.</li>
@@ -983,7 +987,7 @@ An aggregation of human motion understanding research; feel free to contribute.
 <summary></summary>
 <ul style="margin-left: 5px;">
     <details open>
-    <summary><h3>HOI Reconstruction</h3></summary>
+    <summary><h3>H Reconstruction</h3></summary>
     <ul style="margin-left: 5px;">
         <li><b>(CVPR 2025)</b> <a href="https://wenboran2002.github.io/3dhoi/">Wen et al</a>: Reconstructing In-the-Wild Open-Vocabulary Human-Object Interactions, Wen et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://interactvlm.is.tue.mpg.de">InteractVLM</a>: 3D Interaction Reasoning from 2D Foundational Models, Dwivedi et al.</li>
@@ -1024,6 +1028,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(CVPR 2025)</b> <a href="https://smartdianlab.github.io/projects-FinePhys/">FinePhys</a>: Fine-grained Human Action Generation by Explicitly Incorporating Physical Laws for Effective Skeletal Guidance, Shao et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://arxiv.org/pdf/2405.20216">Na et al</a>: Boost Your Human Image Generation Model via Direct Preference Optimization, Na et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://arxiv.org/pdf/2504.08181">TokenMotion</a>: Decoupled Motion Control via Token Disentanglement for Human-centric Video Generation, Li et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://byteaigc.github.io/X-Unimotion/">X-UniMotion</a>: Animating Human Images with Expressive, Unified and Identity-Agnostic Motion Latents, Song et al.</li>
     </ul></details>
     <details open>
     <summary><h3>image</h3></summary>
