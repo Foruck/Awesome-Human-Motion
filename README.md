@@ -35,6 +35,9 @@ An aggregation of human motion understanding research; feel free to contribute.
 <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2503.13120">3D Human Interaction Generation</a>: A Survey, Fan et al.</li>
 <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2502.08556">Human-Centric Foundation Models</a>: Perception, Generation and Agentic Modeling, Tang et al.</li>
 <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2501.02116">Humanoid Locomotion and Manipulation</a>: Current Progress and Challenges in Control, Planning, and Learning, Gu et al.</li>
+<li><b>(ArXiv 2024)</b> <a href="https://arxiv.org/abs/2407.08428">A Comprehensive Survey on Human Video Generation</a>: Challenges, Methods, and Insights, Lei et al.</li>
+<li><b>(ArXiv 2024)</b> <a href="https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation?tab=readme-ov-file">Human Motion Video Generation</a>: A survey, Xue et al.</li>
+<li><b>(Neurocomputing)</b> <a href="https://github.com/Winn1y/Awesome-Human-Motion-Video-Generation?tab=readme-ov-file">Deep Learning for 3D Human Pose Estimation and Mesh Recovery</a>: A survey, Liu et al.</li>
 <li><b>(TVCG 2024)</b> <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10230894">Loi et al</a>: Machine Learning Approaches for 3D Motion Synthesis and Musculoskeletal Dynamics Estimation: A Survey, Loi et al.</li>
 <li><b>(T-PAMI 2023)</b> <a href="https://arxiv.org/abs/2307.10894">Zhu et al</a>: Human Motion Generation: A Survey, Zhu et al.</li>
 </ul>
@@ -155,6 +158,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details>
     <summary><h3>2024</h3></summary>
         <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2024)</b> <a href="https://mmofusion.github.io/">MMoFusion</a>: Multi-modal Co-Speech Motion Generation with Diffusion Model, Wang et al.</li>
         <li><b>(ArXiv 2024)</b> <a href="https://inter-dance.github.io/">InterDance</a>: Reactive 3D Dance Generation with Realistic Duet Interactions, Li et al.</li>
         <li><b>(ArXiv 2024)</b> <a href="https://arxiv.org/abs/2412.07797">Mogo</a>: RQ Hierarchical Causal Transformer for High-Quality 3D Human Motion Generation, Fu et al.</li>
         <li><b>(ArXiv 2024)</b> <a href="https://gabrie-l.github.io/coma-page/">CoMA</a>: Compositional Human Motion Generation with Multi-modal Agents, Sun et al.</li>
@@ -218,6 +222,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICME Workshop 2024)</b> <a href="https://ieeexplore.ieee.org/abstract/document/10645445">Chen et al</a>: Anatomically-Informed Vector Quantization Variational Auto-Encoder for Text-to-Motion Generation, Chen et al.</li>
         <li><b>(ICML 2024)</b> <a href="https://github.com/LinghaoChan/HumanTOMATO">HumanTOMATO</a>: Text-aligned Whole-body Motion Generation, Lu et al.</li>
         <li><b>(ICML 2024)</b> <a href="https://sites.google.com/view/gphlvm/">GPHLVM</a>: Bringing Motion Taxonomies to Continuous Domains via GPLVM on Hyperbolic Manifolds, Jaquier et al.</li>
+        <li><b>(SIGGRAPH 2024)</b> <a href="https://diffposetalk.github.io/">DiffPoseTalk</a>: Speech-Driven Stylistic 3D Facial Animation and Head Pose Generation via Diffusion Models, Sun et al.</li>
         <li><b>(SIGGRAPH 2024)</b> <a href="https://setarehc.github.io/CondMDI/">CondMDI</a>: Flexible Motion In-betweening with Diffusion Models, Cohan et al.</li>
         <li><b>(SIGGRAPH 2024)</b> <a href="https://aiganimation.github.io/CAMDM/">CAMDM</a>: Taming Diffusion Probabilistic Models for Character Control, Chen et al.</li>
         <li><b>(SIGGRAPH 2024)</b> <a href="https://vcc.tech/research/2024/LGTM">LGTM</a>: Local-to-Global Text-Driven Human Motion Diffusion Models, Sun et al.</li>
@@ -650,6 +655,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(NeurIPS D&B 2023)</b> <a href="https://github.com/jutanke/hik">Humans in Kitchens</a>: A Dataset for Multi-Person Human Motion Forecasting with Scene Context, Tanke et al.</li>
         <li><b>(ICCV 2023)</b> <a href="https://jnnan.github.io/project/chairs/">CHAIRS</a>: Full-Body Articulated Human-Object Interaction, Jiang et al.</li>
         <li><b>(ICCV 2023)</b> <a href="https://eth-ait.github.io/emdb/">EMDB</a>: The Electromagnetic Database of Global 3D Human Pose and Shape in the Wild, Kaufmann et al.</li>
+        <li><b>(CVPR 2023)</b> <a href="https://ipman.is.tue.mpg.de/">MOYO</a>: 3D Human Pose Estimation via Intuitive Physics, Tripathi et al.</li>
         <li><b>(CVPR 2023)</b> <a href="http://www.lidarhumanmotion.net/cimi4d">CIMI4D</a>: A Large Multimodal Climbing Motion Dataset under Human-Scene Interactions, Yan et al.</li>
         <li><b>(CVPR 2023)</b> <a href="https://andytang15.github.io/FLAG3D/">FLAG3D</a>: A 3D Fitness Activity Dataset with Language Instruction, Tang et al.</li>
         <li><b>(CVPR 2023)</b> <a href="https://yifeiyin04.github.io/Hi4D/">Hi4D</a>: 4D Instance Segmentation of Close Human Interaction, Yin et al.</li>
@@ -869,6 +875,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <li><b>(RA-L 2025)</b> <a href="https://arxiv.org/abs/2504.10102">Mobedi et al</a>: A Framework for Adaptive Load Redistribution in Human-Exoskeleton-Cobot Systems, Mobedi et al.</li>
     <li><b>(Preprint 2025)</b> <a href="https://github.com/stanfordnmbl/GaitDynamics">GaitDynamics</a>: A Foundation Model for Analyzing Gait Dynamics, Tan et al.</li>
     <li><b>(bioRxiv 2025)</b> <a href="https://www.biorxiv.org/content/10.1101/2025.06.24.660703v1.full.pdf">Richards et al</a>: Visualising joint force-velocity proper es in musculoskeletal models, Richards et al.</li>
+    <li><b>(ArXiv 2025)</b> <a href="https://intelligentsensingandrehabilitation.github.io/MonocularBiomechanics/">Portable Biomechanics Laboratory</a>: Clinically Accessible Movement Analysis from a Handheld Smartphone, Peiffer et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2507.01340">Le et al</a>: Physics-informed Ground Reaction Dynamics from Human Motion Capture, Le et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2506.00071">SMS-Human</a>: Human sensory-musculoskeletal modeling and control of whole-body movements, Zuo et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://k2muse.github.io/">K2MUSE</a>: A Large-scale Human Lower limb Dataset of Kinematics, Kinetics, amplitude Mode Ultrasound and Surface Electromyography, Li et al.</li>
@@ -938,6 +945,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(CVPR 2025 workshop)</b> <a href="https://arxiv.org/pdf/2504.09953">Ludwig et al</a>: Efficient 2D to Full 3D Human Pose Uplifting including Joint Rotations, Ludwig et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://www.liuisabella.com/DG-Mesh/">Dynamic Gaussians Mesh</a>: Consistent Mesh Reconstruction from Dynamic Scenes, Liu et al.</li>
         <li><b>(3DV 2025)</b> <a href="https://camerahmr.is.tue.mpg.de/">CameraHMR</a>: Aligning People with Perspective, Patel et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://intelligentsensingandrehabilitation.github.io/MonocularBiomechanics/">Portable Biomechanics Laboratory</a>: Clinically Accessible Movement Analysis from a Handheld Smartphone, Peiffer et al.</li>
     </ul></details>
     <details open>
     <summary><h3>2024</h3></summary>
@@ -988,7 +996,7 @@ An aggregation of human motion understanding research; feel free to contribute.
 <summary></summary>
 <ul style="margin-left: 5px;">
     <details open>
-    <summary><h3>H Reconstruction</h3></summary>
+    <summary><h3>HOI Reconstruction</h3></summary>
     <ul style="margin-left: 5px;">
         <li><b>(CVPR 2025)</b> <a href="https://wenboran2002.github.io/3dhoi/">Wen et al</a>: Reconstructing In-the-Wild Open-Vocabulary Human-Object Interactions, Wen et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://interactvlm.is.tue.mpg.de">InteractVLM</a>: 3D Interaction Reasoning from 2D Foundational Models, Dwivedi et al.</li>
