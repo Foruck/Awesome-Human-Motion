@@ -13,7 +13,7 @@ An aggregation of human motion understanding research; feel free to contribute.
 - [Humanoid](#humanoid) 
 - [Bio-stuff](#bio)
 - [Human Reconstruction](#motion-reconstruction)    
-- [Human-Object/Scene Interaction Reconstruction](#hoi/hsi-reconstruction)
+- [Human-Object/Scene/Human Interaction Reconstruction](#hoi/hsi-reconstruction)
 - [Motion Controlled Image/Video Generation](#motion-video/image-generation)
 - [Human Pose Estimation/Recognition](#pose-estimation)
 - [Human Motion Understanding](#motion-understanding)
@@ -569,14 +569,12 @@ An aggregation of human motion understanding research; feel free to contribute.
     <li><b>(ArXiv 2024)</b> <a href="https://arxiv.org/abs/2412.16670">Two in One</a>: Unified Multi-Person Interactive Motion Generation by Latent Diffusion Transformer, Li et al.</li>
     <li><b>(ArXiv 2024)</b> <a href="https://arxiv.org/abs/2412.02419">It Takes Two</a>: Real-time Co-Speech Two-person’s Interaction Generation via Reactive Auto-regressive Diffusion Model, Shi et al.</li>
     <li><b>(ArXiv 2024)</b> <a href="https://arxiv.org/abs/2409.20502">COLLAGE</a>: Collaborative Human-Agent Interaction Generation using Hierarchical Latent Diffusion and Language Models, Daiya et al.</li>
-    <li><b>(NeurIPS 2024)</b> <a href="https://jyuntins.github.io/harmony4d/">Harmony4D</a>: A Video Dataset for In-The-Wild Close Human Interactions, Khirodkar et al.</li>
     <li><b>(NeurIPS 2024)</b> <a href="https://github.com/zhenzhiwang/intercontrol">InterControl</a>: Generate Human Motion Interactions by Controlling Every Joint, Wang et al.</li>
     <li><b>(ACM MM 2024)</b> <a href="https://yunzeliu.github.io/PhysReaction/">PhysReaction</a>: Physically Plausible Real-Time Humanoid Reaction Synthesis via Forward Dynamics Guided 4D Imitation, Liu et al.</li>
     <li><b>(ECCV 2024)</b> <a href="https://arxiv.org/abs/2405.18483">Shan et al</a>: Towards Open Domain Text-Driven Synthesis of Multi-Person Motions, Shan et al.</li>
     <li><b>(ECCV 2024)</b> <a href="https://vcai.mpi-inf.mpg.de/projects/remos/">ReMoS</a>: 3D Motion-Conditioned Reaction Synthesis for Two-Person Interactions, Ghosh et al.</li>
     <li><b>(CVPR 2024)</b> <a href="https://liangxuy.github.io/inter-x/">Inter-X</a>: Towards Versatile Human-Human Interaction Analysis, Xu et al.</li>
     <li><b>(CVPR 2024)</b> <a href="https://github.com/liangxuy/ReGenNet">ReGenNet</a>: Towards Human Action-Reaction Synthesis, Xu et al.</li>
-    <li><b>(CVPR 2024)</b> <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Fang_Capturing_Closely_Interacted_Two-Person_Motions_with_Reaction_Priors_CVPR_2024_paper.pdf">Fang et al.</a>: Capturing Closely Interacted Two-Person Motions with Reaction Priors, Fan et al.</li>
     <li><b>(CVPR Workshop 2024)</b> <a href="https://openaccess.thecvf.com/content/CVPR2024W/HuMoGen/html/Ruiz-Ponce_in2IN_Leveraging_Individual_Information_to_Generate_Human_INteractions_CVPRW_2024_paper.html">in2IN</a>: in2IN: Leveraging Individual Information to Generate Human INteractions, Ruiz-Ponce et al.</li>
     <li><b>(IJCV 2024)</b> <a href="https://tr3e.github.io/intergen-page/">InterGen</a>: Diffusion-based Multi-human Motion Generation under Complex Interactions, Liang et al.</li>
     <li><b>(ICCV 2023)</b> <a href="https://liangxuy.github.io/actformer/">ActFormer</a>: A GAN-based Transformer towards General Action-Conditioned 3D Human Motion Generation, Xu et al.</li>
@@ -992,7 +990,7 @@ An aggregation of human motion understanding research; feel free to contribute.
 
 
 <span id="hoi/hsi-reconstruction"></span>
-## Human-Object/Scene Interaction Reconstruction
+## Human-Object/Scene/Human Interaction Reconstruction
 <details open>
 <summary></summary>
 <ul style="margin-left: 5px;">
@@ -1023,6 +1021,14 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICCV 2023)</b> <a href="https://sanweiliti.github.io/egohmr/egohmr.html">EgoHMR</a>: Probabilistic Human Mesh Recovery in 3D Scenes from Egocentric Views, Zhang et al.</li>
         <li><b>(CVPR 2023)</b> <a href="http://www.lidarhumanmotion.net/sloper4d">SLOPER4D</a>: A Scene-Aware Dataset for Global 4D Human Pose Estimation in Urban Environments, Dai et al.</li>
         <li><b>(CVPR 2022)</b> <a href="https://mover.is.tue.mpg.de/">MOVER</a>: Human-Aware Object Placement for Visual Environment Reconstruction, Yi et al.</li>
+    </ul></details>
+    <details open>
+    <summary><h3>HHI Reconstruction</h3></summary>
+    <ul style="margin-left: 5px;">
+        <li><b>(CVPR 2025)</b> <a href="https://www.buzhenhuang.com/publications/papers/CVPR2025-CloseApp.pdf">Huang et al</a>: Reconstructing Close Human Interaction with Appearance and Proxemics Reasoning, Huang et al.</li>
+        <li><b>(NeurIPS 2024)</b> <a href="https://jyuntins.github.io/harmony4d/">Harmony4D</a>: A Video Dataset for In-The-Wild Close Human Interactions, Khirodkar et al.</li>
+        <li><b>(ECCV 2024)</b> <a href="https://arxiv.org/abs/2408.02110">AvatarPose</a>: Avatar-guided 3D Pose Estimation of Close Human Interaction from Sparse Multi-view Videos, Lu et al.</li>
+        <li><b>(CVPR 2024)</b> <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Fang_Capturing_Closely_Interacted_Two-Person_Motions_with_Reaction_Priors_CVPR_2024_paper.pdf">Fang et al.</a>: Capturing Closely Interacted Two-Person Motions with Reaction Priors, Fan et al.</li>
     </ul></details>
 </ul></details>
 
