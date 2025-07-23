@@ -865,7 +865,7 @@ An aggregation of human motion understanding research; feel free to contribute.
 <details open>
 <summary></summary>
 <ul style="margin-left: 5px;">
-    <li><b>(npj 2025)</b> <a href="https://www.nature.com/articles/s41746-025-01677-0">Xiang et al</a>: Integrating personalized shape prediction, biomechanical modeling, and wearables for bone stress prediction in runners, Xiang et al</li>
+    <li><b>(npj 2025)</b> <a href="https://www.nature.com/articles/s41746-025-01677-0">Xiang et al</a>: Integrating personalized shape prediction, biomechanical modeling, and wearables for bone stress prediction in runners, Xiang et al.</li>
     <li><b>(CVPR 2025)</b> <a href="https://isshikihugh.github.io/HSMR/">HSMR</a>: Reconstructing Humans with A Biomechanically Accurate Skeleton, Xia et al.</li>
     <li><b>(CVPR 2025)</b> <a href="https://foruck.github.io/HDyS">HDyS</a>: Homogeneous Dynamics Space for Heterogeneous Humans, Liu et al.</li>
     <li><b>(ICLR 2025)</b> <a href="https://foruck.github.io/ImDy">ImDy</a>: Human Inverse Dynamics from Imitated Observations, Liu et al.</li>
