@@ -1029,6 +1029,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(NeurIPS 2024)</b> <a href="https://jyuntins.github.io/harmony4d/">Harmony4D</a>: A Video Dataset for In-The-Wild Close Human Interactions, Khirodkar et al.</li>
         <li><b>(ECCV 2024)</b> <a href="https://arxiv.org/abs/2408.02110">AvatarPose</a>: Avatar-guided 3D Pose Estimation of Close Human Interaction from Sparse Multi-view Videos, Lu et al.</li>
         <li><b>(CVPR 2024)</b> <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Fang_Capturing_Closely_Interacted_Two-Person_Motions_with_Reaction_Priors_CVPR_2024_paper.pdf">Fang et al.</a>: Capturing Closely Interacted Two-Person Motions with Reaction Priors, Fan et al.</li>
+        <li><b>(SIGGRAPH Asia 2024)</b> <a href="https://arxiv.org/abs/2401.16173">Shuai et al.</a>: Reconstructing Close Human Interactions from Multiple Views, Shuai et al.</li>
     </ul></details>
 </ul></details>
 
