@@ -721,6 +721,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/abs/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2507.17141">Astribot</a>: Towards Human-level Intelligence via Human-like Whole-Body Manipulation,  Astribot Team.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2507.15649">EMP</a>: Executable Motion Prior for Humanoid Robot Standing Upper-body Motion Imitation, Xu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://rchalyang.github.io/EgoVLA/">EgoVLA</a>: Learning Vision-Language-Action Models from Egocentric Human Videos, Yang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://robot-drummer.github.io/">Robot Drummer</a>: Learning Rhythmic Skills for Humanoid Drumming, Shahid et al.</li>
