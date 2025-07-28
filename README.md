@@ -70,6 +70,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICCV 2025)</b> <a href="https://arxiv.org/abs/2503.14919">GenM3</a>: Generative Pretrained Multi-path Motion Model for Text Conditional Human Motion Generation, Shi et al.</li>
         <li><b>(ICML 2025)</b> <a href="https://arxiv.org/abs/2410.03311">Being-M0</a>: Scaling Motion Generation Models with Million-Level Human Motions, Wang et al.</li>
         <li><b>(TOG 2025)</b> <a href="https://zhongleilz.github.io/Sketch2Anim/">Sketch2Anim</a>: Towards Transferring Sketch Storyboards into 3D Animation, Zhong et al.</li>
+        <li><b>(SIGGRAPH 2025)</b> <a href="https://dl.acm.org/doi/pdf/10.1145/3721238.3730611">Chen et al.</a>: Motion-example-controlled Co-speech Gesture Generation Leveraging Large Language Models, Chen et al.</li>
         <li><b>(SIGGRAPH 2025)</b> <a href="https://arxiv.org/abs/2505.14087">Chang et al.</a>: Large-Scale Multi-Character Interaction Synthesis, Chang et al.</li>
         <li><b>(SIGGRAPH 2025)</b> <a href="https://arxiv.org/abs/2502.17327">AnyTop</a>: Character Animation Diffusion with Any Topology, Gat et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://arxiv.org/abs/2505.00998">DSDFM</a>: Deterministic-to-Stochastic Diverse Latent Feature Mapping for Human Motion Synthesis, Hua et al.</li>
@@ -933,6 +934,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <ul style="margin-left: 5px;">
         <li><b>(ICCV 2025)</b> <a href="https://diffuman4d.github.io/">Diffuman4D</a>: 4D Consistent Human View Synthesis from Sparse-View Videos with Spatio-Temporal Diffusion Models, Jin et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://boqian-li.github.io/ETCH/">ETCH</a>: Generalizing Body Fitting to Clothed Humans via Equivariant Tightness, Li et al.</li>
+        <li><b>(ICML 2025)</b> <a href="https://arxiv.org/pdf/2505.10250">ADHMR</a>: Aligning Diffusion-based Human Mesh Recovery via Direct Preference Optimization, Shen et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://muelea.github.io/hsfm/">HSFM</a>: Reconstructing People, Places, and Cameras, M\"uller et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://prosepose.github.io/">Subramanian et al</a>: Pose Priors from Language Models, Subramanian et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://yufu-wang.github.io/phmr-page/">PromptHMR</a>: Embodied Promptable Human Mesh Recovery, Wang et al.</li>
@@ -950,6 +952,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://www.liuisabella.com/DG-Mesh/">Dynamic Gaussians Mesh</a>: Consistent Mesh Reconstruction from Dynamic Scenes, Liu et al.</li>
         <li><b>(3DV 2025)</b> <a href="https://camerahmr.is.tue.mpg.de/">CameraHMR</a>: Aligning People with Perspective, Patel et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://intelligentsensingandrehabilitation.github.io/MonocularBiomechanics/">Portable Biomechanics Laboratory</a>: Clinically Accessible Movement Analysis from a Handheld Smartphone, Peiffer et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://caizhongang.com/projects/SMPLer-X/">SMPLest-X</a>: CUltimate Scaling for Expressive Human Pose and Shape Estimation, Yin et al.</li>
     </ul></details>
     <details open>
     <summary><h3>2024</h3></summary>
@@ -961,6 +964,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ECCV 2024)</b> <a href="https://wqyin.github.io/projects/WHAC/">WHAC</a>: World-grounded Humans and Cameras, Yin et al.</li>
         <li><b>(ECCV 2024)</b> <a href="https://arxiv.org/pdf/2402.14654">Multi-HMR</a>: Multi-Person Whole-Body Human Mesh Recovery in a Single Shot, Baradel et al.</li>
         <li><b>(ECCV 2024)</b> <a href="https://www.meta.com/emerging-tech/codec-avatars/sapiens/?utm_source=about.meta.com&utm_medium=redirect">Sapiens</a>: Foundation for Human Vision Models, Khirodkar et al.</li>
+        <li><b>(CVPR 2024)</b> <a href="https://smplcap.github.io/AiOS/">AiOS</a>: All-in-One-Stage Expressive Human Pose and Shape Estimation, Sun et al.</li>
         <li><b>(CVPR 2024)</b> <a href="https://muelea.github.io/buddi/">Generative Proxemics</a>: A Prior for 3D Social Interaction from Images, M{\“u}ller et al.</li>
         <li><b>(CVPR 2024)</b> <a href="https://github.com/MartaYang/KITRO">KITRO</a>: Refining Human Mesh by 2D Clues and Kinematic-tree Rotation, Yang et al.</li>
         <li><b>(CVPR 2024)</b> <a href="https://tokenhmr.is.tue.mpg.de/">TokenHMR</a>: Advancing Human Mesh Recovery with a Tokenized Pose Representation, Dwivedi et al.</li>
@@ -971,6 +975,10 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details>
     <summary><h3>2023 and earlier</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(NeurIPS 2023)</b> <a href="https://caizhongang.com/projects/SMPLer-X/#target1">SMPLer-X</a>: Scaling Up Expressive Human Pose and Shape Estimation, Cai et al.</li>
+        <li><b>(NeurIPS 2023)</b> <a href="https://arxiv.org/pdf/2312.08730">RoboSMPLX</a>: Towards Robust and Expressive Whole-body Human Pose and Shape Estimation, Pang et al.</li>
+        <li><b>(ICCV 2023)</b> <a href="https://arxiv.org/pdf/2303.13796">Zolly</a>: Zoom Focal Length Correctly for Perspective-Distorted Human Mesh Reconstruction, Wang et al.</li>
+        <li><b>(ICCV 2023)</b> <a href="https://motionbert.github.io/">MotionBERT</a>: A Unified Perspective on Learning Human Motion Representations, Zhu et al.</li>
         <li><b>(ICCV 2023)</b> <a href="https://yufu-wang.github.io/refit_humans/">ReFit</a>: Recurrent Fitting Network for 3D Human Recovery, Wang et al.</li>
         <li><b>(ICCV 2023)</b> <a href="https://shubham-goel.github.io/4dhumans/">Humans in 4D</a>: Reconstructing and Tracking Humans with Transformers, Goel et al.</li>
         <li><b>(ICCV 2023)</b> <a href="https://eth-ait.github.io/emdb/">EMDB</a>: The Electromagnetic Database of Global 3D Human Pose and Shape in the Wild, Kaufmann et al.</li>
@@ -979,6 +987,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(CVPR 2023)</b> <a href="https://www.yusun.work/TRACE/TRACE.html">TRACE</a>: 5D Temporal Regression of Avatars with Dynamic Cameras in 3D Environments, Sun et al.</li>
         <li><b>(CVPR 2023)</b> <a href="https://ipman.is.tue.mpg.de/">IPMAN</a>: 3D Human Pose Estimation via Intuitive Physics, Tripathi et al.</li>
         <li><b>(CVPR 2023)</b> <a href="https://people.eecs.berkeley.edu/~jathushan/LART/">Rajasegaran et al</a>: On the Benefits of 3D Pose and Tracking for Human Action Recognition, Rajasegaran et al.</li>
+        <li><b>(NeurIPS 2022)</b> <a href="https://arxiv.org/pdf/2209.10529">Pang et al</a>: Benchmarking and Analyzing 3D Human Pose and Shape Estimation Beyond Algorithms, Pang et al.</li>
         <li><b>(ECCV 2022)</b> <a href="https://ethanweber.me/sitcoms3D/">Pavlakos et al</a>: The One Where They Reconstructed 3D Humans and Environments in TV Shows, Pavlakos et al.</li>
         <li><b>(CVPR 2022)</b> <a href="https://www.yusun.work/BEV/BEV.html">Putting People in their Place</a>: Monocular Regression of 3D People in Depth, Sun et al.</li>
         <li><b>(CVPR 2022)</b> <a href="https://geopavlakos.github.io/multishot/">Pavlakos et al</a>: Human Mesh Recovery from Multiple Shots, Pavlakos et al.</li>
@@ -1070,11 +1079,11 @@ An aggregation of human motion understanding research; feel free to contribute.
 <details open>
 <summary></summary>
 <ul style="margin-left: 5px;">
-    <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2507.17406">Aytekin et al</a>: Physics-based Human Pose Estimation from a Single Moving RGB Camera, Aytekin et al.</li>  
     <li><b>(CVPR 2025)</b> <a href="https://arxiv.org/pdf/2504.04708">SapiensID</a>: Foundation for Human Recognition, Kim et al.</li>
     <li><b>(CVPR 2025)</b> <a href="https://aviralchharia.github.io/MV-SSM/">MV-SSM</a>: Multi-View State Space Modeling for 3D Human Pose Estimation, Chharia et al.</li>
     <li><b>(CVPR 2025)</b> <a href="https://arxiv.org/abs/2412.10235">EnvPoser</a>: Environment-aware Realistic Human Motion Estimation from Sparse Observations with Uncertainty Modeling, Xia et al.</li>
     <li><b>(CVPR 2025)</b> <a href="https://mirapurkrabek.github.io/ProbPose/">ProbPose</a>: A Probabilistic Approach to 2D Human Pose Estimation, Purkrabek et al.</li>
+    <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2507.17406">Aytekin et al</a>: Physics-based Human Pose Estimation from a Single Moving RGB Camera, Aytekin et al.</li>  
     <li><b>(ECCV 2024)</b> <a href="https://www.meta.com/emerging-tech/codec-avatars/sapiens/?utm_source=about.meta.com&utm_medium=redirect">Sapiens</a>: Foundation for Human Vision Models, Khirodkar et al.</li>
     <li><b>(ICCV 2023)</b> <a href="https://arxiv.org/pdf/2308.07313">Group Pose</a>: A Simple Baseline for End-to-End Multi-person Pose Estimation, Liu et al.</li>
     <li><b>(CVPR 2023)</b> <a href="https://arxiv.org/pdf/2211.08834">GenVIS</a>: A Generalized Framework for Video Instance Segmentation, Heo et al.</li>
