@@ -146,6 +146,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2501.16551">PackDiT</a>: Joint Human Motion and Text Generation via Mutual Prompting, Jiang et al.</li>
         <li><b>(3DV 2025)</b> <a href="https://coral79.github.io/uni-motion/">Unimotion</a>: Unifying 3D Human Motion Synthesis and Understanding, Li et al.</li>
         <li><b>(3DV 2025)</b> <a href="https://cyk990422.github.io/HoloGest.github.io//">HoloGest</a>: Decoupled Diffusion and Motion Priors for Generating Holisticly Expressive Co-speech Gestures, Cheng et al.</li>
+        <li><b>(AAAI 2025)</b> <a href="https://yu1ut.com/ReMoGPT-HP/">RemoGPT</a>: Part-Level Retrieval-Augmented Motion-Language Models, Yu et al.</li>
         <li><b>(AAAI 2025)</b> <a href="https://hanyangclarence.github.io/unimumo_demo/">UniMuMo</a>: Unified Text, Music and Motion Generation, Yang et al.</li>
         <li><b>(AAAI 2025)</b> <a href="https://antgroup.github.io/ai/echomimic/">EchoMimic</a>: Lifelike Audio-Driven Portrait Animations through Editable Landmark Conditioning, Chen et al.</li>
         <li><b>(AAAI 2025)</b> <a href="https://arxiv.org/abs/2408.00352">ALERT-Motion</a>: Autonomous LLM-Enhanced Adversarial Attack for Text-to-Motion, Miao et al.</li>
@@ -476,6 +477,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <ul style="margin-left: 5px;">
         <li><b>(ICCV 2025)</b> <a href="http://inwoohwang.me/SceneMI">SceneMI</a>: Motion In-Betweening for Modeling Human-Scene Interactions, Hwang et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://arxiv.org/abs/2411.19921">SIMS</a>: Simulating Human-Scene Interactions with Real World Script Planning, Wang et al.</li>
+        <li><b>(ICCV 2025)</b> <a href="https://rms0329.github.io/Event-Driven-Storytelling/">Lim et al</a>: Event-Driven Storytelling with Multiple Lifelike Humans in a 3D scene, Lim et al.</li>
         <li><b>(ICME 2025)</b> <a href="https://tstmotion.github.io/">TSTMotion</a>: Training-free Scene-aware Text-to-motion Generation, Guo et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://openaccess.thecvf.com//content/CVPR2025/papers/Wang_HSI-GPT_A_General-Purpose_Large_Scene-Motion-Language_Model_for_Human_Scene_Interaction_CVPR_2025_paper.pdf">HSI-GPT</a>: A General-Purpose Large Scene-Motion-Language Model for Human Scene Interaction. Wang et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://gap3ds.github.io/">Vision-Guided Action</a>: Enhancing 3D Human Motion Prediction with Gaze-informed Affordance in 3D Scenes. Yu et al.</li>
@@ -550,6 +552,7 @@ An aggregation of human motion understanding research; feel free to contribute.
 <details open>
 <summary></summary>
 <ul style="margin-left: 5px;">
+    <li><b>(ICCV 2025)</b> <a href="https://sinc865.github.io/pino/">PINO</a>: Person-Interaction Noise Optimization for Long-Duration and Customizable Motion Generation of Arbitrary-Sized Groups, Ota et al.</li>
     <li><b>(SIGGRAPH 2025)</b> <a href="https://arxiv.org/abs/2505.17860">Xu et al</a>: Multi-Person Interaction Generation from Two-Person Motion Priors, Xu et al.</li>
     <li><b>(SIGGRAPH 2025)</b> <a href="https://arxiv.org/pdf/2506.18680">DuetGen</a>: Music Driven Two-Person Dance Generation via Hierarchical Masked Modeling, Ghosh et al.</li>
     <li><b>(CVPR 2025)</b> <a href="https://aigc-explorer.github.io/TIMotion-page/">TIMotion</a>: Temporal and Interactive Framework for Efficient Human-Human Motion Generation, Wang et al.</li>
