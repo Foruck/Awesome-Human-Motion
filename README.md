@@ -51,6 +51,8 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2025</h3></summary>
         <ul style="margin-left: 5px;">
+        <li><b>(ICCV 2025)</b> <a href="https://arxiv.org/abs/2507.19850">FineMotion</a>: A Dataset and Benchmark with both Spatial and Temporal Annotation for Fine-grained Motion Generation and Editing, Wu et al.</li>
+        <li><b>(ICCV 2025)</b> <a href="https://arxiv.org/abs/2507.20170">PUMPS</a>: Skeleton-Agnostic Point-based Universal Motion Pre-Training for Synthesis in Human Motion Tasks, Mo et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://research.nvidia.com/labs/dair/genmo/">GENMO</a>: A GENeralist Model for Human MOtion, Li et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://arxiv.org/abs/2411.18303">InfiniDreamer</a>: Arbitrarily Long Human Motion Generation via Segment Score Distillation, Zhuo et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://github.com/VankouF/MotionMillion-Codes">Go to Zero</a>: Towards Zero-shot Motion Generation with Million-scale Data, Fan et al.</li>
@@ -58,7 +60,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICCV 2025)</b> <a href="https://whwjdqls.github.io/discord.github.io/">DisCoRD</a>: Discrete Tokens to Continuous Motion via Rectified Flow Decoding, Cho et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://xiangyuezhang.com/SemTalk/">SemTalk</a>: Holistic Co-speech Motion Generation with Frame-level Semantic Emphasis, Zhang et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://andypinxinliu.github.io/KinMo/">KinMo</a>: Kinematic-aware Human Motion Understanding and Generation, Zhang et al.</li>
-        <li><b>(ICCV 2025)</b> <a href="https://andypinxinliu.github.io/GestureLSM/">GestureLSM</a>: Latent Shortcut based Co-Speech Gesture Generation with Spatial-Temporal Modeling, Liu et al.</li>
+        <li><b>(ICCV 2025)</b> <a href="https://andypinxinliu.github.io/GestureLSM/">GestureLSM</a>: Latent Shortcut-based Co-Speech Gesture Generation with Spatial-Temporal Modeling, Liu et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://zju3dv.github.io/Motion-2-to-3/">Motion-2-to-3</a>: Leveraging 2D Motion Data to Boost 3D Motion Generation, Pi et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://diouo.github.io/motionlab.github.io/">MotionLab</a>: Unified Human Motion Generation and Editing via the Motion-Condition-Motion Paradigm, Guo et al.</li>
         <li><b>(ICCV 2025)</b> <a href="http://inwoohwang.me/SFControl">SFControl</a>: Motion Synthesis with Sparse and Flexible Keyjoint Control, Hwang et al.</li>
@@ -68,9 +70,10 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICCV 2025)</b> <a href="https://jackyu6.github.io/HERO/">HERO</a>: Human Reaction Generation from Videos, Yu et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://zju3dv.github.io/MotionStreamer/">MotionStreamer</a>: Streaming Motion Generation via Diffusion-based Autoregressive Model in Causal Latent Space, Xiao et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://arxiv.org/abs/2503.14919">GenM3</a>: Generative Pretrained Multi-path Motion Model for Text Conditional Human Motion Generation, Shi et al.</li>
+        <li><b>(ACM MM 2025)</b> <a href="https://arxiv.org/abs/2507.19836">ChoreoMuse</a>: Robust Music-to-Dance Video Generation with Style Transfer and Beat-Adherent Motion, Wang et al.</li>
         <li><b>(ICML 2025)</b> <a href="https://arxiv.org/abs/2410.03311">Being-M0</a>: Scaling Motion Generation Models with Million-Level Human Motions, Wang et al.</li>
         <li><b>(TOG 2025)</b> <a href="https://zhongleilz.github.io/Sketch2Anim/">Sketch2Anim</a>: Towards Transferring Sketch Storyboards into 3D Animation, Zhong et al.</li>
-        <li><b>(SIGGRAPH 2025)</b> <a href="https://dl.acm.org/doi/pdf/10.1145/3721238.3730611">Chen et al.</a>: Motion-example-controlled Co-speech Gesture Generation Leveraging Large Language Models, Chen et al.</li>
+        <li><b>(SIGGRAPH 2025)</b> <a href="https://robinwitch.github.io/MECo-Page/">MECo</a>: Motion-example-controlled Co-speech Gesture Generation Leveraging Large Language Models, Chen et al.</li>
         <li><b>(SIGGRAPH 2025)</b> <a href="https://arxiv.org/abs/2505.14087">Chang et al.</a>: Large-Scale Multi-Character Interaction Synthesis, Chang et al.</li>
         <li><b>(SIGGRAPH 2025)</b> <a href="https://arxiv.org/abs/2502.17327">AnyTop</a>: Character Animation Diffusion with Any Topology, Gat et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://arxiv.org/abs/2505.00998">DSDFM</a>: Deterministic-to-Stochastic Diverse Latent Feature Mapping for Human Motion Synthesis, Hua et al.</li>
@@ -725,7 +728,8 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/abs/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
-        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2507.17141">Astribot</a>: Towards Human-level Intelligence via Human-like Whole-Body Manipulation,  Astribot Team.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2507.20217">Humanoid Occupancy</a>: Enabling A Generalized Multimodal Occupancy Perception System on Humanoid Robots, Cui et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2507.17141">Astribot</a>: Towards Human-level Intelligence via Human-like Whole-Body Manipulation, Astribot Team.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2507.15649">EMP</a>: Executable Motion Prior for Humanoid Robot Standing Upper-body Motion Imitation, Xu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://rchalyang.github.io/EgoVLA/">EgoVLA</a>: Learning Vision-Language-Action Models from Egocentric Human Videos, Yang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://robot-drummer.github.io/">Robot Drummer</a>: Learning Rhythmic Skills for Humanoid Drumming, Shahid et al.</li>
