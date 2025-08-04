@@ -729,6 +729,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/abs/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.00362">Chen et al</a>: A Whole-Body Motion Imitation Framework from Human Data for Full-Size Humanoid Robot, Chen et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2507.20217">Humanoid Occupancy</a>: Enabling A Generalized Multimodal Occupancy Perception System on Humanoid Robots, Cui et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2507.17141">Astribot</a>: Towards Human-level Intelligence via Human-like Whole-Body Manipulation, Astribot Team.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2507.15649">EMP</a>: Executable Motion Prior for Humanoid Robot Standing Upper-body Motion Imitation, Xu et al.</li>
@@ -885,6 +886,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <li><b>(RA-L 2025)</b> <a href="https://arxiv.org/abs/2504.10102">Mobedi et al</a>: A Framework for Adaptive Load Redistribution in Human-Exoskeleton-Cobot Systems, Mobedi et al.</li>
     <li><b>(Preprint 2025)</b> <a href="https://github.com/stanfordnmbl/GaitDynamics">GaitDynamics</a>: A Foundation Model for Analyzing Gait Dynamics, Tan et al.</li>
     <li><b>(bioRxiv 2025)</b> <a href="https://www.biorxiv.org/content/10.1101/2025.06.24.660703v1.full.pdf">Richards et al</a>: Visualising joint force-velocity proper es in musculoskeletal models, Richards et al.</li>
+    <li><b>(ArXiv 2025)</b> <a href="https://intelligentsensingandrehabilitation.github.io/MonocularBiomechanics/">CADS</a>: A Comprehensive Anatomical Dataset and Segmentation for Whole-Body Anatomy in Computed Tomography, Xu et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://intelligentsensingandrehabilitation.github.io/MonocularBiomechanics/">Portable Biomechanics Laboratory</a>: Clinically Accessible Movement Analysis from a Handheld Smartphone, Peiffer et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2507.01340">Le et al</a>: Physics-informed Ground Reaction Dynamics from Human Motion Capture, Le et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2506.00071">SMS-Human</a>: Human sensory-musculoskeletal modeling and control of whole-body movements, Zuo et al.</li>
