@@ -51,6 +51,8 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2025</h3></summary>
         <ul style="margin-left: 5px;">
+        <li><b>(ICCV 2025)</b> <a href="https://chaitanya100100.github.io/UniEgoMotion/">UniEgoMotion</a>: A Unified Model for Egocentric Motion Reconstruction, Forecasting, and Generation, Patel et al.</li>
+        <li><b>(ICCV 2025)</b> <a href="https://humanx-interaction.github.io/">Towards Immersive Human-X Interaction</a>: A Real-Time Framework for Physically Plausible Motion Synthesis, Ji et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://arxiv.org/abs/2507.19850">FineMotion</a>: A Dataset and Benchmark with both Spatial and Temporal Annotation for Fine-grained Motion Generation and Editing, Wu et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://arxiv.org/abs/2507.20170">PUMPS</a>: Skeleton-Agnostic Point-based Universal Motion Pre-Training for Synthesis in Human Motion Tasks, Mo et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://research.nvidia.com/labs/dair/genmo/">GENMO</a>: A GENeralist Model for Human MOtion, Li et al.</li>
@@ -107,8 +109,10 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://openreview.net/forum?id=Oh8MuCacJW">Lyu et al</a>: Towards Unified Human Motion-Language Understanding via Sparse Interpretable Characterization, Lyu et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://zkf1997.github.io/DART/">DART</a>: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control, Zhao et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://knoxzhao.github.io/Motion-Agent/">Motion-Agent</a>: A Conversational Framework for Human Motion Generation with LLMs, Wu et al.</li>
+        <li><b>(TMM 2025)</b> <a href="https://arxiv.org/abs/2508.01590">MCG-IMM</a>: A Plug-and-Play Multi-Criteria Guidance for Diverse In-Betweening Human Motion Generation, Yu et al.</li>
         <li><b>(IJCV 2025)</b> <a href="https://arxiv.org/abs/2502.05534">Fg-T2M++</a>: LLMs-Augmented Fine-Grained Text Driven Human Motion Generation, Wang et al.</li>
         <li><b>(TCSVT 2025)</b> <a href="https://arxiv.org/abs/2503.13300">Zeng et al</a>: Progressive Human Motion Generation Based on Text and Few Motion Frames, Zeng et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://aigeeksgroup.github.io/ReMoMask/">ReMoMask</a>: Retrieval-Augmented Masked Motion Generation, Li et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://omni-avatar.github.io/">OmniAvatar</a>: Efficient Audio-Driven Avatar Video Generation with Adaptive Body Animation, Gan et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://dorniwang.github.io/SpeakerVid-5M/">SpeakerVid-5M</a>: A Large-Scale High-Quality Dataset for audio-visual Dyadic Interactive Human Generation, Zhang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://www.arxiv.org/pdf/2507.03905">EchoMimicV3</a>: 1.3B Parameters are All You Need for Unified Multi-Modal and Multi-Task Human Animation, Meng et al.</li>
@@ -729,6 +733,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/abs/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.01247">SE-Policy</a>: Coordinated Humanoid Robot Locomotion with Symmetry Equivariant Reinforcement Learning Policy, Nie et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.00362">Chen et al</a>: A Whole-Body Motion Imitation Framework from Human Data for Full-Size Humanoid Robot, Chen et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2507.20217">Humanoid Occupancy</a>: Enabling A Generalized Multimodal Occupancy Perception System on Humanoid Robots, Cui et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2507.17141">Astribot</a>: Towards Human-level Intelligence via Human-like Whole-Body Manipulation, Astribot Team.</li>
