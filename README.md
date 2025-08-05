@@ -52,7 +52,6 @@ An aggregation of human motion understanding research; feel free to contribute.
     <summary><h3>2025</h3></summary>
         <ul style="margin-left: 5px;">
         <li><b>(ICCV 2025)</b> <a href="https://chaitanya100100.github.io/UniEgoMotion/">UniEgoMotion</a>: A Unified Model for Egocentric Motion Reconstruction, Forecasting, and Generation, Patel et al.</li>
-        <li><b>(ICCV 2025)</b> <a href="https://humanx-interaction.github.io/">Towards Immersive Human-X Interaction</a>: A Real-Time Framework for Physically Plausible Motion Synthesis, Ji et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://arxiv.org/abs/2507.19850">FineMotion</a>: A Dataset and Benchmark with both Spatial and Temporal Annotation for Fine-grained Motion Generation and Editing, Wu et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://arxiv.org/abs/2507.20170">PUMPS</a>: Skeleton-Agnostic Point-based Universal Motion Pre-Training for Synthesis in Human Motion Tasks, Mo et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://research.nvidia.com/labs/dair/genmo/">GENMO</a>: A GENeralist Model for Human MOtion, Li et al.</li>
@@ -561,6 +560,7 @@ An aggregation of human motion understanding research; feel free to contribute.
 <details open>
 <summary></summary>
 <ul style="margin-left: 5px;">
+    <li><b>(ICCV 2025)</b> <a href="https://humanx-interaction.github.io/">Towards Immersive Human-X Interaction</a>: A Real-Time Framework for Physically Plausible Motion Synthesis, Ji et al.</li>
     <li><b>(ICCV 2025)</b> <a href="https://sinc865.github.io/pino/">PINO</a>: Person-Interaction Noise Optimization for Long-Duration and Customizable Motion Generation of Arbitrary-Sized Groups, Ota et al.</li>
     <li><b>(SIGGRAPH 2025)</b> <a href="https://arxiv.org/abs/2505.17860">Xu et al</a>: Multi-Person Interaction Generation from Two-Person Motion Priors, Xu et al.</li>
     <li><b>(SIGGRAPH 2025)</b> <a href="https://arxiv.org/pdf/2506.18680">DuetGen</a>: Music Driven Two-Person Dance Generation via Hierarchical Masked Modeling, Ghosh et al.</li>
