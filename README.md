@@ -712,6 +712,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(RSS 2025)</b> <a href="https://humanoid-getup.github.io/">HumanUP</a>: Learning Getting-Up Policies for Real-World Humanoid Robots, He et al.</li>
         <li><b>(RSS 2025)</b> <a href="https://arxiv.org/abs/2504.17249">Demonstrating Berkeley Humanoid Lite</a>: An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot, Chi et al.</li>
         <li><b>(RSS 2025)</b> <a href="https://amo-humanoid.github.io/">AMO</a>: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control, Li et al.</li>
+        <li><b>(SIGGRPAH 2025)</b> <a href="https://arxiv.org/abs/2503.11801">Diffuse-CLoC</a>: Guided Diffusion for Physics-based Character Look-ahead Control, Huang et al.</li>
         <li><b>(SIGGRAPH 2025)</b> <a href="https://arxiv.org/abs/2505.23708">AMOR</a>: Adaptive Character Control through Multi-Objective Reinforcement Learning, Alegre et al.</li>
         <li><b>(SIGGRAPH 2025)</b> <a href="https://arxiv.org/abs/2505.04002">PARC</a>: Physics-based Augmentation with Reinforcement Learning for Character Controllers, Xu et al.</li>
         <li><b>(SIGGRAPH 2025)</b> <a href="https://arxiv.org/abs/2505.02094">SkillMimic-v2</a>: Learning Robust and Generalizable Interaction Skills from Sparse and Noisy Demonstrations, Yu et al.</li>
@@ -784,7 +785,6 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2503.14734">GR00T N1</a>: An Open Foundation Model for Generalist Humanoid Robots, NVIDIA.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://styleloco.github.io/">StyleLoco</a>: Generative Adversarial Distillation for Natural Humanoid Robot Locomotion, Ma et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2503.14637">KINESIS</a>: Reinforcement Learning-Based Motion Imitation for Physiologically Plausible Musculoskeletal Motor Control, Simos et al.</li>
-        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2503.11801">Diffuse-CLoC</a>: Guided Diffusion for Physics-based Character Look-ahead Control, Huang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://sites.google.com/view/humanoid-gmp">GMP</a>: Natural Humanoid Robot Locomotion with Generative Motion Prior, Zhang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2503.00692">Sun et al</a>: Learning Perceptive Humanoid Locomotion over Challenging Terrain, Sun et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2503.00923">HWC-Loco</a>: A Hierarchical Whole-Body Control Approach to Robust Humanoid Locomotion, Lin et al.</li>
