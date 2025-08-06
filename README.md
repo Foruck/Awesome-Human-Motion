@@ -703,6 +703,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2025</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(CoRL 2025)</b> <a href="https://arxiv.org/abs/2508.03068">Hand-Eye Autonomous Delivery</a>: Learning Humanoid Navigation, Locomotion and Reaching, Ye et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://arxiv.org/abs/2411.19921">SIMS</a>: Simulating Human-Scene Interactions with Real World Script Planning, Wang et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://arxiv.org/abs/2502.14140">ModSkill</a>: Physical Character Skill Modularization, Huang et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://wuyan01.github.io/uniphys-project/">UniPhys</a>: Unified Planner and Controller with Diffusion for Flexible Physics-Based Character Control, Wu et al.</li>
@@ -963,6 +964,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(CVPR 2025 workshop)</b> <a href="https://arxiv.org/pdf/2504.09953">Ludwig et al</a>: Efficient 2D to Full 3D Human Pose Uplifting including Joint Rotations, Ludwig et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://www.liuisabella.com/DG-Mesh/">Dynamic Gaussians Mesh</a>: Consistent Mesh Reconstruction from Dynamic Scenes, Liu et al.</li>
         <li><b>(3DV 2025)</b> <a href="https://camerahmr.is.tue.mpg.de/">CameraHMR</a>: Aligning People with Perspective, Patel et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.03313">BaroPoser</a>: Real-time Human Motion Tracking from IMUs and Barometers in Everyday Devices, Zhang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://intelligentsensingandrehabilitation.github.io/MonocularBiomechanics/">Portable Biomechanics Laboratory</a>: Clinically Accessible Movement Analysis from a Handheld Smartphone, Peiffer et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://caizhongang.com/projects/SMPLer-X/">SMPLest-X</a>: CUltimate Scaling for Expressive Human Pose and Shape Estimation, Yin et al.</li>
     </ul></details>
@@ -970,7 +972,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <summary><h3>2024</h3></summary>
     <ul style="margin-left: 5px;">
         <li><b>(SIGGRAPH Asia 2024)</b> <a href="https://zju3dv.github.io/gvhmr/">GVHMR</a>: World-Grounded Human Motion Recovery via Gravity-View Coordinates, Shen et al.</li>
-        <li><b>(NeurIPS 2024)</b> <a href="https://evahuman.github.io/">EVAHuman</a>:Expressive Gaussian Human Avatars from Monocular RGB Video, Hu et al.</li>
+        <li><b>(NeurIPS 2024)</b> <a href="https://evahuman.github.io/">EVAHuman</a>: Expressive Gaussian Human Avatars from Monocular RGB Video, Hu et al.</li>
         <li><b>(ECCV 2024)</b> <a href="https://yufu-wang.github.io/tram4d/">TRAM</a>: Global Trajectory and Motion of 3D Humans from in-the-wild Videos, Wang et al.</li>
         <li><b>(ECCV 2024)</b> <a href="https://moygcc.github.io/ReLoo/">ReLoo</a>: Reconstructing Humans Dressed in Loose Garments from Monocular Video in the Wild, Guo et al.</li>
         <li><b>(ECCV 2024)</b> <a href="https://wqyin.github.io/projects/WHAC/">WHAC</a>: World-grounded Humans and Cameras, Yin et al.</li>
