@@ -387,6 +387,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2025</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ICCV 2025)</b> <a href="https://liangxuy.github.io/InterVLA/">Perceiving and Acting in First-Person</a>: A Dataset and Benchmark for Egocentric Human-Object-Human Interactions, Xu et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://virtualhumans.mpi-inf.mpg.de/tridi/">TriDi</a>: Trilateral Diffusion of 3D Humans, Objects and Interactions, Petrov et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://arxiv.org/abs/2411.16216">SMGDiff</a>: Soccer Motion Generation using diffusion probabilistic models, Yang et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://syncdiff.github.io/">SyncDiff</a>: Synchronized Motion Diffusion for Multi-Body Human-Object Interaction Synthesis, He et al.</li>
@@ -560,6 +561,7 @@ An aggregation of human motion understanding research; feel free to contribute.
 <details open>
 <summary></summary>
 <ul style="margin-left: 5px;">
+    <li><b>(ICCV 2025)</b> <a href="https://liangxuy.github.io/InterVLA/">Perceiving and Acting in First-Person</a>: A Dataset and Benchmark for Egocentric Human-Object-Human Interactions, Xu et al.</li>
     <li><b>(ICCV 2025)</b> <a href="https://humanx-interaction.github.io/">Towards Immersive Human-X Interaction</a>: A Real-Time Framework for Physically Plausible Motion Synthesis, Ji et al.</li>
     <li><b>(ICCV 2025)</b> <a href="https://sinc865.github.io/pino/">PINO</a>: Person-Interaction Noise Optimization for Long-Duration and Customizable Motion Generation of Arbitrary-Sized Groups, Ota et al.</li>
     <li><b>(SIGGRAPH 2025)</b> <a href="https://arxiv.org/abs/2505.17860">Xu et al</a>: Multi-Person Interaction Generation from Two-Person Motion Priors, Xu et al.</li>
@@ -605,6 +607,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2025</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ICCV 2025)</b> <a href="https://liangxuy.github.io/InterVLA/">Perceiving and Acting in First-Person</a>: A Dataset and Benchmark for Egocentric Human-Object-Human Interactions, Xu et al.</li>
         <li><b>(Bioengineering 2025)</b> <a href="https://www.mdpi.com/2306-5354/12/3/317">MeLLO</a>: The Utah Manipulation and Locomotion of Large Objects (MeLLO) Data Library, Luttmer et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://fudan-generative-vision.github.io/OpenHumanVid/#/">OpenHumanVid</a>: A Large-Scale High-Quality Dataset for Enhancing Human-Centric Video Generation, Xu et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://github.com/wzyabcas/InterAct">InterAct</a>: Advancing Large-Scale Versatile 3D Human-Object Interaction Generation, Xu et al.</li>
