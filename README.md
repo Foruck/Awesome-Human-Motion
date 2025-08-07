@@ -706,6 +706,8 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2025</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(CoRL 2025)</b> <a href="https://hub-robot.github.io/">HuB</a>: Learning Extreme Humanoid Balance, Zhang et al.</li>
+        <li><b>(CoRL 2025)</b> <a href="https://humanoid-clone.github.io/">CLONE</a>: Closed-Loop Whole-Body Humanoid Teleoperation for Long-Horizon Tasks, Li et al.</li>
         <li><b>(CoRL 2025)</b> <a href="https://arxiv.org/abs/2508.03068">Hand-Eye Autonomous Delivery</a>: Learning Humanoid Navigation, Locomotion and Reaching, Ye et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://arxiv.org/abs/2411.19921">SIMS</a>: Simulating Human-Scene Interactions with Real World Script Planning, Wang et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://arxiv.org/abs/2502.14140">ModSkill</a>: Physical Character Skill Modularization, Huang et al.</li>
@@ -716,6 +718,8 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(RSS 2025)</b> <a href="https://humanoid-getup.github.io/">HumanUP</a>: Learning Getting-Up Policies for Real-World Humanoid Robots, He et al.</li>
         <li><b>(RSS 2025)</b> <a href="https://arxiv.org/abs/2504.17249">Demonstrating Berkeley Humanoid Lite</a>: An Open-source, Accessible, and Customizable 3D-printed Humanoid Robot, Chi et al.</li>
         <li><b>(RSS 2025)</b> <a href="https://amo-humanoid.github.io/">AMO</a>: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control, Li et al.</li>
+        <li><b>(RSS 2025)</b> <a href="https://taohuang13.github.io/humanoid-standingup.github.io/">HoST</a>: Learning Humanoid Standing-up Control across Diverse Postures, Huang et al.</li>
+        <li><b>(RSS 2025 Workshop)</b> <a href="https://exbody2.github.io/">Exbody2</a>: Advanced Expressive Humanoid Whole-Body Control, Ji et al.</li>
         <li><b>(SIGGRPAH 2025)</b> <a href="https://arxiv.org/abs/2503.11801">Diffuse-CLoC</a>: Guided Diffusion for Physics-based Character Look-ahead Control, Huang et al.</li>
         <li><b>(SIGGRAPH 2025)</b> <a href="https://arxiv.org/abs/2505.23708">AMOR</a>: Adaptive Character Control through Multi-Objective Reinforcement Learning, Alegre et al.</li>
         <li><b>(SIGGRAPH 2025)</b> <a href="https://arxiv.org/abs/2505.04002">PARC</a>: Physics-based Augmentation with Reinforcement Learning for Character Controllers, Xu et al.</li>
@@ -756,7 +760,6 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2506.13751">LeVERB</a>: Humanoid Whole-Body Control with Latent Vision-Language Instruction, Xue et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://gmt-humanoid.github.io/">GMT</a>: General Motion Tracking for Humanoid Whole-Body Control, Chen et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://kungfu-bot.github.io/">KungfuBot</a>: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills, Xie et al.</li>
-        <li><b>(ArXiv 2025)</b> <a href="https://humanoid-clone.github.io/">CLONE</a>: Closed-Loop Whole-Body Humanoid Teleoperation for Long-Horizon Tasks, Li et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://usc-gvl.github.io/SkillBlender-web/">SkillBlender</a>: Towards Versatile Humanoid Whole-Body Loco-Manipulation via Skill Blending, Kuang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://lecar-lab.github.io/SoFTA/">Hold My Beer🍻</a>: Learning Gentle Humanoid Locomotion and End-Effector Stabilization Control, Li et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://younggyo.me/fast_td3/">FastTD3</a>: Simple, Fast, and Capable Reinforcement Learning for Humanoid Control, Seo et al.</li>
@@ -774,7 +777,6 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2505.11494">SHIELD</a>: Safety on Humanoids via CBFs In Expectation on Learned Dynamics, Yang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2505.06584">JAEGER</a>: Dual-Level Humanoid Whole-Body Controller, Ding et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://lecar-lab.github.io/falcon-humanoid/">FALCON</a>: Learning Force-Adaptive Humanoid Loco-Manipulation, Zhang et al.</li>
-        <li><b>(ArXiv 2025)</b> <a href="https://hub-robot.github.io/">HuB</a>: Learning Extreme Humanoid Balance, Zhang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2505.04961">ADD</a>: Physics-Based Motion Imitation with Adversarial Differential Discriminators, Zhang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://www.videomimic.net/">VideoMimic</a>: Visual imitation enables contextual humanoid control, Allshire et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2505.02833">TWIST</a>: Teleoperated Whole-Body Imitation System, Ze et al.</li>
@@ -798,7 +800,6 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2502.14795">Humanoid-VLA</a>: Towards Universal Humanoid Control with Visual Integration, Ding et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2502.13707">Li et al</a>: Human-Like Robot Impedance Regulation Skill Learning from Human-Human Demonstrations, Li et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://humanoid-interaction.github.io/">RHINO</a>: Learning Real-Time Humanoid-Human-Object Interaction from Human Demonstrations, Chen et al.</li>
-        <li><b>(ArXiv 2025)</b> <a href="https://taohuang13.github.io/humanoid-standingup.github.io/">HoST</a>: Learning Humanoid Standing-up Control across Diverse Postures, Huang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2502.01465">Embrace Collisions</a>: Humanoid Shadowing for Deployable Contact-Agnostics Motion, Zhuang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://toddlerbot.github.io/">ToddlerBot</a>: Open-Source ML-Compatible Humanoid Platform for Loco-Manipulation, Shi et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2501.02116">Gu et al</a>: Humanoid Locomotion and Manipulation: Current Progress and Challenges in Control, Planning, and Learning, Gu et al.</li>
@@ -808,7 +809,6 @@ An aggregation of human motion understanding research; feel free to contribute.
     <ul style="margin-left: 5px;">
         <li><b>(ArXiv 2024)</b> <a href="https://usc-gvl.github.io/UH-1/">UH-1</a>: Learning from Massive Human Videos for Universal Humanoid Pose Control, Mao et al.</li>
         <li><b>(ArXiv 2024)</b> <a href="https://mimicking-bench.github.io/">Mimicking-Bench</a>: A Benchmark for Generalizable Humanoid-Scene Interaction Learning via Human Mimicking, Liu et al. </li>
-        <li><b>(ArXiv 2024)</b> <a href="https://exbody2.github.io/">Exbody2</a>: Advanced Expressive Humanoid Whole-Body Control, Ji et al.</li>
         <li><b>(ArXiv 2024)</b> <a href="https://smplolympics.github.io/SMPLOlympics">Humanoidlympics</a>: Sports Environments for Physically Simulated Humanoids, Luo et al.</li>
         <li><b>(ArXiv 2024)</b> <a href="https://wyhuai.github.io/physhoi-page/">PhySHOI</a>: Physics-Based Imitation of Dynamic Human-Object Interaction, Wang et al.</li>
         <li><b>(RA-L 2024)</b> <a href="https://arxiv.org/abs/2505.19580">Murooka et al</a>:  Whole-body Multi-contact Motion Control for Humanoid Robots Based on Distributed Tactile Sensors, Murooka et al.</li>
