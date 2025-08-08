@@ -111,6 +111,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(TMM 2025)</b> <a href="https://arxiv.org/abs/2508.01590">MCG-IMM</a>: A Plug-and-Play Multi-Criteria Guidance for Diverse In-Betweening Human Motion Generation, Yu et al.</li>
         <li><b>(IJCV 2025)</b> <a href="https://arxiv.org/abs/2502.05534">Fg-T2M++</a>: LLMs-Augmented Fine-Grained Text Driven Human Motion Generation, Wang et al.</li>
         <li><b>(TCSVT 2025)</b> <a href="https://arxiv.org/abs/2503.13300">Zeng et al</a>: Progressive Human Motion Generation Based on Text and Few Motion Frames, Zeng et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.05162">X-MoGen</a>: Unified Motion Generation across Humans and Animals, Wang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://aigeeksgroup.github.io/ReMoMask/">ReMoMask</a>: Retrieval-Augmented Masked Motion Generation, Li et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://omni-avatar.github.io/">OmniAvatar</a>: Efficient Audio-Driven Avatar Video Generation with Adaptive Body Animation, Gan et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://dorniwang.github.io/SpeakerVid-5M/">SpeakerVid-5M</a>: A Large-Scale High-Quality Dataset for audio-visual Dyadic Interactive Human Generation, Zhang et al.</li>
