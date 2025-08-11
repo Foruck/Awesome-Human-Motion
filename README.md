@@ -388,6 +388,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2025</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ACM MM 2025)</b> <a href="https://arxiv.org/abs/2508.06205">PA-HOI</a>: A Physics-Aware Human and Object Interaction Dataset, Wang et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://liangxuy.github.io/InterVLA/">Perceiving and Acting in First-Person</a>: A Dataset and Benchmark for Egocentric Human-Object-Human Interactions, Xu et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://virtualhumans.mpi-inf.mpg.de/tridi/">TriDi</a>: Trilateral Diffusion of 3D Humans, Objects and Interactions, Petrov et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://arxiv.org/abs/2411.16216">SMGDiff</a>: Soccer Motion Generation using diffusion probabilistic models, Yang et al.</li>
@@ -572,6 +573,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <li><b>(ICLR 2025)</b> <a href="https://zju3dv.github.io/ready_to_react/">Ready-to-React</a>: Online Reaction Policy for Two-Character Interaction Generation, Cen et al.</li>
     <li><b>(ICLR 2025)</b> <a href="https://gohar-malik.github.io/intermask">InterMask</a>: 3D Human Interaction Generation via Collaborative Masked Modelling, Javed et al.</li>
     <li><b>(3DV 2025)</b> <a href="https://arxiv.org/abs/2312.08983">Interactive Humanoid</a>: Online Full-Body Motion Reaction Synthesis with Social Affordance Canonicalization and Forecasting, Liu et al.</li>
+    <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2506.22554">E-React</a>: Towards Emotionally Controlled Synthesis of Human Reactions, Zhu et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2506.22554">Seamless Interaction</a>: Dyadic Audiovisual Motion Modeling and Large-Scale Dataset, Agrawal et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2506.13040">MAMMA</a>: Markerless & Automatic Multi-Person Motion Action Capture, Cuevas-Velasquez et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://yw0208.github.io/physiinter/">PhysInter</a>: Integrating Physical Mapping for High-Fidelity Human Interaction Generation, Yao et al.</li>
