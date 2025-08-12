@@ -421,7 +421,8 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(3DV 2025)</b> <a href="https://virtualhumans.mpi-inf.mpg.de/InterTrack/">InterTrack</a>: Tracking Human Object Interaction without Object Templates, Xie et al.</li>
         <li><b>(3DV 2025)</b> <a href="https://arxiv.org/abs/2403.11237">FORCE</a>: Dataset and Method for Intuitive Physics Guided Human-object Interaction, Zhang et al.</li>
         <li><b>(PAMI 2025)</b> <a href="https://arxiv.org/abs/2503.00382">EigenActor</a>: Variant Body-Object Interaction Generation Evolved from Invariant Action Basis Reasoning, Guo et al.</li>
-        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2507.01737">HOI-Dyn</a>:  Learning Interaction Dynamics for Human-Object Motion Diffusion, Wu et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.07162">CoopDiff</a>: Anticipating 3D Human-object Interactions via Contact-consistent Decoupled Diffusion, Lin et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2507.01737">HOI-Dyn</a>: Learning Interaction Dynamics for Human-Object Motion Diffusion, Wu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://hoidini.github.io/">HOIDiNi</a>: Human-Object Interaction through Diffusion Noise Optimization, Ron et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2506.15483">GenHOI</a>: Generalizing Text-driven 4D Human-Object Interaction Synthesis for Unseen Objects, Li et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://hoipage.github.io/">HOI-PAGE</a>: Zero-Shot Human-Object Interaction Generation with Part Affordance Guidance, Li et al.</li>
@@ -485,6 +486,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2025</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ICCV 2025)</b> <a href="https://beingbeyond.github.io/Being-M0.5/">Being-M0.5</a>: A Real-Time Controllable Vision-Language-Motion Model, Cao et al.</li>
         <li><b>(ICCV 2025)</b> <a href="http://inwoohwang.me/SceneMI">SceneMI</a>: Motion In-Betweening for Modeling Human-Scene Interactions, Hwang et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://arxiv.org/abs/2411.19921">SIMS</a>: Simulating Human-Scene Interactions with Real World Script Planning, Wang et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://rms0329.github.io/Event-Driven-Storytelling/">Lim et al</a>: Event-Driven Storytelling with Multiple Lifelike Humans in a 3D scene, Lim et al.</li>
@@ -610,7 +612,8 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2025</h3></summary>
     <ul style="margin-left: 5px;">
-        <li><b>(ICCV 2025)</b> <a href="https://liangxuy.github.io/InterVLA/">Perceiving and Acting in First-Person</a>: A Dataset and Benchmark for Egocentric Human-Object-Human Interactions, Xu et al.</li>
+        <li><b>(ICCV 2025)</b> <a href="https://arxiv.org/abs/2508.08179">PP-Motion</a>: Physical-Perceptual Fidelity Evaluation for Human Motion Generation, Zhao et al.</li>
+        <li><b>(ACM MM 2025)</b> <a href="https://liangxuy.github.io/InterVLA/">Perceiving and Acting in First-Person</a>: A Dataset and Benchmark for Egocentric Human-Object-Human Interactions, Xu et al.</li>
         <li><b>(Bioengineering 2025)</b> <a href="https://www.mdpi.com/2306-5354/12/3/317">MeLLO</a>: The Utah Manipulation and Locomotion of Large Objects (MeLLO) Data Library, Luttmer et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://fudan-generative-vision.github.io/OpenHumanVid/#/">OpenHumanVid</a>: A Large-Scale High-Quality Dataset for Enhancing Human-Centric Video Generation, Xu et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://github.com/wzyabcas/InterAct">InterAct</a>: Advancing Large-Scale Versatile 3D Human-Object Interaction Generation, Xu et al.</li>
@@ -745,6 +748,8 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/abs/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.07611">SafeHumanoidsPolicy</a>: End-to-End Humanoid Robot Safe and Comfortable Locomotion Policy, Wang et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.08241">BeyondMimic</a>: From Motion Tracking to Versatile Humanoid Control via Guided Diffusion, Truong et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.01247">SE-Policy</a>: Coordinated Humanoid Robot Locomotion with Symmetry Equivariant Reinforcement Learning Policy, Nie et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.00362">Chen et al</a>: A Whole-Body Motion Imitation Framework from Human Data for Full-Size Humanoid Robot, Chen et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2507.20217">Humanoid Occupancy</a>: Enabling A Generalized Multimodal Occupancy Perception System on Humanoid Robots, Cui et al.</li>
