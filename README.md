@@ -111,6 +111,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(TMM 2025)</b> <a href="https://arxiv.org/abs/2508.01590">MCG-IMM</a>: A Plug-and-Play Multi-Criteria Guidance for Diverse In-Betweening Human Motion Generation, Yu et al.</li>
         <li><b>(IJCV 2025)</b> <a href="https://arxiv.org/abs/2502.05534">Fg-T2M++</a>: LLMs-Augmented Fine-Grained Text Driven Human Motion Generation, Wang et al.</li>
         <li><b>(TCSVT 2025)</b> <a href="https://arxiv.org/abs/2503.13300">Zeng et al</a>: Progressive Human Motion Generation Based on Text and Few Motion Frames, Zeng et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.12081">VimoRAG</a>: Video-based Retrieval-augmented 3D Motion Generation for Motion Language Models, Xu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.08991">MSQ</a>: Spatial-Temporal Multi-Scale Quantizationfor Flexible Motion Generation, Wang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.05162">X-MoGen</a>: Unified Motion Generation across Humans and Animals, Wang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://aigeeksgroup.github.io/ReMoMask/">ReMoMask</a>: Retrieval-Augmented Masked Motion Generation, Li et al.</li>
@@ -714,6 +715,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2025</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(CoRL 2025)</b> <a href="https://robot-trains-robot.github.io/">Robot Trains Robot</a>: Automatic Real-World Policy Adaptation and Learning for Humanoids, Hu et al.</li>
         <li><b>(CoRL 2025)</b> <a href="https://hub-robot.github.io/">HuB</a>: Learning Extreme Humanoid Balance, Zhang et al.</li>
         <li><b>(CoRL 2025)</b> <a href="https://humanoid-clone.github.io/">CLONE</a>: Closed-Loop Whole-Body Humanoid Teleoperation for Long-Horizon Tasks, Li et al.</li>
         <li><b>(CoRL 2025)</b> <a href="https://arxiv.org/abs/2508.03068">Hand-Eye Autonomous Delivery</a>: Learning Humanoid Navigation, Locomotion and Reaching, Ye et al.</li>
@@ -750,6 +752,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/abs/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://rhea-mal.github.io/humanoidsynergies.io/">Malhotra et al</a>: Humanoid Motion Scripting with Postural Synergies, Malhotra et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.09960">GBC</a>: Generalized Behavior-Cloning Framework for Whole-Body Humanoid Imitation, Yao et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.07611">SafeHumanoidsPolicy</a>: End-to-End Humanoid Robot Safe and Comfortable Locomotion Policy, Wang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.08241">BeyondMimic</a>: From Motion Tracking to Versatile Humanoid Control via Guided Diffusion, Truong et al.</li>
