@@ -752,6 +752,9 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/abs/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.14099">Ciebielski et al</a>: Task and Motion Planning for Humanoid Loco-manipulation, Ciebielski et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.14120">SimGenHOI</a>: Physically Realistic Whole-Body Humanoid-Object Interaction via Generative Modeling and Reinforcement Learning, Lin et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://sites.google.com/stanford.edu/lookout">LookOut</a>: Real-World Humanoid Egocentric Navigation, Pan et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://rhea-mal.github.io/humanoidsynergies.io/">Malhotra et al</a>: Humanoid Motion Scripting with Postural Synergies, Malhotra et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.09960">GBC</a>: Generalized Behavior-Cloning Framework for Whole-Body Humanoid Imitation, Yao et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.07611">SafeHumanoidsPolicy</a>: End-to-End Humanoid Robot Safe and Comfortable Locomotion Policy, Wang et al.</li>
