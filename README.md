@@ -615,6 +615,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <summary><h3>2025</h3></summary>
     <ul style="margin-left: 5px;">
         <li><b>(ICCV 2025)</b> <a href="https://arxiv.org/abs/2508.08179">PP-Motion</a>: Physical-Perceptual Fidelity Evaluation for Human Motion Generation, Zhao et al.</li>
+        <li><b>(ICCV 2025)</b> <a href="https://gprerit96.github.io/mdd-page/">MDD</a>: A Dataset for Text-and-Music Conditioned Duet Dance Generation, Gupta et al.</li>
         <li><b>(ACM MM 2025)</b> <a href="https://liangxuy.github.io/InterVLA/">Perceiving and Acting in First-Person</a>: A Dataset and Benchmark for Egocentric Human-Object-Human Interactions, Xu et al.</li>
         <li><b>(Bioengineering 2025)</b> <a href="https://www.mdpi.com/2306-5354/12/3/317">MeLLO</a>: The Utah Manipulation and Locomotion of Large Objects (MeLLO) Data Library, Luttmer et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://fudan-generative-vision.github.io/OpenHumanVid/#/">OpenHumanVid</a>: A Large-Scale High-Quality Dataset for Enhancing Human-Centric Video Generation, Xu et al.</li>
@@ -745,13 +746,15 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICRA 2025)</b> <a href="https://arxiv.org/abs/2410.21229">HOVER</a>: Versatile Neural Whole-Body Controller for Humanoid Robots, He et al.</li>
         <li><b>(ICRA 2025)</b> <a href="https://junfeng-long.github.io/PIM/">PIM</a>: Learning Humanoid Locomotion with Perceptive Internal Model, Long et al.</li>
         <li><b>(ICRA 2025)</b> <a href="https://arxiv.org/abs/2502.18901">Think on your feet</a>: Seamless Transition between Human-like Locomotion in Response to Changing Commands, Huang et al.</li>
-         <li><b>(ICLR 2025)</b> <a href="https://robo-mimiclabs.github.io/">MimicLabs</a>: What Matters in Learning from Large-Scale Datasets for Robot Manipulation, Saxena et al.</li>
+        <li><b>(ICLR 2025)</b> <a href="https://robo-mimiclabs.github.io/">MimicLabs</a>: What Matters in Learning from Large-Scale Datasets for Robot Manipulation, Saxena et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://rlpuppeteer.github.io/">Puppeteer</a>: Hierarchical World Models as Visual Whole-Body Humanoid Controllers, Hansen et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://openreview.net/forum?id=9sOR0nYLtz">FB-CPR</a>: Zero-Shot Whole-Body Humanoid Control via Behavioral Foundation Models, Tirinzoni et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://openreview.net/forum?id=MWHIIWrWWu">MPC2</a>: Motion Control of High-Dimensional Musculoskeletal System with Hierarchical Model-Based Planning, Wei et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/abs/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.18066">Arnold</a>: A Generalist Muscle Transformer Policy, Chiappa et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://haozhuo-zhang.github.io/HumanoidVerse-project-page/">HumanoidVerse</a>: A Versatile Humanoid for Vision-Language Guided Multi-Object Rearrangement, Zhang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.14099">Ciebielski et al</a>: Task and Motion Planning for Humanoid Loco-manipulation, Ciebielski et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.14120">SimGenHOI</a>: Physically Realistic Whole-Body Humanoid-Object Interaction via Generative Modeling and Reinforcement Learning, Lin et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://sites.google.com/stanford.edu/lookout">LookOut</a>: Real-World Humanoid Egocentric Navigation, Pan et al.</li>
