@@ -111,6 +111,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(TMM 2025)</b> <a href="https://arxiv.org/abs/2508.01590">MCG-IMM</a>: A Plug-and-Play Multi-Criteria Guidance for Diverse In-Betweening Human Motion Generation, Yu et al.</li>
         <li><b>(IJCV 2025)</b> <a href="https://arxiv.org/abs/2502.05534">Fg-T2M++</a>: LLMs-Augmented Fine-Grained Text Driven Human Motion Generation, Wang et al.</li>
         <li><b>(TCSVT 2025)</b> <a href="https://arxiv.org/abs/2503.13300">Zeng et al</a>: Progressive Human Motion Generation Based on Text and Few Motion Frames, Zeng et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.19527">MotionFLUX</a>: Efficient Text-Guided Motion Generation through Rectified Flow Matching and Preference Alignment, Gao et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.12081">VimoRAG</a>: Video-based Retrieval-augmented 3D Motion Generation for Motion Language Models, Xu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.08991">MSQ</a>: Spatial-Temporal Multi-Scale Quantizationfor Flexible Motion Generation, Wang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.05162">X-MoGen</a>: Unified Motion Generation across Humans and Animals, Wang et al.</li>
@@ -753,6 +754,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/abs/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.19926">FARM</a>: Frame-Accelerated Augmentation and Residual Mixture-of-Experts for Physics-Based High-Dynamic Humanoid Control, Jing et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.18066">Arnold</a>: A Generalist Muscle Transformer Policy, Chiappa et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://haozhuo-zhang.github.io/HumanoidVerse-project-page/">HumanoidVerse</a>: A Versatile Humanoid for Vision-Language Guided Multi-Object Rearrangement, Zhang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.14099">Ciebielski et al</a>: Task and Motion Planning for Humanoid Loco-manipulation, Ciebielski et al.</li>
