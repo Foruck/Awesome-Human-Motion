@@ -111,6 +111,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(TMM 2025)</b> <a href="https://arxiv.org/abs/2508.01590">MCG-IMM</a>: A Plug-and-Play Multi-Criteria Guidance for Diverse In-Betweening Human Motion Generation, Yu et al.</li>
         <li><b>(IJCV 2025)</b> <a href="https://arxiv.org/abs/2502.05534">Fg-T2M++</a>: LLMs-Augmented Fine-Grained Text Driven Human Motion Generation, Wang et al.</li>
         <li><b>(TCSVT 2025)</b> <a href="https://arxiv.org/abs/2503.13300">Zeng et al</a>: Progressive Human Motion Generation Based on Text and Few Motion Frames, Zeng et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.20604"> Embracing Aleatoric Uncertainty</a>: Generating Diverse 3D Human Motion, Qin et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.19527">MotionFLUX</a>: Efficient Text-Guided Motion Generation through Rectified Flow Matching and Preference Alignment, Gao et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.12081">VimoRAG</a>: Video-based Retrieval-augmented 3D Motion Generation for Motion Language Models, Xu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.08991">MSQ</a>: Spatial-Temporal Multi-Scale Quantizationfor Flexible Motion Generation, Wang et al.</li>
@@ -630,6 +631,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://openreview.net/forum?id=9mBodivRIo">LocoVR</a>: LocoVR: Multiuser Indoor Locomotion Dataset in Virtual Reality, Takeyama et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://github.com/coding-rachal/PMRDataset">PMR</a>: Pedestrian Motion Reconstruction: A Large-scale Benchmark via Mixed Reality Rendering with Multiple Perspectives and Modalities, Wang et al.</li>
         <li><b>(AAAI 2025)</b> <a href="https://arxiv.org/abs/2408.17168">EMHI</a>: EMHI: A Multimodal Egocentric Human Motion Dataset with HMD and Body-Worn IMUs, Fan et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.20491">CaddieSet</a>: A Golf Swing Dataset with Human Joint Features and Ball Information, Jung et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://github.com/GuangxunZhu/Waymo-3DSkelMo">Waymo-3DSkelMo</a>: A Multi-Agent 3D Skeletal Motion Dataset for Pedestrian Interaction Modeling in Autonomous Driving, Zhu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://dorniwang.github.io/SpeakerVid-5M/">SpeakerVid-5M</a>: A Large-Scale High-Quality Dataset for audio-visual Dyadic Interactive Human Generation, Zhang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2507.12905">AthleticsPose</a>: Authentic Sports Motion Dataset on Athletic Field and Evaluation of Monocular 3D Pose Estimation Ability, Suzuki et al.</li>
@@ -754,6 +756,8 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/abs/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://humanoid-table-tennis.github.io/">HITTER</a>: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning, Su et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.20661">Traversing the Narrow Path</a>: A Two-Stage Reinforcement Learning Framework for Humanoid Beam Walking, Huang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.19926">FARM</a>: Frame-Accelerated Augmentation and Residual Mixture-of-Experts for Physics-Based High-Dynamic Humanoid Control, Jing et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.18066">Arnold</a>: A Generalist Muscle Transformer Policy, Chiappa et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://haozhuo-zhang.github.io/HumanoidVerse-project-page/">HumanoidVerse</a>: A Versatile Humanoid for Vision-Language Guided Multi-Object Rearrangement, Zhang et al.</li>
