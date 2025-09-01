@@ -425,6 +425,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(3DV 2025)</b> <a href="https://virtualhumans.mpi-inf.mpg.de/InterTrack/">InterTrack</a>: Tracking Human Object Interaction without Object Templates, Xie et al.</li>
         <li><b>(3DV 2025)</b> <a href="https://arxiv.org/abs/2403.11237">FORCE</a>: Dataset and Method for Intuitive Physics Guided Human-object Interaction, Zhang et al.</li>
         <li><b>(PAMI 2025)</b> <a href="https://arxiv.org/abs/2503.00382">EigenActor</a>: Variant Body-Object Interaction Generation Evolved from Invariant Action Basis Reasoning, Guo et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.21556">ECHO</a>: Ego-Centric modeling of Human-Object interactions, Petrov et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.07162">CoopDiff</a>: Anticipating 3D Human-object Interactions via Contact-consistent Decoupled Diffusion, Lin et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2507.01737">HOI-Dyn</a>: Learning Interaction Dynamics for Human-Object Motion Diffusion, Wu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://hoidini.github.io/">HOIDiNi</a>: Human-Object Interaction through Diffusion Noise Optimization, Ron et al.</li>
