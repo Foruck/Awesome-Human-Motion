@@ -111,7 +111,8 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(TMM 2025)</b> <a href="https://arxiv.org/abs/2508.01590">MCG-IMM</a>: A Plug-and-Play Multi-Criteria Guidance for Diverse In-Betweening Human Motion Generation, Yu et al.</li>
         <li><b>(IJCV 2025)</b> <a href="https://arxiv.org/abs/2502.05534">Fg-T2M++</a>: LLMs-Augmented Fine-Grained Text Driven Human Motion Generation, Wang et al.</li>
         <li><b>(TCSVT 2025)</b> <a href="https://arxiv.org/abs/2503.13300">Zeng et al</a>: Progressive Human Motion Generation Based on Text and Few Motion Frames, Zeng et al.</li>
-        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.20604"> Embracing Aleatoric Uncertainty</a>: Generating Diverse 3D Human Motion, Qin et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.04058">SmooGPT</a>: Stylized Motion Generation using Large Language Models, Zhong et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.20604">Embracing Aleatoric Uncertainty</a>: Generating Diverse 3D Human Motion, Qin et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.19527">MotionFLUX</a>: Efficient Text-Guided Motion Generation through Rectified Flow Matching and Preference Alignment, Gao et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.12081">VimoRAG</a>: Video-based Retrieval-augmented 3D Motion Generation for Motion Language Models, Xu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.08991">MSQ</a>: Spatial-Temporal Multi-Scale Quantizationfor Flexible Motion Generation, Wang et al.</li>
