@@ -760,6 +760,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/abs/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.04722">Ghansah et al</a>: Hierarchical Reduced-Order Model Predictive Control for Robust Locomotion on Humanoid Robots, Ghansah et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://humanoid-table-tennis.github.io/">HITTER</a>: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning, Su et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.20661">Traversing the Narrow Path</a>: A Two-Stage Reinforcement Learning Framework for Humanoid Beam Walking, Huang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.19926">FARM</a>: Frame-Accelerated Augmentation and Residual Mixture-of-Experts for Physics-Based High-Dynamic Humanoid Control, Jing et al.</li>
