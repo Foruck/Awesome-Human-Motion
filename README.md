@@ -394,6 +394,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <summary><h3>2025</h3></summary>
     <ul style="margin-left: 5px;">
         <li><b>(ACM MM 2025)</b> <a href="https://arxiv.org/abs/2508.06205">PA-HOI</a>: A Physics-Aware Human and Object Interaction Dataset, Wang et al.</li>
+        <li><b>(ACM MM 2025)</b> <a href="https://arxiv.org/abs/2509.12250">OnlineHOI</a>: Towards Online Human-Object Interaction Generation and Perception, Ji et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://liangxuy.github.io/InterVLA/">Perceiving and Acting in First-Person</a>: A Dataset and Benchmark for Egocentric Human-Object-Human Interactions, Xu et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://virtualhumans.mpi-inf.mpg.de/tridi/">TriDi</a>: Trilateral Diffusion of 3D Humans, Objects and Interactions, Petrov et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://arxiv.org/abs/2411.16216">SMGDiff</a>: Soccer Motion Generation using diffusion probabilistic models, Yang et al.</li>
@@ -761,6 +762,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/abs/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.13200">StageACT</a>: Stage-Conditioned Imitation for Robust Humanoid Door Opening, Lee et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.11839">TrajBooster</a>: Boosting Humanoid Whole-Body Manipulation via Trajectory-Centric Learning, Liu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.05581">Learning to Walk in Costume</a>: Adversarial Motion Priors for Aesthetically Constrained Humanoids, Alvarez et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.04722">Ghansah et al</a>: Hierarchical Reduced-Order Model Predictive Control for Robust Locomotion on Humanoid Robots, Ghansah et al.</li>
