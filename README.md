@@ -762,6 +762,9 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/abs/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.14353">DreamControl</a>: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion, Kalaria et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.13780">BFM</a>: Behavior Foundation Model for Humanoid Robots, Zeng et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.13534">Zheng et al</a>: Embracing Bulky Objects with Humanoid Robots: Whole-Body Manipulation with Reinforcement Learning, Zheng et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.13200">StageACT</a>: Stage-Conditioned Imitation for Robust Humanoid Door Opening, Lee et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.11839">TrajBooster</a>: Boosting Humanoid Whole-Body Manipulation via Trajectory-Centric Learning, Liu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.05581">Learning to Walk in Costume</a>: Adversarial Motion Priors for Aesthetically Constrained Humanoids, Alvarez et al.</li>
