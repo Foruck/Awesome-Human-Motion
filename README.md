@@ -762,6 +762,9 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/abs/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://hdmi-humanoid.github.io/">HDMI</a>: Learning Interactive Humanoid Whole-Body Control from Human Videos, Weng et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.18046">HuMam</a>: Humanoid Motion Control via End-to-End Deep Reinforcement Learning with Mamba, Wang et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.16638">KungfuBot2</a>: Learning Versatile Motion Skills for Humanoid Whole-Body Contro, Han et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.15443">IKMR</a>: Implicit Kinodynamic Motion Retargeting for Human-to-humanoid Imitation Learning, Chen et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.14353">DreamControl</a>: Human-Inspired Whole-Body Humanoid Control for Scene Interaction via Guided Diffusion, Kalaria et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.13780">BFM</a>: Behavior Foundation Model for Humanoid Robots, Zeng et al.</li>
