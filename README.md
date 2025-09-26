@@ -111,6 +111,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(TMM 2025)</b> <a href="https://arxiv.org/abs/2508.01590">MCG-IMM</a>: A Plug-and-Play Multi-Criteria Guidance for Diverse In-Betweening Human Motion Generation, Yu et al.</li>
         <li><b>(IJCV 2025)</b> <a href="https://arxiv.org/abs/2502.05534">Fg-T2M++</a>: LLMs-Augmented Fine-Grained Text Driven Human Motion Generation, Wang et al.</li>
         <li><b>(TCSVT 2025)</b> <a href="https://arxiv.org/abs/2503.13300">Zeng et al</a>: Progressive Human Motion Generation Based on Text and Few Motion Frames, Zeng et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.20927">SimDiff</a>: Simulator-constrained Diffusion Model for Physically Plausible Motion Generation, Watanabe et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.04058">SmooGPT</a>: Stylized Motion Generation using Large Language Models, Zhong et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.20604">Embracing Aleatoric Uncertainty</a>: Generating Diverse 3D Human Motion, Qin et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.19527">MotionFLUX</a>: Efficient Text-Guided Motion Generation through Rectified Flow Matching and Preference Alignment, Gao et al.</li>
@@ -762,6 +763,9 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/abs/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.21231">SEEC</a>: Stable End-Effector Control with Model-Enhanced Residual Learning for Humanoid Loco-Manipulation, Jang et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.20696">RuN</a>: Residual Policy for Natural Humanoid Locomotion, Li et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.20717">RobotDancing</a>: Residual-Action Reinforcement Learning Enables Robust Long-Horizon Humanoid Motion Tracking, Sun et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://visualmimic.github.io/">VisualMimic</a>: Visual Humanoid Loco-Manipulation via Motion Tracking and Generation, Yin et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.19573">Chasing Stability</a>: Humanoid Running via Control Lyapunov Function Guided Reinforcement Learning, Olkin et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.19545">RoMoCo</a>: Robotic Motion Control Toolbox for Reduced-Order Model-Based Locomotion on Bipedal and Humanoid Robots, Dai et al.</li>
