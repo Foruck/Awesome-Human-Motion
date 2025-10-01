@@ -51,6 +51,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2025</h3></summary>
         <ul style="margin-left: 5px;">
+        <li><b>(TMLR 2025)</b> <a href="https://xiyan-xu.github.io/MoReactWebPage/">MoReact</a>: Generating Reactive Motion from Textual Descriptions, Xu et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://chaitanya100100.github.io/UniEgoMotion/">UniEgoMotion</a>: A Unified Model for Egocentric Motion Reconstruction, Forecasting, and Generation, Patel et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://arxiv.org/abs/2507.19850">FineMotion</a>: A Dataset and Benchmark with both Spatial and Temporal Annotation for Fine-grained Motion Generation and Editing, Wu et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://arxiv.org/abs/2507.20170">PUMPS</a>: Skeleton-Agnostic Point-based Universal Motion Pre-Training for Synthesis in Human Motion Tasks, Mo et al.</li>
@@ -111,6 +112,9 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(TMM 2025)</b> <a href="https://arxiv.org/abs/2508.01590">MCG-IMM</a>: A Plug-and-Play Multi-Criteria Guidance for Diverse In-Betweening Human Motion Generation, Yu et al.</li>
         <li><b>(IJCV 2025)</b> <a href="https://arxiv.org/abs/2502.05534">Fg-T2M++</a>: LLMs-Augmented Fine-Grained Text Driven Human Motion Generation, Wang et al.</li>
         <li><b>(TCSVT 2025)</b> <a href="https://arxiv.org/abs/2503.13300">Zeng et al</a>: Progressive Human Motion Generation Based on Text and Few Motion Frames, Zeng et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.24099">Gupta et al</a>: Unified Multi-Modal Interactive & Reactive 3D Motion Generation via Rectified Flow, Gupta et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.24469">LaMoGen</a>: Laban Movement-Guided Diffusion for Text-to-Motion Generation, Kim et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.25304">LUMA</a>: Low-Dimension Unified Motion Alignment with Dual-Path Anchoring for Text-to-Motion Diffusion Model, Jia et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.20927">SimDiff</a>: Simulator-constrained Diffusion Model for Physically Plausible Motion Generation, Watanabe et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.04058">SmooGPT</a>: Stylized Motion Generation using Large Language Models, Zhong et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.20604">Embracing Aleatoric Uncertainty</a>: Generating Diverse 3D Human Motion, Qin et al.</li>
@@ -427,7 +431,9 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(3DV 2025)</b> <a href="https://arxiv.org/abs/2408.16770?">Paschalidis et al</a>: 3D Whole-body Grasp Synthesis with Directional Controllability, Paschalidis et al.</li>
         <li><b>(3DV 2025)</b> <a href="https://virtualhumans.mpi-inf.mpg.de/InterTrack/">InterTrack</a>: Tracking Human Object Interaction without Object Templates, Xie et al.</li>
         <li><b>(3DV 2025)</b> <a href="https://arxiv.org/abs/2403.11237">FORCE</a>: Dataset and Method for Intuitive Physics Guided Human-object Interaction, Zhang et al.</li>
+        <li><b>(PAMI 2025)</b> <a href="https://arxiv.org/abs/2509.23635">MotionVerse</a>: A Unified Multimodal Framework for Motion Comprehension, Generation and Editing, Hou et al.</li>
         <li><b>(PAMI 2025)</b> <a href="https://arxiv.org/abs/2503.00382">EigenActor</a>: Variant Body-Object Interaction Generation Evolved from Invariant Action Basis Reasoning, Guo et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.23612">InteractMove</a>: Text-Controlled Human-Object Interaction Generation in 3D Scenes with Movable Objects, Cai et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://mael-zys.github.io/InterPose/">InterPose</a>: Learning to Generate Human-Object Interactions from Large-Scale Web Videos, Zhang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.21556">ECHO</a>: Ego-Centric modeling of Human-Object interactions, Petrov et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.07162">CoopDiff</a>: Anticipating 3D Human-object Interactions via Contact-consistent Decoupled Diffusion, Lin et al.</li>
@@ -763,6 +769,10 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/abs/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="hhttps://arxiv.org/abs/2509.24697">D'Elia et al</a>: Stabilizing Humanoid Robot Trajectory Generation via Physics-Informed Learning and Control-Informed Steering, D'Elia et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://omniretarget.github.io/">OmniRetarget</a>: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction, Yang et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.25600">MoReFlow</a>: Motion Retargeting Learning through Unsupervised Flow Matching, Kim et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.21690">Towards Versatile Humanoid Table Tennis</a>: Unified Reinforcement Learning with Prediction Augmentation, Hu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.21231">SEEC</a>: Stable End-Effector Control with Model-Enhanced Residual Learning for Humanoid Loco-Manipulation, Jang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.20696">RuN</a>: Residual Policy for Natural Humanoid Locomotion, Li et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.20717">RobotDancing</a>: Residual-Action Reinforcement Learning Enables Robust Long-Horizon Humanoid Motion Tracking, Sun et al.</li>
