@@ -769,6 +769,9 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/abs/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="hhttps://arxiv.org/abs/2510.05070">ResMimic</a>: From General Motion Tracking to Humanoid Whole-body Loco-Manipulation via Residual Learning, Zhao et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="hhttps://arxiv.org/abs/2510.02252">Retargeting Matters</a>: General Motion Retargeting for Humanoid Motion Tracking, Ara´ujo et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="hhttps://arxiv.org/abs/2510.01708">PolySim</a>: Bridging the Sim-to-Real Gap for Humanoid Control via Multi-Simulator Dynamics Randomization, Lei et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="hhttps://arxiv.org/abs/2509.24697">D'Elia et al</a>: Stabilizing Humanoid Robot Trajectory Generation via Physics-Informed Learning and Control-Informed Steering, D'Elia et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://omniretarget.github.io/">OmniRetarget</a>: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction, Yang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.25600">MoReFlow</a>: Motion Retargeting Learning through Unsupervised Flow Matching, Kim et al.</li>
