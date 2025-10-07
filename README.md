@@ -112,6 +112,9 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(TMM 2025)</b> <a href="https://arxiv.org/abs/2508.01590">MCG-IMM</a>: A Plug-and-Play Multi-Criteria Guidance for Diverse In-Betweening Human Motion Generation, Yu et al.</li>
         <li><b>(IJCV 2025)</b> <a href="https://arxiv.org/abs/2502.05534">Fg-T2M++</a>: LLMs-Augmented Fine-Grained Text Driven Human Motion Generation, Wang et al.</li>
         <li><b>(TCSVT 2025)</b> <a href="https://arxiv.org/abs/2503.13300">Zeng et al</a>: Progressive Human Motion Generation Based on Text and Few Motion Frames, Zeng et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.24099">Pulp Motion</a>: Framing-aware multimodal camera and human motion generation, Courant et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2510.03200">MonSTeR</a>: a Unified Model for Motion, Scene, Text Retrieval, Collorone et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2510.02722">MoGIC</a>: Boosting Motion Generation via Intention Understanding and Visual Context, Shi et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.24099">Gupta et al</a>: Unified Multi-Modal Interactive & Reactive 3D Motion Generation via Rectified Flow, Gupta et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.24469">LaMoGen</a>: Laban Movement-Guided Diffusion for Text-to-Motion Generation, Kim et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.25304">LUMA</a>: Low-Dimension Unified Motion Alignment with Dual-Path Anchoring for Text-to-Motion Diffusion Model, Jia et al.</li>
