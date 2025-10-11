@@ -112,6 +112,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(TMM 2025)</b> <a href="https://arxiv.org/abs/2508.01590">MCG-IMM</a>: A Plug-and-Play Multi-Criteria Guidance for Diverse In-Betweening Human Motion Generation, Yu et al.</li>
         <li><b>(IJCV 2025)</b> <a href="https://arxiv.org/abs/2502.05534">Fg-T2M++</a>: LLMs-Augmented Fine-Grained Text Driven Human Motion Generation, Wang et al.</li>
         <li><b>(TCSVT 2025)</b> <a href="https://arxiv.org/abs/2503.13300">Zeng et al</a>: Progressive Human Motion Generation Based on Text and Few Motion Frames, Zeng et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2510.06988">No MoCap Needed</a>: Post-Training Motion Diffusion Models with Reinforcement Learning using Only Textual Prompts, Girolamo et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.24099">Pulp Motion</a>: Framing-aware multimodal camera and human motion generation, Courant et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2510.03200">MonSTeR</a>: a Unified Model for Motion, Scene, Text Retrieval, Collorone et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2510.02722">MoGIC</a>: Boosting Motion Generation via Intention Understanding and Visual Context, Shi et al.</li>
@@ -594,6 +595,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <li><b>(ICLR 2025)</b> <a href="https://zju3dv.github.io/ready_to_react/">Ready-to-React</a>: Online Reaction Policy for Two-Character Interaction Generation, Cen et al.</li>
     <li><b>(ICLR 2025)</b> <a href="https://gohar-malik.github.io/intermask">InterMask</a>: 3D Human Interaction Generation via Collaborative Masked Modelling, Javed et al.</li>
     <li><b>(3DV 2025)</b> <a href="https://arxiv.org/abs/2312.08983">Interactive Humanoid</a>: Online Full-Body Motion Reaction Synthesis with Social Affordance Canonicalization and Forecasting, Liu et al.</li>
+    <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2510.06504">Text2Interact</a>: High-Fidelity and Diverse Text-to-Two-Person Interaction Generation, Wu et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.05747">InterAct</a>: A Large-Scale Dataset of Dynamic, Expressive and Interactive Activities between Two People in Daily Scenarios, Ho et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2506.22554">E-React</a>: Towards Emotionally Controlled Synthesis of Human Reactions, Zhu et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2506.22554">Seamless Interaction</a>: Dyadic Audiovisual Motion Modeling and Large-Scale Dataset, Agrawal et al.</li>
@@ -772,6 +774,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/abs/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="hhttps://arxiv.org/abs/2510.07152">DPL</a>: Depth-only Perceptive Humanoid Locomotion via Realistic Depth Synthesis and Cross-Attention Terrain Reconstruction, Sun et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="hhttps://arxiv.org/abs/2510.05070">ResMimic</a>: From General Motion Tracking to Humanoid Whole-body Loco-Manipulation via Residual Learning, Zhao et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="hhttps://arxiv.org/abs/2510.02252">Retargeting Matters</a>: General Motion Retargeting for Humanoid Motion Tracking, Ara´ujo et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="hhttps://arxiv.org/abs/2510.01708">PolySim</a>: Bridging the Sim-to-Real Gap for Humanoid Control via Multi-Simulator Dynamics Randomization, Lei et al.</li>
