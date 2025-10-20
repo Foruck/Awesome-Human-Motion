@@ -54,6 +54,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(NeurIPS 2025)</b> <a href="https://github.com/asdryau/TransPhase">TransPhase</a>: Deep Compositional Phase Diffusion for Long Motion Sequence Generation, Au et al.</li>
         <li><b>(SIGGRAPH Asia 2025)</b> <a href="https://arxiv.org/abs/2510.12573">TCM</a>: Learning Human Motion with Temporally Conditional Mamba, Nguyen et al.</li>
         <li><b>(TMLR 2025)</b> <a href="https://xiyan-xu.github.io/MoReactWebPage/">MoReact</a>: Generating Reactive Motion from Textual Descriptions, Xu et al.</li>
+        <li><b>(ICCV 2025)</b> <a href="https://danceba.github.io/">Align Your Rhythm</a>:  Generating Highly Aligned Dance Poses with Gating-Enhanced Rhythm-Aware Feature Representation, Fan et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://chaitanya100100.github.io/UniEgoMotion/">UniEgoMotion</a>: A Unified Model for Egocentric Motion Reconstruction, Forecasting, and Generation, Patel et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://arxiv.org/abs/2507.19850">FineMotion</a>: A Dataset and Benchmark with both Spatial and Temporal Annotation for Fine-grained Motion Generation and Editing, Wu et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://arxiv.org/abs/2507.20170">PUMPS</a>: Skeleton-Agnostic Point-based Universal Motion Pre-Training for Synthesis in Human Motion Tasks, Mo et al.</li>
