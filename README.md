@@ -781,6 +781,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/abs/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://humanoid-goalkeeper.github.io/Goalkeeper/">Humanoid Goalkeeper</a>: Learning from Position Conditioned Task-Motion Constraints, Ren et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://gmargo11.github.io/softmimic/">SoftMimic</a>: Learning Compliant Whole-body Control from Examples, Margolis et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2510.14454">AdaMimic</a>: Towards Adaptable Humanoid Control via Adaptive Motion Tracking, Huang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2510.14293">COLA</a>: Learning Human-Humanoid Coordination for Collaborative Object Carrying, Du et al.</li>
