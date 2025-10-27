@@ -27,6 +27,7 @@ An aggregation of human motion understanding research; feel free to contribute.
 <ul style="margin-left: 5px;">
 <li><b>(JEB 2025)</b> <a href="https://journals.biologists.com/jeb/article/228/Suppl_1/JEB248125/367009/Behavioural-energetics-in-human-locomotion-how">McAllister et al</a>: Behavioural energetics in human locomotion: how energy use influences how we move, McAllister et al.</li>
 <li><b>(ICER 2025)</b> <a href="https://arxiv.org/abs/2412.10458">Zhao et al</a>: Motion Generation Review: Exploring Deep Learning for Lifelike Animation with Manifold, Zhao et al.</li>
+<li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2510.19255">Advances in 4D Representation</a>: Geometry, Motion, and Interaction, Zhao et al.</li>
 <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2507.05419">Motion Generation</a>: A Survey of Generative Approaches and Benchmarks, Khani et al.</li>
 <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2506.03191">Segado et al</a>: Grounding Intelligence in Movement, Segado et al.</li>
 <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2507.02771">Multimodal Generative AI with Autoregressive LLMs for Human Motion Understanding and Generation</a>: A Way Forward, Islam et al.</li>
@@ -115,6 +116,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(TMM 2025)</b> <a href="https://arxiv.org/abs/2508.01590">MCG-IMM</a>: A Plug-and-Play Multi-Criteria Guidance for Diverse In-Betweening Human Motion Generation, Yu et al.</li>
         <li><b>(IJCV 2025)</b> <a href="https://arxiv.org/abs/2502.05534">Fg-T2M++</a>: LLMs-Augmented Fine-Grained Text Driven Human Motion Generation, Wang et al.</li>
         <li><b>(TCSVT 2025)</b> <a href="https://arxiv.org/abs/2503.13300">Zeng et al</a>: Progressive Human Motion Generation Based on Text and Few Motion Frames, Zeng et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2510.19789">OmniMotion-X</a>: Versatile Multimodal Whole-Body Motion Generation, Xu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2510.06988">OmniMotion</a>: Multimodal Motion Generation with Continuous Masked Autoregression, Li et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2510.06988">No MoCap Needed</a>: Post-Training Motion Diffusion Models with Reinforcement Learning using Only Textual Prompts, Girolamo et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.24099">Pulp Motion</a>: Framing-aware multimodal camera and human motion generation, Courant et al.</li>
