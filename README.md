@@ -52,6 +52,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2025</h3></summary>
         <ul style="margin-left: 5px;">
+        <li><b>(NeurIPS 2025)</b> <a href="https://github.com/asdryau/TransPhase">HMVLM</a>: Human Motion-Vision-Lanuage Model via MoE LoRA, Hu et al.</li>
         <li><b>(NeurIPS 2025)</b> <a href="https://github.com/asdryau/TransPhase">TransPhase</a>: Deep Compositional Phase Diffusion for Long Motion Sequence Generation, Au et al.</li>
         <li><b>(SIGGRAPH Asia 2025)</b> <a href="https://arxiv.org/abs/2510.12573">TCM</a>: Learning Human Motion with Temporally Conditional Mamba, Nguyen et al.</li>
         <li><b>(TMLR 2025)</b> <a href="https://xiyan-xu.github.io/MoReactWebPage/">MoReact</a>: Generating Reactive Motion from Textual Descriptions, Xu et al.</li>
@@ -116,6 +117,8 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(TMM 2025)</b> <a href="https://arxiv.org/abs/2508.01590">MCG-IMM</a>: A Plug-and-Play Multi-Criteria Guidance for Diverse In-Betweening Human Motion Generation, Yu et al.</li>
         <li><b>(IJCV 2025)</b> <a href="https://arxiv.org/abs/2502.05534">Fg-T2M++</a>: LLMs-Augmented Fine-Grained Text Driven Human Motion Generation, Wang et al.</li>
         <li><b>(TCSVT 2025)</b> <a href="https://arxiv.org/abs/2503.13300">Zeng et al</a>: Progressive Human Motion Generation Based on Text and Few Motion Frames, Zeng et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2510.26794">The Quest for Generalizable Motion Generation</a>: Data, Model, and Evaluation, Lin et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2511.01200">MoSa</a>: Motion Generation with Scalable Autoregressive Modeling, Liu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2510.19789">OmniMotion-X</a>: Versatile Multimodal Whole-Body Motion Generation, Xu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2510.06988">OmniMotion</a>: Multimodal Motion Generation with Continuous Masked Autoregression, Li et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2510.06988">No MoCap Needed</a>: Post-Training Motion Diffusion Models with Reinforcement Learning using Only Textual Prompts, Girolamo et al.</li>
@@ -783,6 +786,11 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/abs/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2510.25241">Huang et al</a>: One-shot Humanoid Whole-body Motion Learning, Huang et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2510.26280">Thor</a>: Towards Human-Level Whole-Body Reactions for Intense Contact-Rich Environments, Li et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2510.26236">PHUMA</a>: Building the Bridge Between Off-the-Shelf VLMs and the Physical World, Lee et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2510.26280">Kwon et al</a>: A Humanoid Visual-Tactile-Action Dataset for Contact-Rich Manipulation, Kwon et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2511.00041">Endowing GPT-4 with a Humanoid Body</a>: Building the Bridge Between Off-the-Shelf VLMs and the Physical World, Jian et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://humanoid-goalkeeper.github.io/Goalkeeper/">Humanoid Goalkeeper</a>: Learning from Position Conditioned Task-Motion Constraints, Ren et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://gmargo11.github.io/softmimic/">SoftMimic</a>: Learning Compliant Whole-body Control from Examples, Margolis et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2510.14454">AdaMimic</a>: Towards Adaptable Humanoid Control via Adaptive Motion Tracking, Huang et al.</li>
