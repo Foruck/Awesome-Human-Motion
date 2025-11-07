@@ -392,6 +392,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <li><b>(ICCV 2025)</b> <a href="https://stylemotif.github.io/">StyleMotif</a>: Multi-Modal Motion Stylization using Style-Content Cross Fusion, Guo et al.</li>
     <li><b>(CVPR 2025)</b> <a href="https://cvlab-kaist.github.io/Visual-Persona/">Visual Persona</a>: Foundation Model for Full-Body Human Customization, Nam et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2506.00173">MotionPersona</a>: Characteristics-aware Locomotion Control, Shi et al.</li>
+    <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2511.04192">AStF</a>: Motion Style Transfer via Adaptive Statistics Fusor, Chen et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://haimsaw.github.io/LoRA-MDM/">Dance Like a Chicken</a>: Low-Rank Stylization for Human Motion Diffusion, Sawdayee et al.</li>
     <li><b>(ArXiv 2024)</b> <a href="https://arxiv.org/abs/2412.09901">MulSMo</a>: Multimodal Stylized Motion Generation by Bidirectional Control Flow, Li et al.</li>
     <li><b>(TSMC 2024)</b> <a href="https://arxiv.org/abs/2412.04097">D-LORD</a>: D-LORD for Motion Stylization, Gupta et al.</li>
@@ -786,6 +787,10 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/abs/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2511.04131">BFM-Zero</a>: A Promptable Behavioral Foundation Model for Humanoid Control Using Unsupervised Reinforcement Learning, Ze et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2511.04679">GentleHumanoid</a>: Learning Upper-body Compliance for Contact-rich Human and Object Interaction, Lu et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2511.03996">Wang et al</a>: Learning Vision-Driven Reactive Soccer Skills for Humanoid Robots, Wang et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2511.02832">TWIST2</a>: Scalable, Portable, and Holistic Humanoid Data Collection System, Ze et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2510.25241">Huang et al</a>: One-shot Humanoid Whole-body Motion Learning, Huang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2510.26280">Thor</a>: Towards Human-Level Whole-Body Reactions for Intense Contact-Rich Environments, Li et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2510.26236">PHUMA</a>: Building the Bridge Between Off-the-Shelf VLMs and the Physical World, Lee et al.</li>
