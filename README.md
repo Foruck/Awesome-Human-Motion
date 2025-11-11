@@ -117,6 +117,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(TMM 2025)</b> <a href="https://arxiv.org/abs/2508.01590">MCG-IMM</a>: A Plug-and-Play Multi-Criteria Guidance for Diverse In-Betweening Human Motion Generation, Yu et al.</li>
         <li><b>(IJCV 2025)</b> <a href="https://arxiv.org/abs/2502.05534">Fg-T2M++</a>: LLMs-Augmented Fine-Grained Text Driven Human Motion Generation, Wang et al.</li>
         <li><b>(TCSVT 2025)</b> <a href="https://arxiv.org/abs/2503.13300">Zeng et al</a>: Progressive Human Motion Generation Based on Text and Few Motion Frames, Zeng et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2511.05038">Pressure2Motion</a>: Hierarchical Motion Synthesis from Ground Pressure with Text Guidance, Li et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2510.26794">The Quest for Generalizable Motion Generation</a>: Data, Model, and Evaluation, Lin et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2511.01200">MoSa</a>: Motion Generation with Scalable Autoregressive Modeling, Liu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2510.19789">OmniMotion-X</a>: Versatile Multimodal Whole-Body Motion Generation, Xu et al.</li>
@@ -787,6 +788,8 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/abs/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://firm2025.github.io/">FIRM</a>: Unified Humanoid Fall-Safety Policy from a Few Demonstrations, Xu et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2511.06371">AHC</a>: Towards Adaptive Humanoid Control via Multi-Behavior Distillation and Reinforced Fine-Tuning, Zhao et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2511.04131">BFM-Zero</a>: A Promptable Behavioral Foundation Model for Humanoid Control Using Unsupervised Reinforcement Learning, Ze et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2511.04679">GentleHumanoid</a>: Learning Upper-body Compliance for Contact-rich Human and Object Interaction, Lu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2511.03996">Wang et al</a>: Learning Vision-Driven Reactive Soccer Skills for Humanoid Robots, Wang et al.</li>
