@@ -529,6 +529,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://github.com/WindVChen/Sitcom-Crafter">Sitcom-Crafter</a>: A Plot-Driven Human Motion Generation System in 3D Scenes, Chen et al. </li>
         <li><b>(3DV 2025)</b> <a href="https://arxiv.org/abs/2408.16770?">Paschalidis et al</a>: 3D Whole-body Grasp Synthesis with Directional Controllability, Paschalidis et al.</li>
         <li><b>(WACV 2025)</b> <a href="https://arxiv.org/abs/2405.18438">GHOST</a>: Grounded Human Motion Generation with Open Vocabulary Scene-and-Text Contexts, Milacski et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2511.07819">SSOMotion</a>: HumanMotion Synthesis in 3D Scenes via Unified Scene Semantic Occupancy, Cho et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2510.13044">SceneAdapt</a>: Scene-aware Adaptation of Human Motion Diffusion, Cho et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://fantasy-amap.github.io/fantasy-hsi/">FantasyHSI</a>: Video-Generation-Centric 4D Human Synthesis In Any Scene through A Graph-based Multi-Agent Framework, Mu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://lisiyao21.github.io/projects/Half-Physics/">Half-Physics</a>: Enabling Kinematic 3D Human Model with Physical Interactions, Li et al.</li>
@@ -788,6 +789,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/abs/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://nvlabs.github.io/SONIC/">SONIC</a>: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control, Luo et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://firm2025.github.io/">FIRM</a>: Unified Humanoid Fall-Safety Policy from a Few Demonstrations, Xu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2511.06371">AHC</a>: Towards Adaptive Humanoid Control via Multi-Behavior Distillation and Reinforced Fine-Tuning, Zhao et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2511.04131">BFM-Zero</a>: A Promptable Behavioral Foundation Model for Humanoid Control Using Unsupervised Reinforcement Learning, Ze et al.</li>
