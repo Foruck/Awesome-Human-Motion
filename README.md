@@ -789,6 +789,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/abs/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://jc-bao.github.io/spider-project/">SPIDER</a>: Scalable Physics-Informed DExterous Retargeting, Pan et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2511.09241">SCHUR</a>: Unveiling the Impact of Data and Model Scaling on High-Level Control for Humanoid Robots, Wei et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/pdf/2511.09141">RGMP</a>: Recurrent Geometric-prior Multimodal Policy for Generalizable Humanoid Robot Manipulation, Li et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://nvlabs.github.io/SONIC/">SONIC</a>: Supersizing Motion Tracking for Natural Humanoid Whole-Body Control, Luo et al.</li>
