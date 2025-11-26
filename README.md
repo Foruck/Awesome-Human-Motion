@@ -612,6 +612,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <li><b>(ICLR 2025)</b> <a href="https://zju3dv.github.io/ready_to_react/">Ready-to-React</a>: Online Reaction Policy for Two-Character Interaction Generation, Cen et al.</li>
     <li><b>(ICLR 2025)</b> <a href="https://gohar-malik.github.io/intermask">InterMask</a>: 3D Human Interaction Generation via Collaborative Masked Modelling, Javed et al.</li>
     <li><b>(3DV 2025)</b> <a href="https://arxiv.org/abs/2312.08983">Interactive Humanoid</a>: Online Full-Body Motion Reaction Synthesis with Social Affordance Canonicalization and Forecasting, Liu et al.</li>
+    <li><b>(AAAI 2026)</b> <a href="https://arxiv.org/abs/2511.13488">InterMoE</a>: Individual-Specific 3D Human Interaction Generation via Dynamic Temporal-Selective MoE, Wang et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2510.06504">Text2Interact</a>: High-Fidelity and Diverse Text-to-Two-Person Interaction Generation, Wu et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.05747">InterAct</a>: A Large-Scale Dataset of Dynamic, Expressive and Interactive Activities between Two People in Daily Scenarios, Ho et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2506.22554">E-React</a>: Towards Emotionally Controlled Synthesis of Human Reactions, Zhu et al.</li>
