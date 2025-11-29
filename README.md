@@ -58,7 +58,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2025</h3></summary>
         <ul style="margin-left: 5px;">
-        <li><b>(Arxiv)</b> <a href="https://github.com/XulongT/FlowerDance">FlowerDance</a>: MeanFlow for Efficient and Refined 3D Dance Generation, Yang et al.</li>
+        <li><b>(Arxiv 2025)</b> <a href="https://github.com/XulongT/FlowerDance">FlowerDance</a>: MeanFlow for Efficient and Refined 3D Dance Generation, Yang et al.</li>
         <li><b>(NeurIPS 2025)</b> <a href="https://github.com/asdryau/TransPhase">HMVLM</a>: Human Motion-Vision-Lanuage Model via MoE LoRA, Hu et al.</li>
         <li><b>(NeurIPS 2025)</b> <a href="https://github.com/asdryau/TransPhase">TransPhase</a>: Deep Compositional Phase Diffusion for Long Motion Sequence Generation, Au et al.</li>
         <li><b>(SIGGRAPH Asia 2025)</b> <a href="https://arxiv.org/abs/2510.12573">TCM</a>: Learning Human Motion with Temporally Conditional Mamba, Nguyen et al.</li>
