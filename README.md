@@ -1079,6 +1079,8 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2025</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(Arxiv 2025)</b> <a href="https://arxiv.org/abs/2511.19326">MonoMSK</a>: Monocular 3D Musculoskeletal Dynamics Estimation, Koleini et al.</li>
+        <li><b>(Arxiv 2025)</b> <a href="https://pokerman8.github.io/SKEL-CF/">SKEL-CF</a>: Coarse-to-Fine Biomechanical Skeleton and Surface Mesh Recovery, Li et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://diffuman4d.github.io/">Diffuman4D</a>: 4D Consistent Human View Synthesis from Sparse-View Videos with Spatio-Temporal Diffusion Models, Jin et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://boqian-li.github.io/ETCH/">ETCH</a>: Generalizing Body Fitting to Clothed Humans via Equivariant Tightness, Li et al.</li>
         <li><b>(ICML 2025)</b> <a href="https://arxiv.org/pdf/2505.10250">ADHMR</a>: Aligning Diffusion-based Human Mesh Recovery via Direct Preference Optimization, Shen et al.</li>
