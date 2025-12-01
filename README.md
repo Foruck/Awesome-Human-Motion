@@ -800,6 +800,8 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/abs/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2511.23300">SafeHumanoid</a>: VLM-RAG-driven Control of Upper Body Impedance for Humanoid Robot, Mahmoud et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://humanoidlla.github.io/">Commanding Humanoid by Free-form Language</a>: A Large Language Action Model with Unified Motion Vocabulary, Liu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2511.17373">Agility Meets Stability</a>: Versatile Humanoid Control with Heterogeneous Data, Pan et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2511.18509">SafeFall</a>: Learning Protective Control for Humanoid Robots, Meng et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2511.19236">SENTINEL</a>: A Fully End-to-End Language-Action Model for Humanoid Whole Body Control, Wang et al.</li>
