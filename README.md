@@ -673,7 +673,8 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://motioncritic.github.io/">MotionCritic</a>: Aligning Human Motion Generation with Human Perceptions, Wang et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://openreview.net/forum?id=9mBodivRIo">LocoVR</a>: LocoVR: Multiuser Indoor Locomotion Dataset in Virtual Reality, Takeyama et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://github.com/coding-rachal/PMRDataset">PMR</a>: Pedestrian Motion Reconstruction: A Large-scale Benchmark via Mixed Reality Rendering with Multiple Perspectives and Modalities, Wang et al.</li>
-        <li><b>(AAAI 2025)</b> <a href="https://arxiv.org/abs/2408.17168">EMHI</a>: EMHI: A Multimodal Egocentric Human Motion Dataset with HMD and Body-Worn IMUs, Fan et al.</li>
+        <li><b>(AAAI 2025)</b> <a href="https://arxiv.org/abs/2408.17168">EMHI</a>: A Multimodal Egocentric Human Motion Dataset with HMD and Body-Worn IMUs, Fan et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.01582">RoleMotion</a>: A Large-Scale Dataset towards Robust Scene-Specific Role-Playing Motion Synthesis with Fine-grained Descriptions, Peng et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2510.16258">Embody 3D</a>: A Large-scale Multimodal Motion and Behavior Dataset, McLean et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2508.20491">CaddieSet</a>: A Golf Swing Dataset with Human Joint Features and Ball Information, Jung et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://github.com/GuangxunZhu/Waymo-3DSkelMo">Waymo-3DSkelMo</a>: A Multi-Agent 3D Skeletal Motion Dataset for Pedestrian Interaction Modeling in Autonomous Driving, Zhu et al.</li>
@@ -800,6 +801,10 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/abs/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.00971">H-Zero</a>: Cross-Humanoid Locomotion Pretraining Enables Few-shot Novel Embodiment Transfer, Lin et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.01061">Xue et al</a>: Opening the Sim-to-Real Door for Humanoid Pixel-to-Action Policy Transfer, Xue et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://younggyo.me/fastsac-humanoid/">Seo et al</a>: Learning Sim-to-Real Humanoid Locomotion in 15 Minutes, Seo et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.01336">Seo et al</a>: Discovering Self-Protective Falling Policy for Humanoid Robot via Deep Reinforcement Learning, Shi et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2511.23300">SafeHumanoid</a>: VLM-RAG-driven Control of Upper Body Impedance for Humanoid Robot, Mahmoud et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://humanoidlla.github.io/">Commanding Humanoid by Free-form Language</a>: A Large Language Action Model with Unified Motion Vocabulary, Liu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2511.17373">Agility Meets Stability</a>: Versatile Humanoid Control with Heterogeneous Data, Pan et al.</li>
