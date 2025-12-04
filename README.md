@@ -124,6 +124,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(TMM 2025)</b> <a href="https://arxiv.org/abs/2508.01590">MCG-IMM</a>: A Plug-and-Play Multi-Criteria Guidance for Diverse In-Betweening Human Motion Generation, Yu et al.</li>
         <li><b>(IJCV 2025)</b> <a href="https://arxiv.org/abs/2502.05534">Fg-T2M++</a>: LLMs-Augmented Fine-Grained Text Driven Human Motion Generation, Wang et al.</li>
         <li><b>(TCSVT 2025)</b> <a href="https://arxiv.org/abs/2503.13300">Zeng et al</a>: Progressive Human Motion Generation Based on Text and Few Motion Frames, Zeng et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.03918">UniMo</a>:  Unifying 2D Video and 3D Human Motion with an Autoregressive Framework, Pang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2511.11368">Free3D</a>: 3D Human Motion Emerges from Single-View 2D Supervision, Liu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2511.05038">Pressure2Motion</a>: Hierarchical Motion Synthesis from Ground Pressure with Text Guidance, Li et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2511.16264">Mem-MLP</a>: Real-Time 3D Human Motion Generation from Sparse Inputs, Mutlu et al.</li>
@@ -400,6 +401,7 @@ An aggregation of human motion understanding research; feel free to contribute.
 <ul style="margin-left: 5px;">
     <li><b>(ICCV 2025)</b> <a href="https://stylemotif.github.io/">StyleMotif</a>: Multi-Modal Motion Stylization using Style-Content Cross Fusion, Guo et al.</li>
     <li><b>(CVPR 2025)</b> <a href="https://cvlab-kaist.github.io/Visual-Persona/">Visual Persona</a>: Foundation Model for Full-Body Human Customization, Nam et al.</li>
+    <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.02453">ClusterStyle</a>: Modeling Intra-Style Diversity with Prototypical Clustering for Stylized Motion Generation, Chen et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2506.00173">MotionPersona</a>: Characteristics-aware Locomotion Control, Shi et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2511.04192">AStF</a>: Motion Style Transfer via Adaptive Statistics Fusor, Chen et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://haimsaw.github.io/LoRA-MDM/">Dance Like a Chicken</a>: Low-Rank Stylization for Human Motion Diffusion, Sawdayee et al.</li>
@@ -801,6 +803,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/abs/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.03028">SMP</a>: Reusable Score-Matching Motion Priors for Physics-Based Character Control, Mu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.00971">H-Zero</a>: Cross-Humanoid Locomotion Pretraining Enables Few-shot Novel Embodiment Transfer, Lin et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.01061">Xue et al</a>: Opening the Sim-to-Real Door for Humanoid Pixel-to-Action Policy Transfer, Xue et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://younggyo.me/fastsac-humanoid/">Seo et al</a>: Learning Sim-to-Real Humanoid Locomotion in 15 Minutes, Seo et al.</li>
