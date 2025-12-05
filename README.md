@@ -124,7 +124,9 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(TMM 2025)</b> <a href="https://arxiv.org/abs/2508.01590">MCG-IMM</a>: A Plug-and-Play Multi-Criteria Guidance for Diverse In-Betweening Human Motion Generation, Yu et al.</li>
         <li><b>(IJCV 2025)</b> <a href="https://arxiv.org/abs/2502.05534">Fg-T2M++</a>: LLMs-Augmented Fine-Grained Text Driven Human Motion Generation, Wang et al.</li>
         <li><b>(TCSVT 2025)</b> <a href="https://arxiv.org/abs/2503.13300">Zeng et al</a>: Progressive Human Motion Generation Based on Text and Few Motion Frames, Zeng et al.</li>
-        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.03918">UniMo</a>:  Unifying 2D Video and 3D Human Motion with an Autoregressive Framework, Pang et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.04487">COMET</a>: Controllable Long-term Motion Generation with Extended Joint Targets, Li et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.04499">Back to Basics</a>: Motion Representation Matters for Human Motion Generation Using Diffusion Model, Jin et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.03918">UniMo</a>: Unifying 2D Video and 3D Human Motion with an Autoregressive Framework, Pang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2511.11368">Free3D</a>: 3D Human Motion Emerges from Single-View 2D Supervision, Liu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2511.05038">Pressure2Motion</a>: Hierarchical Motion Synthesis from Ground Pressure with Text Guidance, Li et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2511.16264">Mem-MLP</a>: Real-Time 3D Human Motion Generation from Sparse Inputs, Mutlu et al.</li>
