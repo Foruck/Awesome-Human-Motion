@@ -805,6 +805,10 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/abs/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.06571">Xu et al.</a>: Learning Agile Striker Skills for Humanoid Soccer Robots from Noisy Sensory Input, Xu et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.07464">Song et al.</a>: Gait-Adaptive Perceptive Humanoid Locomotion with Real-Time Under-Base Terrain Reconstruction, Song et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.07765">Toward Seamless Physical Human-Humanoid Interaction</a>: Insights from Control, Intent, and Modeling with a Vision for What Comes Next, Cardona et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.07819">Kumbhar et al</a>: Efficient and Compliant Control Framework for Versatile Human-Humanoid Collaborative Transportation, Kumbhar et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.03028">SMP</a>: Reusable Score-Matching Motion Priors for Physics-Based Character Control, Mu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.05094">GenMimic</a>: From Generated Human Videos to Physically Plausible Robot Trajectories, Ni et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.00971">H-Zero</a>: Cross-Humanoid Locomotion Pretraining Enables Few-shot Novel Embodiment Transfer, Lin et al.</li>
