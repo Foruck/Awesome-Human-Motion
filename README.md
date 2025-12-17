@@ -1,3 +1,4 @@
+
 # Awesome Human Motion
 
 An aggregation of human motion understanding research; feel free to contribute.
@@ -124,6 +125,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(TMM 2025)</b> <a href="https://arxiv.org/abs/2508.01590">MCG-IMM</a>: A Plug-and-Play Multi-Criteria Guidance for Diverse In-Betweening Human Motion Generation, Yu et al.</li>
         <li><b>(IJCV 2025)</b> <a href="https://arxiv.org/abs/2502.05534">Fg-T2M++</a>: LLMs-Augmented Fine-Grained Text Driven Human Motion Generation, Wang et al.</li>
         <li><b>(TCSVT 2025)</b> <a href="https://arxiv.org/abs/2503.13300">Zeng et al</a>: Progressive Human Motion Generation Based on Text and Few Motion Frames, Zeng et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.13840">MoLingo</a>: Motion–Language Alignment for Text-to-Human Motion Generation, He et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.09423">FunPhase</a>: A Periodic Functional Autoencoder for Motion Generation via Phase Manifolds, Pegoraro et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.10730">IRG-MotionLLM</a>: Interleaving Motion Generation, Assessment and Refinement for Text-to-Motion Generation, Li et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.11654">Kinetic Mining in Context</a>: Few-Shot Action Synthesis via Text-to-Motion Distillations, Cazzola et al.</li>
@@ -808,7 +810,8 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://openreview.net/forum?id=MWHIIWrWWu">MPC2</a>: Motion Control of High-Dimensional Musculoskeletal System with Hierarchical Model-Based Planning, Wei et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/abs/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
-        <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.14689">CHIP</a>: Adaptive Compliance for Humanoid Control through Hindsight Perturbation, Chen et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.12230">Spraggett et al</a>: Learning to Get Up Across Morphologies: Zero-Shot Recovery with a Unified Humanoid Policy, Spraggett et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.13093">PvP</a>: Data-Efficient Humanoid Robot Learning with Proprioceptive-Privileged Contrastive Representations, Yuan et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.08500">Mimic2DM</a>: Learning to Control Physically-simulated 3D Characters via Generating and Mimicking 2D Motions, Li et al.</li>
