@@ -125,6 +125,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(TMM 2025)</b> <a href="https://arxiv.org/abs/2508.01590">MCG-IMM</a>: A Plug-and-Play Multi-Criteria Guidance for Diverse In-Betweening Human Motion Generation, Yu et al.</li>
         <li><b>(IJCV 2025)</b> <a href="https://arxiv.org/abs/2502.05534">Fg-T2M++</a>: LLMs-Augmented Fine-Grained Text Driven Human Motion Generation, Wang et al.</li>
         <li><b>(TCSVT 2025)</b> <a href="https://arxiv.org/abs/2503.13300">Zeng et al</a>: Progressive Human Motion Generation Based on Text and Few Motion Frames, Zeng et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.19159">OmniMoGen</a>: Unifying Human Motion Generation via Learning from Interleaved Text-Motion Instructions, Bu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.13840">MoLingo</a>: Motion–Language Alignment for Text-to-Human Motion Generation, He et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.09423">FunPhase</a>: A Periodic Functional Autoencoder for Motion Generation via Phase Manifolds, Pegoraro et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.10730">IRG-MotionLLM</a>: Interleaving Motion Generation, Assessment and Refinement for Text-to-Motion Generation, Li et al.</li>
@@ -547,6 +548,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://github.com/WindVChen/Sitcom-Crafter">Sitcom-Crafter</a>: A Plot-Driven Human Motion Generation System in 3D Scenes, Chen et al. </li>
         <li><b>(3DV 2025)</b> <a href="https://arxiv.org/abs/2408.16770?">Paschalidis et al</a>: 3D Whole-body Grasp Synthesis with Directional Controllability, Paschalidis et al.</li>
         <li><b>(WACV 2025)</b> <a href="https://arxiv.org/abs/2405.18438">GHOST</a>: Grounded Human Motion Generation with Open Vocabulary Scene-and-Text Contexts, Milacski et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.16456">Prime and Reach</a>: Synthesising Body Motion for Gaze-Primed Object Reach, Hatano et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2511.13032">Uni-Inter</a>: Unifying 3D Human Motion Synthesis Across Diverse Interaction Contexts, Liu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2511.07819">SSOMotion</a>: HumanMotion Synthesis in 3D Scenes via Unified Scene Semantic Occupancy, Cho et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2510.13044">SceneAdapt</a>: Scene-aware Adaptation of Human Motion Diffusion, Cho et al.</li>
@@ -810,7 +812,8 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://openreview.net/forum?id=MWHIIWrWWu">MPC2</a>: Motion Control of High-Dimensional Musculoskeletal System with Hierarchical Model-Based Planning, Wei et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/abs/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
-        <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>>
+        <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.14689">EGM</a>: Efficiently Learning General Motion Tracking Policy for High Dynamic Humanoid Whole-Body Control, Yang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.14689">CHIP</a>: Adaptive Compliance for Humanoid Control through Hindsight Perturbation, Chen et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.12230">Spraggett et al</a>: Learning to Get Up Across Morphologies: Zero-Shot Recovery with a Unified Humanoid Policy, Spraggett et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.13093">PvP</a>: Data-Efficient Humanoid Robot Learning with Proprioceptive-Privileged Contrastive Representations, Yuan et al.</li>
