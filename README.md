@@ -53,6 +53,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
         <ul style="margin-left: 5px;">
+        <li><b>(WACV 2026)</b> <a href="https://arxiv.org/abs/2512.21237">SegMo</a>: Segment-aligned Text to 3D Human Motion Generation, Dang et al.</li>
         <li><b>(AAAI 2026)</b> <a href="https://wengwanjiang.github.io/ReAlign-page/">ReAlign</a>: Bilingual Text-to-Motion Generation via Step-Aware Reward-Guided Alignment, Weng et al.</li>
         <li><b>(AAAI 2026)</b> <a href="https://arxiv.org/abs/2511.18927">FineXtrol</a>: Controllable Motion Generation via Fine-Grained Text, Shen et al.</li>
     </ul></details>
@@ -631,6 +632,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <li><b>(ICLR 2025)</b> <a href="https://gohar-malik.github.io/intermask">InterMask</a>: 3D Human Interaction Generation via Collaborative Masked Modelling, Javed et al.</li>
     <li><b>(3DV 2025)</b> <a href="https://arxiv.org/abs/2312.08983">Interactive Humanoid</a>: Online Full-Body Motion Reaction Synthesis with Social Affordance Canonicalization and Forecasting, Liu et al.</li>
     <li><b>(AAAI 2026)</b> <a href="https://arxiv.org/abs/2511.13488">InterMoE</a>: Individual-Specific 3D Human Interaction Generation via Dynamic Temporal-Selective MoE, Wang et al.</li>
+    <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.19692">Interact2Ar</a>: Full-Body Human-Human Interaction Generation via Autoregressive Diffusion Models, Ruiz-Ponce et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2510.06504">Text2Interact</a>: High-Fidelity and Diverse Text-to-Two-Person Interaction Generation, Wu et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.05747">InterAct</a>: A Large-Scale Dataset of Dynamic, Expressive and Interactive Activities between Two People in Daily Scenarios, Ho et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2506.22554">E-React</a>: Towards Emotionally Controlled Synthesis of Human Reactions, Zhu et al.</li>
@@ -1057,6 +1059,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <li><b>(RA-L 2025)</b> <a href="https://arxiv.org/abs/2504.10102">Mobedi et al</a>: A Framework for Adaptive Load Redistribution in Human-Exoskeleton-Cobot Systems, Mobedi et al.</li>
     <li><b>(Preprint 2025)</b> <a href="https://github.com/stanfordnmbl/GaitDynamics">GaitDynamics</a>: A Foundation Model for Analyzing Gait Dynamics, Tan et al.</li>
     <li><b>(bioRxiv 2025)</b> <a href="https://www.biorxiv.org/content/10.1101/2025.06.24.660703v1.full.pdf">Richards et al</a>: Visualising joint force-velocity proper es in musculoskeletal models, Richards et al.</li>
+    <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.19692">Beyond Motion Pattern</a>: An Empirical Study of Physical Forces for Human Motion Understanding, Dao et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://intelligentsensingandrehabilitation.github.io/MonocularBiomechanics/">CADS</a>: A Comprehensive Anatomical Dataset and Segmentation for Whole-Body Anatomy in Computed Tomography, Xu et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://intelligentsensingandrehabilitation.github.io/MonocularBiomechanics/">Portable Biomechanics Laboratory</a>: Clinically Accessible Movement Analysis from a Handheld Smartphone, Peiffer et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2507.01340">Le et al</a>: Physics-informed Ground Reaction Dynamics from Human Motion Capture, Le et al.</li>
