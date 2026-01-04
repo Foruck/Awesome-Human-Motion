@@ -60,7 +60,6 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2025</h3></summary>
         <ul style="margin-left: 5px;">
-        <li><b>(Arxiv 2025)</b> <a href="https://github.com/XulongT/FlowerDance">FlowerDance</a>: MeanFlow for Efficient and Refined 3D Dance Generation, Yang et al.</li>
         <li><b>(NeurIPS 2025)</b> <a href="https://github.com/asdryau/TransPhase">HMVLM</a>: Human Motion-Vision-Lanuage Model via MoE LoRA, Hu et al.</li>
         <li><b>(NeurIPS 2025)</b> <a href="https://github.com/asdryau/TransPhase">TransPhase</a>: Deep Compositional Phase Diffusion for Long Motion Sequence Generation, Au et al.</li>
         <li><b>(SIGGRAPH Asia 2025)</b> <a href="https://arxiv.org/abs/2510.12573">TCM</a>: Learning Human Motion with Temporally Conditional Mamba, Nguyen et al.</li>
@@ -126,6 +125,10 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(TMM 2025)</b> <a href="https://arxiv.org/abs/2508.01590">MCG-IMM</a>: A Plug-and-Play Multi-Criteria Guidance for Diverse In-Betweening Human Motion Generation, Yu et al.</li>
         <li><b>(IJCV 2025)</b> <a href="https://arxiv.org/abs/2502.05534">Fg-T2M++</a>: LLMs-Augmented Fine-Grained Text Driven Human Motion Generation, Wang et al.</li>
         <li><b>(TCSVT 2025)</b> <a href="https://arxiv.org/abs/2503.13300">Zeng et al</a>: Progressive Human Motion Generation Based on Text and Few Motion Frames, Zeng et al.</li>
+        <li><b>(Arxiv 2025)</b> <a href="https://arxiv.org/abs/2512.23464">HY-Motion 1.0</a>: Scaling Flow Matching Models for Text-To-Motion Generation, Wen et al.</li>
+        <li><b>(Arxiv 2025)</b> <a href="https://arxiv.org/abs/2512.22324">DeMoGen</a>: Towards Decompositional Human Motion Generation with Energy-Based Diffusion Models, Zhang et al.</li>
+        <li><b>(Arxiv 2025)</b> <a href="https://arxiv.org/abs/2512.22464">Jeong et al</a>: Pose-Guided Residual Refinement for Interpretable Text-to-Motion Generation and Editing, Jeong et al.</li>
+        <li><b>(Arxiv 2025)</b> <a href="https://github.com/XulongT/FlowerDance">FlowerDance</a>: MeanFlow for Efficient and Refined 3D Dance Generation, Yang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.19159">OmniMoGen</a>: Unifying Human Motion Generation via Learning from Interleaved Text-Motion Instructions, Bu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.13840">MoLingo</a>: Motion–Language Alignment for Text-to-Human Motion Generation, He et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.09423">FunPhase</a>: A Periodic Functional Autoencoder for Motion Generation via Phase Manifolds, Pegoraro et al.</li>
@@ -776,6 +779,11 @@ An aggregation of human motion understanding research; feel free to contribute.
 <summary></summary>
 <ul style="margin-left: 5px;">
     <details open>
+    <summary><h3>2026</h3></summary>
+    <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://robot-trains-robot.github.io/">UniAct</a>: Unified Motion Generation and Action Streaming for Humanoid Robots, Jiang et al.</li>
+    </ul></details>
+    <details open>
     <summary><h3>2025</h3></summary>
     <ul style="margin-left: 5px;">
         <li><b>(CoRL 2025)</b> <a href="https://robot-trains-robot.github.io/">Robot Trains Robot</a>: Automatic Real-World Policy Adaptation and Learning for Humanoids, Hu et al.</li>
@@ -815,6 +823,8 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/abs/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.23650">Do You Have Freestyle?</a>: Expressive Humanoid Locomotion via Audio Control, Li et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.23649">RoboMirror</a>: Understand Before You Imitate for Video to Humanoid Locomotion, Li et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.14689">EGM</a>: Efficiently Learning General Motion Tracking Policy for High Dynamic Humanoid Whole-Body Control, Yang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.14689">CHIP</a>: Adaptive Compliance for Humanoid Control through Hindsight Perturbation, Chen et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.12230">Spraggett et al</a>: Learning to Get Up Across Morphologies: Zero-Shot Recovery with a Unified Humanoid Policy, Spraggett et al.</li>
