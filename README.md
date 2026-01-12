@@ -60,7 +60,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2025</h3></summary>
         <ul style="margin-left: 5px;">
-        <li><b>(NeurIPS 2025)</b> <a href="https://github.com/asdryau/TransPhase">HMVLM</a>: Human Motion-Vision-Lanuage Model via MoE LoRA, Hu et al.</li>
+        <li><b>(NeurIPS 2025)</b> <a href="https://arxiv.org/abs/2511.01463">HMVLM</a>: Human Motion-Vision-Lanuage Model via MoE LoRA, Hu et al.</li>
         <li><b>(NeurIPS 2025)</b> <a href="https://github.com/asdryau/TransPhase">TransPhase</a>: Deep Compositional Phase Diffusion for Long Motion Sequence Generation, Au et al.</li>
         <li><b>(SIGGRAPH Asia 2025)</b> <a href="https://arxiv.org/abs/2510.12573">TCM</a>: Learning Human Motion with Temporally Conditional Mamba, Nguyen et al.</li>
         <li><b>(TMLR 2025)</b> <a href="https://xiyan-xu.github.io/MoReactWebPage/">MoReact</a>: Generating Reactive Motion from Textual Descriptions, Xu et al.</li>
@@ -781,7 +781,8 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
-        <li><b>(ArXiv 2026)</b> <a href="https://robot-trains-robot.github.io/">UniAct</a>: Unified Motion Generation and Action Streaming for Humanoid Robots, Jiang et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2601.03607">Yang et al</a>: Locomotion Beyond Feet, Yang et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2601.04948">SKATER</a>: Synthesized Kinematics for Advanced Traversing Efficiency on a Humanoid Robot via Roller Skate Swizzles, Gu et al.</li>
     </ul></details>
     <details open>
     <summary><h3>2025</h3></summary>
@@ -823,6 +824,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2025)</b> <a href="https://guytevet.github.io/CLoSD-page/">CLoSD</a>: Closing the Loop between Simulation and Diffusion for multi-task character control, Tevet et al.</li>
         <li><b>(ICLR 2025)</b> <a href="https://arxiv.org/abs/2502.03122">HiLo</a>: Learning Whole-Body Human-like Locomotion with Motion Tracking Controller, Zhang et al.</li>
         <li><b>(Github 2025)</b> <a href="https://github.com/NVlabs/MobilityGen">MobilityGen</a>: MobilityGen.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.24321">UniAct</a>: Unified Motion Generation and Action Streaming for Humanoid Robots, Jiang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.23650">Do You Have Freestyle?</a>: Expressive Humanoid Locomotion via Audio Control, Li et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.23649">RoboMirror</a>: Understand Before You Imitate for Video to Humanoid Locomotion, Li et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.14689">EGM</a>: Efficiently Learning General Motion Tracking Policy for High Dynamic Humanoid Whole-Body Control, Yang et al.</li>
