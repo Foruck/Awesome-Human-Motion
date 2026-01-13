@@ -781,6 +781,10 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2601.07701">Zhuang et al</a>: Deep Whole-body Parkour, Zhuang et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2601.07454">WaveMan</a>: mmWave-Based Room-Scale Human Interaction Perception for Humanoid Robots, Hu et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2601.07718">Hiking in the Wild</a>: A Scalable Perceptive Parkour Framework for Humanoids, Zhu et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2601.06286">Walk the PLANC</a>: Physics-Guided RL for Agile Humanoid LocomotioN on Constrained Footholds, Dai et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2601.03607">Yang et al</a>: Locomotion Beyond Feet, Yang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2601.04948">SKATER</a>: Synthesized Kinematics for Advanced Traversing Efficiency on a Humanoid Robot via Roller Skate Swizzles, Gu et al.</li>
     </ul></details>
