@@ -53,6 +53,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
         <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2601.10632">CoMoVi</a>: Co-Generation of 3D Human Motions and Realistic Videos, Zhao et al.</li>
         <li><b>(WACV 2026)</b> <a href="https://arxiv.org/abs/2512.21237">SegMo</a>: Segment-aligned Text to 3D Human Motion Generation, Dang et al.</li>
         <li><b>(AAAI 2026)</b> <a href="https://wengwanjiang.github.io/ReAlign-page/">ReAlign</a>: Bilingual Text-to-Motion Generation via Step-Aware Reward-Guided Alignment, Weng et al.</li>
         <li><b>(AAAI 2026)</b> <a href="https://arxiv.org/abs/2511.18927">FineXtrol</a>: Controllable Motion Generation via Fine-Grained Text, Shen et al.</li>
@@ -781,6 +782,9 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2601.09031">Li et al</a>: Generalizable Geometric Prior and Recurrent Spiking Feature Learning for Humanoid Robot Manipulation, Li et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2601.09518">Huang et al</a>: Learning Whole-Body Human-Humanoid Interaction from Human-Human Demonstrations, Huang et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2601.10365">FastStair</a>: Learning to Run Up Stairs with Humanoid Robots, Liu et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2601.07701">Zhuang et al</a>: Deep Whole-body Parkour, Zhuang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2601.07454">WaveMan</a>: mmWave-Based Room-Scale Human Interaction Perception for Humanoid Robots, Hu et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2601.07718">Hiking in the Wild</a>: A Scalable Perceptive Parkour Framework for Humanoids, Zhu et al.</li>
