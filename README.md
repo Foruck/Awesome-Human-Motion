@@ -53,6 +53,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
         <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2601.10909">FrankenMotion</a>: Part-level Human Motion Generation and Composition, Li et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2601.10632">CoMoVi</a>: Co-Generation of 3D Human Motions and Realistic Videos, Zhao et al.</li>
         <li><b>(WACV 2026)</b> <a href="https://arxiv.org/abs/2512.21237">SegMo</a>: Segment-aligned Text to 3D Human Motion Generation, Dang et al.</li>
         <li><b>(AAAI 2026)</b> <a href="https://wengwanjiang.github.io/ReAlign-page/">ReAlign</a>: Bilingual Text-to-Motion Generation via Step-Aware Reward-Guided Alignment, Weng et al.</li>
