@@ -539,6 +539,11 @@ An aggregation of human motion understanding research; feel free to contribute.
 <summary></summary>
 <ul style="margin-left: 5px;">
     <details open>
+    <summary><h3>2026</h3></summary>
+    <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2601.19484">Dynamic Worlds, Dynamic Humans</a>: Generating Virtual Human-Scene Interaction Motion in Dynamic Scenes, Wang et al.</li>
+    </ul></details>
+    <details open>
     <summary><h3>2025</h3></summary>
     <ul style="margin-left: 5px;">
         <li><b>(ICCV 2025)</b> <a href="https://beingbeyond.github.io/Being-M0.5/">Being-M0.5</a>: A Real-Time Controllable Vision-Language-Motion Model, Cao et al.</li>
@@ -624,7 +629,9 @@ An aggregation of human motion understanding research; feel free to contribute.
 ## Human-Human Interaction
 <details open>
 <summary></summary>
-<ul style="margin-left: 5px;">
+<ul style="margin-left: 5px;">>
+    <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2601.20383">HINT</a>: Hierarchical Interaction Modeling for Autoregressive Multi-Human Motion Generation, Liu et al.</li>
+    <li><b>(AAAI 2026)</b> <a href="https://arxiv.org/abs/2511.13488">InterMoE</a>: Individual-Specific 3D Human Interaction Generation via Dynamic Temporal-Selective MoE, Wang et al.</li>
     <li><b>(ICCV 2025)</b> <a href="https://stevenlsw.github.io/ponimator/">Ponimator</a>: Unfolding Interactive Pose for Versatile Human-human Interaction Animation, Liu et al.</li>
     <li><b>(ICCV 2025)</b> <a href="https://liangxuy.github.io/InterVLA/">Perceiving and Acting in First-Person</a>: A Dataset and Benchmark for Egocentric Human-Object-Human Interactions, Xu et al.</li>
     <li><b>(ICCV 2025)</b> <a href="https://humanx-interaction.github.io/">Towards Immersive Human-X Interaction</a>: A Real-Time Framework for Physically Plausible Motion Synthesis, Ji et al.</li>
@@ -636,7 +643,6 @@ An aggregation of human motion understanding research; feel free to contribute.
     <li><b>(ICLR 2025)</b> <a href="https://zju3dv.github.io/ready_to_react/">Ready-to-React</a>: Online Reaction Policy for Two-Character Interaction Generation, Cen et al.</li>
     <li><b>(ICLR 2025)</b> <a href="https://gohar-malik.github.io/intermask">InterMask</a>: 3D Human Interaction Generation via Collaborative Masked Modelling, Javed et al.</li>
     <li><b>(3DV 2025)</b> <a href="https://arxiv.org/abs/2312.08983">Interactive Humanoid</a>: Online Full-Body Motion Reaction Synthesis with Social Affordance Canonicalization and Forecasting, Liu et al.</li>
-    <li><b>(AAAI 2026)</b> <a href="https://arxiv.org/abs/2511.13488">InterMoE</a>: Individual-Specific 3D Human Interaction Generation via Dynamic Temporal-Selective MoE, Wang et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.19692">Interact2Ar</a>: Full-Body Human-Human Interaction Generation via Autoregressive Diffusion Models, Ruiz-Ponce et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2510.06504">Text2Interact</a>: High-Fidelity and Diverse Text-to-Two-Person Interaction Generation, Wu et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.05747">InterAct</a>: A Large-Scale Dataset of Dynamic, Expressive and Interactive Activities between Two People in Daily Scenarios, Ho et al.</li>
@@ -783,6 +789,8 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2601.16035">CAT</a>: Collision-Free Humanoid Traversal in Cluttered Indoor Scenes, Xue et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2601.18963">Fauna Sprout</a>: A lightweight, approachable, developer-ready humanoid robot, Fauna Robotics Team.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2601.09031">Li et al</a>: Generalizable Geometric Prior and Recurrent Spiking Feature Learning for Humanoid Robot Manipulation, Li et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2601.09518">Huang et al</a>: Learning Whole-Body Human-Humanoid Interaction from Human-Human Demonstrations, Huang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2601.10365">FastStair</a>: Learning to Run Up Stairs with Humanoid Robots, Liu et al.</li>
