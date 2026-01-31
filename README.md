@@ -1308,6 +1308,7 @@ An aggregation of human motion understanding research; feel free to contribute.
 <details open>
 <summary></summary>
 <ul style="margin-left: 5px;">
+    <li><b>(3DV 2026)</b> <a href="https://xusy2333.com/demo/">DEMO</a>: Dense Motion Captioning, Xu et al.</li>
     <li><b>(CVPR 2025)</b> <a href="https://chathuman.github.io/">ChatHuman</a>: Chatting about 3D Humans with Tools, Lin et al.</li>
     <li><b>(CVPR 2025)</b> <a href="https://qhfang.github.io/papers/humocon.html">HuMoCon</a>: Concept Discovery for Human Motion Understanding, Fang et al.</li>
     <li><b>(CVPR 2025)</b> <a href="https://vision.cs.utexas.edu/projects/ExpertAF/">ExpertAF</a>: Expert Actionable Feedback from Video, Ashutosh et al.</li>
