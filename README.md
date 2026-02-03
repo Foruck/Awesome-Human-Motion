@@ -64,6 +64,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <ul style="margin-left: 5px;">
         <li><b>(NeurIPS 2025)</b> <a href="https://arxiv.org/abs/2511.01463">HMVLM</a>: Human Motion-Vision-Lanuage Model via MoE LoRA, Hu et al.</li>
         <li><b>(NeurIPS 2025)</b> <a href="https://github.com/asdryau/TransPhase">TransPhase</a>: Deep Compositional Phase Diffusion for Long Motion Sequence Generation, Au et al.</li>
+        <li><b>(NeurIPS 2025)</b> <a href="https://github.com/XulongT/MEGADance">MEGADance</a>: Mixture-of-experts architecture for genre-aware 3d dance generation, Yang et al.</li>
         <li><b>(SIGGRAPH Asia 2025)</b> <a href="https://arxiv.org/abs/2510.12573">TCM</a>: Learning Human Motion with Temporally Conditional Mamba, Nguyen et al.</li>
         <li><b>(TMLR 2025)</b> <a href="https://xiyan-xu.github.io/MoReactWebPage/">MoReact</a>: Generating Reactive Motion from Textual Descriptions, Xu et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://danceba.github.io/">Align Your Rhythm</a>:  Generating Highly Aligned Dance Poses with Gating-Enhanced Rhythm-Aware Feature Representation, Fan et al.</li>
@@ -130,6 +131,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(Arxiv 2025)</b> <a href="https://arxiv.org/abs/2512.23464">HY-Motion 1.0</a>: Scaling Flow Matching Models for Text-To-Motion Generation, Wen et al.</li>
         <li><b>(Arxiv 2025)</b> <a href="https://arxiv.org/abs/2512.22324">DeMoGen</a>: Towards Decompositional Human Motion Generation with Energy-Based Diffusion Models, Zhang et al.</li>
         <li><b>(Arxiv 2025)</b> <a href="https://arxiv.org/abs/2512.22464">Jeong et al</a>: Pose-Guided Residual Refinement for Interpretable Text-to-Motion Generation and Editing, Jeong et al.</li>
+        <li><b>(Arxiv 2025)</b> <a href="https://arxiv.org/pdf/2512.18804">TempoMOE</a>: Tempo as the Stable Cue: Hierarchical Mixture of Tempo and Beat Experts for Music to 3D Dance Generation, Lyu et al.</li>
         <li><b>(Arxiv 2025)</b> <a href="https://github.com/XulongT/FlowerDance">FlowerDance</a>: MeanFlow for Efficient and Refined 3D Dance Generation, Yang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.19159">OmniMoGen</a>: Unifying Human Motion Generation via Learning from Interleaved Text-Motion Instructions, Bu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.13840">MoLingo</a>: Motion–Language Alignment for Text-to-Human Motion Generation, He et al.</li>
