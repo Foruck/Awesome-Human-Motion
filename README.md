@@ -791,6 +791,11 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2601.22517">RoboStriker</a>: Hierarchical Decision-Making for Autonomous Humanoid Boxing, Yin et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2601.23080">RGMT</a>: Robust and Generalized Humanoid Motion Tracking, Ma et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.01515">RAPT</a>: Model-Predictive Out-of-Distribution Detection and Failure Diagnosis for Sim-to-Real Humanoid Robots, Munn et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.02473">HumanX</a>: Toward Agile and Generalizable Humanoid Interaction Skills from Human Videos, Wang et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://hongsukchoi.github.io/fpo-control/">Yi et al</a>: Flow Policy Gradients for Robot Control, Yi et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2601.16035">CAT</a>: Collision-Free Humanoid Traversal in Cluttered Indoor Scenes, Xue et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2601.18963">Fauna Sprout</a>: A lightweight, approachable, developer-ready humanoid robot, Fauna Robotics Team.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2601.09031">Li et al</a>: Generalizable Geometric Prior and Recurrent Spiking Feature Learning for Humanoid Robot Manipulation, Li et al.</li>
