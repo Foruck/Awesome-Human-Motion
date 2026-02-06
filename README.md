@@ -437,9 +437,13 @@ An aggregation of human motion understanding research; feel free to contribute.
 <summary></summary>
 <ul style="margin-left: 5px;">
     <details open>
-    <summary><h3>2025</h3></summary>
+    <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
         <li><b>(ArXiv 2026)</b> <a href="https://sirui-xu.github.io/InterPrior/">InterPrior</a>: Scaling Generative Control for Physics-Based Human-Object Interactions, Xu et al.</li>
+    </ul></details>
+    <details open>
+    <summary><h3>2025</h3></summary>
+    <ul style="margin-left: 5px;">
         <li><b>(NeurIPS 2025)</b> <a href="https://tlb-miss.github.io/hhoi/">HHOI</a>: Learning to Generate Human-Human-Object Interactions from Textual Descriptions, Na et al.</li>
         <li><b>(ACM MM 2025)</b> <a href="https://arxiv.org/abs/2508.06205">PA-HOI</a>: A Physics-Aware Human and Object Interaction Dataset, Wang et al.</li>
         <li><b>(ACM MM 2025)</b> <a href="https://arxiv.org/abs/2509.12250">OnlineHOI</a>: Towards Online Human-Object Interaction Generation and Perception, Ji et al.</li>
