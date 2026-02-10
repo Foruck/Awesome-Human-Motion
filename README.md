@@ -53,8 +53,12 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
         <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.04188">DiMo</a>: Discrete Diffusion Modeling for Motion Generation and Understanding, Zhang et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.08337">LG-Tok</a>: Language-Guided Transformer Tokenizer for Human Motion Generation, Yan et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.08462">TriC-Motion</a>: Tri-Domain Causal Modeling Grounded Text-to-Motion Generation, Cao et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2601.10909">FrankenMotion</a>: Part-level Human Motion Generation and Composition, Li et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2601.10632">CoMoVi</a>: Co-Generation of 3D Human Motions and Realistic Videos, Zhao et al.</li>
+        <li><b>(ICLR 2026)</b> <a href="https://arxiv.org/abs/2602.07967">EasyTune</a>: Efficient Step-Aware Fine-Tuning for Diffusion-Based Motion Generation, Tan et al.</li>
         <li><b>(WACV 2026)</b> <a href="https://arxiv.org/abs/2512.21237">SegMo</a>: Segment-aligned Text to 3D Human Motion Generation, Dang et al.</li>
         <li><b>(AAAI 2026)</b> <a href="https://wengwanjiang.github.io/ReAlign-page/">ReAlign</a>: Bilingual Text-to-Motion Generation via Step-Aware Reward-Guided Alignment, Weng et al.</li>
         <li><b>(AAAI 2026)</b> <a href="https://arxiv.org/abs/2511.18927">FineXtrol</a>: Controllable Motion Generation via Fine-Grained Text, Shen et al.</li>
@@ -796,6 +800,21 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.04515">EgoActor</a>: Grounding Task Planning into Spatial-aware Egocentric Actions for Humanoid Robots via Visual-Language Models, Bai et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.04412">HoRD</a>: Robust Humanoid Control via History-Conditioned Reinforcement Learning and Online Distillation, Wang et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.03511">CMR</a>: Contractive Mapping Embeddings for Robust Humanoid Locomotion on Unstructured Terrains, Zeng et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.03205">HUSKY</a>: Humanoid Skateboarding System via Physics-Aware Whole-Body Control, Han et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.03002">RPL</a>: Learning Robust Humanoid Perceptive Locomotion on Challenging Terrains, Zhang et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.02960">EAGLE</a>: Embodiment-Aware Generalist Specialist Distillation for Unified Humanoid Whole-Body Control, Peng et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.04851">PDF-HR</a>: Pose Distance Fields for Humanoid Robots, Gu et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://sirui-xu.github.io/InterPrior/">InterPrior</a>: Scaling Generative Control for Physics-Based Human-Object Interactions, Xu et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.05310">Kong et al</a>: Learning Soccer Skills for Humanoid Robots: A Progressive Perception-Action Framework, Kong et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.05791">XHugWBC</a>: Scalable and General Whole-Body Control for Cross-Humanoid Locomotion, Xue et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.07439">TextOp</a>: Real-time Interactive Text-Driven Humanoid Robot Motion Generation and Control, Xie et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.06382">Now You See That</a>: Learning End-to-End Humanoid Locomotion from Raw Pixels, Sun et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.07434">Bridging Speech, Emotion, and Motion</a>: a VLM-based Multimodal Edge-deployable Framework for Humanoid Robots, Yang et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.08594">MOSAIC</a>: Bridging the Sim-to-Real Gap in Generalist Humanoid Motion Tracking and Teleoperation with Rapid Residual Adaptation, Sun et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.08370">Chen et al</a>: Learning Human-Like Badminton Skills for Humanoid Robots, Chen et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2601.22517">RoboStriker</a>: Hierarchical Decision-Making for Autonomous Humanoid Boxing, Yin et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2601.23080">RGMT</a>: Robust and Generalized Humanoid Motion Tracking, Ma et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.01515">RAPT</a>: Model-Predictive Out-of-Distribution Detection and Failure Diagnosis for Sim-to-Real Humanoid Robots, Munn et al.</li>
