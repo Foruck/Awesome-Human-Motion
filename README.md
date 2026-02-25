@@ -53,6 +53,8 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
         <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.18057">TCA-T2M</a>: Temporal Consistency-Aware Text-to-Motion Generation, Wang et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.18199">DMC</a>: A Self-Supervised Approach on Motion Calibration for Enhancing Physical Plausibility in Text-to-Motion, Shim et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.04188">DiMo</a>: Discrete Diffusion Modeling for Motion Generation and Understanding, Zhang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.08337">LG-Tok</a>: Language-Guided Transformer Tokenizer for Human Motion Generation, Yan et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.08462">TriC-Motion</a>: Tri-Domain Causal Modeling Grounded Text-to-Motion Generation, Cao et al.</li>
@@ -800,6 +802,11 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.16705">Dong et al</a>: Learning Humanoid End-Effector Control for Open-Vocabulary Visual Loco-Manipulation, Dong et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.15733">MeshMimic</a>: Geometry-Aware Humanoid Motion Learning through 3D Scene Reconstruction, Zhang et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.16705">Perceptive Humanoid Parkour</a>: Chaining Dynamic Human Skills via Motion Matching, Wu et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.16705">VIGOR</a>: Visual Goal-In-Context Inference for Unified Humanoid Fall Safety, Azulay et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.16705">HERO</a>: Learning Humanoid End-Effector Control for Open-Vocabulary Visual Loco-Manipulation, Dong et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.04515">EgoActor</a>: Grounding Task Planning into Spatial-aware Egocentric Actions for Humanoid Robots via Visual-Language Models, Bai et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.04412">HoRD</a>: Robust Humanoid Control via History-Conditioned Reinforcement Learning and Online Distillation, Wang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.03511">CMR</a>: Contractive Mapping Embeddings for Robust Humanoid Locomotion on Unstructured Terrains, Zeng et al.</li>
@@ -1108,6 +1115,7 @@ An aggregation of human motion understanding research; feel free to contribute.
 <details open>
 <summary></summary>
 <ul style="margin-left: 5px;">
+    <li><b>(npj 2025)</b> <a href="https://arxiv.org/abs/2602.15684">Kiki et al</a>: Estimating Human Muscular Fatigue in Dynamic Collaborative Robotic Tasks with Learning-Based Models, Kiki et al.</li>
     <li><b>(npj 2025)</b> <a href="https://www.nature.com/articles/s41746-025-01677-0">Xiang et al</a>: Integrating personalized shape prediction, biomechanical modeling, and wearables for bone stress prediction in runners, Xiang et al.</li>
     <li><b>(CVPR 2025)</b> <a href="https://isshikihugh.github.io/HSMR/">HSMR</a>: Reconstructing Humans with A Biomechanically Accurate Skeleton, Xia et al.</li>
     <li><b>(CVPR 2025)</b> <a href="https://foruck.github.io/HDyS">HDyS</a>: Homogeneous Dynamics Space for Heterogeneous Humans, Liu et al.</li>
