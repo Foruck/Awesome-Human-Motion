@@ -53,6 +53,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
         <ul style="margin-left: 5px;">
+        <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2602.18057">CMDM</a>: Causal Motion Diffusion Models for Autoregressive Motion Generation, Yu et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.18057">TCA-T2M</a>: Temporal Consistency-Aware Text-to-Motion Generation, Wang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.18199">DMC</a>: A Self-Supervised Approach on Motion Calibration for Enhancing Physical Plausibility in Text-to-Motion, Shim et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.04188">DiMo</a>: Discrete Diffusion Modeling for Motion Generation and Understanding, Zhang et al.</li>
@@ -554,7 +555,8 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
-        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2601.19484">Dynamic Worlds, Dynamic Humans</a>: Generating Virtual Human-Scene Interaction Motion in Dynamic Scenes, Wang et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.20476">SceMoS</a>: Scene-Aware 3D Human Motion Synthesis by Planning with Geometry-Grounded Tokens, Ghosh et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2601.19484">Dynamic Worlds, Dynamic Humans</a>: Generating Virtual Human-Scene Interaction Motion in Dynamic Scenes, Wang et al.</li>
     </ul></details>
     <details open>
     <summary><h3>2025</h3></summary>
@@ -802,6 +804,11 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.23843">OmniXtreme</a>: Breaking the Generality Barrier in High-Dynamic Humanoid Control, Wang et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.23832">OmniTrack</a>: General Motion Tracking via Physics-Consistent Reference, Li et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.21723">LessMimic</a>: Long-Horizon Humanoid Interaction with Unified Distance Field Representations, Lin et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.21666">Feng et al</a>: Biomechanical Comparisons Reveal Divergence of Human and Humanoid Gaits, Feng et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.21599">Xu et al</a>: Iterative Closed-Loop Motion Synthesis for Scaling the Capabilities of Humanoid Control, Xu et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.16705">Dong et al</a>: Learning Humanoid End-Effector Control for Open-Vocabulary Visual Loco-Manipulation, Dong et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.15733">MeshMimic</a>: Geometry-Aware Humanoid Motion Learning through 3D Scene Reconstruction, Zhang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.16705">Perceptive Humanoid Parkour</a>: Chaining Dynamic Human Skills via Motion Matching, Wu et al.</li>
