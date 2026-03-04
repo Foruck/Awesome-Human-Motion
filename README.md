@@ -645,6 +645,7 @@ An aggregation of human motion understanding research; feel free to contribute.
 <details open>
 <summary></summary>
 <ul style="margin-left: 5px;">>
+    <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.02856">Rhythm</a>: Learning Interactive Whole-Body Control for Dual Humanoids, Chen et al.</li>
     <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2601.20383">HINT</a>: Hierarchical Interaction Modeling for Autoregressive Multi-Human Motion Generation, Liu et al.</li>
     <li><b>(AAAI 2026)</b> <a href="https://arxiv.org/abs/2511.13488">InterMoE</a>: Individual-Specific 3D Human Interaction Generation via Dynamic Temporal-Selective MoE, Wang et al.</li>
     <li><b>(ICCV 2025)</b> <a href="https://stevenlsw.github.io/ponimator/">Ponimator</a>: Unfolding Interactive Pose for Versatile Human-human Interaction Animation, Liu et al.</li>
@@ -804,6 +805,13 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ICRA 2026)</b> <a href="https://arxiv.org/abs/2603.03067">CMoE</a>: Contrastive Mixture of Experts for Motion Control and Terrain Adaptation of Humanoid Robots, Ma et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.03279">ULTRA</a>: Unified Multimodal Control for Autonomous Humanoid Whole-Body Loco-Manipulation, He et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.02856">Rhythm</a>: Learning Interactive Whole-Body Control for Dual Humanoids, Chen et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.01294">SLMP</a>: Spherical Latent Motion Prior for Physics-Based Simulated Humanoid Control, Tan et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.00913">Scaling Tasks, Not Samples</a>: Mastering Humanoid Control through Multi-Task Model-Based Reinforcement Learning, Liu et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.00913">Shi et al</a>: Minimalist Compliance Control, Shi et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.01126">Pro-HOI</a>: Perceptive Root-guided Humanoid-Object Interaction, Lin et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.23843">OmniXtreme</a>: Breaking the Generality Barrier in High-Dynamic Humanoid Control, Wang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.23832">OmniTrack</a>: General Motion Tracking via Physics-Consistent Reference, Li et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.21723">LessMimic</a>: Long-Horizon Humanoid Interaction with Unified Distance Field Representations, Lin et al.</li>
