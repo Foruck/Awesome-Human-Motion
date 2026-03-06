@@ -555,6 +555,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.04338">ArtHOI</a>: Articulated Human-Object Interaction Synthesis by 4D Reconstruction from Video Priors, Huang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.20476">SceMoS</a>: Scene-Aware 3D Human Motion Synthesis by Planning with Geometry-Grounded Tokens, Ghosh et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2601.19484">Dynamic Worlds, Dynamic Humans</a>: Generating Virtual Human-Scene Interaction Motion in Dynamic Scenes, Wang et al.</li>
     </ul></details>
@@ -806,6 +807,11 @@ An aggregation of human motion understanding research; feel free to contribute.
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
         <li><b>(ICRA 2026)</b> <a href="https://arxiv.org/abs/2603.03067">CMoE</a>: Contrastive Mixture of Experts for Motion Control and Terrain Adaptation of Humanoid Robots, Ma et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.03751">IO-WBC</a>: Interaction-Aware Whole-Body Control for Compliant Object Transport, Zhang et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.05355">Cognition to Control</a>: Multi-Agent Learning for Human-Humanoid Collaborative Transport, Zhang et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.05355">Omni-Manip</a>: Beyond-FOV Large-Workspace Humanoid Manipulation with Omnidirectional 3D Perception, Qu et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.05410">PhysiFlow</a>: Physics-Aware Humanoid Whole-Body VLA via Multi-Brain Latent Flow Matching and Robust Tracking, Qin et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.03733">X-Loco</a>: Towards Generalist Humanoid Locomotion Control via Synergetic Policy Distillation, Wang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.03279">ULTRA</a>: Unified Multimodal Control for Autonomous Humanoid Whole-Body Loco-Manipulation, He et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.02856">Rhythm</a>: Learning Interactive Whole-Body Control for Dual Humanoids, Chen et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.01294">SLMP</a>: Spherical Latent Motion Prior for Physics-Based Simulated Humanoid Control, Tan et al.</li>
