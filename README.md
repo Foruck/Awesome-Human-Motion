@@ -53,6 +53,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
         <ul style="margin-left: 5px;">
+        <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2603.11605">LaMoGen</a>: Language to Motion Generation Through LLM-Guided Symbolic Inference, Jiang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.09611">ParTY</a>: Part-Guidance for Expressive Text-to-Motion Synthesis, Heo et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.08590">PRISM</a>: Streaming Human Motion Generation with Per-Joint Latent Decomposition, Ling et al.</li>
         <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2602.18057">CMDM</a>: Causal Motion Diffusion Models for Autoregressive Motion Generation, Yu et al.</li>
@@ -448,6 +449,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
         <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.12126">Hoi3DGen</a>: Generating High-Quality Human-Object-Interactions in 3D, Sharma et al.</li>
         <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2603.07988">TeamHOI</a>: Learning a Unified Policy for Cooperative Human-Object Interactions with Any Team Size, Lionar et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.07516">InterReal</a>: A Unified Physics-Based Imitation Framework for Learning Human-Object Interaction Skills, Liang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://sirui-xu.github.io/InterPrior/">InterPrior</a>: Scaling Generative Control for Physics-Based Human-Object Interactions, Xu et al.</li>
@@ -650,6 +652,7 @@ An aggregation of human motion understanding research; feel free to contribute.
 <details open>
 <summary></summary>
 <ul style="margin-left: 5px;">>
+    <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2603.11346">Learning to Assist</a>: Physics-Grounded Human-Human Control via Multi-Agent Reinforcement Learning, Shibata et al.</li>
     <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.02856">Rhythm</a>: Learning Interactive Whole-Body Control for Dual Humanoids, Chen et al.</li>
     <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2601.20383">HINT</a>: Hierarchical Interaction Modeling for Autoregressive Multi-Human Motion Generation, Liu et al.</li>
     <li><b>(AAAI 2026)</b> <a href="https://arxiv.org/abs/2511.13488">InterMoE</a>: Individual-Specific 3D Human Interaction Generation via Dynamic Temporal-Selective MoE, Wang et al.</li>
@@ -816,6 +819,9 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.12263">Psi_0</a>: An Open Foundation Model Towards Universal Humanoid Loco-Manipulation, Wei et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.12260">HumDex</a>: Humanoid Dexterous Manipulation Made Easy, Heng et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.11480">SPARK</a>: Skeleton-Parameter Aligned Retargeting on Humanoid Robots with Kinodynamic Trajectory Optimization, Wang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.10675">Cybo-Waiter</a>: A Physical Agentic Framework for Humanoid Whole-Body Locomotion-Manipulation, Ren et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.10306">SteadyTray</a>: Learning Object Balancing Tasks in Humanoid Tray Transport via Residual Reinforcement Learning, Huang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.09956">KDMR</a>: Kinodynamic Motion Retargeting for Humanoid Locomotion via Multi-Contact Whole-Body Trajectory Optimization, Zhang et al.</li>
