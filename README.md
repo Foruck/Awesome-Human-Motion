@@ -53,6 +53,9 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
         <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.15546">Kimodo</a>: Scaling Controllable Human Motion Generation, Rempe et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.15016">Riemannian Motion Generation</a>: A Unified Framework for Human Motion Representation and Generation via Riemannian Flow Matching, Miao et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.13500">ActionPlan</a>: Future-Aware Streaming Motion Synthesis via Frame-Level Action Planning, Nazarenus et al.</li>
         <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2603.11605">LaMoGen</a>: Language to Motion Generation Through LLM-Guided Symbolic Inference, Jiang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.09611">ParTY</a>: Part-Guidance for Expressive Text-to-Motion Synthesis, Heo et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.08590">PRISM</a>: Streaming Human Motion Generation with Per-Joint Latent Decomposition, Ling et al.</li>
@@ -820,6 +823,9 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.15084">HALO</a>: Closing Sim-to-Real Gap for Heavy-loaded Humanoid Agile Motion Skills via Differentiable Simulation, Wang et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.14605">CyboRacket</a>: A Perception-to-Action Framework for Humanoid Racket Sports, Ren et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.14327">OmniClone</a>: Engineering a Robust, All-Rounder Whole-Body Humanoid Teleoperation System, Li et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.13228">PhysMoDPO</a>: Physically-Plausible Humanoid Motion with Preference Optimization, Zhang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.12686">LATENT</a>: Learning Athletic Humanoid Tennis Skills from Imperfect Human Motion Data, Zhang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.12263">Psi_0</a>: An Open Foundation Model Towards Universal Humanoid Loco-Manipulation, Wei et al.</li>
