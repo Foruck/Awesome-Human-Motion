@@ -53,6 +53,8 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
         <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.19227">MoTok</a>: Bridging Semantic and Kinematic Conditions with Diffusion-based Discrete Motion Tokenizer, Gu et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.18623">OpenT2M</a>: No-frill Motion Generation with Open-source, Large-scale, High-quality Data, Cao et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.15975">UMO</a>: Unified In-Context Learning Unlocks Motion Foundation Model Priors, Cong et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.15546">Kimodo</a>: Scaling Controllable Human Motion Generation, Rempe et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.15016">Riemannian Motion Generation</a>: A Unified Framework for Human Motion Representation and Generation via Riemannian Flow Matching, Miao et al.</li>
@@ -824,6 +826,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.18979">PRIOR</a>: Perceptive Learning for Humanoid Locomotion with Reference Gait Priors, Han et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.17927">RoboForge</a>: Physically Optimized Text-guided Whole-Body Locomotion for Humanoids, Yuan et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.16188">ECHO</a>: Edge-Cloud Humanoid Orchestration for Language-to-Motion Control, Jia et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.16180">He et al</a>: Enforcing Task-Specified Compliance Bounds for Humanoids via Anisotropic Lipschitz-Constrained Policies, He et al.</li>
