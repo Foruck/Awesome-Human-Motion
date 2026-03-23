@@ -53,6 +53,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
         <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.19795">Controllable Text-to-Motion Generation</a>: via Modular Body-Part Phase Control, Dai et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.19227">MoTok</a>: Bridging Semantic and Kinematic Conditions with Diffusion-based Discrete Motion Tokenizer, Gu et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.18623">OpenT2M</a>: No-frill Motion Generation with Open-source, Large-scale, High-quality Data, Cao et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.15975">UMO</a>: Unified In-Context Learning Unlocks Motion Foundation Model Priors, Cong et al.</li>
@@ -826,6 +827,9 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.20147">AGILE</a>: A Comprehensive Workflow for Humanoid Loco-Manipulation Learning, Zhao et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.19709">Morphology-Consistent Humanoid Interaction</a>: through Robot-Centric Video Synthesis, Xu et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.19305">PhyGile</a>: Physics-Prefix Guided Motion Generation for Agile General Humanoid Motion Tracking, Bao et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.18979">PRIOR</a>: Perceptive Learning for Humanoid Locomotion with Reference Gait Priors, Han et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.17927">RoboForge</a>: Physically Optimized Text-guided Whole-Body Locomotion for Humanoids, Yuan et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.16188">ECHO</a>: Edge-Cloud Humanoid Orchestration for Language-to-Motion Control, Jia et al.</li>
