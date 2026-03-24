@@ -53,6 +53,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
         <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.22282">UniMotion</a>: A Unified Framework for Motion-Text-Vision Understanding and Generation, Wang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.19795">Controllable Text-to-Motion Generation</a>: via Modular Body-Part Phase Control, Dai et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.19227">MoTok</a>: Bridging Semantic and Kinematic Conditions with Diffusion-based Discrete Motion Tokenizer, Gu et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.18623">OpenT2M</a>: No-frill Motion Generation with Open-source, Large-scale, High-quality Data, Cao et al.</li>
@@ -827,6 +828,8 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.22201">Make Tracking Easy</a>: Neural Motion Retargeting for Humanoid Whole-body Control, Zhao et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.21853">Cha et al</a>: Sim-to-Real of Humanoid Locomotion Policies via Joint Torque Space Perturbation Injection, Cha et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.20147">AGILE</a>: A Comprehensive Workflow for Humanoid Loco-Manipulation Learning, Zhao et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.19709">Morphology-Consistent Humanoid Interaction</a>: through Robot-Centric Video Synthesis, Xu et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.19305">PhyGile</a>: Physics-Prefix Guided Motion Generation for Agile General Humanoid Motion Tracking, Bao et al.</li>
