@@ -458,6 +458,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
         <ul style="margin-left: 5px;">
+        <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2603.24383">ViHOI</a>: Human-Object Interaction Synthesis with Visual Priors, Cai et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.12126">Hoi3DGen</a>: Generating High-Quality Human-Object-Interactions in 3D, Sharma et al.</li>
         <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2603.07988">TeamHOI</a>: Learning a Unified Policy for Cooperative Human-Object Interactions with Any Team Size, Lionar et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.07516">InterReal</a>: A Unified Physics-Based Imitation Framework for Learning Human-Object Interaction Skills, Liang et al.</li>
@@ -828,6 +829,9 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.24047">PCHC</a>: Enabling Preference Conditioned Humanoid Control via Multi-Objective Reinforcement Learning, Li et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.23983">SafeFlow</a>: Real-Time Text-Driven Humanoid Whole-Body Control via Physics-Guided Rectified Flow and Selective Safety Gating, Cho et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.22703">Sun et al</a>: Learning Safe-Stoppability Monitors for Humanoid Robots, Sun et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.22201">Make Tracking Easy</a>: Neural Motion Retargeting for Humanoid Whole-body Control, Zhao et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.21853">Cha et al</a>: Sim-to-Real of Humanoid Locomotion Policies via Joint Torque Space Perturbation Injection, Cha et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.20147">AGILE</a>: A Comprehensive Workflow for Humanoid Loco-Manipulation Learning, Zhao et al.</li>
