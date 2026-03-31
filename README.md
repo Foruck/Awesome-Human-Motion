@@ -53,6 +53,10 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
         <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.27185">MotionRFT</a>: Unified Reinforcement Fine-Tuning for Text-to-Motion Generation, Tan et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.27040">Unified Number-Free Text-to-Motion Generation Via Flow Matching</a>, Huang et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.26747">From Diffusion To Flow</a>: Efficient Motion Generation In MotionGPT3, Ban et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.25178">Bilingual Text-to-Motion Generation</a>: A New Benchmark and Baselines, Weng et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.22282">UniMotion</a>: A Unified Framework for Motion-Text-Vision Understanding and Generation, Wang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.19795">Controllable Text-to-Motion Generation</a>: via Modular Body-Part Phase Control, Dai et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.19227">MoTok</a>: Bridging Semantic and Kinematic Conditions with Diffusion-based Discrete Motion Tokenizer, Gu et al.</li>
@@ -829,6 +833,8 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.27756">Heracles</a>: Bridging Precise Tracking and Generative Synthesis for General Humanoid Control, Tao et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.25902">Chasing Autonomy</a>: Dynamic Retargeting and Control Guided RL for Performant and Controllable Humanoid Running, Olkin et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.24047">PCHC</a>: Enabling Preference Conditioned Humanoid Control via Multi-Objective Reinforcement Learning, Li et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.23983">SafeFlow</a>: Real-Time Text-Driven Humanoid Whole-Body Control via Physics-Guided Rectified Flow and Selective Safety Gating, Cho et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.22703">Sun et al</a>: Learning Safe-Stoppability Monitors for Humanoid Robots, Sun et al.</li>
