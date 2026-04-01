@@ -833,6 +833,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2603.29272">MaskAdapt</a>: Learning Flexible Motion Adaptation via Mask-Invariant Prior for Physics-Based Characters, Park et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.27756">Heracles</a>: Bridging Precise Tracking and Generative Synthesis for General Humanoid Control, Tao et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.25902">Chasing Autonomy</a>: Dynamic Retargeting and Control Guided RL for Performant and Controllable Humanoid Running, Olkin et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.24047">PCHC</a>: Enabling Preference Conditioned Humanoid Control via Multi-Objective Reinforcement Learning, Li et al.</li>
