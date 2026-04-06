@@ -53,6 +53,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
         <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.02973">Exploring Motion-Language Alignment</a>: for Text-driven Motion Generation, Gu et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.27185">MotionRFT</a>: Unified Reinforcement Fine-Tuning for Text-to-Motion Generation, Tan et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.27040">Unified Number-Free Text-to-Motion Generation Via Flow Matching</a>, Huang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.26747">From Diffusion To Flow</a>: Efficient Motion Generation In MotionGPT3, Ban et al.</li>
@@ -666,6 +667,7 @@ An aggregation of human motion understanding research; feel free to contribute.
 <details open>
 <summary></summary>
 <ul style="margin-left: 5px;">>
+    <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2604.01082">ReMoGen</a>: Real-time Human Interaction-to-Reaction Generation via Modular Learning from Diverse Data, Ye et al.</li>
     <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2603.11346">Learning to Assist</a>: Physics-Grounded Human-Human Control via Multi-Agent Reinforcement Learning, Shibata et al.</li>
     <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.02856">Rhythm</a>: Learning Interactive Whole-Body Control for Dual Humanoids, Chen et al.</li>
     <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2601.20383">HINT</a>: Hierarchical Interaction Modeling for Autoregressive Multi-Human Motion Generation, Liu et al.</li>
@@ -833,6 +835,9 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.01158">SMASH</a>: Mastering Scalable Whole-Body Skills for Humanoid Ping-Pong with Egocentric Vision, Ren et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.01064">BAT</a>: Balancing Agility and Stability via Online Policy Switching for Long-Horizon Whole-Body Humanoid Control, Baek et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.00416">Learning Humanoid Navigation from Human Data</a>, Wang et al.</li>
         <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2603.29272">MaskAdapt</a>: Learning Flexible Motion Adaptation via Mask-Invariant Prior for Physics-Based Characters, Park et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.27756">Heracles</a>: Bridging Precise Tracking and Generative Synthesis for General Humanoid Control, Tao et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.25902">Chasing Autonomy</a>: Dynamic Retargeting and Control Guided RL for Performant and Controllable Humanoid Running, Olkin et al.</li>
