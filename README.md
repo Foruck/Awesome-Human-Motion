@@ -1389,6 +1389,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>HHI Reconstruction</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2604.05436">Human Interaction-Aware 3D Reconstruction from a Single Image</a>, Kim et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://www.buzhenhuang.com/publications/papers/CVPR2025-CloseApp.pdf">Huang et al</a>: Reconstructing Close Human Interaction with Appearance and Proxemics Reasoning, Huang et al.</li>
         <li><b>(NeurIPS 2024)</b> <a href="https://jyuntins.github.io/harmony4d/">Harmony4D</a>: A Video Dataset for In-The-Wild Close Human Interactions, Khirodkar et al.</li>
         <li><b>(ECCV 2024)</b> <a href="https://arxiv.org/abs/2408.02110">AvatarPose</a>: Avatar-guided 3D Pose Estimation of Close Human Interaction from Sparse Multi-view Videos, Lu et al.</li>
