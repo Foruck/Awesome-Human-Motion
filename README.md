@@ -838,6 +838,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.07331">RoSHI</a>: A Versatile Robot-oriented Suit for Human Data In-the-Wild, Mao et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.03999">Dynamic Whole-Body Dancing with Humanoid Robots</a>: A Model-Based Control Approach, Zhang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.01158">SMASH</a>: Mastering Scalable Whole-Body Skills for Humanoid Ping-Pong with Egocentric Vision, Ren et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.01064">BAT</a>: Balancing Agility and Stability via Online Policy Switching for Long-Horizon Whole-Body Humanoid Control, Baek et al.</li>
@@ -1273,6 +1274,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.07273">GenLCA</a>: 3D Diffusion for Full-Body Avatars from In-the-Wild Videos, Wu et al.</li>
         <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2604.04787">AvatarPointillist</a>: AutoRegressive 4D Gaussian Avatarization, Liu et al.</li>
     </ul></details>
     <details open>
