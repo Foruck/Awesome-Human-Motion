@@ -838,6 +838,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.07993">HEX</a>: Humanoid-Aligned Experts for Cross-Embodiment Whole-Body Manipulation, Bai et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.07331">RoSHI</a>: A Versatile Robot-oriented Suit for Human Data In-the-Wild, Mao et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.03999">Dynamic Whole-Body Dancing with Humanoid Robots</a>: A Model-Based Control Approach, Zhang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.01158">SMASH</a>: Mastering Scalable Whole-Body Skills for Humanoid Ping-Pong with Egocentric Vision, Ren et al.</li>
@@ -1432,6 +1433,7 @@ An aggregation of human motion understanding research; feel free to contribute.
 <details open>
 <summary></summary>
 <ul style="margin-left: 5px;">
+    <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2604.08543">E-3DPSM</a>: A State Machine for Event-Based Egocentric 3D Human Pose Estimation, Deshmukh et al.</li>
     <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.03299">MoViD</a>: View-Invariant 3D Human Pose Estimation via Motion-View Disentanglement, Liu et al.</li>
     <li><b>(CVPR 2025)</b> <a href="https://arxiv.org/pdf/2504.04708">SapiensID</a>: Foundation for Human Recognition, Kim et al.</li>
     <li><b>(CVPR 2025)</b> <a href="https://aviralchharia.github.io/MV-SSM/">MV-SSM</a>: Multi-View State Space Modeling for 3D Human Pose Estimation, Chharia et al.</li>
