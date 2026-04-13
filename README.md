@@ -1275,6 +1275,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.09324">Structure-Aware Fine-Grained Gaussian Splatting</a>: for Expressive Avatar Reconstruction, Su et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.07273">GenLCA</a>: 3D Diffusion for Full-Body Avatars from In-the-Wild Videos, Wu et al.</li>
         <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2604.04787">AvatarPointillist</a>: AutoRegressive 4D Gaussian Avatarization, Liu et al.</li>
     </ul></details>
@@ -1433,6 +1434,7 @@ An aggregation of human motion understanding research; feel free to contribute.
 <details open>
 <summary></summary>
 <ul style="margin-left: 5px;">
+    <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.08921">TAIHRI</a>: Task-Aware 3D Human Keypoints Localization for Close-Range Human-Robot Interaction, Li et al.</li>
     <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2604.08543">E-3DPSM</a>: A State Machine for Event-Based Egocentric 3D Human Pose Estimation, Deshmukh et al.</li>
     <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.03299">MoViD</a>: View-Invariant 3D Human Pose Estimation via Motion-View Disentanglement, Liu et al.</li>
     <li><b>(CVPR 2025)</b> <a href="https://arxiv.org/pdf/2504.04708">SapiensID</a>: Foundation for Human Recognition, Kim et al.</li>
