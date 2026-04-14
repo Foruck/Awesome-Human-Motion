@@ -55,6 +55,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <ul style="margin-left: 5px;">
         <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2604.03799">Next-Scale Autoregressive Models</a>: for Text-to-Motion Generation, Zheng et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.04395">BiTDiff</a>: Fine-Grained 3D Conducting Motion Generation via BiMamba-Transformer Diffusion, Jia et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.11083">FlowCoMotion</a>: Text-to-Motion Generation via Token-Latent Flow Modeling, Guan et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.02973">Exploring Motion-Language Alignment</a>: for Text-driven Motion Generation, Gu et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.27185">MotionRFT</a>: Unified Reinforcement Fine-Tuning for Text-to-Motion Generation, Tan et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.27040">Unified Number-Free Text-to-Motion Generation Via Flow Matching</a>, Huang et al.</li>
@@ -420,6 +421,7 @@ An aggregation of human motion understanding research; feel free to contribute.
 <details open>
 <summary></summary>
 <ul style="margin-left: 5px;">
+    <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.10466">ExpertEdit</a>: Learning Skill-Aware Motion Editing from Expert Videos, Somayazulu et al.</li>
     <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.13082">InterEdit</a>: Navigating Text-Guided Multi-Human 3D Motion Editing, Yang et al.</li>
     <li><b>(IVA 2025)</b> <a href="https://arxiv.org/abs/2507.00792">TF-JAX-IK</a>: Real-Time Inverse Kinematics for Generating Multi-Constrained Movements of Virtual Human Characters, Voss et al.</li>
     <li><b>(ICCV 2025)</b> <a href="https://yz-cnsdqz.github.io/eigenmotion/PRIMAL/">PRIMAL</a>: Physically Reactive and Interactive Motor Model for Avatar Learning, Zhang et al.</li>
@@ -838,6 +840,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.11447">Safe Human-to-Humanoid Motion Imitation Using Control Barrier Functions</a>, Cai et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.07993">HEX</a>: Humanoid-Aligned Experts for Cross-Embodiment Whole-Body Manipulation, Bai et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.07331">RoSHI</a>: A Versatile Robot-oriented Suit for Human Data In-the-Wild, Mao et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.03999">Dynamic Whole-Body Dancing with Humanoid Robots</a>: A Model-Based Control Approach, Zhang et al.</li>
