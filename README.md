@@ -728,6 +728,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.12765">A Dataset and Evaluation for Complex 4D Markerless Human Motion Capture</a>, Park et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.06181">Towards Motion Turing Test</a>: Evaluating Human-Likeness in Humanoid Robots, Li et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.05993">Moving Through Clutter</a>: Scaling Data Collection and Benchmarking for 3D Scene-Aware Humanoid Locomotion via Virtual Reality, Wang et al.</li>
     </ul></details>
@@ -840,6 +841,8 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.13015">Learning Versatile Humanoid Manipulation with Touch Dreaming</a>, Niu et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.12909">Tree Learning</a>: A Multi-Skill Continual Learning Framework for Humanoid Robots, Yan et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.11447">Safe Human-to-Humanoid Motion Imitation Using Control Barrier Functions</a>, Cai et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.07993">HEX</a>: Humanoid-Aligned Experts for Cross-Embodiment Whole-Body Manipulation, Bai et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.07331">RoSHI</a>: A Versatile Robot-oriented Suit for Human Data In-the-Wild, Mao et al.</li>
