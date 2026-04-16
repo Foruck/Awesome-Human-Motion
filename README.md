@@ -53,6 +53,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
         <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.13427">A Unified Conditional Flow for Motion Generation, Editing, and Intra-Structural Retargeting</a>: unifies text-driven motion editing and retargeting via conditional transport and rectified flow, Li et al.</li>
         <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2604.03799">Next-Scale Autoregressive Models</a>: for Text-to-Motion Generation, Zheng et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.04395">BiTDiff</a>: Fine-Grained 3D Conducting Motion Generation via BiMamba-Transformer Diffusion, Jia et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.11083">FlowCoMotion</a>: Text-to-Motion Generation via Token-Latent Flow Modeling, Guan et al.</li>
