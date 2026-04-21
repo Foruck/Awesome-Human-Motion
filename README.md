@@ -53,6 +53,8 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
         <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.17807">Re<sup>2</sup>MoGen</a>: Open-Vocabulary Motion Generation via LLM Reasoning and Physics-Aware Refinement, Zheng et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.17090">Marrying Text-to-Motion Generation with Skeleton-Based Action Recognition</a>, Kuang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.16135">Motion-Adapter</a>: A Diffusion Model Adapter for Text-to-Motion Generation of Compound Actions, Jiang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.13427">A Unified Conditional Flow for Motion Generation, Editing, and Intra-Structural Retargeting</a>: unifies text-driven motion editing and retargeting via conditional transport and rectified flow, Li et al.</li>
         <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2604.03799">Next-Scale Autoregressive Models</a>: for Text-to-Motion Generation, Zheng et al.</li>
@@ -843,6 +845,8 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.18557">SynAgent</a>: Generalizable Cooperative Humanoid Manipulation via Solo-to-Cooperative Agent Synergy, Yao et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.17335">Learning Whole-Body Humanoid Locomotion via Motion Generation and Motion Tracking</a>, Zhang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.14834">Switch</a>: Learning Agile Skills Switching for Humanoid Robots, Lau et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.13015">Learning Versatile Humanoid Manipulation with Touch Dreaming</a>, Niu et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.12909">Tree Learning</a>: A Multi-Skill Continual Learning Framework for Humanoid Robots, Yan et al.</li>
