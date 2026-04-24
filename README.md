@@ -676,6 +676,7 @@ An aggregation of human motion understanding research; feel free to contribute.
 <details open>
 <summary></summary>
 <ul style="margin-left: 5px;">>
+    <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.20336">Stability-Driven Motion Generation for Object-Guided Human-Human Co-Manipulation</a>, Xu et al.</li>
     <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2604.01082">ReMoGen</a>: Real-time Human Interaction-to-Reaction Generation via Modular Learning from Diverse Data, Ye et al.</li>
     <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2603.11346">Learning to Assist</a>: Physics-Grounded Human-Human Control via Multi-Agent Reinforcement Learning, Shibata et al.</li>
     <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.02856">Rhythm</a>: Learning Interactive Whole-Body Control for Dual Humanoids, Chen et al.</li>
@@ -732,6 +733,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.20157">HumanScore</a>: Benchmarking Human Motions in Generated Videos, Fang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.12765">A Dataset and Evaluation for Complex 4D Markerless Human Motion Capture</a>, Park et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.06181">Towards Motion Turing Test</a>: Evaluating Human-Likeness in Humanoid Robots, Li et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.05993">Moving Through Clutter</a>: Scaling Data Collection and Benchmarking for 3D Scene-Aware Humanoid Locomotion via Virtual Reality, Wang et al.</li>
@@ -1288,6 +1290,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.21926">Seeing Without Eyes</a>: 4D Human-Scene Understanding from Wearable IMUs, Hsu et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.09324">Structure-Aware Fine-Grained Gaussian Splatting</a>: for Expressive Avatar Reconstruction, Su et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.07273">GenLCA</a>: 3D Diffusion for Full-Body Avatars from In-the-Wild Videos, Wu et al.</li>
         <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2604.04787">AvatarPointillist</a>: AutoRegressive 4D Gaussian Avatarization, Liu et al.</li>
@@ -1466,6 +1469,9 @@ An aggregation of human motion understanding research; feel free to contribute.
 <details open>
 <summary></summary>
 <ul style="margin-left: 5px;">
+    <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.21668">Encoder-Free Human Motion Understanding via Structured Motion Descriptions</a>, Zhang et al.</li>
+    <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.19720">ReImagine</a>: Rethinking Controllable High-Quality Human Video Generation via Image-First Synthesis, Sun et al.</li>
+    <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.21291">Exploring the Role of Synthetic Data Augmentation in Controllable Human-Centric Video Generation</a>, Fei et al.</li>
     <li><b>(3DV 2026)</b> <a href="https://xusy2333.com/demo/">DEMO</a>: Dense Motion Captioning, Xu et al.</li>
     <li><b>(CVPR 2025)</b> <a href="https://chathuman.github.io/">ChatHuman</a>: Chatting about 3D Humans with Tools, Lin et al.</li>
     <li><b>(CVPR 2025)</b> <a href="https://qhfang.github.io/papers/humocon.html">HuMoCon</a>: Concept Discovery for Human Motion Understanding, Fang et al.</li>
