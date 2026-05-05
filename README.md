@@ -53,6 +53,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
         <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.25164">IAM</a>: Identity-Aware Human Motion and Shape Joint Generation, Jia et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.17807">Re<sup>2</sup>MoGen</a>: Open-Vocabulary Motion Generation via LLM Reasoning and Physics-Aware Refinement, Zheng et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.17090">Marrying Text-to-Motion Generation with Skeleton-Based Action Recognition</a>, Kuang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.16135">Motion-Adapter</a>: A Diffusion Model Adapter for Text-to-Motion Generation of Compound Actions, Jiang et al.</li>
@@ -675,7 +676,7 @@ An aggregation of human motion understanding research; feel free to contribute.
 ## Human-Human Interaction
 <details open>
 <summary></summary>
-<ul style="margin-left: 5px;">>
+<ul style="margin-left: 5px;">
     <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.20336">Stability-Driven Motion Generation for Object-Guided Human-Human Co-Manipulation</a>, Xu et al.</li>
     <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2604.01082">ReMoGen</a>: Real-time Human Interaction-to-Reaction Generation via Modular Learning from Diverse Data, Ye et al.</li>
     <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2603.11346">Learning to Assist</a>: Physics-Grounded Human-Human Control via Multi-Agent Reinforcement Learning, Shibata et al.</li>
@@ -847,6 +848,8 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.25554">Egocentric Tactile and Proximity Sensors as Observation Priors for Humanoid Collision Avoidance</a>, Kohlbrenner et al.</li>
+        <li><b>(SIGGRAPH 2026)</b> <a href="https://arxiv.org/abs/2604.24833">MotionBricks</a>: Scalable Real-Time Motions with Modular Latent Generative Model and Smart Primitives, Wang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.18557">SynAgent</a>: Generalizable Cooperative Humanoid Manipulation via Solo-to-Cooperative Agent Synergy, Yao et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.17335">Learning Whole-Body Humanoid Locomotion via Motion Generation and Motion Tracking</a>, Zhang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.14834">Switch</a>: Learning Agile Skills Switching for Humanoid Robots, Lau et al.</li>
@@ -1450,6 +1453,7 @@ An aggregation of human motion understanding research; feel free to contribute.
 <details open>
 <summary></summary>
 <ul style="margin-left: 5px;">
+    <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.24312">Unconstrained Multi-view Human Pose Estimation with Algebraic Priors</a>, Qin et al.</li>
     <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.08921">TAIHRI</a>: Task-Aware 3D Human Keypoints Localization for Close-Range Human-Robot Interaction, Li et al.</li>
     <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2604.08543">E-3DPSM</a>: A State Machine for Event-Based Egocentric 3D Human Pose Estimation, Deshmukh et al.</li>
     <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.03299">MoViD</a>: View-Invariant 3D Human Pose Estimation via Motion-View Disentanglement, Liu et al.</li>
