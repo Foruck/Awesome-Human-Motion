@@ -472,6 +472,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
         <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.05756">MaMi-HOI</a>: Harmonizing Global Kinematics and Local Geometry for Human-Object Interaction Generation, Wang et al.</li>
         <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2603.24383">ViHOI</a>: Human-Object Interaction Synthesis with Visual Priors, Cai et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.12126">Hoi3DGen</a>: Generating High-Quality Human-Object-Interactions in 3D, Sharma et al.</li>
         <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2603.07988">TeamHOI</a>: Learning a Unified Policy for Cooperative Human-Object Interactions with Any Team Size, Lionar et al.</li>
@@ -848,6 +849,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(SIGGRAPH 2026)</b> <a href="https://arxiv.org/abs/2605.06593">ReActor</a>: Reinforcement Learning for Physics-Aware Motion Retargeting, M&uuml;ller et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.25554">Egocentric Tactile and Proximity Sensors as Observation Priors for Humanoid Collision Avoidance</a>, Kohlbrenner et al.</li>
         <li><b>(SIGGRAPH 2026)</b> <a href="https://arxiv.org/abs/2604.24833">MotionBricks</a>: Scalable Real-Time Motions with Modular Latent Generative Model and Smart Primitives, Wang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.18557">SynAgent</a>: Generalizable Cooperative Humanoid Manipulation via Solo-to-Cooperative Agent Synergy, Yao et al.</li>
