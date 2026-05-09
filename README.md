@@ -678,6 +678,7 @@ An aggregation of human motion understanding research; feel free to contribute.
 <details open>
 <summary></summary>
 <ul style="margin-left: 5px;">
+    <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.04662">Contact Matrix</a>: Enhancing Dance Motion Synthesis with Precise Interaction Modeling, Chen et al.</li>
     <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.20336">Stability-Driven Motion Generation for Object-Guided Human-Human Co-Manipulation</a>, Xu et al.</li>
     <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2604.01082">ReMoGen</a>: Real-time Human Interaction-to-Reaction Generation via Modular Learning from Diverse Data, Ye et al.</li>
     <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2603.11346">Learning to Assist</a>: Physics-Grounded Human-Human Control via Multi-Agent Reinforcement Learning, Shibata et al.</li>
@@ -1414,6 +1415,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>HHI Reconstruction</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.04554">InterMesh</a>: Explicit Interaction-Aware End-to-End Multi-Person Human Mesh Recovery, Zheng et al.</li>
         <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2604.05436">Human Interaction-Aware 3D Reconstruction from a Single Image</a>, Kim et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://www.buzhenhuang.com/publications/papers/CVPR2025-CloseApp.pdf">Huang et al</a>: Reconstructing Close Human Interaction with Appearance and Proxemics Reasoning, Huang et al.</li>
         <li><b>(NeurIPS 2024)</b> <a href="https://jyuntins.github.io/harmony4d/">Harmony4D</a>: A Video Dataset for In-The-Wild Close Human Interactions, Khirodkar et al.</li>
