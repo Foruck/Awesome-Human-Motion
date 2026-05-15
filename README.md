@@ -851,6 +851,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
         <li><b>(SIGGRAPH 2026)</b> <a href="https://arxiv.org/abs/2605.06593">ReActor</a>: Reinforcement Learning for Physics-Aware Motion Retargeting, M&uuml;ller et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.01427">SixthSense</a>: Task-Agnostic Proprioception-Only Whole-Body Wrench Estimation for Humanoids, Chen et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.25554">Egocentric Tactile and Proximity Sensors as Observation Priors for Humanoid Collision Avoidance</a>, Kohlbrenner et al.</li>
         <li><b>(SIGGRAPH 2026)</b> <a href="https://arxiv.org/abs/2604.24833">MotionBricks</a>: Scalable Real-Time Motions with Modular Latent Generative Model and Smart Primitives, Wang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.18557">SynAgent</a>: Generalizable Cooperative Humanoid Manipulation via Solo-to-Cooperative Agent Synergy, Yao et al.</li>
