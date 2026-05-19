@@ -850,6 +850,10 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.18611">Unified Walking, Running, and Recovery for Humanoids</a>: via State-Dependent Adversarial Motion Priors, Lu et al.</li>
+        <li><b>(RSS 2026)</b> <a href="https://arxiv.org/abs/2605.17681">PRIME</a>: Physically-consistent Robotic Inertial and Motion Estimation for Legged and Humanoid Robots, Kang et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.15517">Terrain Consistent Reference-Guided RL</a>: for Humanoid Navigation Autonomy, Compton et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.15336">HoloMotion-1</a>: Technical Report, Chen et al.</li>
         <li><b>(SIGGRAPH 2026)</b> <a href="https://arxiv.org/abs/2605.06593">ReActor</a>: Reinforcement Learning for Physics-Aware Motion Retargeting, M&uuml;ller et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.01427">SixthSense</a>: Task-Agnostic Proprioception-Only Whole-Body Wrench Estimation for Humanoids, Chen et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.25554">Egocentric Tactile and Proximity Sensors as Observation Priors for Humanoid Collision Avoidance</a>, Kohlbrenner et al.</li>
@@ -1231,6 +1235,7 @@ An aggregation of human motion understanding research; feel free to contribute.
 <details open>
 <summary></summary>
 <ul style="margin-left: 5px;">
+    <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.15650">MyoChallenge 2025</a>: A New Benchmark for Human Athletic Intelligence, Wang et al.</li>
     <li><b>(npj 2025)</b> <a href="https://arxiv.org/abs/2602.15684">Kiki et al</a>: Estimating Human Muscular Fatigue in Dynamic Collaborative Robotic Tasks with Learning-Based Models, Kiki et al.</li>
     <li><b>(npj 2025)</b> <a href="https://www.nature.com/articles/s41746-025-01677-0">Xiang et al</a>: Integrating personalized shape prediction, biomechanical modeling, and wearables for bone stress prediction in runners, Xiang et al.</li>
     <li><b>(CVPR 2025)</b> <a href="https://isshikihugh.github.io/HSMR/">HSMR</a>: Reconstructing Humans with A Biomechanically Accurate Skeleton, Xia et al.</li>
@@ -1297,6 +1302,8 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.18102">DanceHMR</a>: Hand-Aware Whole-Body Human Mesh Recovery from Monocular Videos, Shen et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.15320">FFAvatar</a>: Few-Shot, Feed-Forward, and Generalizable Avatar Reconstruction, Nguyen et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.21926">Seeing Without Eyes</a>: 4D Human-Scene Understanding from Wearable IMUs, Hsu et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.09324">Structure-Aware Fine-Grained Gaussian Splatting</a>: for Expressive Avatar Reconstruction, Su et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.07273">GenLCA</a>: 3D Diffusion for Full-Body Avatars from In-the-Wild Videos, Wu et al.</li>
@@ -1434,6 +1441,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>video</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.15497">AnyAct</a>: Towards Human Reenactment of Character Motion From Video, Chen et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://humandreamer.github.io/">HumanDreamer</a>: Generating Controllable Human-Motion Videos via Decoupled Generation, Wang et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://smartdianlab.github.io/projects-FinePhys/">FinePhys</a>: Fine-grained Human Action Generation by Explicitly Incorporating Physical Laws for Effective Skeletal Guidance, Shao et al.</li>
         <li><b>(CVPR 2025)</b> <a href="https://arxiv.org/pdf/2405.20216">Na et al</a>: Boost Your Human Image Generation Model via Direct Preference Optimization, Na et al.</li>
@@ -1458,6 +1466,9 @@ An aggregation of human motion understanding research; feel free to contribute.
 <details open>
 <summary></summary>
 <ul style="margin-left: 5px;">
+    <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.18553">StableHand</a>: Quality-Aware Flow Matching for World-Space Dual-Hand Motion Estimation from Egocentric Video, Zeng et al.</li>
+    <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2605.17742">UST-Hand</a>: An Uncertainty-aware Spatiotemporal Point Cloud Interaction Network for 3D Self-supervised Hand Pose Estimation, Han et al.</li>
+    <li><b>(FG 2026)</b> <a href="https://arxiv.org/abs/2605.15583">Unsupervised 3D Human Pose Estimation</a>: via Conditional Multi-view Ancestral Sampling, Goto et al.</li>
     <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.24312">Unconstrained Multi-view Human Pose Estimation with Algebraic Priors</a>, Qin et al.</li>
     <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.08921">TAIHRI</a>: Task-Aware 3D Human Keypoints Localization for Close-Range Human-Robot Interaction, Li et al.</li>
     <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2604.08543">E-3DPSM</a>: A State Machine for Event-Based Egocentric 3D Human Pose Estimation, Deshmukh et al.</li>
@@ -1478,6 +1489,7 @@ An aggregation of human motion understanding research; feel free to contribute.
 <details open>
 <summary></summary>
 <ul style="margin-left: 5px;">
+    <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.17179">iMiGUE-3K</a>: A Large-Scale Benchmark for Micro-Gesture Analysis with Self-Supervised Learning, Wang et al.</li>
     <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.21668">Encoder-Free Human Motion Understanding via Structured Motion Descriptions</a>, Zhang et al.</li>
     <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.19720">ReImagine</a>: Rethinking Controllable High-Quality Human Video Generation via Image-First Synthesis, Sun et al.</li>
     <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.21291">Exploring the Role of Synthetic Data Augmentation in Controllable Human-Centric Video Generation</a>, Fei et al.</li>
