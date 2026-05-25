@@ -855,6 +855,9 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.23762">Direct Dynamic Retargeting for Humanoid Imitation Learning from Videos</a>, Roux et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.23733">Any2Any</a>: Efficient Cross-Embodiment Transfer for Humanoid Whole-Body Tracking, Yang et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.22894">SCRIPT</a>: Scalable Diffusion Policy with Multi-stage Training for Language-driven Physics-Based Humanoid Control, Zhang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.21133">Humanoid Whole-Body Manipulation via Active Spatial Brain and Generalizable Action Cerebellum</a>, Liang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.20373">SUGAR</a>: A Scalable Human-Video-Driven Generalizable Humanoid Loco-Manipulation Learning Framework, Wu et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.19981">CEER</a>: Compliant End-Effector and Root Control as a Unified Interface for Hierarchical Humanoid Loco-Manipulation, Luo et al.</li>
