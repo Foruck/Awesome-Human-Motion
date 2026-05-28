@@ -855,6 +855,9 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.26006">MIND</a>: Multi-Scale Intent Diffusion for Text-Driven Physics-Based Humanoid Control, Li et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.25546">Lee et al</a>: Safety-Critical Whole-Body Control for Humanoid Robots via Input-to-State Safe Control Barrier Functions, Lee et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.24592">MuGen</a>: Multi-Skill Generative Locomotion Controller for Humanoid Robots, Feng et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.23762">Direct Dynamic Retargeting for Humanoid Imitation Learning from Videos</a>, Roux et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.23733">Any2Any</a>: Efficient Cross-Embodiment Transfer for Humanoid Whole-Body Tracking, Yang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.22894">SCRIPT</a>: Scalable Diffusion Policy with Multi-stage Training for Language-driven Physics-Based Humanoid Control, Zhang et al.</li>
