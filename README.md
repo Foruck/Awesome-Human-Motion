@@ -53,6 +53,8 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
         <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.28394">Sketch2Motion</a>: Text-driven 2D Sketch to 3D Animation via Diffusion-guided Skeleton Optimization, Rai et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.28272">EchoAvatar</a>: Real-time Generative Avatar Animation from Audio Streams, Chen et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.21478">Latent Dynamics for Full Body Avatar Animation</a>, Peng et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.20955">DrawMotion</a>: Generating 3D Human Motions by Freehand Drawing, Wang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.11704">ScaleMoGen</a>: Autoregressive Next-Scale Prediction for Human Motion Generation, Hwang et al.</li>
@@ -855,6 +857,9 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.30770">SSR</a>: Scaling Surefooted and Symmetric Humanoid Traversal to the Open World, Yu et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.28549">SPRINT</a>: Efficient Spectral Priors for Humanoid Athletic Sprints, Wei et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.27724">HumanoidMimicGen</a>: Data Generation for Loco-Manipulation via Whole-Body Planning, Lin et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.26006">MIND</a>: Multi-Scale Intent Diffusion for Text-Driven Physics-Based Humanoid Control, Li et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.25546">Lee et al</a>: Safety-Critical Whole-Body Control for Humanoid Robots via Input-to-State Safe Control Barrier Functions, Lee et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.24592">MuGen</a>: Multi-Skill Generative Locomotion Controller for Humanoid Robots, Feng et al.</li>
@@ -1322,6 +1327,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.28401">EgoRelight</a>: Egocentric Human Capture and Illumination Recovery for Relightable and Photoreal Avatar Rendering, Chen et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.21001">DAMA</a>: Disentangled Body-Anchored Gaussians for Controllable Multi-Layered Avatars, Eskandar et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.20185">PiG-Avatar</a>: Hierarchical Neural-Field-Guided Gaussian Avatars, Kaltheuner et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.19620">B&eacute;zier Degradation Modeling for LiDAR-based Human Motion Capture</a>, An et al.</li>
@@ -1514,6 +1520,7 @@ An aggregation of human motion understanding research; feel free to contribute.
 <details open>
 <summary></summary>
 <ul style="margin-left: 5px;">
+    <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.27464">Beyond Motion Primitives</a>: Behavioral Activity Recognition from Head-Mounted IMU, Huang et al.</li>
     <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.20680">DarkShake-DVS</a>: Event-based Human Action Recognition under Low-light and Shaking Camera Conditions, Chen et al.</li>
     <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.19846">FineBench</a>: Benchmarking and Enhancing Vision-Language Models for Fine-grained Human Activity Understanding, Faure et al.</li>
     <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.19004">EgoTraj</a>: Real-World Egocentric Human Trajectory Dataset for Multimodal Prediction, Yehia et al.</li>
