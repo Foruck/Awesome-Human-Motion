@@ -857,6 +857,11 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.01851">PHASOR</a>: Phase-Anchored Universal Action Representations for Humanoid Embodiments, Kim et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.01458">LEGS</a>: Fine-Tuning Teleop-Free VLAs for Humanoid Loco-manipulation in an Embodied Gaussian Splatting World, Kim et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.00637">GLAD</a>: Global-Local Attention Decomposition for Terrain Encoding in Humanoid Perceptive Locomotion, Fu et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.00374">ConstrainedMimic</a>: Constrained Whole-Body Tracking for Humanoid Robots, Morton et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.00252">HOIST</a>: Humanoid Optimization with Imitation and Sample-efficient Tuning for Manipulating Suspended Loads, Liu et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.30770">SSR</a>: Scaling Surefooted and Symmetric Humanoid Traversal to the Open World, Yu et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.28549">SPRINT</a>: Efficient Spectral Priors for Humanoid Athletic Sprints, Wei et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.27724">HumanoidMimicGen</a>: Data Generation for Loco-Manipulation via Whole-Body Planning, Lin et al.</li>
