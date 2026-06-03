@@ -857,6 +857,10 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.03985">Humanoid-GPT</a>: Scaling Data and Structure for Zero-Shot Motion Tracking, Qi et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.03536">Bionic Human-Motion Style Transfer</a>: for Physically Executable Whole-Body Control of Humanoid Robots, Huang et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.03476">Human2Humanoid</a>: Physics-Aware Cross-Morphology Motion Retargeting for Humanoid Robots, Huang et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.03297">SplitAdapter</a>: Load-Aware Humanoid Loco-Manipulation via Factorized Adaptation, Kang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.01851">PHASOR</a>: Phase-Anchored Universal Action Representations for Humanoid Embodiments, Kim et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.01458">LEGS</a>: Fine-Tuning Teleop-Free VLAs for Humanoid Loco-manipulation in an Embodied Gaussian Splatting World, Kim et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.00637">GLAD</a>: Global-Local Attention Decomposition for Terrain Encoding in Humanoid Perceptive Locomotion, Fu et al.</li>
