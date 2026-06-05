@@ -857,6 +857,13 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.06493">HANDOFF</a>: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers, Yang et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.06139">MotionDisco</a>: Motion Discovery for Extreme Humanoid Loco-Manipulation, Taouil et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.05880">TAGA</a>: Terrain-aware Active Gaze Learning for Generalizable Agile Humanoid Locomotion, Li et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.05873">LadderMan</a>: Learning Humanoid Perceptive Ladder Climbing, Zhao et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.05687">Accelerating and Scaling MPC-Guided Reinforcement Learning for Humanoid Locomotion and Manipulation</a>, Li et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.05160">GRAIL</a>: Generating Humanoid Loco-Manipulation from 3D Assets and Video Priors, Xie et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.04718">CoRe-MoE</a>: Contrastive Reweighted Mixture of Experts for Multi-Terrain Humanoid Locomotion with Gait Adaptation, Huang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.03985">Humanoid-GPT</a>: Scaling Data and Structure for Zero-Shot Motion Tracking, Qi et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.03536">Bionic Human-Motion Style Transfer</a>: for Physically Executable Whole-Body Control of Humanoid Robots, Huang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.03476">Human2Humanoid</a>: Physics-Aware Cross-Morphology Motion Retargeting for Humanoid Robots, Huang et al.</li>
