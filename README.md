@@ -857,6 +857,8 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.07083">Predictive Style Matching</a>: Natural and Robust Humanoid Locomotion, Nedelchev et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.06944">T-GMP</a>: Terrain-conditioned Generative Motion Priors for Versatile and Natural Humanoid Locomotion, Guo et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.06493">HANDOFF</a>: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers, Yang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.06139">MotionDisco</a>: Motion Discovery for Extreme Humanoid Loco-Manipulation, Taouil et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.05880">TAGA</a>: Terrain-aware Active Gaze Learning for Generalizable Agile Humanoid Locomotion, Li et al.</li>
