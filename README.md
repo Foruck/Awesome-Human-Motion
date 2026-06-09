@@ -743,6 +743,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.08278">SIMPLE</a>: Simulation-Based Policy Learning and Evaluation for Humanoid Loco-manipulation, Wei et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.20157">HumanScore</a>: Benchmarking Human Motions in Generated Videos, Fang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.12765">A Dataset and Evaluation for Complex 4D Markerless Human Motion Capture</a>, Park et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.06181">Towards Motion Turing Test</a>: Evaluating Human-Likeness in Humanoid Robots, Li et al.</li>
@@ -857,6 +858,12 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.09286">VAIC</a>: Vision-Guided Humanoid Agile Object Interaction Control via Decoupled Commands, Li et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.09215">MotionWAM</a>: Towards Foundation World Action Models for Real-Time Humanoid Loco-Manipulation, Zheng et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.08548">OASIS</a>: From Simulation Data Collection to Real-World Humanoid Loco-Manipulation, Yu et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.08495">EgoPriMo</a>: Egocentric Motion Generation for Interactive Humanoid Control, Ge et al.</li>
+        <li><b>(RSS 2026)</b> <a href="https://arxiv.org/abs/2606.08253">Mind Your Steps</a>: A General Learning Framework for Accurate Humanoid Foothold Tracking, Montenegro et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.08059">Perceptive Behavior Foundation Model</a>: Adapting Human Motion Priors to Robot-Centric Terrain, Wang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.07083">Predictive Style Matching</a>: Natural and Robust Humanoid Locomotion, Nedelchev et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.06944">T-GMP</a>: Terrain-conditioned Generative Motion Priors for Versatile and Natural Humanoid Locomotion, Guo et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.06493">HANDOFF</a>: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers, Yang et al.</li>
