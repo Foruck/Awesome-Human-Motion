@@ -858,6 +858,8 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.11891">Critic Architecture Matters</a>: Dual vs. Unified Critics for Humanoid Loco-Manipulation, Yardimci.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.10288">MARCH</a>: Model-Assisted Reinforcement Learning for the Perceptive Control of Humanoids over Sparse Footholds, Crismariu et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.09286">VAIC</a>: Vision-Guided Humanoid Agile Object Interaction Control via Decoupled Commands, Li et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.09215">MotionWAM</a>: Towards Foundation World Action Models for Real-Time Humanoid Loco-Manipulation, Zheng et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.08548">OASIS</a>: From Simulation Data Collection to Real-World Humanoid Loco-Manipulation, Yu et al.</li>
