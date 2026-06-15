@@ -53,6 +53,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
         <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.13364">VideoMDM</a>: Towards 3D Human Motion Generation From 2D Supervision, Mann et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.28394">Sketch2Motion</a>: Text-driven 2D Sketch to 3D Animation via Diffusion-guided Skeleton Optimization, Rai et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.28272">EchoAvatar</a>: Real-time Generative Avatar Animation from Audio Streams, Chen et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.21478">Latent Dynamics for Full Body Avatar Animation</a>, Peng et al.</li>
@@ -858,7 +859,12 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.13232">WT-UMI</a>: Tactile-based Whole-Body Manipulation via Force-Supervised Contact-Aware Planning, Jang et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.13222">Proprioceptive-visual correspondence enables self-other distinction in humanoid robots</a>, Chen et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.12995">GenHOI</a>: Contact-Aware Humanoid-Object Interaction by Imitating Generated Videos without Task-Specific Training, Bi et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.12814">Stubborn</a>: A Streamlined and Unified Reinforcement Learning Framework for Robust Motion Tracking and Fall Recovery for Humanoids, Ren et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.11891">Critic Architecture Matters</a>: Dual vs. Unified Critics for Humanoid Loco-Manipulation, Yardimci.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.11092">RoboNaldo</a>: Accurate, Stable and Powerful Humanoid Soccer Shooting via Motion-Guided Curriculum Reinforcement Learning, Zhong et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.10288">MARCH</a>: Model-Assisted Reinforcement Learning for the Perceptive Control of Humanoids over Sparse Footholds, Crismariu et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.09286">VAIC</a>: Vision-Guided Humanoid Agile Object Interaction Control via Decoupled Commands, Li et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.09215">MotionWAM</a>: Towards Foundation World Action Models for Real-Time Humanoid Loco-Manipulation, Zheng et al.</li>
