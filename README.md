@@ -53,6 +53,8 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
         <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.15142">MotionVLA</a>: Vision-Language-Action Model for Humanoid Motion, Zhang et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.14721">DC-Motion</a>: Decoupling Semantics and Details via Discrete-Continuous Tokens for Human Motion Generation, Wang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.13364">VideoMDM</a>: Towards 3D Human Motion Generation From 2D Supervision, Mann et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.28394">Sketch2Motion</a>: Text-driven 2D Sketch to 3D Animation via Diffusion-guided Skeleton Optimization, Rai et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.28272">EchoAvatar</a>: Real-time Generative Avatar Animation from Audio Streams, Chen et al.</li>
@@ -859,6 +861,10 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.16696">VENOM</a>: Versatile Embodied Network for Omni-bodied Motion Tracking, Padmanabhan et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.16600">WaveSync</a>: Constrained Wavefront Optimization for Synchronized Co-Speech Gestures in Humanoid Robots, Tran et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.16542">ADAPT</a>: Analytical Disturbance-Aware Policy Training for Humanoid Locomotion, Lyu et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.16022">&lambda;-Reachability</a>: Geometric-Horizon Safety Bellman Equations for Humanoid Safety, Chen et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.13232">WT-UMI</a>: Tactile-based Whole-Body Manipulation via Force-Supervised Contact-Aware Planning, Jang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.13222">Proprioceptive-visual correspondence enables self-other distinction in humanoid robots</a>, Chen et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.12995">GenHOI</a>: Contact-Aware Humanoid-Object Interaction by Imitating Generated Videos without Task-Specific Training, Bi et al.</li>
