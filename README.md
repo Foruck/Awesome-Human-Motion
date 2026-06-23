@@ -53,6 +53,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
         <ul style="margin-left: 5px;">
+        <li><b>(ECCV 2026)</b> <a href="https://arxiv.org/abs/2606.21135">Odoriko</a>: A Shape-Aware Multimodal Diffusion Framework for Human Motion, Shim et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.15142">MotionVLA</a>: Vision-Language-Action Model for Humanoid Motion, Zhang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.14721">DC-Motion</a>: Decoupling Semantics and Details via Discrete-Continuous Tokens for Human Motion Generation, Wang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.13364">VideoMDM</a>: Towards 3D Human Motion Generation From 2D Supervision, Mann et al.</li>
@@ -746,6 +747,8 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.22971">Humanoid-OmniOcc</a>: Stereo-Based Full-View Occupancy Dataset for Embodied AI, Guo et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.19769">Data Standards for Humanoid Robotics</a>: The Missing Infrastructure for Physical AI, Liu et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.08278">SIMPLE</a>: Simulation-Based Policy Learning and Evaluation for Humanoid Loco-manipulation, Wei et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.20157">HumanScore</a>: Benchmarking Human Motions in Generated Videos, Fang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.12765">A Dataset and Evaluation for Complex 4D Markerless Human Motion Capture</a>, Park et al.</li>
@@ -861,6 +864,11 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.23680">CoorDex</a>: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation, Li et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.22998">TEXEDO</a>: Test Time Scaling for Controller-aware Language-conditioned Humanoid Motion Generation, Cao et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.22174">OpenHLM</a>: An Empirical Recipe for Whole-Body Humanoid Loco-Manipulation, Hu et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.20645">TACT-ful</a>: Multi-Channel Terrain Affordance and Compliance Training for Payload-Robust Perceptive Humanoid Locomotion, Ly et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.19512">Proprioceptive Invariant State Estimation for Humanoid Robots on Non-Inertial Ground</a>, Mandali et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.16696">VENOM</a>: Versatile Embodied Network for Omni-bodied Motion Tracking, Padmanabhan et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.16600">WaveSync</a>: Constrained Wavefront Optimization for Synchronized Co-Speech Gestures in Humanoid Robots, Tran et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.16542">ADAPT</a>: Analytical Disturbance-Aware Policy Training for Humanoid Locomotion, Lyu et al.</li>
