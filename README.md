@@ -53,6 +53,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
         <ul style="margin-left: 5px;">
+        <li><b>(ECCV 2026)</b> <a href="https://arxiv.org/abs/2512.10730">IRG-MotionLLM</a>: Interleaving Motion Generation, Assessment and Refinement for Text-to-Motion Generation, Li et al.</li>
         <li><b>(ECCV 2026)</b> <a href="https://arxiv.org/abs/2606.21135">Odoriko</a>: A Shape-Aware Multimodal Diffusion Framework for Human Motion, Shim et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.15142">MotionVLA</a>: Vision-Language-Action Model for Humanoid Motion, Zhang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.14721">DC-Motion</a>: Decoupling Semantics and Details via Discrete-Continuous Tokens for Human Motion Generation, Wang et al.</li>
@@ -176,7 +177,6 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.19159">OmniMoGen</a>: Unifying Human Motion Generation via Learning from Interleaved Text-Motion Instructions, Bu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.13840">MoLingo</a>: Motion–Language Alignment for Text-to-Human Motion Generation, He et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.09423">FunPhase</a>: A Periodic Functional Autoencoder for Motion Generation via Phase Manifolds, Pegoraro et al.</li>
-        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.10730">IRG-MotionLLM</a>: Interleaving Motion Generation, Assessment and Refinement for Text-to-Motion Generation, Li et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.11654">Kinetic Mining in Context</a>: Few-Shot Action Synthesis via Text-to-Motion Distillations, Cazzola et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.04487">COMET</a>: Controllable Long-term Motion Generation with Extended Joint Targets, Li et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.04499">Back to Basics</a>: Motion Representation Matters for Human Motion Generation Using Diffusion Model, Jin et al.</li>
