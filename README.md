@@ -864,6 +864,17 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.27813">Booster Lab</a>: A Data-Centric Pipeline for Learning Deployable Humanoid Locomotion Policies, Chen et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.27676">CWI</a>: Composite Humanoid Whole-Body Imitation System for Loco-manipulation, Ge et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.27581">SceneBot</a>: Contact-Prompted General Humanoid Whole Body Tracking with Scene-Interaction, Chen et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.27239">HumanoidUMI</a>: Bridging Robot-Free Demonstrations and Humanoid Whole-Body Manipulation, Wang et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.26855">Humanoid-DART</a>: Humanoid Loco-Manipulation using Diffusion-guided Augmentation through Relabeling and Tracking, Debbad et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.26741">PressMimic</a>: Pressure-Guided Motion Capture and Control for Humanoid Robot Imitation, Lu et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.26215">TaskNPoint</a>: How to Teach Your Humanoid to Hit a Backhand in Minutes, Werner et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.26201">OmniContact</a>: Chaining Meta-Skills via Contact Flow for Generalizable Humanoid Loco-Manipulation, Yu et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.25706">Learning Asynchronous Upper-body Task-space Trajectory Tracking Policy for Humanoid Robots</a>, Liu et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.25591">WOLF-VLA</a>: Whole-Body Humanoid Optimal Locomotion Framework for Vision-Language-Action Learning, Boukheddimi et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.25123">RGB</a>: RL Guided Whole-Body MPPI for Humanoid Control, Seo et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.23680">CoorDex</a>: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation, Li et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.22998">TEXEDO</a>: Test Time Scaling for Controller-aware Language-conditioned Humanoid Motion Generation, Cao et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.22174">OpenHLM</a>: An Empirical Recipe for Whole-Body Humanoid Loco-Manipulation, Hu et al.</li>
