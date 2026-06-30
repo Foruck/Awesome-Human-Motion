@@ -864,6 +864,11 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.30645">VLK</a>: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes, Wang et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.30362">ReactiveBFM</a>: Reactive Closed-Loop Motion Planning Towards Universal Humanoid Whole-Body Control, Chen et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.30290">X-Morph</a>: Human Motion Priors for Scalable Robot Learning Across Morphologies, Sharma et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.29209">AnyBody</a>: Free-Form Whole-Body Humanoid Control from Arbitrary Keypoint Guidance, Li et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.28476">FADA</a>: Few-Shot Domain Adaptation via Dynamics Alignment for Humanoid Control, Xie et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.27813">Booster Lab</a>: A Data-Centric Pipeline for Learning Deployable Humanoid Locomotion Policies, Chen et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.27676">CWI</a>: Composite Humanoid Whole-Body Imitation System for Loco-manipulation, Ge et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.27581">SceneBot</a>: Contact-Prompted General Humanoid Whole Body Tracking with Scene-Interaction, Chen et al.</li>
