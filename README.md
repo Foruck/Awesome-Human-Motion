@@ -864,6 +864,8 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2607.04837">Athena-WBC</a>: Capability-Aligned Policy Experts for Long-Tail Humanoid Whole-Body Control, Jiang et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2607.03454">ADP</a>: Adversarial Dynamics Priors for Physically Grounded Humanoid Locomotion, Lee et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2607.02332">HEFT</a>: Heavy-Payload Full-size Humanoid Teleoperation with Privileged Motion Guidance and Windowed Payload Curriculum, Liu et al.</li>
         <li><b>(IROS 2026)</b> <a href="https://arxiv.org/abs/2606.31807">Reinforcement Learning-Based Control for an Inline Skating Humanoid Robot</a>, Marot et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.31691">FastDSAC</a>: Enhancing Policy Plasticity via Constrained Exploration for Scalable Humanoid Locomotion, Lu et al.</li>
