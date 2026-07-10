@@ -53,6 +53,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
         <ul style="margin-left: 5px;">
+        <li><b>(SIGGRAPH 2026)</b> <a href="https://arxiv.org/abs/2607.08741">ARDY</a>: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation, Zhao et al.</li>
         <li><b>(ECCV 2026)</b> <a href="https://arxiv.org/abs/2512.10730">IRG-MotionLLM</a>: Interleaving Motion Generation, Assessment and Refinement for Text-to-Motion Generation, Li et al.</li>
         <li><b>(ECCV 2026)</b> <a href="https://arxiv.org/abs/2606.21135">Odoriko</a>: A Shape-Aware Multimodal Diffusion Framework for Human Motion, Shim et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.15142">MotionVLA</a>: Vision-Language-Action Model for Humanoid Motion, Zhang et al.</li>
@@ -864,6 +865,8 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2607.08742">ContactMimic</a>: Humanoid Object Interaction via Contact Control, Li et al.</li>
+        <li><b>(Nature 2026)</b> <a href="https://arxiv.org/abs/2607.07972">In vivo feasibility study of humanoid robots in surgery</a>, Liang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2607.04837">Athena-WBC</a>: Capability-Aligned Policy Experts for Long-Tail Humanoid Whole-Body Control, Jiang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2607.03454">ADP</a>: Adversarial Dynamics Priors for Physically Grounded Humanoid Locomotion, Lee et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2607.02332">HEFT</a>: Heavy-Payload Full-size Humanoid Teleoperation with Privileged Motion Guidance and Windowed Payload Curriculum, Liu et al.</li>
