@@ -865,6 +865,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(CLAWAR 2026)</b> <a href="https://arxiv.org/abs/2607.10815">Cheng et al.</a>: Learning Roller-Skating Motions of Humanoid Robots Based on Adversarial Motion Priors, Cheng et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2607.08742">ContactMimic</a>: Humanoid Object Interaction via Contact Control, Li et al.</li>
         <li><b>(Nature 2026)</b> <a href="https://arxiv.org/abs/2607.07972">In vivo feasibility study of humanoid robots in surgery</a>, Liang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2607.04837">Athena-WBC</a>: Capability-Aligned Policy Experts for Long-Tail Humanoid Whole-Body Control, Jiang et al.</li>
@@ -893,6 +894,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.22174">OpenHLM</a>: An Empirical Recipe for Whole-Body Humanoid Loco-Manipulation, Hu et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.20645">TACT-ful</a>: Multi-Channel Terrain Affordance and Compliance Training for Payload-Robust Perceptive Humanoid Locomotion, Ly et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.19512">Proprioceptive Invariant State Estimation for Humanoid Robots on Non-Inertial Ground</a>, Mandali et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.18772">HALOMI</a>: Learning Humanoid Loco-Manipulation with Active Perception from Human Demonstrations, Zhao et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.16696">VENOM</a>: Versatile Embodied Network for Omni-bodied Motion Tracking, Padmanabhan et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.16600">WaveSync</a>: Constrained Wavefront Optimization for Synchronized Co-Speech Gestures in Humanoid Robots, Tran et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.16542">ADAPT</a>: Analytical Disturbance-Aware Policy Training for Humanoid Locomotion, Lyu et al.</li>
