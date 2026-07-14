@@ -484,12 +484,12 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
         <ul style="margin-left: 5px;">
-        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.05756">MaMi-HOI</a>: Harmonizing Global Kinematics and Local Geometry for Human-Object Interaction Generation, Wang et al.</li>
         <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2603.24383">ViHOI</a>: Human-Object Interaction Synthesis with Visual Priors, Cai et al.</li>
-        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.12126">Hoi3DGen</a>: Generating High-Quality Human-Object-Interactions in 3D, Sharma et al.</li>
+        <li><b>(CVPR 2026)</b> <a href="https://sirui-xu.github.io/InterPrior/">InterPrior</a>: Scaling Generative Control for Physics-Based Human-Object Interactions, Xu et al.</li>
         <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2603.07988">TeamHOI</a>: Learning a Unified Policy for Cooperative Human-Object Interactions with Any Team Size, Lionar et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.05756">MaMi-HOI</a>: Harmonizing Global Kinematics and Local Geometry for Human-Object Interaction Generation, Wang et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.12126">Hoi3DGen</a>: Generating High-Quality Human-Object-Interactions in 3D, Sharma et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.07516">InterReal</a>: A Unified Physics-Based Imitation Framework for Learning Human-Object Interaction Skills, Liang et al.</li>
-        <li><b>(ArXiv 2026)</b> <a href="https://sirui-xu.github.io/InterPrior/">InterPrior</a>: Scaling Generative Control for Physics-Based Human-Object Interactions, Xu et al.</li>
     </ul></details>
     <details open>
     <summary><h3>2025</h3></summary>
@@ -865,13 +865,22 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(IROS 2026)</b> <a href="https://arxiv.org/abs/2606.31807">Reinforcement Learning-Based Control for an Inline Skating Humanoid Robot</a>, Marot et al.</li>
         <li><b>(CLAWAR 2026)</b> <a href="https://arxiv.org/abs/2607.10815">Cheng et al.</a>: Learning Roller-Skating Motions of Humanoid Robots Based on Adversarial Motion Priors, Cheng et al.</li>
-        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2607.08742">ContactMimic</a>: Humanoid Object Interaction via Contact Control, Li et al.</li>
+        <li><b>(RSS 2026)</b> <a href="https://arxiv.org/abs/2605.17681">PRIME</a>: Physically-consistent Robotic Inertial and Motion Estimation for Legged and Humanoid Robots, Kang et al.</li>
+        <li><b>(RSS 2026)</b> <a href="https://arxiv.org/abs/2606.08253">Mind Your Steps</a>: A General Learning Framework for Accurate Humanoid Foothold Tracking, Montenegro et al.</li>
+        <li><b>(SIGGRAPH 2026)</b> <a href="https://arxiv.org/abs/2605.06593">ReActor</a>: Reinforcement Learning for Physics-Aware Motion Retargeting, Muumlller et al.</li>
+        <li><b>(SIGGRAPH 2026)</b> <a href="https://arxiv.org/abs/2604.24833">MotionBricks</a>: Scalable Real-Time Motions with Modular Latent Generative Model and Smart Primitives, Wang et al.</li>
         <li><b>(Nature 2026)</b> <a href="https://arxiv.org/abs/2607.07972">In vivo feasibility study of humanoid robots in surgery</a>, Liang et al.</li>
+        <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2603.29272">MaskAdapt</a>: Learning Flexible Motion Adaptation via Mask-Invariant Prior for Physics-Based Characters, Park et al.</li>
+        <li><b>(CVPR 2026)</b> <a href="https://sirui-xu.github.io/InterPrior/">InterPrior</a>: Scaling Generative Control for Physics-Based Human-Object Interactions, Xu et al.</li>
+        <li><b>(ICRA 2026)</b> <a href="https://arxiv.org/abs/2509.11839">TrajBooster</a>: Boosting Humanoid Whole-Body Manipulation via Trajectory-Centric Learning, Liu et al.</li>
+        <li><b>(ICLR 2026)</b> <a href="https://arxiv.org/abs/2512.11047">WholeBodyVLA</a>: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control, Jiang et al.</li>
+        <li><b>(L4DC 2026)</b> <a href="https://lecar-lab.github.io/falcon-humanoid/">FALCON</a>: Learning Force-Adaptive Humanoid Loco-Manipulation, Zhang et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2607.08742">ContactMimic</a>: Humanoid Object Interaction via Contact Control, Li et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2607.04837">Athena-WBC</a>: Capability-Aligned Policy Experts for Long-Tail Humanoid Whole-Body Control, Jiang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2607.03454">ADP</a>: Adversarial Dynamics Priors for Physically Grounded Humanoid Locomotion, Lee et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2607.02332">HEFT</a>: Heavy-Payload Full-size Humanoid Teleoperation with Privileged Motion Guidance and Windowed Payload Curriculum, Liu et al.</li>
-        <li><b>(IROS 2026)</b> <a href="https://arxiv.org/abs/2606.31807">Reinforcement Learning-Based Control for an Inline Skating Humanoid Robot</a>, Marot et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.31691">FastDSAC</a>: Enhancing Policy Plasticity via Constrained Exploration for Scalable Humanoid Locomotion, Lu et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.30645">VLK</a>: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes, Wang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.30362">ReactiveBFM</a>: Reactive Closed-Loop Motion Planning Towards Universal Humanoid Whole-Body Control, Chen et al.</li>
@@ -910,7 +919,6 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.09215">MotionWAM</a>: Towards Foundation World Action Models for Real-Time Humanoid Loco-Manipulation, Zheng et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.08548">OASIS</a>: From Simulation Data Collection to Real-World Humanoid Loco-Manipulation, Yu et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.08495">EgoPriMo</a>: Egocentric Motion Generation for Interactive Humanoid Control, Ge et al.</li>
-        <li><b>(RSS 2026)</b> <a href="https://arxiv.org/abs/2606.08253">Mind Your Steps</a>: A General Learning Framework for Accurate Humanoid Foothold Tracking, Montenegro et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.08059">Perceptive Behavior Foundation Model</a>: Adapting Human Motion Priors to Robot-Centric Terrain, Wang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.07083">Predictive Style Matching</a>: Natural and Robust Humanoid Locomotion, Nedelchev et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.06944">T-GMP</a>: Terrain-conditioned Generative Motion Priors for Versatile and Natural Humanoid Locomotion, Guo et al.</li>
@@ -945,16 +953,13 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.19293">Xu et al</a>: Domain-Adaptive Communication-Rate Optimization for Sim-to-Real Humanoid-Robot Wireless XR Teleoperation, Xu et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.19009">Ghosh et al</a>: Adversarial Stress Testing of SPARK Humanoid Safety Filters, Ghosh et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.18611">Unified Walking, Running, and Recovery for Humanoids</a>: via State-Dependent Adversarial Motion Priors, Lu et al.</li>
-        <li><b>(RSS 2026)</b> <a href="https://arxiv.org/abs/2605.17681">PRIME</a>: Physically-consistent Robotic Inertial and Motion Estimation for Legged and Humanoid Robots, Kang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.15517">Terrain Consistent Reference-Guided RL</a>: for Humanoid Navigation Autonomy, Compton et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.15336">HoloMotion-1</a>: Technical Report, Chen et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.14417">DAJI</a>: Before the Body Moves: Learning Anticipatory Joint Intent for Language-Conditioned Humanoid Control, Jia et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.12347">Durrani et al</a>: Real-Time Whole-Body Teleoperation of a Humanoid Robot Using IMU-Based Motion Capture with Sim2Sim and Sim2Real Validation, Durrani et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.09944">Zhang et al</a>: Explicit Stair Geometry Conditioning for Robust Humanoid Locomotion, Zhang et al.</li>
-        <li><b>(SIGGRAPH 2026)</b> <a href="https://arxiv.org/abs/2605.06593">ReActor</a>: Reinforcement Learning for Physics-Aware Motion Retargeting, M&uuml;ller et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.01427">SixthSense</a>: Task-Agnostic Proprioception-Only Whole-Body Wrench Estimation for Humanoids, Chen et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.25554">Egocentric Tactile and Proximity Sensors as Observation Priors for Humanoid Collision Avoidance</a>, Kohlbrenner et al.</li>
-        <li><b>(SIGGRAPH 2026)</b> <a href="https://arxiv.org/abs/2604.24833">MotionBricks</a>: Scalable Real-Time Motions with Modular Latent Generative Model and Smart Primitives, Wang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.18557">SynAgent</a>: Generalizable Cooperative Humanoid Manipulation via Solo-to-Cooperative Agent Synergy, Yao et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.17335">Learning Whole-Body Humanoid Locomotion via Motion Generation and Motion Tracking</a>, Zhang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.14834">Switch</a>: Learning Agile Skills Switching for Humanoid Robots, Lau et al.</li>
@@ -967,7 +972,6 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.01158">SMASH</a>: Mastering Scalable Whole-Body Skills for Humanoid Ping-Pong with Egocentric Vision, Ren et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.01064">BAT</a>: Balancing Agility and Stability via Online Policy Switching for Long-Horizon Whole-Body Humanoid Control, Baek et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.00416">Learning Humanoid Navigation from Human Data</a>, Wang et al.</li>
-        <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2603.29272">MaskAdapt</a>: Learning Flexible Motion Adaptation via Mask-Invariant Prior for Physics-Based Characters, Park et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.27756">Heracles</a>: Bridging Precise Tracking and Generative Synthesis for General Humanoid Control, Tao et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.25902">Chasing Autonomy</a>: Dynamic Retargeting and Control Guided RL for Performant and Controllable Humanoid Running, Olkin et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.24047">PCHC</a>: Enabling Preference Conditioned Humanoid Control via Multi-Objective Reinforcement Learning, Li et al.</li>
@@ -1019,7 +1023,6 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.21723">LessMimic</a>: Long-Horizon Humanoid Interaction with Unified Distance Field Representations, Lin et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.21666">Feng et al</a>: Biomechanical Comparisons Reveal Divergence of Human and Humanoid Gaits, Feng et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.21599">Xu et al</a>: Iterative Closed-Loop Motion Synthesis for Scaling the Capabilities of Humanoid Control, Xu et al.</li>
-        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.16705">Dong et al</a>: Learning Humanoid End-Effector Control for Open-Vocabulary Visual Loco-Manipulation, Dong et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.15733">MeshMimic</a>: Geometry-Aware Humanoid Motion Learning through 3D Scene Reconstruction, Zhang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.16705">Perceptive Humanoid Parkour</a>: Chaining Dynamic Human Skills via Motion Matching, Wu et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.16705">VIGOR</a>: Visual Goal-In-Context Inference for Unified Humanoid Fall Safety, Azulay et al.</li>
@@ -1031,7 +1034,6 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.03002">RPL</a>: Learning Robust Humanoid Perceptive Locomotion on Challenging Terrains, Zhang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.02960">EAGLE</a>: Embodiment-Aware Generalist Specialist Distillation for Unified Humanoid Whole-Body Control, Peng et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.04851">PDF-HR</a>: Pose Distance Fields for Humanoid Robots, Gu et al.</li>
-        <li><b>(ArXiv 2026)</b> <a href="https://sirui-xu.github.io/InterPrior/">InterPrior</a>: Scaling Generative Control for Physics-Based Human-Object Interactions, Xu et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.05310">Kong et al</a>: Learning Soccer Skills for Humanoid Robots: A Progressive Perception-Action Framework, Kong et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.05791">XHugWBC</a>: Scalable and General Whole-Body Control for Cross-Humanoid Locomotion, Xue et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2602.07439">TextOp</a>: Real-time Interactive Text-Driven Humanoid Robot Motion Generation and Control, Xie et al.</li>
@@ -1059,10 +1061,13 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2025</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(SIGGRAPH Asia 2025)</b> <a href="https://arxiv.org/abs/2505.19086">MaskedManipulator</a>: Versatile Whole-Body Control for Loco-Manipulation, Tessler et al.</li>
+        <li><b>(CoRL 2025)</b> <a href="https://lecar-lab.github.io/SoFTA/">Hold My Beer🍻</a>: Learning Gentle Humanoid Locomotion and End-Effector Stabilization Control, Li et al.</li>
         <li><b>(CoRL 2025)</b> <a href="https://robot-trains-robot.github.io/">Robot Trains Robot</a>: Automatic Real-World Policy Adaptation and Learning for Humanoids, Hu et al.</li>
         <li><b>(CoRL 2025)</b> <a href="https://hub-robot.github.io/">HuB</a>: Learning Extreme Humanoid Balance, Zhang et al.</li>
         <li><b>(CoRL 2025)</b> <a href="https://humanoid-clone.github.io/">CLONE</a>: Closed-Loop Whole-Body Humanoid Teleoperation for Long-Horizon Tasks, Li et al.</li>
         <li><b>(CoRL 2025)</b> <a href="https://arxiv.org/abs/2508.03068">Hand-Eye Autonomous Delivery</a>: Learning Humanoid Navigation, Locomotion and Reaching, Ye et al.</li>
+        <li><b>(ICCV 2025)</b> <a href="http://www.zhengyiluo.com/PDC-Site/">PDC</a>: Emergent Active Perception and Dexterity of Simulated Humanoids from Visual Reinforcement Learning, Luo et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://arxiv.org/abs/2411.19921">SIMS</a>: Simulating Human-Scene Interactions with Real World Script Planning, Wang et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://arxiv.org/abs/2502.14140">ModSkill</a>: Physical Character Skill Modularization, Huang et al.</li>
         <li><b>(ICCV 2025)</b> <a href="https://wuyan01.github.io/uniphys-project/">UniPhys</a>: Unified Planner and Controller with Diffusion for Flexible Physics-Based Character Control, Wu et al.</li>
@@ -1104,7 +1109,6 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.12230">Spraggett et al</a>: Learning to Get Up Across Morphologies: Zero-Shot Recovery with a Unified Humanoid Policy, Spraggett et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.13093">PvP</a>: Data-Efficient Humanoid Robot Learning with Proprioceptive-Privileged Contrastive Representations, Yuan et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.08500">Mimic2DM</a>: Learning to Control Physically-simulated 3D Characters via Generating and Mimicking 2D Motions, Li et al.</li>
-        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.11047">WholeBodyVLA</a>: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control, Jiang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.06571">Xu et al.</a>: Learning Agile Striker Skills for Humanoid Soccer Robots from Noisy Sensory Input, Xu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.07464">Song et al.</a>: Gait-Adaptive Perceptive Humanoid Locomotion with Real-Time Under-Base Terrain Reconstruction, Song et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2512.07765">Toward Seamless Physical Human-Humanoid Interaction</a>: Insights from Control, Intent, and Modeling with a Vision for What Comes Next, Cardona et al.</li>
@@ -1175,7 +1179,6 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.13780">BFM</a>: Behavior Foundation Model for Humanoid Robots, Zeng et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.13534">Zheng et al</a>: Embracing Bulky Objects with Humanoid Robots: Whole-Body Manipulation with Reinforcement Learning, Zheng et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.13200">StageACT</a>: Stage-Conditioned Imitation for Robust Humanoid Door Opening, Lee et al.</li>
-        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.11839">TrajBooster</a>: Boosting Humanoid Whole-Body Manipulation via Trajectory-Centric Learning, Liu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.05581">Learning to Walk in Costume</a>: Adversarial Motion Priors for Aesthetically Constrained Humanoids, Alvarez et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2509.04722">Ghansah et al</a>: Hierarchical Reduced-Order Model Predictive Control for Robust Locomotion on Humanoid Robots, Ghansah et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://humanoid-table-tennis.github.io/">HITTER</a>: A HumanoId Table TEnnis Robot via Hierarchical Planning and Learning, Su et al.</li>
@@ -1209,22 +1212,18 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ArXiv 2025)</b> <a href="https://gmt-humanoid.github.io/">GMT</a>: General Motion Tracking for Humanoid Whole-Body Control, Chen et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://kungfu-bot.github.io/">KungfuBot</a>: Physics-Based Humanoid Whole-Body Control for Learning Highly-Dynamic Skills, Xie et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://usc-gvl.github.io/SkillBlender-web/">SkillBlender</a>: Towards Versatile Humanoid Whole-Body Loco-Manipulation via Skill Blending, Kuang et al.</li>
-        <li><b>(ArXiv 2025)</b> <a href="https://lecar-lab.github.io/SoFTA/">Hold My Beer🍻</a>: Learning Gentle Humanoid Locomotion and End-Effector Stabilization Control, Li et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://younggyo.me/fast_td3/">FastTD3</a>: Simple, Fast, and Capable Reinforcement Learning for Humanoid Control, Seo et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2505.20619">Peng et al</a>: Gait-Conditioned Reinforcement Learning with Multi-Phase Curriculum for Humanoid Locomotion, Peng et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://dreampolicy.github.io/">One Policy but Many Worlds</a>: A Scalable Unified Policy for Versatile Humanoid Locomotion, Fan et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://smap-project.github.io/">SMAP</a>: Self-supervised Motion Adaptation for Physically Plausible Humanoid Whole-body Control, Zhao et al.</li>
-        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2505.19086">MaskedManipulator</a>: Versatile Whole-Body Control for Loco-Manipulation, Tessler et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://h2compact.github.io/h2compact/">H2-COMPAXT</a>: Human–Humanoid Co-Manipulation via Adaptive Contact Trajectory Policies, Bethala et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2505.12619">HIL</a>: Hybrid Imitation Learning of Diverse Parkour Skills from Videos, Wang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2505.12679">Dribble Master</a>: Learning Agile Humanoid Dribbling Through Legged Locomotion, Wang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2505.13436">KinTwin</a>: Imitation Learning with Torque and Muscle Driven Biomechanical Models Enables Precise Replication of Able-Bodied and Impaired Movement from Markerless Motion Capture, Cotton et al.</li>
-        <li><b>(ArXiv 2025)</b> <a href="http://www.zhengyiluo.com/PDC-Site/">PDC</a>: Emergent Active Perception and Dexterity of Simulated Humanoids from Visual Reinforcement Learning, Luo et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://zzk273.github.io/R2S2/">R2S2</a>: Unleashing Humanoid Reaching Potential via Real-world-Ready Skill Space, Zhang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2505.11495">Bracing for Impact</a>: Robust Humanoid Push Recovery and Locomotion with Reduced Order Model, Yang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2505.11494">SHIELD</a>: Safety on Humanoids via CBFs In Expectation on Learned Dynamics, Yang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2505.06584">JAEGER</a>: Dual-Level Humanoid Whole-Body Controller, Ding et al.</li>
-        <li><b>(ArXiv 2025)</b> <a href="https://lecar-lab.github.io/falcon-humanoid/">FALCON</a>: Learning Force-Adaptive Humanoid Loco-Manipulation, Zhang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2505.04961">ADD</a>: Physics-Based Motion Imitation with Adversarial Differential Discriminators, Zhang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://www.videomimic.net/">VideoMimic</a>: Visual imitation enables contextual humanoid control, Allshire et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2505.02833">TWIST</a>: Teleoperated Whole-Body Imitation System, Ze et al.</li>
