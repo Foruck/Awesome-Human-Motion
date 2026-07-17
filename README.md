@@ -878,6 +878,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICRA 2026)</b> <a href="https://arxiv.org/abs/2509.11839">TrajBooster</a>: Boosting Humanoid Whole-Body Manipulation via Trajectory-Centric Learning, Liu et al.</li>
         <li><b>(ICLR 2026)</b> <a href="https://arxiv.org/abs/2512.11047">WholeBodyVLA</a>: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control, Jiang et al.</li>
         <li><b>(L4DC 2026)</b> <a href="https://lecar-lab.github.io/falcon-humanoid/">FALCON</a>: Learning Force-Adaptive Humanoid Loco-Manipulation, Zhang et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2607.15163">Scaling Behavior Foundation Model for Humanoid Robots</a>, Zeng et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2607.12114">GaitSpan</a>: Growing Humanoid Locomotion from Walking to Running, Lin et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2607.08742">ContactMimic</a>: Humanoid Object Interaction via Contact Control, Li et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2607.06403">LingBot-VLA 2.0</a>: From Foundation to Application: Improving VLA Models in Practice, Wu et al.</li>
@@ -969,7 +970,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.13015">Learning Versatile Humanoid Manipulation with Touch Dreaming</a>, Niu et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.12909">Tree Learning</a>: A Multi-Skill Continual Learning Framework for Humanoid Robots, Yan et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.11447">Safe Human-to-Humanoid Motion Imitation Using Control Barrier Functions</a>, Cai et al.</li>
-        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.07993">HEX</a>: Humanoid-Aligned Experts for Cross-Embodiment Whole-Body Manipulation, Bai et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.07993v1">HEX</a>: Humanoid-Aligned Experts for Cross-Embodiment Whole-Body Manipulation, Bai et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.07331">RoSHI</a>: A Versatile Robot-oriented Suit for Human Data In-the-Wild, Mao et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.03999">Dynamic Whole-Body Dancing with Humanoid Robots</a>: A Model-Based Control Approach, Zhang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.01158">SMASH</a>: Mastering Scalable Whole-Body Skills for Humanoid Ping-Pong with Egocentric Vision, Ren et al.</li>
