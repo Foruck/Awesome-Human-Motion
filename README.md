@@ -878,6 +878,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICRA 2026)</b> <a href="https://arxiv.org/abs/2509.11839">TrajBooster</a>: Boosting Humanoid Whole-Body Manipulation via Trajectory-Centric Learning, Liu et al.</li>
         <li><b>(ICLR 2026)</b> <a href="https://arxiv.org/abs/2512.11047">WholeBodyVLA</a>: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control, Jiang et al.</li>
         <li><b>(L4DC 2026)</b> <a href="https://lecar-lab.github.io/falcon-humanoid/">FALCON</a>: Learning Force-Adaptive Humanoid Loco-Manipulation, Zhang et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2607.18016">POT-VLA</a>: Closing the Loop in Humanoid VLA: Persistent 3D Object Tokens for Verifiable Loco-Manipulation, Ren et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2607.16187">Handroid</a>: Bridging Dexterous Hand and Humanoid, Li et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2607.15163">Scaling Behavior Foundation Model for Humanoid Robots</a>, Zeng et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2607.12114">GaitSpan</a>: Growing Humanoid Locomotion from Walking to Running, Lin et al.</li>
