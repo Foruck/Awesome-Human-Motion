@@ -748,6 +748,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2607.27180">HumanCLAW</a>: Can Vision-Language Models Act Through a Body?, Li et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2607.13472">EgoHTR</a>: Egocentric 4D Demonstrations of Human Terrain Traversal, Brandes et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.22971">Humanoid-OmniOcc</a>: Stereo-Based Full-View Occupancy Dataset for Embodied AI, Guo et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.19769">Data Standards for Humanoid Robotics</a>: The Missing Infrastructure for Physical AI, Liu et al.</li>
@@ -879,6 +880,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2026)</b> <a href="https://arxiv.org/abs/2512.11047">WholeBodyVLA</a>: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control, Jiang et al.</li>
         <li><b>(L4DC 2026)</b> <a href="https://lecar-lab.github.io/falcon-humanoid/">FALCON</a>: Learning Force-Adaptive Humanoid Loco-Manipulation, Zhang et al.</li>
         <li><b>(Github 2026)</b> <a href="https://roboparty.github.io/UFO/">UFO</a>: A General Unsupervised Reinforcement Learning Framework for Humanoid Control.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2607.28623">PAC-MAN</a>: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball, Yang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2607.20345">Closing the Lab-to-Store Gap</a>: A Data-Efficient Post-Training and Experience-Driven Learning VLA Framework for Retail Humanoids, Sisó et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2607.20110">Extreme-RGMT</a>: Continual Learning of Highly Dynamic Skills for Robust Generalist Humanoid Control, Ma et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2607.19903">What Matters in Humanoid General Motion Tracking?</a>: An Empirical Study, Amadio et al.</li>
