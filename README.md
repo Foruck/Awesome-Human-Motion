@@ -53,6 +53,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
         <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2607.29180">MoRAE</a>: Flow-Friendly Self-Supervised Latents for Text-to-Motion Generation, Zhu et al.</li>
         <li><b>(SIGGRAPH 2026)</b> <a href="https://arxiv.org/abs/2607.08741">ARDY</a>: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation, Zhao et al.</li>
         <li><b>(ECCV 2026)</b> <a href="https://arxiv.org/abs/2512.10730">IRG-MotionLLM</a>: Interleaving Motion Generation, Assessment and Refinement for Text-to-Motion Generation, Li et al.</li>
         <li><b>(ECCV 2026)</b> <a href="https://arxiv.org/abs/2606.21135">Odoriko</a>: A Shape-Aware Multimodal Diffusion Framework for Human Motion, Shim et al.</li>
@@ -880,6 +881,9 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2026)</b> <a href="https://arxiv.org/abs/2512.11047">WholeBodyVLA</a>: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control, Jiang et al.</li>
         <li><b>(L4DC 2026)</b> <a href="https://lecar-lab.github.io/falcon-humanoid/">FALCON</a>: Learning Force-Adaptive Humanoid Loco-Manipulation, Zhang et al.</li>
         <li><b>(Github 2026)</b> <a href="https://roboparty.github.io/UFO/">UFO</a>: A General Unsupervised Reinforcement Learning Framework for Humanoid Control.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2608.02385">StableMimic</a>: Smooth Human-Like Recovery for Humanoid Motion Tracking - Learning Beyond the Tracking Distribution for Structured Post-Fall Behavior, Wu et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2608.01834">Teleopit</a>: A Full-Embodiment Humanoid Teleoperation System, Wu et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2608.00820">LooperMuscle</a>: Fast and Stable Learning of Humanoid Whole-Body Tracking via Structured Mixture-of-Experts, Liu et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2607.28623">PAC-MAN</a>: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball, Yang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2607.20345">Closing the Lab-to-Store Gap</a>: A Data-Efficient Post-Training and Experience-Driven Learning VLA Framework for Retail Humanoids, Sisó et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2607.20110">Extreme-RGMT</a>: Continual Learning of Highly Dynamic Skills for Robust Generalist Humanoid Control, Ma et al.</li>
