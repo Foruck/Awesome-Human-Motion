@@ -881,6 +881,9 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2026)</b> <a href="https://arxiv.org/abs/2512.11047">WholeBodyVLA</a>: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control, Jiang et al.</li>
         <li><b>(L4DC 2026)</b> <a href="https://lecar-lab.github.io/falcon-humanoid/">FALCON</a>: Learning Force-Adaptive Humanoid Loco-Manipulation, Zhang et al.</li>
         <li><b>(Github 2026)</b> <a href="https://roboparty.github.io/UFO/">UFO</a>: A General Unsupervised Reinforcement Learning Framework for Humanoid Control.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2608.13555">HumanTracker</a>: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark, Liu et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2608.12860">HumanoidVLN</a>: A Physics-Grounded Simulator and Benchmark for Vision-Language Navigation Across Diverse Humanoid Embodiments, Pham et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2608.07746">LUCID</a>: Latent-Skill Unified Control via Imagined Dynamics for Long-Horizon Humanoid Loco-Manipulation, Guo et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2608.06375">&omega;-0</a>: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation, Li et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2608.03234">Learning Context-Aware Motion Priors for Humanoid Control</a>, Mo et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2608.03227">PFM-HR</a>: Pose Flow Matching for Humanoid Robots, Gao et al.</li>
