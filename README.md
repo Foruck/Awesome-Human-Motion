@@ -62,6 +62,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.13364">VideoMDM</a>: Towards 3D Human Motion Generation From 2D Supervision, Mann et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.28394">Sketch2Motion</a>: Text-driven 2D Sketch to 3D Animation via Diffusion-guided Skeleton Optimization, Rai et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.28272">EchoAvatar</a>: Real-time Generative Avatar Animation from Audio Streams, Chen et al.</li>
+        <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2605.26241">RoMo</a>: A Large-Scale, Richly Organized Dataset and Semantic Taxonomy for Human Motion Generation, Zhang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.21478">Latent Dynamics for Full Body Avatar Animation</a>, Peng et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.20955">DrawMotion</a>: Generating 3D Human Motions by Freehand Drawing, Wang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2605.11704">ScaleMoGen</a>: Autoregressive Next-Scale Prediction for Human Motion Generation, Hwang et al.</li>
@@ -754,6 +755,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.22971">Humanoid-OmniOcc</a>: Stereo-Based Full-View Occupancy Dataset for Embodied AI, Guo et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.19769">Data Standards for Humanoid Robotics</a>: The Missing Infrastructure for Physical AI, Liu et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2606.08278">SIMPLE</a>: Simulation-Based Policy Learning and Evaluation for Humanoid Loco-manipulation, Wei et al.</li>
+        <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2605.26241">RoMo</a>: A Large-Scale, Richly Organized Dataset and Semantic Taxonomy for Human Motion Generation, Zhang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.20157">HumanScore</a>: Benchmarking Human Motions in Generated Videos, Fang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.12765">A Dataset and Evaluation for Complex 4D Markerless Human Motion Capture</a>, Park et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.06181">Towards Motion Turing Test</a>: Evaluating Human-Likeness in Humanoid Robots, Li et al.</li>
@@ -881,6 +883,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ICLR 2026)</b> <a href="https://arxiv.org/abs/2512.11047">WholeBodyVLA</a>: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control, Jiang et al.</li>
         <li><b>(L4DC 2026)</b> <a href="https://lecar-lab.github.io/falcon-humanoid/">FALCON</a>: Learning Force-Adaptive Humanoid Loco-Manipulation, Zhang et al.</li>
         <li><b>(Github 2026)</b> <a href="https://roboparty.github.io/UFO/">UFO</a>: A General Unsupervised Reinforcement Learning Framework for Humanoid Control.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2608.20087">AdaPT</a>: Towards Professional Tennis Styles for Humanoid Robots with Adaptive Motion Planning and Tracking, Huang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2608.13555">HumanTracker</a>: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark, Liu et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2608.12860">HumanoidVLN</a>: A Physics-Grounded Simulator and Benchmark for Vision-Language Navigation Across Diverse Humanoid Embodiments, Pham et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2608.07746">LUCID</a>: Latent-Skill Unified Control via Imagined Dynamics for Long-Horizon Humanoid Loco-Manipulation, Guo et al.</li>
