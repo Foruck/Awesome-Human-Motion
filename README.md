@@ -870,6 +870,10 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.02542">World-Model-Augmented Visual Locomotion for Humanoids on Foothold-Constrained Terrain</a>, Liu et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.02306">Contact-Constrained Lower-Limb Joint-Offset Calibration for Humanoid Robots</a>, Lu et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.02222">FOCUS</a>: Foot Observation Confidence for Robust Humanoid Proprioceptive Odometry, Feng et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.02134">Unified Motion Retargeting for Humanoids with Learned Point Cloud Correspondence</a>, Cao et al.</li>
         <li><b>(IROS 2026)</b> <a href="https://arxiv.org/abs/2606.31807">Reinforcement Learning-Based Control for an Inline Skating Humanoid Robot</a>, Marot et al.</li>
         <li><b>(CLAWAR 2026)</b> <a href="https://arxiv.org/abs/2607.10815">Cheng et al.</a>: Learning Roller-Skating Motions of Humanoid Robots Based on Adversarial Motion Priors, Cheng et al.</li>
         <li><b>(RSS 2026)</b> <a href="https://arxiv.org/abs/2605.17681">PRIME</a>: Physically-consistent Robotic Inertial and Motion Estimation for Legged and Humanoid Robots, Kang et al.</li>
