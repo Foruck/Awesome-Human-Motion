@@ -870,6 +870,12 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.09158">TANGO</a>: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model, Li et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.08511">PGMT</a>: Perceptive General Motion Tracking for Humanoid Robots, Li et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.07096">RoboDreamer</a>: Anticipatory Humanoid Locomotion with Predictive State-Space Models, Li et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.06718">SkillX</a>: Unified Multi-Skill Policy Learning for Humanoid Soccer, Ye et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.06591">Unifying Physics-Based Humanoid Interaction with a Context-Conditioned Interaction Prior</a>, Li et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.05994">GLoRI</a>: Closed-Loop Whole-Body Tracking with Global-Local Reference Interaction for Humanoid Loco-Manipulation, Xu et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.02542">World-Model-Augmented Visual Locomotion for Humanoids on Foothold-Constrained Terrain</a>, Liu et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.02306">Contact-Constrained Lower-Limb Joint-Offset Calibration for Humanoid Robots</a>, Lu et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.02222">FOCUS</a>: Foot Observation Confidence for Robust Humanoid Proprioceptive Odometry, Feng et al.</li>
