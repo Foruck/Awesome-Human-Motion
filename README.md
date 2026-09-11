@@ -870,6 +870,9 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.10286">Learning Terrain-Adaptive Humanoid Locomotion on Granular Terrain</a>, Kamohara et al.</li>
+        <li><b>(CoRL 2026)</b> <a href="https://arxiv.org/abs/2609.10283">SwingBot</a>: Learning Whole-Body Brachiation for Humanoid Robots, Xiong et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.09918">ViBe</a>: Visual Behavior Adaptation for Perceptive Humanoid Whole-Body Control, Krishna et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.09158">TANGO</a>: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model, Li et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.08511">PGMT</a>: Perceptive General Motion Tracking for Humanoid Robots, Li et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.07096">RoboDreamer</a>: Anticipatory Humanoid Locomotion with Predictive State-Space Models, Li et al.</li>
