@@ -870,6 +870,12 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.18869">KINO</a>: A Keyframe Interface for VLM Planning and Whole-Body Control in Humanoid Loco-Manipulation, Chen et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.18763">Gated Residual Body-Hand Coordination for Whole-Body Humanoid Teleoperation</a>, Wu et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.18732">PASSAGE</a>: Scaling Scene-Aligned Motion Learning for Perceptive Humanoid Traversal in Cluttered Environments, Ma et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.16644">WholeBodyWAM</a>: Generalizing Pre-trained World-Action Priors to Humanoid Loco-Manipulation via WBC-Grounded Coordination, Li et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.15213">X-WBC</a>: A Cross-Embodiment Foundation Model for Humanoid Whole-Body Control, Zhang et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.14432">EMoG</a>: Emotion-Modulated Gait Generation for Expressive Humanoid Locomotion, Lu et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.10286">Learning Terrain-Adaptive Humanoid Locomotion on Granular Terrain</a>, Kamohara et al.</li>
         <li><b>(CoRL 2026)</b> <a href="https://arxiv.org/abs/2609.10283">SwingBot</a>: Learning Whole-Body Brachiation for Humanoid Robots, Xiong et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.09918">ViBe</a>: Visual Behavior Adaptation for Perceptive Humanoid Whole-Body Control, Krishna et al.</li>
