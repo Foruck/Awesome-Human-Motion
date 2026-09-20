@@ -11,7 +11,7 @@ An aggregation of human motion understanding research; feel free to contribute.
 - [Human-Scene Interaction](#hsi)  
 - [Human-Human Interaction](#hhi) 
 - [Datasets](#datasets) 
-- [Humanoid](#humanoid) 
+- [Humanoid](#humanoid)
 - [Bio-stuff](#bio)
 - [Human Reconstruction](#motion-reconstruction)    
 - [Human-Object/Scene/Human Interaction Reconstruction](#hoi/hsi-reconstruction)
@@ -209,7 +209,7 @@ An aggregation of human motion understanding research; feel free to contribute.
         <li><b>(ArXiv 2025)</b> <a href="https://omni-avatar.github.io/">OmniAvatar</a>: Efficient Audio-Driven Avatar Video Generation with Adaptive Body Animation, Gan et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://dorniwang.github.io/SpeakerVid-5M/">SpeakerVid-5M</a>: A Large-Scale High-Quality Dataset for audio-visual Dyadic Interactive Human Generation, Zhang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://www.arxiv.org/pdf/2507.03905">EchoMimicV3</a>: 1.3B Parameters are All You Need for Unified Multi-Modal and Multi-Task Human Animation, Meng et al.</li>
-        <li><b>(ArXiv 2025)</b> <a href=https://arxiv.org/abs/2507.11949">MOSPA</a>: Human Motion Generation Driven by Spatial Audio, Xu et al.</li>
+        <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2507.11949">MOSPA</a>: Human Motion Generation Driven by Spatial Audio, Xu et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://snap-research.github.io/SnapMoGen/">SnapMoGen</a>: Human Motion Generation from Expressive Texts, Wang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2507.06590">MOST</a>: Motion Diffusion Model for Rare Text via Temporal Clip Banzhaf Interaction, Wang et al.</li>
         <li><b>(ArXiv 2025)</b> <a href="https://groundedgestures.github.io/">Grounded Gestures</a>: Language, Motion and Space, Deichler et al.</li>
