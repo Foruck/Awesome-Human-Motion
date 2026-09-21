@@ -870,6 +870,9 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.22075">LIMBO</a>: Learning and Internalizing Model-Free Barrier Objectives for Agile and Safe Whole-Body Control, Gonzales et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.21909">Beyond Kinematics</a>: Benchmarking Simulation Fidelity for Muscle-Driven Imitation Learning, Ahmad et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.21107">Learning Scene-Aware Humanoid Locomotion through 3D Clutter from Immersive Human Demonstrations</a>, Wang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.18869">KINO</a>: A Keyframe Interface for VLM Planning and Whole-Body Control in Humanoid Loco-Manipulation, Chen et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.18763">Gated Residual Body-Hand Coordination for Whole-Body Humanoid Teleoperation</a>, Wu et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.18732">PASSAGE</a>: Scaling Scene-Aligned Motion Learning for Perceptive Humanoid Traversal in Cluttered Environments, Ma et al.</li>
