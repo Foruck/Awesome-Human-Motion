@@ -870,6 +870,13 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.24840">PredActor</a>: Predictive Action Diffusion for Steerable Onboard Humanoid Control, Ding et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.23797">MoSAT</a>: Human Motion Generation from Spatial Audio and Textual Description, Komura et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.23610">PRIMO</a>: Prior-Informed Odometry from Human-Motion Tracking for Humanoid Robots, Lan et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.23483">STRIDER</a>: Stepping-Enabled Multi-Gait Hierarchical 3D Loco-Manipulation Framework for Humanoid Robots, Guo et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.23414">EmoPose</a>: Vision-Language Model Guided Emotion-Aware Gesture Generation for Humanoid Robots, Ma et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.22829">Whole-Body UMI</a>: Transferring UMI Manipulation Skills to Humanoid Whole-Body Manipulation via Real-Time Motion Generation, Li et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.22274">CHOREO</a>: Every Humanoid Skill as a Trajectory, Dong et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.22075">LIMBO</a>: Learning and Internalizing Model-Free Barrier Objectives for Agile and Safe Whole-Body Control, Gonzales et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.21909">Beyond Kinematics</a>: Benchmarking Simulation Fidelity for Muscle-Driven Imitation Learning, Ahmad et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.21107">Learning Scene-Aware Humanoid Locomotion through 3D Clutter from Immersive Human Demonstrations</a>, Wang et al.</li>
