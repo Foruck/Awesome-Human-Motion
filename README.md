@@ -870,6 +870,9 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
     <ul style="margin-left: 5px;">
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.26420">Sample, Simulate, Select</a>: Physics-in-the-Loop Text-to-Motion for Humanoids Without Training, Memmesheimer et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.25486">Brace Yourself</a>: Task-Conditioned Environmental Bracing for Forceful Humanoid Manipulation, Zhang et al.</li>
+        <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.25363">HOTICE</a>: Whole-Body Humanoid Object Transportation in Cluttered Environments, Nguyen et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.24840">PredActor</a>: Predictive Action Diffusion for Steerable Onboard Humanoid Control, Ding et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.23797">MoSAT</a>: Human Motion Generation from Spatial Audio and Textual Description, Komura et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2609.23610">PRIMO</a>: Prior-Informed Odometry from Human-Motion Tracking for Humanoid Robots, Lan et al.</li>
