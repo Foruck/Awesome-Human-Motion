@@ -53,6 +53,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <details open>
     <summary><h3>2026</h3></summary>
         <ul style="margin-left: 5px;">
+        <li><b>(TCSVT 2026)</b> <a href="https://aigc-explorer.github.io/PAGE/">PAGE</a>: Parts-Aware Guidance for Co-Speech Gesture Portrait Video Generation, Wang et al.</li>
         <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2607.29180">MoRAE</a>: Flow-Friendly Self-Supervised Latents for Text-to-Motion Generation, Zhu et al.</li>
         <li><b>(SIGGRAPH 2026)</b> <a href="https://arxiv.org/abs/2607.08741">ARDY</a>: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation, Zhao et al.</li>
         <li><b>(ECCV 2026)</b> <a href="https://arxiv.org/abs/2512.10730">IRG-MotionLLM</a>: Interleaving Motion Generation, Assessment and Refinement for Text-to-Motion Generation, Li et al.</li>
@@ -696,6 +697,7 @@ An aggregation of human motion understanding research; feel free to contribute.
     <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2604.20336">Stability-Driven Motion Generation for Object-Guided Human-Human Co-Manipulation</a>, Xu et al.</li>
     <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2604.01082">ReMoGen</a>: Real-time Human Interaction-to-Reaction Generation via Modular Learning from Diverse Data, Ye et al.</li>
     <li><b>(CVPR 2026)</b> <a href="https://arxiv.org/abs/2603.11346">Learning to Assist</a>: Physics-Grounded Human-Human Control via Multi-Agent Reinforcement Learning, Shibata et al.</li>
+    <li><b>(TVCG 2026)</b> <a href="https://arxiv.org/abs/2505.11334">MARRS</a>: Masked Autoregressive Unit-based Reaction Synthesis, Wang et al.</li>
     <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2603.02856">Rhythm</a>: Learning Interactive Whole-Body Control for Dual Humanoids, Chen et al.</li>
     <li><b>(ArXiv 2026)</b> <a href="https://arxiv.org/abs/2601.20383">HINT</a>: Hierarchical Interaction Modeling for Autoregressive Multi-Human Motion Generation, Liu et al.</li>
     <li><b>(AAAI 2026)</b> <a href="https://arxiv.org/abs/2511.13488">InterMoE</a>: Individual-Specific 3D Human Interaction Generation via Dynamic Temporal-Selective MoE, Wang et al.</li>
@@ -718,7 +720,6 @@ An aggregation of human motion understanding research; feel free to contribute.
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2506.13040">MAMMA</a>: Markerless & Automatic Multi-Person Motion Action Capture, Cuevas-Velasquez et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://yw0208.github.io/physiinter/">PhysInter</a>: Integrating Physical Mapping for High-Fidelity Human Interaction Generation, Yao et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2506.03084">InterMamba</a>: Efficient Human-Human Interaction Generation with Adaptive Spatio-Temporal Mamba, Wu et al.</li>
-    <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2505.11334">MARRS</a>: MaskedAutoregressive Unit-based Reaction Synthesis, Wang et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://socialgenx.github.io/">SocialGen</a>: Modeling Multi-Human Social Interaction with Language Models, Yu et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arflow2025.github.io/">ARFlow</a>: Human Action-Reaction Flow Matching with Physical Guidance, Jiang et al.</li>
     <li><b>(ArXiv 2025)</b> <a href="https://arxiv.org/abs/2503.13120">Fan et al</a>: 3D Human Interaction Generation: A Survey, Fan et al.</li>
